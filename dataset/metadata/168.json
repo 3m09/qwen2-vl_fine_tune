@@ -1,0 +1,448 @@
+{
+  "image": "dataset/images/168.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.99851201973318,
+  "bbox": [
+    -74.0,
+    40.81576576576578,
+    -73.99702403946635,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "highway.residential",
+    "access_limited.private",
+    "highway.service",
+    "access_limited",
+    "highway",
+    "access_limited.customers",
+    "highway.tertiary"
+  ],
+  "poi_count_per_category": {
+    "highway.residential": 8,
+    "access_limited.private": 1,
+    "highway.service": 2,
+    "access_limited": 2,
+    "highway": 11,
+    "access_limited.customers": 1,
+    "highway.tertiary": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "5th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.817183201045765,
+      "lon": -73.9964599621892,
+      "place_id": "512a508bc1c37f52c0593d3cec6e9e684440f00102f9014898b0000000000092030a35746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9974566,
+            40.8160786
+          ],
+          [
+            -73.996323,
+            40.817335
+          ],
+          [
+            -73.995468,
+            40.818292
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Delano Place",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.8155129,
+      "lon": -73.9974449,
+      "place_id": "512a17cf45e87f52c059d6b6076575684440f00102f901bb99b0000000000092030c44656c616e6f20506c616365",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996338,
+            40.8149432
+          ],
+          [
+            -73.9985518,
+            40.8160826
+          ]
+        ]
+      }
+    },
+    {
+      "name": "7th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.816698450000004,
+      "lon": -73.9990803,
+      "place_id": "510c1ea67df37f52c059aee7bc0a84684440f00102f9013eb4b0000000000092030a37746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9992365,
+            40.8165296
+          ],
+          [
+            -73.9989241,
+            40.8168673
+          ]
+        ]
+      }
+    },
+    {
+      "name": "6th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.816871619292485,
+      "lon": -73.99784606875306,
+      "place_id": "51fd063763e27f52c059c4d39e3182684440f00102f90188bbb0000000000092030a36746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996238,
+            40.818695
+          ],
+          [
+            -73.9968754,
+            40.8179811
+          ],
+          [
+            -73.997096,
+            40.817734
+          ],
+          [
+            -73.9981926,
+            40.8164732
+          ],
+          [
+            -73.9985518,
+            40.8160826
+          ],
+          [
+            -73.9990246,
+            40.815591
+          ],
+          [
+            -73.9992483,
+            40.8153093
+          ],
+          [
+            -73.9994785,
+            40.8150718
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Walker Street",
+      "category": [
+        "highway",
+        "highway.tertiary"
+      ],
+      "lat": 40.816813451559895,
+      "lon": -73.9952859560434,
+      "place_id": "51cb441152b77f52c059cb9c5da791684440f00102f901b9d3b0000000000092030d57616c6b657220537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9913718,
+            40.8145881
+          ],
+          [
+            -73.9919345,
+            40.814951
+          ],
+          [
+            -73.9920257,
+            40.8150098
+          ],
+          [
+            -73.9921086,
+            40.8150643
+          ],
+          [
+            -73.992227,
+            40.8151348
+          ],
+          [
+            -73.9922832,
+            40.8151737
+          ],
+          [
+            -73.9923187,
+            40.8152266
+          ],
+          [
+            -73.9923721,
+            40.8152943
+          ],
+          [
+            -73.9924127,
+            40.8153344
+          ],
+          [
+            -73.9924471,
+            40.8153542
+          ],
+          [
+            -73.9927666,
+            40.8155324
+          ],
+          [
+            -73.993262,
+            40.8158113
+          ],
+          [
+            -73.9934656,
+            40.8159188
+          ],
+          [
+            -73.9936663,
+            40.8160349
+          ],
+          [
+            -73.9939979,
+            40.8162131
+          ],
+          [
+            -73.994779,
+            40.8165736
+          ],
+          [
+            -73.995564,
+            40.816945
+          ],
+          [
+            -73.996323,
+            40.817335
+          ],
+          [
+            -73.997096,
+            40.817734
+          ],
+          [
+            -73.997807,
+            40.8181
+          ],
+          [
+            -73.9985407,
+            40.8185266
+          ],
+          [
+            -73.9992906,
+            40.8189159
+          ]
+        ]
+      }
+    },
+    {
+      "name": "7th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.819911166144436,
+      "lon": -73.99619892053363,
+      "place_id": "51be092a4fc57f52c0594d959163eb684440f00102f90167a247100000000092030a37746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9989241,
+            40.8168673
+          ],
+          [
+            -73.997807,
+            40.8181
+          ],
+          [
+            -73.9975692,
+            40.8183787
+          ],
+          [
+            -73.9969432,
+            40.8191124
+          ],
+          [
+            -73.9964178,
+            40.8196835
+          ],
+          [
+            -73.9958897,
+            40.8202328
+          ],
+          [
+            -73.9953905,
+            40.8208009
+          ],
+          [
+            -73.9934494,
+            40.8229336
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Kamena Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.81752128907683,
+      "lon": -74.00015544429966,
+      "place_id": "51eb4b80ab068052c059c63d26f1a8684440f00102f9016aa247100000000092030d4b616d656e6120537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9989241,
+            40.8168673
+          ],
+          [
+            -73.9993215,
+            40.8170749
+          ],
+          [
+            -73.9996741,
+            40.8172642
+          ],
+          [
+            -74.0004071,
+            40.8176557
+          ],
+          [
+            -74.0013869,
+            40.8181751
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Kamena Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.81607085707748,
+      "lon": -73.99744186327825,
+      "place_id": "517b0b3554d67f52c05995c7794375684440f00102f901f76dfa200000000092030d4b616d656e6120537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9959542,
+            40.8152846
+          ],
+          [
+            -73.996713,
+            40.8156879
+          ],
+          [
+            -73.9974566,
+            40.8160786
+          ],
+          [
+            -73.9981926,
+            40.8164732
+          ],
+          [
+            -73.9984148,
+            40.8165938
+          ],
+          [
+            -73.9989241,
+            40.8168673
+          ]
+        ]
+      }
+    },
+    {
+      "name": "8th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.81770392672672,
+      "lon": -73.99927930732568,
+      "place_id": "51208a13a9fa7f52c0599964021d9c684440f00102f9010b81fa200000000092030a38746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0008773,
+            40.8159017
+          ],
+          [
+            -74.00074,
+            40.816076
+          ],
+          [
+            -73.9996741,
+            40.8172642
+          ],
+          [
+            -73.9985407,
+            40.8185266
+          ],
+          [
+            -73.9976808,
+            40.8195062
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.customers",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81686170037117,
+      "lon": -73.99952189999999,
+      "place_id": "51b008b42af87f52c0597d3998ec8e684440f00102f901aca0373400000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81664540037114,
+      "lon": -73.9983577,
+      "place_id": "516dcdb117e57f52c059ed8223d687684440f00102f901ada0373400000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    }
+  ]
+}

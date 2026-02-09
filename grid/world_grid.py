@@ -7,9 +7,9 @@ def km_to_lon(km, lat):
     return km / (111.0 * math.cos(math.radians(lat)))
 
 def generate_world_grid(
-    lat_min=-60, lat_max=60,
-    lon_min=-180, lon_max=180,
-    cell_km=1.0
+    lat_min=40.800, lat_max=40.880,
+    lon_min=-74.000, lon_max=-73.930,
+    cell_km=0.25
 ):
     grid = []
 

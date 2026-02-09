@@ -1,0 +1,2997 @@
+{
+  "image": "dataset/images/44.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.93900523188313,
+  "bbox": [
+    -73.94049290915427,
+    40.80225225225225,
+    -73.93751755461199,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "highway.residential",
+    "highway.footway",
+    "highway.primary",
+    "access_limited.private",
+    "catering.fast_food",
+    "highway.service",
+    "commercial",
+    "commercial.convenience",
+    "highway",
+    "catering.fast_food.pizza",
+    "building.commercial",
+    "access_limited",
+    "catering.restaurant",
+    "building",
+    "commercial.discount_store",
+    "catering",
+    "highway.secondary"
+  ],
+  "poi_count_per_category": {
+    "highway.residential": 6,
+    "highway.footway": 49,
+    "highway.primary": 4,
+    "access_limited.private": 2,
+    "catering.fast_food": 3,
+    "highway.service": 20,
+    "commercial": 3,
+    "commercial.convenience": 2,
+    "highway": 82,
+    "catering.fast_food.pizza": 1,
+    "building.commercial": 2,
+    "access_limited": 2,
+    "catering.restaurant": 1,
+    "building": 2,
+    "commercial.discount_store": 1,
+    "catering": 4,
+    "highway.secondary": 3
+  },
+  "poi_count": 89,
+  "pois": [
+    {
+      "name": "Popeyes",
+      "category": [
+        "catering",
+        "catering.fast_food"
+      ],
+      "lat": 40.8044651,
+      "lon": -73.9380441,
+      "place_id": "512bed1eea087c52c059406e60b6f8664440f00103f901310237da00000000920307506f7065796573",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Exotic Convenience & Smoke Shop",
+      "category": [
+        "building",
+        "building.commercial",
+        "commercial",
+        "commercial.convenience"
+      ],
+      "lat": 40.8040461,
+      "lon": -73.93783398681646,
+      "place_id": "510e9dd778057c52c05932c88cfbea664440f00102f901bd6830100000000092031f45786f74696320436f6e76656e69656e6365202620536d6f6b652053686f70",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Lexington Avenue",
+      "category": [
+        "highway",
+        "highway.secondary"
+      ],
+      "lat": 40.80408926929783,
+      "lon": -73.93763859683449,
+      "place_id": "51355b79c9ff7b52c0598d37f520f3664440f00102f9017b729e0b000000009203104c6578696e67746f6e204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9374253,
+            40.8043802
+          ],
+          [
+            -73.937487,
+            40.8042947
+          ],
+          [
+            -73.9378528,
+            40.803799
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Rush Discount",
+      "category": [
+        "building",
+        "building.commercial",
+        "commercial",
+        "commercial.discount_store"
+      ],
+      "lat": 40.8039306,
+      "lon": -73.93798430604883,
+      "place_id": "5106a953ef077c52c059b16baa32e7664440f00102f9010d6930100000000092030d5275736820446973636f756e74",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street",
+      "category": [
+        "highway",
+        "highway.primary"
+      ],
+      "lat": 40.80462291774125,
+      "lon": -73.93800412106364,
+      "place_id": "5198ace529067c52c0594ffbf31dfc664440f00102f9012e241619000000009203114561737420313235746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9385825,
+            40.8048667
+          ],
+          [
+            -73.9378762,
+            40.804569
+          ],
+          [
+            -73.9375325,
+            40.8044241
+          ],
+          [
+            -73.9374253,
+            40.8043802
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Lexington Avenue",
+      "category": [
+        "highway",
+        "highway.secondary"
+      ],
+      "lat": 40.802447991555056,
+      "lon": -73.93884060315997,
+      "place_id": "512a919fe8157c52c059d415fbc5b6664440f00102f9016bec163f000000009203104c6578696e67746f6e204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9379207,
+            40.8037081
+          ],
+          [
+            -73.9379594,
+            40.8036534
+          ],
+          [
+            -73.9383351,
+            40.8031363
+          ],
+          [
+            -73.9383782,
+            40.8030771
+          ],
+          [
+            -73.9384193,
+            40.8030214
+          ],
+          [
+            -73.9388005,
+            40.8025046
+          ],
+          [
+            -73.9388372,
+            40.8024528
+          ],
+          [
+            -73.9388774,
+            40.802396
+          ],
+          [
+            -73.9390745,
+            40.8021232
+          ],
+          [
+            -73.9392578,
+            40.8018729
+          ],
+          [
+            -73.9392953,
+            40.80182
+          ],
+          [
+            -73.9393329,
+            40.8017683
+          ],
+          [
+            -73.9397112,
+            40.8012491
+          ],
+          [
+            -73.9397578,
+            40.8011859
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Park Avenue",
+      "category": [
+        "highway",
+        "highway.primary"
+      ],
+      "lat": 40.803510302602355,
+      "lon": -73.94033119968118,
+      "place_id": "51488e2a792b7c52c059c34aa071e1664440f00102f901b4b525400000000092030b5061726b204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9391836,
+            40.8051222
+          ],
+          [
+            -73.9392531,
+            40.8050333
+          ],
+          [
+            -73.9396251,
+            40.8045085
+          ],
+          [
+            -73.9396716,
+            40.8044438
+          ],
+          [
+            -73.9397128,
+            40.8043847
+          ],
+          [
+            -73.9400728,
+            40.8038683
+          ],
+          [
+            -73.9401148,
+            40.803808
+          ],
+          [
+            -73.9401534,
+            40.803755
+          ],
+          [
+            -73.9405324,
+            40.8032334
+          ],
+          [
+            -73.9405724,
+            40.8031784
+          ],
+          [
+            -73.9406126,
+            40.8031253
+          ],
+          [
+            -73.9409953,
+            40.80262
+          ],
+          [
+            -73.9410458,
+            40.8025533
+          ],
+          [
+            -73.9410835,
+            40.8025007
+          ],
+          [
+            -73.9414528,
+            40.8019856
+          ],
+          [
+            -73.9415029,
+            40.8019158
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Lexington Avenue",
+      "category": [
+        "highway",
+        "highway.secondary"
+      ],
+      "lat": 40.80375325861231,
+      "lon": -73.93788635734903,
+      "place_id": "517f6a172e067c52c059a35f07c8e1664440f00102f9013d5bbf40000000009203104c6578696e67746f6e204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9378528,
+            40.803799
+          ],
+          [
+            -73.9378772,
+            40.8037653
+          ],
+          [
+            -73.9379207,
+            40.8037081
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Park Avenue",
+      "category": [
+        "highway",
+        "highway.primary"
+      ],
+      "lat": 40.802442469576164,
+      "lon": -73.94077884756595,
+      "place_id": "51670f0fbc357c52c059f6058365b6664440f00102f901f743764f0000000092030b5061726b204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9416979,
+            40.8011841
+          ],
+          [
+            -73.9416537,
+            40.8012451
+          ],
+          [
+            -73.9412812,
+            40.8017589
+          ],
+          [
+            -73.9412451,
+            40.8018088
+          ],
+          [
+            -73.9411939,
+            40.8018782
+          ],
+          [
+            -73.9408154,
+            40.8023928
+          ],
+          [
+            -73.9407797,
+            40.8024413
+          ],
+          [
+            -73.9407332,
+            40.8025051
+          ],
+          [
+            -73.9403615,
+            40.8030154
+          ],
+          [
+            -73.9403209,
+            40.8030712
+          ],
+          [
+            -73.9402776,
+            40.8031304
+          ],
+          [
+            -73.9399008,
+            40.8036453
+          ],
+          [
+            -73.93986,
+            40.803701
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Park Avenue",
+      "category": [
+        "highway",
+        "highway.primary"
+      ],
+      "lat": 40.80435060986959,
+      "lon": -73.93937559798314,
+      "place_id": "51386513051f7c52c059ecafbf30f4664440f00102f901618d84500000000092030b5061726b204176656e7565",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93986,
+            40.803701
+          ],
+          [
+            -73.9398146,
+            40.8037619
+          ],
+          [
+            -73.9394316,
+            40.8042757
+          ],
+          [
+            -73.9393933,
+            40.8043271
+          ],
+          [
+            -73.9393488,
+            40.8043862
+          ],
+          [
+            -73.9389564,
+            40.8049071
+          ],
+          [
+            -73.9388881,
+            40.8049979
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 122nd Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.802279963036966,
+      "lon": -73.93843394572224,
+      "place_id": "5143d9a557147c52c05945bd6f76b5664440f00102f9017f8956000000000092031145617374203132326e6420537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9420768,
+            40.8038123
+          ],
+          [
+            -73.9419896,
+            40.8037756
+          ],
+          [
+            -73.9409601,
+            40.8033424
+          ],
+          [
+            -73.9406603,
+            40.8032156
+          ],
+          [
+            -73.9405724,
+            40.8031784
+          ],
+          [
+            -73.9403209,
+            40.8030712
+          ],
+          [
+            -73.9402566,
+            40.8030441
+          ],
+          [
+            -73.9392377,
+            40.8026141
+          ],
+          [
+            -73.9389337,
+            40.8024923
+          ],
+          [
+            -73.9388372,
+            40.8024528
+          ],
+          [
+            -73.9387416,
+            40.8024128
+          ],
+          [
+            -73.9379787,
+            40.8020834
+          ],
+          [
+            -73.9373807,
+            40.8018286
+          ],
+          [
+            -73.9372351,
+            40.8017666
+          ],
+          [
+            -73.9371055,
+            40.8017122
+          ],
+          [
+            -73.9359475,
+            40.8012259
+          ],
+          [
+            -73.9351217,
+            40.8008728
+          ],
+          [
+            -73.9349913,
+            40.8008201
+          ],
+          [
+            -73.9347941,
+            40.8007405
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 121st Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80216651920175,
+      "lon": -73.94011478214166,
+      "place_id": "51603255302a7c52c059f2c8bfdaac664440f00102f9019c8f5600000000009203114561737420313231737420537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9376942,
+            40.8011427
+          ],
+          [
+            -73.9378251,
+            40.8011979
+          ],
+          [
+            -73.9386162,
+            40.8015313
+          ],
+          [
+            -73.9386603,
+            40.8015499
+          ],
+          [
+            -73.9388271,
+            40.8016209
+          ],
+          [
+            -73.9392047,
+            40.8017815
+          ],
+          [
+            -73.9392953,
+            40.80182
+          ],
+          [
+            -73.9393906,
+            40.8018604
+          ],
+          [
+            -73.9398737,
+            40.8020649
+          ],
+          [
+            -73.940075,
+            40.8021501
+          ],
+          [
+            -73.9403437,
+            40.802261
+          ],
+          [
+            -73.9407202,
+            40.8024167
+          ],
+          [
+            -73.9407797,
+            40.8024413
+          ],
+          [
+            -73.9410458,
+            40.8025533
+          ],
+          [
+            -73.9411201,
+            40.8025844
+          ],
+          [
+            -73.9424587,
+            40.8031452
+          ],
+          [
+            -73.94254,
+            40.8031793
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 124th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80472404680933,
+      "lon": -73.94033910419107,
+      "place_id": "5173b44f6c2a7c52c0592ca90fc3fd664440f00102f901b7689f10000000009203114561737420313234746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9427583,
+            40.8057381
+          ],
+          [
+            -73.9426349,
+            40.8056863
+          ],
+          [
+            -73.9423676,
+            40.8055782
+          ],
+          [
+            -73.9417413,
+            40.8053163
+          ],
+          [
+            -73.9412973,
+            40.8051272
+          ],
+          [
+            -73.9411468,
+            40.8050631
+          ],
+          [
+            -73.941054,
+            40.8050241
+          ],
+          [
+            -73.9400893,
+            40.8046192
+          ],
+          [
+            -73.939749,
+            40.8044763
+          ],
+          [
+            -73.9396716,
+            40.8044438
+          ],
+          [
+            -73.9393933,
+            40.8043271
+          ],
+          [
+            -73.9393447,
+            40.804306
+          ],
+          [
+            -73.9392412,
+            40.804261
+          ],
+          [
+            -73.9391058,
+            40.8042043
+          ],
+          [
+            -73.9389528,
+            40.8041412
+          ],
+          [
+            -73.9388487,
+            40.8040967
+          ],
+          [
+            -73.9380117,
+            40.8037478
+          ],
+          [
+            -73.9379207,
+            40.8037081
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 123rd Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80257609190117,
+      "lon": -73.93719548843441,
+      "place_id": "516ad55350f67b52c059f18acadbb6664440f00102f9014cc9f81a000000009203114561737420313233726420537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9345304,
+            40.8014525
+          ],
+          [
+            -73.9346584,
+            40.8015071
+          ],
+          [
+            -73.9356931,
+            40.8019441
+          ],
+          [
+            -73.9366367,
+            40.802341
+          ],
+          [
+            -73.93677,
+            40.802397
+          ],
+          [
+            -73.9369088,
+            40.8024554
+          ],
+          [
+            -73.9375435,
+            40.8027226
+          ],
+          [
+            -73.9381116,
+            40.8029639
+          ],
+          [
+            -73.9382892,
+            40.8030393
+          ],
+          [
+            -73.9383782,
+            40.8030771
+          ],
+          [
+            -73.9384732,
+            40.8031171
+          ],
+          [
+            -73.9397957,
+            40.8036722
+          ],
+          [
+            -73.93986,
+            40.803701
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 124th Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80336796952516,
+      "lon": -73.93711706289461,
+      "place_id": "51b4430df0ee7b52c059696d54a1cb664440f00102f90153dafd22000000009203114561737420313234746820537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9379207,
+            40.8037081
+          ],
+          [
+            -73.9378234,
+            40.8036669
+          ],
+          [
+            -73.9364586,
+            40.8030893
+          ],
+          [
+            -73.9363134,
+            40.8030279
+          ]
+        ]
+      }
+    },
+    {
+      "name": "East 123rd Street",
+      "category": [
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80406999904766,
+      "lon": -73.9407399971487,
+      "place_id": "512e933c32317c52c059aa045f81e8664440f00102f901608d8450000000009203114561737420313233726420537472656574",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93986,
+            40.803701
+          ],
+          [
+            -73.9401148,
+            40.803808
+          ],
+          [
+            -73.9402048,
+            40.8038447
+          ],
+          [
+            -73.9404933,
+            40.8039666
+          ],
+          [
+            -73.9405027,
+            40.8039705
+          ],
+          [
+            -73.9415306,
+            40.8044015
+          ],
+          [
+            -73.94162,
+            40.804439
+          ]
+        ]
+      }
+    },
+    {
+      "name": "The Famous Jimbo's Hamburgers Palace",
+      "category": [
+        "catering",
+        "catering.restaurant"
+      ],
+      "lat": 40.8035129,
+      "lon": -73.9378803,
+      "place_id": "510304183b067c52c0593280be82d9664440f00103f90150210064010000009203245468652046616d6f7573204a696d626f27732048616d627572676572732050616c616365",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Dallas Chicken & Biscuits",
+      "category": [
+        "catering",
+        "catering.fast_food"
+      ],
+      "lat": 40.8035481,
+      "lon": -73.9378506,
+      "place_id": "512de285be057c52c059daec05aada664440f00103f901de2200640100000092031944616c6c617320436869636b656e2026204269736375697473",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "catering",
+        "catering.fast_food",
+        "catering.fast_food.pizza"
+      ],
+      "lat": 40.8042966,
+      "lon": -73.9376552,
+      "place_id": "5128bbf48a027c52c059986fe530f3664440f00103f9012f0237da00000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80429860036969,
+      "lon": -73.9405256,
+      "place_id": "5140434992317c52c0593867ac41f3664440f00102f901eb20fc2100000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9403206,
+            40.8042149
+          ],
+          [
+            -73.9405256,
+            40.8042986
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80233190036947,
+      "lon": -73.940292,
+      "place_id": "51302c7fbe2d7c52c059ec4fcccfb2664440f00102f901ef20fc2100000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9403437,
+            40.802261
+          ],
+          [
+            -73.9403035,
+            40.8023161
+          ],
+          [
+            -73.940292,
+            40.8023319
+          ],
+          [
+            -73.9401622,
+            40.8025205
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80415650036968,
+      "lon": -73.93914059999999,
+      "place_id": "5121d62ce11a7c52c0590ffaa699ee664440f00102f901f120fc2100000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9391058,
+            40.8042043
+          ],
+          [
+            -73.9391406,
+            40.8041565
+          ],
+          [
+            -73.9392986,
+            40.8039396
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.8028026003695,
+      "lon": -73.9374859,
+      "place_id": "51833ddcc4ff7b52c0598add503cc2664440f00102f90102e0fc2100000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9375435,
+            40.8027226
+          ],
+          [
+            -73.9374996,
+            40.8027836
+          ],
+          [
+            -73.9374859,
+            40.8028026
+          ],
+          [
+            -73.9374192,
+            40.802895
+          ],
+          [
+            -73.9378009,
+            40.8030536
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80446200036972,
+      "lon": -73.9404126,
+      "place_id": "51c46f54b82f7c52c059393b5f9cf8664440f00102f9010b089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9404126,
+            40.804462
+          ],
+          [
+            -73.9402051,
+            40.8043809
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80437370036971,
+      "lon": -73.9399674,
+      "place_id": "519893066d287c52c059da6ca8b7f5664440f00102f9010c089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9401565,
+            40.8044508
+          ],
+          [
+            -73.9399674,
+            40.8043737
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80437370036971,
+      "lon": -73.9399674,
+      "place_id": "519893066d287c52c059da6ca8b7f5664440f00102f9010d089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9399674,
+            40.8043737
+          ],
+          [
+            -73.9401873,
+            40.804057
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80421490036969,
+      "lon": -73.9403206,
+      "place_id": "51543074362e7c52c05999058c83f0664440f00102f9010e089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9401565,
+            40.8044508
+          ],
+          [
+            -73.9402051,
+            40.8043809
+          ],
+          [
+            -73.9403206,
+            40.8042149
+          ],
+          [
+            -73.9403773,
+            40.8041334
+          ],
+          [
+            -73.9404538,
+            40.8040234
+          ],
+          [
+            -73.9404933,
+            40.8039666
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.804133400369665,
+      "lon": -73.9403773,
+      "place_id": "51a65945242f7c52c059c01ae0d7ed664440f00102f9010f089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9403773,
+            40.8041334
+          ],
+          [
+            -73.9401873,
+            40.804057
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80379200036964,
+      "lon": -73.9403952,
+      "place_id": "512f54596f2f7c52c059e02f01a8e2664440f00102f90111089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9403952,
+            40.803792
+          ],
+          [
+            -73.9406782,
+            40.8033798
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80379200036964,
+      "lon": -73.9403952,
+      "place_id": "512f54596f2f7c52c059e02f01a8e2664440f00102f90113089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9405884,
+            40.8038722
+          ],
+          [
+            -73.9403952,
+            40.803792
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.804194800369686,
+      "lon": -73.93890819999999,
+      "place_id": "518e3c6b12177c52c059bc99efdaef664440f00102f90116089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9386558,
+            40.8044975
+          ],
+          [
+            -73.9389082,
+            40.8041948
+          ],
+          [
+            -73.9389528,
+            40.8041412
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.804317900369696,
+      "lon": -73.93920129999998,
+      "place_id": "5114f7c4df1b7c52c0596ed692e3f3664440f00102f90117089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9392412,
+            40.804261
+          ],
+          [
+            -73.9392013,
+            40.8043179
+          ],
+          [
+            -73.9391373,
+            40.8044092
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.804022100369664,
+      "lon": -73.93890469999998,
+      "place_id": "51e123bd03177c52c059aa2c3932ea664440f00102f90118089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9388487,
+            40.8040967
+          ],
+          [
+            -73.93889,
+            40.8040417
+          ],
+          [
+            -73.9389047,
+            40.8040221
+          ],
+          [
+            -73.9389562,
+            40.8039534
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.802562100369485,
+      "lon": -73.93927349999998,
+      "place_id": "51f61f990e1d7c52c0594a0cdb5aba664440f00102f90119089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9392377,
+            40.8026141
+          ],
+          [
+            -73.9392735,
+            40.8025621
+          ],
+          [
+            -73.9394108,
+            40.8023626
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.8025789003695,
+      "lon": -73.93994589999998,
+      "place_id": "519720d912287c52c059f8c5c8e7ba664440f00102f9011a089e2f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9399459,
+            40.8025789
+          ],
+          [
+            -73.9394108,
+            40.8023626
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.802270800369456,
+      "lon": -73.93782959999999,
+      "place_id": "51204e7166057c52c059b00f41cfb0664440f00102f901409a003b00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9379787,
+            40.8020834
+          ],
+          [
+            -73.9379357,
+            40.8021423
+          ],
+          [
+            -73.9379205,
+            40.8021631
+          ],
+          [
+            -73.9378296,
+            40.8022708
+          ],
+          [
+            -73.9377901,
+            40.8022929
+          ],
+          [
+            -73.9377362,
+            40.8023065
+          ],
+          [
+            -73.9375991,
+            40.8022529
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803765300369626,
+      "lon": -73.93787719999999,
+      "place_id": "517f6a172e067c52c059a35f07c8e1664440f00102f90169ec163f00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937781,
+            40.8037255
+          ],
+          [
+            -73.9378772,
+            40.8037653
+          ],
+          [
+            -73.9379709,
+            40.8038042
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.804557200369736,
+      "lon": -73.93916730000001,
+      "place_id": "5140be29511b7c52c059b7acf7bafb664440f00102f901e505414200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9389132,
+            40.8048887
+          ],
+          [
+            -73.9390408,
+            40.8047262
+          ],
+          [
+            -73.9391673,
+            40.8045572
+          ],
+          [
+            -73.9393032,
+            40.804367
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80450850036972,
+      "lon": -73.93962509999999,
+      "place_id": "510bc050d1227c52c05992387122fa664440f00102f901e605414200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9393791,
+            40.8042571
+          ],
+          [
+            -73.9393447,
+            40.804306
+          ],
+          [
+            -73.9393032,
+            40.804367
+          ],
+          [
+            -73.9393488,
+            40.8043862
+          ],
+          [
+            -73.9396251,
+            40.8045085
+          ],
+          [
+            -73.9397007,
+            40.8045368
+          ],
+          [
+            -73.939749,
+            40.8044763
+          ],
+          [
+            -73.9397849,
+            40.8044156
+          ],
+          [
+            -73.9397128,
+            40.8043847
+          ],
+          [
+            -73.9394316,
+            40.8042757
+          ],
+          [
+            -73.9393791,
+            40.8042571
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80488870036977,
+      "lon": -73.9389132,
+      "place_id": "5118f26327177c52c0590a81ca9706674440f00102f90190e5424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9375948,
+            40.8043411
+          ],
+          [
+            -73.9389132,
+            40.8048887
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802117100369436,
+      "lon": -73.9398273,
+      "place_id": "51d5586721267c52c05915d3ecc5ab664440f00102f90101fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9406749,
+            40.8024773
+          ],
+          [
+            -73.9404159,
+            40.8023657
+          ],
+          [
+            -73.9403035,
+            40.8023161
+          ],
+          [
+            -73.9398273,
+            40.8021171
+          ],
+          [
+            -73.9397164,
+            40.8020707
+          ],
+          [
+            -73.9393564,
+            40.8019143
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802095900369444,
+      "lon": -73.9401136,
+      "place_id": "5197a13bd22a7c52c059d52b1614ab664440f00102f90102fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.940754,
+            40.8023701
+          ],
+          [
+            -73.9401552,
+            40.8021134
+          ],
+          [
+            -73.9401136,
+            40.8020959
+          ],
+          [
+            -73.9394277,
+            40.8018077
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80239600036948,
+      "lon": -73.93887739999998,
+      "place_id": "5105fd3b91167c52c059990382e9b4664440f00102f90104fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9389796,
+            40.8024312
+          ],
+          [
+            -73.9389716,
+            40.8024419
+          ],
+          [
+            -73.9389337,
+            40.8024923
+          ],
+          [
+            -73.9388957,
+            40.8025456
+          ],
+          [
+            -73.9388005,
+            40.8025046
+          ],
+          [
+            -73.9387063,
+            40.8024684
+          ],
+          [
+            -73.9387416,
+            40.8024128
+          ],
+          [
+            -73.938778,
+            40.8023568
+          ],
+          [
+            -73.9388774,
+            40.802396
+          ],
+          [
+            -73.9389796,
+            40.8024312
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802356800369466,
+      "lon": -73.938778,
+      "place_id": "51130d52f0147c52c059b0a7aca0b3664440f00102f90105fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.938778,
+            40.8023568
+          ],
+          [
+            -73.939171,
+            40.8018322
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80243120036948,
+      "lon": -73.9389796,
+      "place_id": "511d67e43d187c52c0594070c910b6664440f00102f90106fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9389796,
+            40.8024312
+          ],
+          [
+            -73.9393564,
+            40.8019143
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80313630036955,
+      "lon": -73.93833510000002,
+      "place_id": "5118cca9ae0d7c52c059a928982bcd664440f00102f90107fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9384335,
+            40.8031749
+          ],
+          [
+            -73.9383351,
+            40.8031363
+          ],
+          [
+            -73.9382465,
+            40.8031015
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80305840036955,
+      "lon": -73.93851339999999,
+      "place_id": "51e5f6819a107c52c059c22e1f9eca664440f00102f90108fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9385134,
+            40.8030584
+          ],
+          [
+            -73.9388957,
+            40.8025456
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80246840036948,
+      "lon": -73.9387063,
+      "place_id": "5126c396c3137c52c05986d4d748b7664440f00102f90109fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9387063,
+            40.8024684
+          ],
+          [
+            -73.9383264,
+            40.802985
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80323340036958,
+      "lon": -73.9405324,
+      "place_id": "5104b5ceae317c52c05934d2205ad0664440f00102f9010afe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9406994,
+            40.8031602
+          ],
+          [
+            -73.9406603,
+            40.8032156
+          ],
+          [
+            -73.9406227,
+            40.8032742
+          ],
+          [
+            -73.9405324,
+            40.8032334
+          ],
+          [
+            -73.9402776,
+            40.8031304
+          ],
+          [
+            -73.9402157,
+            40.8031014
+          ],
+          [
+            -73.9402566,
+            40.8030441
+          ],
+          [
+            -73.9402907,
+            40.8029888
+          ],
+          [
+            -73.9403615,
+            40.8030154
+          ],
+          [
+            -73.9406126,
+            40.8031253
+          ],
+          [
+            -73.9406994,
+            40.8031602
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803868300369636,
+      "lon": -73.9400728,
+      "place_id": "51fcf61a272a7c52c05979300e28e5664440f00102f90111fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.940242,
+            40.8037883
+          ],
+          [
+            -73.9402048,
+            40.8038447
+          ],
+          [
+            -73.9401563,
+            40.8039064
+          ],
+          [
+            -73.9400728,
+            40.8038683
+          ],
+          [
+            -73.9398146,
+            40.8037619
+          ],
+          [
+            -73.9397539,
+            40.8037384
+          ],
+          [
+            -73.9397957,
+            40.8036722
+          ],
+          [
+            -73.9398333,
+            40.8036169
+          ],
+          [
+            -73.9398444,
+            40.8036216
+          ],
+          [
+            -73.9399008,
+            40.8036453
+          ],
+          [
+            -73.9401534,
+            40.803755
+          ],
+          [
+            -73.940242,
+            40.8037883
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80362160036961,
+      "lon": -73.9398444,
+      "place_id": "510a552069267c52c0592cf99512dd664440f00102f90112fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9398444,
+            40.8036216
+          ],
+          [
+            -73.9402157,
+            40.8031014
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80378830036963,
+      "lon": -73.94024199999998,
+      "place_id": "51d614c8ec2c7c52c0595c7ff788e2664440f00102f90113fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9406227,
+            40.8032742
+          ],
+          [
+            -73.940242,
+            40.8037883
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80402340036966,
+      "lon": -73.94045379999999,
+      "place_id": "5187992265307c52c05938e7203dea664440f00102f90115fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9414836,
+            40.8044731
+          ],
+          [
+            -73.9404538,
+            40.8040234
+          ],
+          [
+            -73.9401563,
+            40.8039064
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.804024100369666,
+      "lon": -73.94080819999999,
+      "place_id": "51c0b39833367c52c0594b240043ea664440f00102f90116fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9415697,
+            40.8043461
+          ],
+          [
+            -73.9408082,
+            40.8040241
+          ],
+          [
+            -73.940242,
+            40.8037883
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802562100369485,
+      "lon": -73.93927349999998,
+      "place_id": "51f61f990e1d7c52c0594a0cdb5aba664440f00102f90117fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9402907,
+            40.8029888
+          ],
+          [
+            -73.9392735,
+            40.8025621
+          ],
+          [
+            -73.9389716,
+            40.8024419
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802688700369515,
+      "lon": -73.9392367,
+      "place_id": "51fd6c3f741c7c52c059587ada80be664440f00102f90118fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9402157,
+            40.8031014
+          ],
+          [
+            -73.9392367,
+            40.8026887
+          ],
+          [
+            -73.9388957,
+            40.8025456
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.804041700369666,
+      "lon": -73.93889,
+      "place_id": "51a72215c6167c52c0599edaa3d6ea664440f00102f90119fe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9393791,
+            40.8042571
+          ],
+          [
+            -73.9391406,
+            40.8041565
+          ],
+          [
+            -73.93889,
+            40.8040417
+          ],
+          [
+            -73.9380521,
+            40.8036918
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80412850036966,
+      "lon": -73.9387429,
+      "place_id": "518ab6195d147c52c059426fc5aeed664440f00102f9011afe424200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9379709,
+            40.8038042
+          ],
+          [
+            -73.9381991,
+            40.8038934
+          ],
+          [
+            -73.9387429,
+            40.8041285
+          ],
+          [
+            -73.9389082,
+            40.8041948
+          ],
+          [
+            -73.9392013,
+            40.8043179
+          ],
+          [
+            -73.9393032,
+            40.804367
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80287450036954,
+      "lon": -73.93806489999999,
+      "place_id": "51a1c15c41097c52c05994f07497c4664440f00102f901c938434200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9383264,
+            40.802985
+          ],
+          [
+            -73.9381487,
+            40.8029099
+          ],
+          [
+            -73.9380649,
+            40.8028745
+          ],
+          [
+            -73.9369477,
+            40.8024026
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80278360036952,
+      "lon": -73.9374996,
+      "place_id": "51d68052feff7b52c05916adee9cc1664440f00102f901ca38434200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9382465,
+            40.8031015
+          ],
+          [
+            -73.9374996,
+            40.8027836
+          ],
+          [
+            -73.9368655,
+            40.8025144
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80361310036961,
+      "lon": -73.9378623,
+      "place_id": "51b0a998ef057c52c059c15c48cbdc664440f00102f901cb38434200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9378623,
+            40.8036131
+          ],
+          [
+            -73.936497,
+            40.8030355
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80372550036962,
+      "lon": -73.93778099999999,
+      "place_id": "51d973999a047c52c0593e86297ae0664440f00102f901cc38434200000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937781,
+            40.8037255
+          ],
+          [
+            -73.9364151,
+            40.8031503
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80220700036945,
+      "lon": -73.9397473,
+      "place_id": "514600dcd1247c52c059c29a0fb8ae664440f00102f901a092d44200000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80442410036971,
+      "lon": -73.93753249999999,
+      "place_id": "51f99b5088007c52c059df99715ef7664440f00102f901a5f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937463,
+            40.8045168
+          ],
+          [
+            -73.9375325,
+            40.8044241
+          ],
+          [
+            -73.9375948,
+            40.8043411
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.8042947003697,
+      "lon": -73.93748699999999,
+      "place_id": "51355b79c9ff7b52c0598d37f520f3664440f00102f901a7f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9375948,
+            40.8043411
+          ],
+          [
+            -73.937487,
+            40.8042947
+          ],
+          [
+            -73.93741,
+            40.8042617
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80365340036963,
+      "lon": -73.9379594,
+      "place_id": "5173fedc86077c52c05911f4571dde664440f00102f901d2f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9380521,
+            40.8036918
+          ],
+          [
+            -73.9379594,
+            40.8036534
+          ],
+          [
+            -73.9378623,
+            40.8036131
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80366690036962,
+      "lon": -73.9378234,
+      "place_id": "511b1b704c057c52c0598cfb968ede664440f00102f901d3f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9378623,
+            40.8036131
+          ],
+          [
+            -73.9378234,
+            40.8036669
+          ],
+          [
+            -73.937781,
+            40.8037255
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803747800369635,
+      "lon": -73.9380117,
+      "place_id": "51fcb03962087c52c059e6683a35e1664440f00102f901d4f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9379709,
+            40.8038042
+          ],
+          [
+            -73.9380117,
+            40.8037478
+          ],
+          [
+            -73.9380521,
+            40.8036918
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803021400369545,
+      "lon": -73.93841929999999,
+      "place_id": "51dadbd20f0f7c52c059a449be67c9664440f00102f901d5f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9383264,
+            40.802985
+          ],
+          [
+            -73.9384193,
+            40.8030214
+          ],
+          [
+            -73.9385134,
+            40.8030584
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803039300369555,
+      "lon": -73.9382892,
+      "place_id": "51290c25ee0c7c52c059b73ee6fdc9664440f00102f901d6f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9382465,
+            40.8031015
+          ],
+          [
+            -73.9382892,
+            40.8030393
+          ],
+          [
+            -73.9383264,
+            40.802985
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80311710036956,
+      "lon": -73.9384732,
+      "place_id": "510a8be5f10f7c52c0590a79888acc664440f00102f901d7f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9385134,
+            40.8030584
+          ],
+          [
+            -73.9384732,
+            40.8031171
+          ],
+          [
+            -73.9384335,
+            40.8031749
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80369180036963,
+      "lon": -73.93805209999998,
+      "place_id": "516bdcac0b097c52c0595153775fdf664440f00102f901d8f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9380521,
+            40.8036918
+          ],
+          [
+            -73.9384335,
+            40.8031749
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80361310036961,
+      "lon": -73.9378623,
+      "place_id": "51b0a998ef057c52c059c15c48cbdc664440f00102f901d9f1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9378623,
+            40.8036131
+          ],
+          [
+            -73.9382465,
+            40.8031015
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.804341100369705,
+      "lon": -73.93759479999999,
+      "place_id": "5193b99e8d017c52c059517530a6f4664440f00102f901daf1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9375948,
+            40.8043411
+          ],
+          [
+            -73.9379709,
+            40.8038042
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80426170036969,
+      "lon": -73.93741,
+      "place_id": "51603c8386fe7b52c059b041220cf2664440f00102f901dbf1254800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93741,
+            40.8042617
+          ],
+          [
+            -73.937781,
+            40.8037255
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.803906400369655,
+      "lon": -73.9401563,
+      "place_id": "51376854852b7c52c059fe50a967e6664440f00102f90171faa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9397849,
+            40.8044156
+          ],
+          [
+            -73.9401563,
+            40.8039064
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.8042571003697,
+      "lon": -73.93937910000001,
+      "place_id": "51f14284c91e7c52c059f3d48be5f1664440f00102f90172faa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9393791,
+            40.8042571
+          ],
+          [
+            -73.9397539,
+            40.8037384
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80361690036962,
+      "lon": -73.93983329999999,
+      "place_id": "5145cc913a267c52c059dacc28ebdc664440f00102f90173faa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9398333,
+            40.8036169
+          ],
+          [
+            -73.9385134,
+            40.8030584
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80373840036963,
+      "lon": -73.93975389999999,
+      "place_id": "5175b28aed247c52c0593f1060e6e0664440f00102f90174faa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9384335,
+            40.8031749
+          ],
+          [
+            -73.9397539,
+            40.8037384
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80497430036979,
+      "lon": -73.9411033,
+      "place_id": "5117ea55093b7c52c059b81adb6509674440f00102f90175faa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9411033,
+            40.8049743
+          ],
+          [
+            -73.9397849,
+            40.8044156
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802477300369496,
+      "lon": -73.9406749,
+      "place_id": "51c2ea7e04347c52c059476f8093b7664440f00102f9017afaa84800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9402907,
+            40.8029888
+          ],
+          [
+            -73.9406749,
+            40.8024773
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.801775500369395,
+      "lon": -73.9374188,
+      "place_id": "51f5296cabfe7b52c05909696094a0664440f00102f9012c48aa4800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.938778,
+            40.8023568
+          ],
+          [
+            -73.9374188,
+            40.8017755
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.802214600369446,
+      "lon": -73.9381065,
+      "place_id": "51906ad8ef097c52c059f17ad0f7ae664440f00102f9012d48aa4800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9387063,
+            40.8024684
+          ],
+          [
+            -73.9381065,
+            40.8022146
+          ],
+          [
+            -73.9379357,
+            40.8021423
+          ],
+          [
+            -73.9373373,
+            40.8018891
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.8026790003695,
+      "lon": -73.9383073,
+      "place_id": "5147c60f3a0d7c52c059f1e27b2fbe664440f00102f901e28be44800000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.802909900369535,
+      "lon": -73.9381487,
+      "place_id": "513c52d8a00a7c52c05963dc69c0c5664440f00102f901e48be44800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9381116,
+            40.8029639
+          ],
+          [
+            -73.9381487,
+            40.8029099
+          ],
+          [
+            -73.9381637,
+            40.8028882
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80274420036952,
+      "lon": -73.9381346,
+      "place_id": "51bf8fb4650a7c52c05904d26b52c0664440f00102f901e58be44800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9380649,
+            40.8028745
+          ],
+          [
+            -73.93809,
+            40.802825
+          ],
+          [
+            -73.9381144,
+            40.8027828
+          ],
+          [
+            -73.9381346,
+            40.8027442
+          ],
+          [
+            -73.9381454,
+            40.8026957
+          ],
+          [
+            -73.9381465,
+            40.8026299
+          ],
+          [
+            -73.9381258,
+            40.8025534
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.8025534003695,
+      "lon": -73.93812579999998,
+      "place_id": "5129a2cb400a7c52c059b7f0df11ba664440f00102f901e68be44800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9381713,
+            40.80255
+          ],
+          [
+            -73.9382134,
+            40.8025364
+          ],
+          [
+            -73.9382482,
+            40.802514
+          ],
+          [
+            -73.9382725,
+            40.8024846
+          ],
+          [
+            -73.9382841,
+            40.8024512
+          ],
+          [
+            -73.9382819,
+            40.8024166
+          ],
+          [
+            -73.9382661,
+            40.8023841
+          ],
+          [
+            -73.9382382,
+            40.8023567
+          ],
+          [
+            -73.9382007,
+            40.8023368
+          ],
+          [
+            -73.9381571,
+            40.8023264
+          ],
+          [
+            -73.9381114,
+            40.8023264
+          ],
+          [
+            -73.9380677,
+            40.8023367
+          ],
+          [
+            -73.9380275,
+            40.8023584
+          ],
+          [
+            -73.9379986,
+            40.8023888
+          ],
+          [
+            -73.9379844,
+            40.8024247
+          ],
+          [
+            -73.9379861,
+            40.802462
+          ],
+          [
+            -73.9380038,
+            40.802497
+          ],
+          [
+            -73.9380354,
+            40.8025258
+          ],
+          [
+            -73.9380776,
+            40.8025452
+          ],
+          [
+            -73.9381258,
+            40.8025534
+          ],
+          [
+            -73.9381713,
+            40.80255
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.80230300036946,
+      "lon": -73.93806279999998,
+      "place_id": "5106e68d38097c52c059e6085eddb1664440f00102f901e78be44800000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9380677,
+            40.8023367
+          ],
+          [
+            -73.9380628,
+            40.802303
+          ],
+          [
+            -73.9381065,
+            40.8022146
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "commercial",
+        "commercial.convenience"
+      ],
+      "lat": 40.8041377,
+      "lon": -73.9377954,
+      "place_id": "51b755ffd6047c52c059c148f2fbed664440f00103f901a1553b5001000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    }
+  ]
+}

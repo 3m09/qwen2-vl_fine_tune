@@ -1,0 +1,812 @@
+{
+  "image": "dataset/images/101.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.98363388382471,
+  "bbox": [
+    -73.98512171256792,
+    40.80900900900902,
+    -73.9821460550815,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "highway.residential",
+    "highway.footway",
+    "access_limited.private",
+    "commercial",
+    "access_limited",
+    "highway",
+    "commercial.houseware_and_hardware",
+    "commercial.discount_store",
+    "highway.service"
+  ],
+  "poi_count_per_category": {
+    "highway.residential": 8,
+    "highway.footway": 4,
+    "access_limited.private": 14,
+    "commercial": 2,
+    "access_limited": 14,
+    "highway": 19,
+    "commercial.houseware_and_hardware": 1,
+    "commercial.discount_store": 1,
+    "highway.service": 7
+  },
+  "poi_count": 21,
+  "pois": [
+    {
+      "name": "Five Below",
+      "category": [
+        "commercial",
+        "commercial.discount_store"
+      ],
+      "lat": 40.8110594,
+      "lon": -73.9825125,
+      "place_id": "5150da1b7ce17e52c05930da5fcbd0674440f00103f9015c3a2fb70200000092030a466976652042656c6f77",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Independence Way",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.808723744203434,
+      "lon": -73.98389445024054,
+      "place_id": "51637fd93df97e52c0591f1f5e1b85674440f00102f9019aa9b00000000000920310496e646570656e64656e636520576179",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Independence Way",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80959585,
+      "lon": -73.984170689,
+      "place_id": "511f6a36eafc7e52c059aebd096ea4674440f00102f901202ae61400000000920310496e646570656e64656e636520576179",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Harborview Terrace",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.81120932942826,
+      "lon": -73.98511029237963,
+      "place_id": "5123c852350b7f52c059447b600bd5674440f00102f9016e79ea1400000000920312486172626f72766965772054657272616365",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Harborview Terrace",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.810211648099205,
+      "lon": -73.98385913480571,
+      "place_id": "510a6bbea5f77e52c059783acdfcb4674440f00102f9017279ea1400000000920312486172626f72766965772054657272616365",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Lighthouse Terrace",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.810476913276425,
+      "lon": -73.98566744483638,
+      "place_id": "51e477e459137f52c059d395c849bc674440f00102f9017979ea14000000009203124c69676874686f7573652054657272616365",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Independence Way",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.81024603315932,
+      "lon": -73.98601427705694,
+      "place_id": "51905731a62a7f52c0595b7b9801c2674440f00102f9019ef5fc2100000000920310496e646570656e64656e636520576179",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Independence Way",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80910349962052,
+      "lon": -73.98508096757438,
+      "place_id": "51243e1cc90a7f52c059cd248d1590674440f00102f9011f179f4900000000920310496e646570656e64656e636520576179",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Independence Way",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.residential"
+      ],
+      "lat": 40.80923075457522,
+      "lon": -73.98499583644168,
+      "place_id": "510787cdb6097f52c059972d358694674440f00102f90120179f4900000000920310496e646570656e64656e636520576179",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "HomeGoods",
+      "category": [
+        "commercial",
+        "commercial.houseware_and_hardware"
+      ],
+      "lat": 40.8111651,
+      "lon": -73.9828139,
+      "place_id": "5178a3456ce67e52c059bbdf0c42d4674440f00103f901091682d702000000920309486f6d65476f6f6473",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.809436500370296,
+      "lon": -73.98392199999999,
+      "place_id": "5127f4fa93f87e52c059baa3809d9b674440f00102f90100413a0d00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9788329,
+            40.816156
+          ],
+          [
+            -73.978897,
+            40.8160552
+          ],
+          [
+            -73.9792043,
+            40.8161702
+          ],
+          [
+            -73.9799287,
+            40.8154286
+          ],
+          [
+            -73.9801291,
+            40.8152588
+          ],
+          [
+            -73.9802482,
+            40.8151019
+          ],
+          [
+            -73.9802345,
+            40.8150044
+          ],
+          [
+            -73.9801808,
+            40.8148867
+          ],
+          [
+            -73.9800682,
+            40.8148055
+          ],
+          [
+            -73.9798731,
+            40.8147038
+          ],
+          [
+            -73.979899,
+            40.8146562
+          ],
+          [
+            -73.9799364,
+            40.8145878
+          ],
+          [
+            -73.9799724,
+            40.8144943
+          ],
+          [
+            -73.9799442,
+            40.8143826
+          ],
+          [
+            -73.9798923,
+            40.8142498
+          ],
+          [
+            -73.9799131,
+            40.814123
+          ],
+          [
+            -73.9800035,
+            40.8140616
+          ],
+          [
+            -73.9801251,
+            40.8140663
+          ],
+          [
+            -73.9803511,
+            40.8141395
+          ],
+          [
+            -73.9804099,
+            40.814098
+          ],
+          [
+            -73.9804306,
+            40.814057
+          ],
+          [
+            -73.9804812,
+            40.8139569
+          ],
+          [
+            -73.9806261,
+            40.8138473
+          ],
+          [
+            -73.9809566,
+            40.8135109
+          ],
+          [
+            -73.981116,
+            40.813314
+          ],
+          [
+            -73.9811378,
+            40.8132759
+          ],
+          [
+            -73.9811708,
+            40.8132185
+          ],
+          [
+            -73.9812408,
+            40.8130964
+          ],
+          [
+            -73.9814105,
+            40.8129202
+          ],
+          [
+            -73.9814844,
+            40.8127105
+          ],
+          [
+            -73.9818308,
+            40.8123168
+          ],
+          [
+            -73.981761,
+            40.8122262
+          ],
+          [
+            -73.9817502,
+            40.8122122
+          ],
+          [
+            -73.9816168,
+            40.8120976
+          ],
+          [
+            -73.9812628,
+            40.8119583
+          ],
+          [
+            -73.9812144,
+            40.8119101
+          ],
+          [
+            -73.9812054,
+            40.8118457
+          ],
+          [
+            -73.9813288,
+            40.8116387
+          ],
+          [
+            -73.9813937,
+            40.8113847
+          ],
+          [
+            -73.9815942,
+            40.811089
+          ],
+          [
+            -73.9822418,
+            40.8107471
+          ],
+          [
+            -73.9828245,
+            40.810437
+          ],
+          [
+            -73.9830174,
+            40.8102613
+          ],
+          [
+            -73.9832651,
+            40.8101911
+          ],
+          [
+            -73.9834338,
+            40.8101432
+          ],
+          [
+            -73.9834875,
+            40.810128
+          ],
+          [
+            -73.9837068,
+            40.809887
+          ],
+          [
+            -73.9838216,
+            40.8097633
+          ],
+          [
+            -73.9837957,
+            40.8096508
+          ],
+          [
+            -73.983922,
+            40.8094365
+          ],
+          [
+            -73.9839309,
+            40.8094215
+          ],
+          [
+            -73.982112,
+            40.8087164
+          ],
+          [
+            -73.9828321,
+            40.8076341
+          ],
+          [
+            -73.9846775,
+            40.8083446
+          ],
+          [
+            -73.985102,
+            40.8077122
+          ],
+          [
+            -73.9858005,
+            40.8079606
+          ],
+          [
+            -73.9859223,
+            40.8079235
+          ],
+          [
+            -73.9859424,
+            40.8079121
+          ],
+          [
+            -73.9861605,
+            40.8077882
+          ],
+          [
+            -73.9867147,
+            40.8070952
+          ],
+          [
+            -73.9868113,
+            40.8070262
+          ],
+          [
+            -73.9869078,
+            40.8069734
+          ],
+          [
+            -73.9869902,
+            40.8068738
+          ],
+          [
+            -73.9870813,
+            40.8067632
+          ],
+          [
+            -73.9871122,
+            40.8067059
+          ],
+          [
+            -73.9870891,
+            40.8066552
+          ],
+          [
+            -73.9868562,
+            40.8064053
+          ],
+          [
+            -73.9867382,
+            40.8063123
+          ],
+          [
+            -73.9865524,
+            40.8062466
+          ],
+          [
+            -73.9863173,
+            40.8061717
+          ],
+          [
+            -73.9860379,
+            40.806039
+          ],
+          [
+            -73.9859215,
+            40.8059281
+          ],
+          [
+            -73.9859099,
+            40.805917
+          ],
+          [
+            -73.9858725,
+            40.8057999
+          ],
+          [
+            -73.9858725,
+            40.8057309
+          ],
+          [
+            -73.9859261,
+            40.8055888
+          ],
+          [
+            -73.9859851,
+            40.8055076
+          ],
+          [
+            -73.9860441,
+            40.8054467
+          ],
+          [
+            -73.9861887,
+            40.8054203
+          ],
+          [
+            -73.9865065,
+            40.805456
+          ],
+          [
+            -73.9871076,
+            40.8055589
+          ],
+          [
+            -73.987398,
+            40.8056526
+          ],
+          [
+            -73.9875874,
+            40.8057248
+          ],
+          [
+            -73.9877559,
+            40.8057711
+          ],
+          [
+            -73.9878654,
+            40.8056827
+          ],
+          [
+            -73.9879623,
+            40.8056025
+          ],
+          [
+            -73.9880716,
+            40.8054873
+          ],
+          [
+            -73.9882504,
+            40.8054252
+          ],
+          [
+            -73.9882905,
+            40.8054874
+          ],
+          [
+            -73.9885538,
+            40.8054489
+          ],
+          [
+            -73.9888184,
+            40.8054631
+          ],
+          [
+            -73.988938,
+            40.8055663
+          ],
+          [
+            -73.9889444,
+            40.8056132
+          ],
+          [
+            -73.9896726,
+            40.8059093
+          ],
+          [
+            -73.9898364,
+            40.8059843
+          ],
+          [
+            -73.9898886,
+            40.806104
+          ],
+          [
+            -73.9899337,
+            40.8061692
+          ],
+          [
+            -73.9900346,
+            40.8061789
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81136610037052,
+      "lon": -73.9848744,
+      "place_id": "51baaaa22e087f52c059541629d8da674440f00102f9018779ea1400000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9828906,
+            40.8106095
+          ],
+          [
+            -73.9838023,
+            40.8109691
+          ],
+          [
+            -73.9840311,
+            40.8109834
+          ],
+          [
+            -73.9845417,
+            40.8111846
+          ],
+          [
+            -73.9848744,
+            40.8113661
+          ],
+          [
+            -73.9857163,
+            40.8116954
+          ],
+          [
+            -73.9857774,
+            40.8116954
+          ],
+          [
+            -73.9864172,
+            40.8119406
+          ],
+          [
+            -73.9866363,
+            40.812031
+          ],
+          [
+            -73.9866577,
+            40.8120398
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.809436500370296,
+      "lon": -73.98392199999999,
+      "place_id": "5127f4fa93f87e52c059baa3809d9b674440f00102f901de6cfe2a00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9840988,
+            40.8095021
+          ],
+          [
+            -73.983922,
+            40.8094365
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.8102631003704,
+      "lon": -73.9834336,
+      "place_id": "5167727b93f07e52c0598b9f86b3b6674440f00102f901e06cfe2a00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9834338,
+            40.8101432
+          ],
+          [
+            -73.9834081,
+            40.8102487
+          ],
+          [
+            -73.9834336,
+            40.8102631
+          ],
+          [
+            -73.9833604,
+            40.8103715
+          ],
+          [
+            -73.9833572,
+            40.8103967
+          ],
+          [
+            -73.9833715,
+            40.81041
+          ],
+          [
+            -73.9833989,
+            40.8104252
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "highway",
+        "highway.footway"
+      ],
+      "lat": 40.81024870037041,
+      "lon": -73.9834081,
+      "place_id": "51c7078728f07e52c059d4dbba3ab6674440f00102f901e16cfe2a00000000",
+      "geometry_type": "Point",
+      "road_geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9834081,
+            40.8102487
+          ],
+          [
+            -73.9832651,
+            40.8101911
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81094960037049,
+      "lon": -73.98498019999998,
+      "place_id": "51478d64ea097f52c059d4254e32cd674440f00102f901f261c94200000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.810348200370406,
+      "lon": -73.98355199999999,
+      "place_id": "51957a1684f27e52c0594f7b657db9674440f00102f901f361c94200000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81118910037051,
+      "lon": -73.98505909999999,
+      "place_id": "5123c852350b7f52c059447b600bd5674440f00102f901f661c94200000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.81005170037037,
+      "lon": -73.9840533,
+      "place_id": "515641b1bafa7e52c05979942cc6af674440f00102f901f46ddb4200000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80905460037026,
+      "lon": -73.9847618,
+      "place_id": "5168565b56067f52c05962a2e4198f674440f00102f90122179f4900000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    },
+    {
+      "name": "Unnamed",
+      "category": [
+        "access_limited",
+        "access_limited.private",
+        "highway",
+        "highway.service"
+      ],
+      "lat": 40.80905460037026,
+      "lon": -73.9847618,
+      "place_id": "5168565b56067f52c05962a2e4198f674440f00102f90129179f4900000000",
+      "geometry_type": "Point",
+      "road_geometry": null
+    }
+  ]
+}
