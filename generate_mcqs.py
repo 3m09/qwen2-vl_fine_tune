@@ -1,10 +1,10 @@
 import json
 import os
 from sampling.smart_sampler import smart_sample
-from mcq.poi_mcq import generate_poi_mcq
+from poi_mcq import generate_poi_mcqs
 from mcq.nearby_mcq import generate_nearby_mcq
-from mcq.counting_mcq import generate_counting_mcqs
-from mcq.routing_mcq import generate_routing_mcq
+from counting_mcq import generate_counting_mcqs
+from routing_mcq import generate_routing_mcq
 
 META_DIR = "dataset/metadata"
 OUT_DIR = "dataset/output_mcqs"
