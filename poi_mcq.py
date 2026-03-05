@@ -2,6 +2,8 @@ import json
 import random
 from pathlib import Path
 
+from utils.utils import haversine
+
 DATASET_DIR = Path("dataset")
 IMAGE_DIR = DATASET_DIR / "images"
 META_DIR = DATASET_DIR / "metadata"
@@ -61,6 +63,47 @@ def generate_4_options_names(correct_name, all_pois):
     random.shuffle(candidates)
     return candidates
 
+def get_direction(from_poi, to_poi):
+    """Calculate the cardinal direction from one POI to another"""
+    lat_diff = to_poi["lat"] - from_poi["lat"]
+    lon_diff = to_poi["lon"] - from_poi["lon"]
+    
+    # Determine primary direction based on larger difference
+    if abs(lat_diff) > abs(lon_diff):
+        # North/South is dominant
+        if lat_diff > 0:
+            return "north of"
+        else:
+            return "south of"
+    else:
+        # East/West is dominant
+        if lon_diff > 0:
+            return "east of"
+        else:
+            return "west of"
+
+def get_direction_detailed(from_poi, to_poi):
+    """Calculate direction with possible compound directions (e.g., northeast)"""
+    lat_diff = to_poi["lat"] - from_poi["lat"]
+    lon_diff = to_poi["lon"] - from_poi["lon"]
+    
+    # Threshold for considering a direction significant
+    threshold_ratio = 0.3
+    
+    ns_dir = "north" if lat_diff > 0 else "south"
+    ew_dir = "east" if lon_diff > 0 else "west"
+    
+    # Check if one direction is much more dominant
+    if abs(lat_diff) < 0.0001 and abs(lon_diff) < 0.0001:
+        return "near"
+    
+    if abs(lon_diff) < threshold_ratio * abs(lat_diff):
+        return f"{ns_dir} of"
+    elif abs(lat_diff) < threshold_ratio * abs(lon_diff):
+        return f"{ew_dir} of"
+    else:
+        return f"{ns_dir}{ew_dir} of"
+
 # -------------------------
 # POI MCQ generators
 # -------------------------
@@ -87,15 +130,18 @@ def simple_poi_existence_mcq(image_id, pois, all_pois):
 
 def location_based_mcq(image_id, pois, all_pois):
     """What [category] is located [direction] of [landmark]?"""
-    named_pois = [p for p in pois if valid_name(p.get("name", ""))]
+    # Filter POIs that have valid names AND coordinates
+    named_pois = [p for p in pois if valid_name(p.get("name", "")) and 
+                  p.get("lat") is not None and p.get("lon") is not None]
+    
     if len(named_pois) < 2:
         return None
     
     target_poi, reference_poi = random.sample(named_pois, 2)
     category_type = get_category_type(target_poi.get("category", []))
     
-    directions = ["north", "south", "east", "west", "near", "close to"]
-    direction = random.choice(directions)
+    # Calculate actual direction from reference to target
+    direction = get_direction(reference_poi, target_poi)
     
     options = generate_4_options_names(target_poi["name"], all_pois)
     
