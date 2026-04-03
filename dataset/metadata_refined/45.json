@@ -1,0 +1,195 @@
+{
+  "image": "dataset/images/45.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.93602987734084,
+  "bbox": [
+    -73.93751755461199,
+    40.80225225225225,
+    -73.9345422000697,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.place_of_worship",
+    "amenity.pharmacy",
+    "shop.supermarket",
+    "amenity.restaurant",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "highway.bus_stop": 5,
+    "amenity.fast_food": 2,
+    "amenity.place_of_worship": 1,
+    "amenity.pharmacy": 1,
+    "shop.supermarket": 1,
+    "amenity.restaurant": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Apple Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8040311,
+      "lon": -73.9361953,
+      "osm_id": 2765578612,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & Lexington Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8040516,
+      "lon": -73.9368918,
+      "osm_id": 5123007599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 3rd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8040925,
+      "lon": -73.9364736,
+      "osm_id": 5136636541,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 3rd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8035201,
+      "lon": -73.9354626,
+      "osm_id": 5171179042,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Church of Scientology",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8031437,
+      "lon": -73.9349597,
+      "osm_id": 5171179241,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "3rd Avenue & East 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8039794,
+      "lon": -73.9354847,
+      "osm_id": 5269044276,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 124th Street & 3rd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8030605,
+      "lon": -73.9365452,
+      "osm_id": 5269089546,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Enexia Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8033818,
+      "lon": -73.9355044,
+      "osm_id": 5981255820,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8034524,
+      "lon": -73.9357042,
+      "osm_id": 5981262800,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Taco Bell",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8042603,
+      "lon": -73.9366585,
+      "osm_id": 11255243799,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Teriyaki Madness",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8037045,
+      "lon": -73.9354025,
+      "osm_id": 11255243806,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Food Bazaar",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8037632,
+      "lon": -73.935539,
+      "osm_id": 11255243809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Century Medical & Dental Center",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8040944,
+      "lon": -73.9352742,
+      "osm_id": 12921493565,
+      "osm_type": "node",
+      "address": "3rd Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 20,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "image": "dataset/images/83.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.96578110032365,
+  "bbox": [
+    -73.96726887857045,
+    40.80675675675676,
+    -73.96429332207686,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "shop.hairdresser",
+    "amenity.fast_food",
+    "amenity.post_office",
+    "shop.stationery",
+    "shop.supermarket",
+    "shop.clothes",
+    "shop.copyshop"
+  ],
+  "poi_count_per_category": {
+    "shop.hairdresser": 1,
+    "amenity.fast_food": 2,
+    "amenity.post_office": 1,
+    "shop.stationery": 1,
+    "shop.supermarket": 1,
+    "shop.clothes": 1,
+    "shop.copyshop": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Sweetgreen",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8073542,
+      "lon": -73.9647166,
+      "osm_id": 626013381,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Morton Williams",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8076459,
+      "lon": -73.9645252,
+      "osm_id": 1802299466,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "FedEx Office",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 40.8080753,
+      "lon": -73.9644565,
+      "osm_id": 2796467296,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The UPS Store",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 40.8076509,
+      "lon": -73.9648616,
+      "osm_id": 5083563323,
+      "osm_type": "node",
+      "address": "West 115th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Scott J. Aveda Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8070782,
+      "lon": -73.9649352,
+      "osm_id": 7004431890,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Lululemon",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.807259,
+      "lon": -73.9647756,
+      "osm_id": 7004437715,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Ivy League Stationers",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 40.8078866,
+      "lon": -73.9643469,
+      "osm_id": 7004443482,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Hooda Halal",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.807503,
+      "lon": -73.9646912,
+      "osm_id": 7004462869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

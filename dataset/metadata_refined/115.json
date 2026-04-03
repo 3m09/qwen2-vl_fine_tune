@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/115.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.94197467901488,
+  "bbox": [
+    -73.94346250775808,
+    40.80900900900902,
+    -73.94048685027167,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "tourism.museum",
+    "highway.bus_stop",
+    "amenity.place_of_worship",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "tourism.museum": 1,
+    "highway.bus_stop": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Saint Ambrose Episcopal Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8101817,
+      "lon": -73.9406493,
+      "osm_id": 357621096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Astor Row Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8109307,
+      "lon": -73.9428375,
+      "osm_id": 1967406009,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 129th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8104757,
+      "lon": -73.9433017,
+      "osm_id": 5235585005,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "National Jazz Museum in Harlem",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 40.8099499,
+      "lon": -73.9430899,
+      "osm_id": 8270992264,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

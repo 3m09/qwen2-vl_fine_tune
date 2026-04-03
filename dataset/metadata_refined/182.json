@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/182.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.95684857226213,
+  "bbox": [
+    -73.95833655252895,
+    40.81576576576578,
+    -73.9553605919953,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "leisure.sports_centre",
+    "amenity.school",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "leisure.sports_centre": 1,
+    "amenity.school": 1,
+    "amenity.fast_food": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Renaissance Leadership Academy (M286)",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8159758,
+      "lon": -73.955665,
+      "osm_id": 357621403,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Botanist",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8168,
+      "lon": -73.9579462,
+      "osm_id": 9646952139,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Benny Casanova's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8168842,
+      "lon": -73.9578926,
+      "osm_id": 9646952141,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Steep Rock",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 40.8166213,
+      "lon": -73.9581389,
+      "osm_id": 9692914589,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/19.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.94198255511566,
+  "bbox": [
+    -73.94347018190756,
+    40.8,
+    -73.94049492832374,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.school",
+    "amenity.community_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.school": 1,
+    "amenity.community_centre": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Saint Paul's School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8001661,
+      "lon": -73.9414844,
+      "osm_id": 2714216811,
+      "osm_type": "node",
+      "address": "East 118th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Community Board Eleven of Manhattan",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8003138,
+      "lon": -73.9428344,
+      "osm_id": 4922133816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Ivoire",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8013289,
+      "lon": -73.9423745,
+      "osm_id": 9081448356,
+      "osm_type": "node",
+      "address": "East 119th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

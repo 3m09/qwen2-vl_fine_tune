@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/70.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.9330522509752,
+  "bbox": [
+    -73.9345399787313,
+    40.80450450450451,
+    -73.93156452321908,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "King's Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.805,
+      "lon": -73.9344444,
+      "osm_id": 357621448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

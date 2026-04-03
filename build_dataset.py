@@ -1,11 +1,13 @@
 import json
 from grid.world_grid import generate_world_grid
 # from osm.overpass_query import query_osm_metadata
-from osm.overpass_query import fetch_metadata
+from osm.overpass_query import fetch_pois_overpass
 # from osm.static_map import download_tile
 from osm.static_map import download_and_stitch_bbox
 from osm.geoapify import fetch_pois_in_bbox
 from osm.geoapify_maps import download_static_map
+from osm.google_poi_fetcher import fetch_pois
+from osm.gmap_downloader import download_map
 from pathlib import Path
 
 def build_dataset(limit=1000):
@@ -22,11 +24,15 @@ def build_dataset(limit=1000):
         image_name = "dataset/images/{}.png".format(i)
         download_static_map(cell["bbox"][0], cell["bbox"][1], cell["bbox"][2], cell["bbox"][3], image_name)
         # metadata = fetch_metadata(lat, lon)
-        pois = fetch_pois_in_bbox(
+        pois = fetch_pois_overpass(
             cell["bbox"][0], cell["bbox"][1],
             cell["bbox"][2], cell["bbox"][3],
-            categories="amenity,commercial,tourism,catering,highway"
+            # categories="amenity,commercial,tourism,catering,highway"
         )
+        # pois = fetch_pois(
+        #     cell["bbox"][0], cell["bbox"][1],
+        #     cell["bbox"][2], cell["bbox"][3],
+        # )
         # image_name = download_tile(lat, lon)
 
         record = {
@@ -43,7 +49,7 @@ def build_dataset(limit=1000):
             "pois": pois
         }
 
-        with open(f"dataset/metadata/{i}.json", "w") as f:
+        with open(f"g_dataset/metadata/{i}.json", "w") as f:
             json.dump(record, f, indent=2)
 
 if __name__ == "__main__":

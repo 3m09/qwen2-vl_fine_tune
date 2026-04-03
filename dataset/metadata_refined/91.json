@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/91.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.94197664837489,
+  "bbox": [
+    -73.94346442662169,
+    40.80675675675676,
+    -73.94048887012809,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.alcohol",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "shop.alcohol": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Saint Andrew's Episcopal Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8078384,
+      "lon": -73.9409554,
+      "osm_id": 357621088,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Wine and Spirits",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8069514,
+      "lon": -73.9431164,
+      "osm_id": 2767369853,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "CD West Harlem Deli Corp",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8070723,
+      "lon": -73.9420154,
+      "osm_id": 2767369865,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 128th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8081123,
+      "lon": -73.9411488,
+      "osm_id": 5274257023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

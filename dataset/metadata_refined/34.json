@@ -1,0 +1,157 @@
+{
+  "image": "dataset/images/34.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.968758777306,
+  "bbox": [
+    -73.97024645457714,
+    40.80225225225225,
+    -73.96727110003485,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "leisure.fitness_centre",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "shop.beauty",
+    "shop.newsagent",
+    "amenity.restaurant",
+    "shop.pet"
+  ],
+  "poi_count_per_category": {
+    "leisure.fitness_centre": 1,
+    "highway.bus_stop": 3,
+    "amenity.fast_food": 1,
+    "shop.beauty": 1,
+    "shop.newsagent": 1,
+    "amenity.restaurant": 2,
+    "shop.pet": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Fumo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8028091,
+      "lon": -73.9680501,
+      "osm_id": 2279017957,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway News",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": 40.8029,
+      "lon": -73.967988,
+      "osm_id": 2761694165,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Pilates Shop/Yoga Garage",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8032443,
+      "lon": -73.9677232,
+      "osm_id": 2761694171,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Pet Market NYC",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 40.8035166,
+      "lon": -73.9675239,
+      "osm_id": 2761694176,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 108th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8030822,
+      "lon": -73.9672711,
+      "osm_id": 3271250924,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 108th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8039041,
+      "lon": -73.9690228,
+      "osm_id": 6929263890,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 108th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8035906,
+      "lon": -73.9695423,
+      "osm_id": 6929263891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kyuramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8027172,
+      "lon": -73.968113,
+      "osm_id": 11375876806,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway Nails & Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8033232,
+      "lon": -73.9676597,
+      "osm_id": 11411443531,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Nan Xiang Express",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8025866,
+      "lon": -73.9682034,
+      "osm_id": 11919343061,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 24,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

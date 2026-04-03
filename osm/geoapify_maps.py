@@ -9,9 +9,10 @@ def download_static_map(lon_min, lat_min, lon_max, lat_max, output_file):
     params = {
         "style": "osm-bright", # You can use 'osm-bright', 'klokantech-basic', etc.
         "area": f"rect:{lon_min},{lat_min},{lon_max},{lat_max}",
-        "zoom" : 17.6,
-        "width": 1000,  # Adjust size (Max 2048 for free tier)
-        "height": 800,
+        "zoom" : 18,
+        "scaleFactor": 2,    
+        "width": 1024,  # Adjust size (Max 2048 for free tier)
+        "height": 1024,
         "apiKey": API_KEY
     }
 

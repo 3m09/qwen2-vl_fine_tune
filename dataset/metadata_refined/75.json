@@ -1,0 +1,169 @@
+{
+  "image": "dataset/images/75.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.98958555227242,
+  "bbox": [
+    -73.99107333051921,
+    40.80675675675676,
+    -73.98809777402562,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "shop.jewelry",
+    "highway.bus_stop",
+    "amenity.doctors",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.clothes",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "shop.jewelry": 1,
+    "highway.bus_stop": 1,
+    "amenity.doctors": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2,
+    "shop.clothes": 4,
+    "shop.convenience": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8069999,
+      "lon": -73.9902257,
+      "osm_id": 5285116722,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Banana Republic",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8069865,
+      "lon": -73.9891883,
+      "osm_id": 5285124122,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Baby Gap",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8068339,
+      "lon": -73.988804,
+      "osm_id": 5285124123,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "The Original Pancake House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8072224,
+      "lon": -73.989782,
+      "osm_id": 5285124823,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Carter's",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8071447,
+      "lon": -73.9895866,
+      "osm_id": 5285124824,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Gap",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8068964,
+      "lon": -73.9889614,
+      "osm_id": 5285133721,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "City Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8070765,
+      "lon": -73.9905895,
+      "osm_id": 5285175221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "True Food of Edgewater",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8069199,
+      "lon": -73.9900233,
+      "osm_id": 5286413021,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Jewelry Alain & Co.",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 40.806915,
+      "lon": -73.9902974,
+      "osm_id": 5290769121,
+      "osm_type": "node",
+      "address": "City Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Rebecca's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8089668,
+      "lon": -73.9909253,
+      "osm_id": 8260463722,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "One Hudson Medical Associates",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 40.8084911,
+      "lon": -73.9908424,
+      "osm_id": 8260705160,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 18,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

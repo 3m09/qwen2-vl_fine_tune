@@ -4,7 +4,7 @@ from pathlib import Path
 
 DATASET_DIR = Path("dataset")
 IMAGE_DIR = DATASET_DIR / "images"
-META_DIR = DATASET_DIR / "metadata"
+META_DIR = DATASET_DIR / "metadata_refined"
 
 OUT_DIR = DATASET_DIR / "output_mcqs"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -16,8 +16,8 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 # -------------------------
 
 def normalize_category(cat):
-    """Take only the first part before dot"""
-    return cat.split(".")[0]
+    """Take only the last part before dot"""
+    return cat.split(".")[-1] if "." in cat else cat
 
 
 def valid_name(name):
@@ -57,11 +57,23 @@ def generate_4_options(true_count):
 def category_count_mcq(image_id, pois):
     category_map = {}
 
+    # for poi in pois:
+    #     for cat in poi.get("category", []):
+    #         base = normalize_category(cat)
+    #         category_map.setdefault(base, 0)
+    #         category_map[base] += 1
+
     for poi in pois:
-        for cat in poi.get("category", []):
-            base = normalize_category(cat)
-            category_map.setdefault(base, 0)
-            category_map[base] += 1
+        if "primary_type" not in poi:
+            for cat in poi.get("category", []):
+                base = normalize_category(cat)
+                category_map.setdefault(base, 0)
+                category_map[base] += 1
+        else:
+            for cat in poi.get("category", []):
+                base = normalize_category(cat)
+                category_map.setdefault(base, 0)
+                category_map[base] += 1
 
     if not category_map:
         return None
@@ -118,10 +130,20 @@ def contextual_count_mcq(image_id, pois):
 
     category_map = {}
     for poi in pois:
-        for cat in poi.get("category", []):
-            base = normalize_category(cat)
-            category_map.setdefault(base, 0)
-            category_map[base] += 1
+        # for cat in poi.get("category", []):
+        #     base = normalize_category(cat)
+        #     category_map.setdefault(base, 0)
+        #     category_map[base] += 1
+        if "primary_type" not in poi:
+            for cat in poi.get("category", []):
+                base = normalize_category(cat)
+                category_map.setdefault(base, 0)
+                category_map[base] += 1
+        else:
+            for cat in poi.get("category", []):
+                base = normalize_category(cat)
+                category_map.setdefault(base, 0)
+                category_map[base] += 1
 
     if not category_map:
         return None

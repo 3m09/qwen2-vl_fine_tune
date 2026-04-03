@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/99.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.98958519879754,
+  "bbox": [
+    -73.99107302754075,
+    40.80900900900902,
+    -73.98809737005433,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 3,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Frank's Pizza at Shadyside",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8098285,
+      "lon": -73.9901976,
+      "osm_id": 8260453144,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pa De Thai Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8094852,
+      "lon": -73.9904903,
+      "osm_id": 8260474180,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "River Rd at Thompson Lane",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.80975,
+      "lon": -73.9894012,
+      "osm_id": 8260673218,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Food for Life",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8096706,
+      "lon": -73.9903383,
+      "osm_id": 8260705161,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/110.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.95685296644696,
+  "bbox": [
+    -73.95834079519017,
+    40.80900900900902,
+    -73.95536513770375,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "amenity.restaurant",
+    "shop.kiosk",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "amenity.restaurant": 1,
+    "shop.kiosk": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "KIPP",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8109219,
+      "lon": -73.9566864,
+      "osm_id": 357622022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dun Huang",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8110353,
+      "lon": -73.9582026,
+      "osm_id": 8375908253,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Convenience",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8112013,
+      "lon": -73.9580793,
+      "osm_id": 8375908265,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "LinkNYC",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 40.8103874,
+      "lon": -73.9583183,
+      "osm_id": 8375948908,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "image": "dataset/images/38.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.95685735913685,
+  "bbox": [
+    -73.95834503640799,
+    40.80225225225225,
+    -73.9553696818657,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.doctors",
+    "amenity.fast_food",
+    "amenity.bicycle_rental",
+    "shop.bicycle",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 4,
+    "amenity.doctors": 1,
+    "amenity.fast_food": 2,
+    "amenity.bicycle_rental": 1,
+    "shop.bicycle": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 3,
+    "amenity.cafe": 1
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "Mod Squad Cycles",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 40.8035486,
+      "lon": -73.9562943,
+      "osm_id": 1667410041,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Melba's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8030944,
+      "lon": -73.95657,
+      "osm_id": 1667412535,
+      "osm_type": "node",
+      "address": "West 114th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Atomic Wings",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8025114,
+      "lon": -73.9565294,
+      "osm_id": 2762470557,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8041924,
+      "lon": -73.9556662,
+      "osm_id": 5263698203,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 116th Street & Frederick Douglas Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8044624,
+      "lon": -73.9557108,
+      "osm_id": 5263698237,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 114th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8029495,
+      "lon": -73.9565672,
+      "osm_id": 5384049998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Frederick",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8029397,
+      "lon": -73.956201,
+      "osm_id": 6549322049,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lafayette and Washington",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8036855,
+      "lon": -73.9580124,
+      "osm_id": 6821846246,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 114th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8038949,
+      "lon": -73.9577647,
+      "osm_id": 8832001346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maharaja Palace",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8033615,
+      "lon": -73.9563955,
+      "osm_id": 10196098734,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vegan Hood",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8028363,
+      "lon": -73.9562879,
+      "osm_id": 11040513632,
+      "osm_type": "node",
+      "address": "Frederick Douglass Blvd",
+      "road_geometry": null
+    },
+    {
+      "name": "Cantina Taqueria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8027452,
+      "lon": -73.9568209,
+      "osm_id": 12036720755,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tribeca Pediatrics",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 40.8032998,
+      "lon": -73.9564167,
+      "osm_id": 12036720765,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Frederick Douglass Blvd & W 115 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8039005,
+      "lon": -73.9558836,
+      "osm_id": 12410916763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/140.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.93899695094053,
+  "bbox": [
+    -73.94048483018588,
+    40.81126126126127,
+    -73.93750907169517,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.community_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.community_centre": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Lenox Terrace",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8130784,
+      "lon": -73.9390136,
+      "osm_id": 2767633739,
+      "osm_type": "node",
+      "address": "West 135th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Lt. Joseph P. Kennedy Center",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8126493,
+      "lon": -73.9400429,
+      "osm_id": 3545220730,
+      "osm_type": "node",
+      "address": "West 134th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

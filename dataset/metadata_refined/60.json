@@ -1,0 +1,167 @@
+{
+  "image": "dataset/images/60.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.96280680609733,
+  "bbox": [
+    -73.96429453385343,
+    40.80450450450451,
+    -73.96131907834122,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.place_of_worship",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "leisure.garden",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.place_of_worship": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 2,
+    "leisure.garden": 1,
+    "amenity.cafe": 3
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Niko Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8052757,
+      "lon": -73.9624308,
+      "osm_id": 835414667,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Seventh Church of Christ Scientist",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.80467,
+      "lon": -73.9642871,
+      "osm_id": 2707990712,
+      "osm_type": "node",
+      "address": "West 112th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Alexander Hamilton",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8067133,
+      "lon": -73.9617763,
+      "osm_id": 3846182257,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 114th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8053088,
+      "lon": -73.9622981,
+      "osm_id": 5552653067,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 114th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8056979,
+      "lon": -73.9617392,
+      "osm_id": 5552653324,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Strokos Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.805466,
+      "lon": -73.9622848,
+      "osm_id": 5686427721,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 East",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8066955,
+      "lon": -73.9638287,
+      "osm_id": 5924114805,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Blue Java",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8065269,
+      "lon": -73.9631276,
+      "osm_id": 5924114808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Symposium",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8055157,
+      "lon": -73.9642686,
+      "osm_id": 7003610135,
+      "osm_type": "node",
+      "address": "West 113th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8065968,
+      "lon": -73.9613655,
+      "osm_id": 7004340247,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "113th St Playgarden",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": 40.8050648,
+      "lon": -73.9633996,
+      "osm_id": 11596393293,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 12,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

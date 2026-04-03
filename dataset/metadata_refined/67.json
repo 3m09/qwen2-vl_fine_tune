@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/67.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.94197861751184,
+  "bbox": [
+    -73.94346634526794,
+    40.80450450450451,
+    -73.94049088975572,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.mobile_phone",
+    "amenity.pharmacy",
+    "amenity.drinking_water",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.mobile_phone": 1,
+    "amenity.pharmacy": 1,
+    "amenity.drinking_water": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Marcus Garvey Park",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 40.8046,
+      "lon": -73.943,
+      "osm_id": 1504407836,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SB Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8052533,
+      "lon": -73.9412506,
+      "osm_id": 3449999556,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Metro by T-Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8064239,
+      "lon": -73.9426763,
+      "osm_id": 3661038149,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8061746,
+      "lon": -73.9419246,
+      "osm_id": 5235581179,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Madison Avenue & East 123rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8046165,
+      "lon": -73.9413735,
+      "osm_id": 6680630093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Brownstone",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8057966,
+      "lon": -73.9411982,
+      "osm_id": 7620039822,
+      "osm_type": "node",
+      "address": "East 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8066537,
+      "lon": -73.942545,
+      "osm_id": 8736432120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

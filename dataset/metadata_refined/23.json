@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/23.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.9300815407804,
+  "bbox": [
+    -73.9315691675723,
+    40.8,
+    -73.9285939139885,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "1st Avenue & East 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8012781,
+      "lon": -73.9314077,
+      "osm_id": 5309511834,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 1st Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8017863,
+      "lon": -73.9315054,
+      "osm_id": 5309511835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

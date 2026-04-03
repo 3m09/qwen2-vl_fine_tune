@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/108.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.96280428141979,
+  "bbox": [
+    -73.964292110163,
+    40.80900900900902,
+    -73.96131645267658,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "leisure.sports_centre",
+    "highway.bus_stop",
+    "amenity.theatre",
+    "amenity.bicycle_rental",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "leisure.sports_centre": 1,
+    "highway.bus_stop": 1,
+    "amenity.theatre": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Minor Latham Playhouse",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8102679,
+      "lon": -73.9627553,
+      "osm_id": 368051690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dodge Fitness Center",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 40.8096772,
+      "lon": -73.9617322,
+      "osm_id": 368062431,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joe Coffee Company",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8101961,
+      "lon": -73.9618962,
+      "osm_id": 2308955289,
+      "osm_type": "node",
+      "address": "West 120th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 120 St & Claremont Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8109535,
+      "lon": -73.9634152,
+      "osm_id": 6798013352,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8109256,
+      "lon": -73.9641582,
+      "osm_id": 6798013353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/65.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.94792952853626,
+  "bbox": [
+    -73.94941725629236,
+    40.80450450450451,
+    -73.94644180078015,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.clothes",
+    "shop.deli",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 2,
+    "shop.clothes": 1,
+    "shop.deli": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Efuru Guest House",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 40.8047139,
+      "lon": -73.9485671,
+      "osm_id": 4213565912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Haberdashery",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8061428,
+      "lon": -73.9470016,
+      "osm_id": 5186870455,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "121 Lenox Gourmet Deli",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8052132,
+      "lon": -73.9476498,
+      "osm_id": 5266905082,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "BLVD Bistro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8058627,
+      "lon": -73.9472248,
+      "osm_id": 5266905521,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Sottocasa Pizzeria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.805587,
+      "lon": -73.9475248,
+      "osm_id": 7048004285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

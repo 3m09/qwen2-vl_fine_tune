@@ -1,0 +1,155 @@
+{
+  "image": "dataset/images/87.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.95387887434927,
+  "bbox": [
+    -73.95536665259607,
+    40.80675675675676,
+    -73.95239109610247,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.supermarket",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 2,
+    "highway.bus_stop": 3,
+    "shop.supermarket": 1,
+    "amenity.restaurant": 2,
+    "amenity.cafe": 1,
+    "shop.alcohol": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Chocolat Restaurant Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8069537,
+      "lon": -73.9537487,
+      "osm_id": 1667359770,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Vintage",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8074935,
+      "lon": -73.9533679,
+      "osm_id": 1667400684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8086631,
+      "lon": -73.9543027,
+      "osm_id": 5263698547,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 121st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8083918,
+      "lon": -73.9542425,
+      "osm_id": 5263698958,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8071356,
+      "lon": -73.9551604,
+      "osm_id": 5263699430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue Food Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8083599,
+      "lon": -73.9545774,
+      "osm_id": 7169900956,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zoe Caf\u00e9 and Hookah Lounge",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.807773,
+      "lon": -73.9531593,
+      "osm_id": 7259558970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Angel of Harlem",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8080588,
+      "lon": -73.9524756,
+      "osm_id": 8014564675,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Deli & Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8079335,
+      "lon": -73.9525508,
+      "osm_id": 8014564676,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lincoln Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8080665,
+      "lon": -73.9531637,
+      "osm_id": 11984361757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

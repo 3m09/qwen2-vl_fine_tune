@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/20.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.93900730153184,
+  "bbox": [
+    -73.94049492832374,
+    40.8,
+    -73.93751967473993,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "highway.bus_stop",
+    "amenity.courthouse"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 1,
+    "highway.bus_stop": 1,
+    "amenity.courthouse": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Harlem Courthouse",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": 40.801285,
+      "lon": -73.9384443,
+      "osm_id": 368046295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Growth",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8011976,
+      "lon": -73.9389456,
+      "osm_id": 2339527552,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lexington Ave & E 120 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8013344,
+      "lon": -73.9397478,
+      "osm_id": 5972695175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lexington Avenue & East 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8021529,
+      "lon": -73.9391604,
+      "osm_id": 5972697935,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

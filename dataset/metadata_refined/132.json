@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/132.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.96280301886618,
+  "bbox": [
+    -73.96429089811153,
+    40.81126126126127,
+    -73.96131513962082,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "tourism.artwork",
+    "amenity.school",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "amenity.school": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Riverside Church Week Day School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8113651,
+      "lon": -73.9635604,
+      "osm_id": 357621706,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8128986,
+      "lon": -73.962725,
+      "osm_id": 4284126289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "General Daniel Butterfield",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8126196,
+      "lon": -73.9621121,
+      "osm_id": 6244980517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/181.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.95982453279578,
+  "bbox": [
+    -73.9613125130626,
+    40.81576576576578,
+    -73.95833655252895,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "tourism.gallery",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "tourism.gallery": 1,
+    "highway.bus_stop": 3
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Miriam and Ira D. Wallach Art Gallery",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 40.8172422,
+      "lon": -73.9586445,
+      "osm_id": 5813555226,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & Tiemann Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8160503,
+      "lon": -73.9610929,
+      "osm_id": 6223570376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Clair Place & West 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.817123,
+      "lon": -73.959894,
+      "osm_id": 6798013347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dear Mama",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8167277,
+      "lon": -73.9585099,
+      "osm_id": 9633471059,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "W 125 St & 12 Av",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8177077,
+      "lon": -73.959963,
+      "osm_id": 11967723618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/159.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.95387417765004,
+  "bbox": [
+    -73.95536210740326,
+    40.81351351351353,
+    -73.95238624789681,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Academy for Social Action: A College Board School (M367)",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8152265,
+      "lon": -73.9542041,
+      "osm_id": 357631909,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

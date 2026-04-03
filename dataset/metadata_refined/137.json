@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/137.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.94792422641265,
+  "bbox": [
+    -73.949412105658,
+    40.81126126126127,
+    -73.94643634716729,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Frederick Douglass Boulevard & West 129th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8128438,
+      "lon": -73.9493471,
+      "osm_id": 5470130238,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 129th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8128816,
+      "lon": -73.9490872,
+      "osm_id": 5470130938,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

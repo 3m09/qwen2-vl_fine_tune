@@ -1,0 +1,107 @@
+{
+  "image": "dataset/images/16.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.9509083158671,
+  "bbox": [
+    -73.952395942659,
+    40.8,
+    -73.94942068907518,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "shop.hairdresser",
+    "amenity.bicycle_rental",
+    "amenity.pharmacy",
+    "shop.supermarket",
+    "amenity.restaurant",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "shop.hairdresser": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.pharmacy": 1,
+    "shop.supermarket": 1,
+    "amenity.restaurant": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Citi Bike - Lenox Ave & W 115 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8011308,
+      "lon": -73.9501098,
+      "osm_id": 6680630122,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Los 3 Charros",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8001097,
+      "lon": -73.9513997,
+      "osm_id": 9459167484,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Your Modern Barber Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8020781,
+      "lon": -73.9502363,
+      "osm_id": 9553068943,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem RX",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8020016,
+      "lon": -73.9500536,
+      "osm_id": 9553068950,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fine Fare Supermarket",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8017203,
+      "lon": -73.9495714,
+      "osm_id": 10969587472,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Community Healthcare Network",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8011884,
+      "lon": -73.9495007,
+      "osm_id": 11033496966,
+      "osm_type": "node",
+      "address": "West 115th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

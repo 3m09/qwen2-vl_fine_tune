@@ -1,0 +1,179 @@
+{
+  "image": "dataset/images/84.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.96280554383006,
+  "bbox": [
+    -73.96429332207686,
+    40.80675675675676,
+    -73.96131776558326,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "shop.books",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "highway.bus_stop": 2,
+    "amenity.fast_food": 2,
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 4,
+    "amenity.cafe": 2
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "Columbia University Bookstore",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8071007,
+      "lon": -73.9641277,
+      "osm_id": 625842823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shake Shack",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8079748,
+      "lon": -73.9642844,
+      "osm_id": 1802297281,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8078134,
+      "lon": -73.9642784,
+      "osm_id": 3271250930,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Curl",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8086544,
+      "lon": -73.9615238,
+      "osm_id": 3907629319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8077772,
+      "lon": -73.9638473,
+      "osm_id": 4775572232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joe Coffee Company",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8075501,
+      "lon": -73.9636821,
+      "osm_id": 4816185281,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Joe Coffee Company",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8080617,
+      "lon": -73.963265,
+      "osm_id": 4924481993,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Thomas Jefferson",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8074652,
+      "lon": -73.9635685,
+      "osm_id": 6259917258,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Scholars' Lion",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.808926,
+      "lon": -73.9620013,
+      "osm_id": 6804416830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "J. Pulitzer",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.807605,
+      "lon": -73.9635762,
+      "osm_id": 11517489755,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 116 St & Broadway",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8082355,
+      "lon": -73.964222,
+      "osm_id": 11953102758,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hooda Halal",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.808128,
+      "lon": -73.9636344,
+      "osm_id": 12047107430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

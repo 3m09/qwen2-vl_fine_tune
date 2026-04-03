@@ -1,0 +1,135 @@
+{
+  "image": "dataset/images/174.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.9806562565313,
+  "bbox": [
+    -73.98214423679812,
+    40.81576576576578,
+    -73.97916827626447,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.food_court",
+    "amenity.ice_cream",
+    "shop.bakery",
+    "shop.books",
+    "amenity.cafe",
+    "shop.confectionery",
+    "shop.convenience",
+    "shop.cosmetics"
+  ],
+  "poi_count_per_category": {
+    "amenity.food_court": 1,
+    "amenity.ice_cream": 1,
+    "shop.bakery": 1,
+    "shop.books": 1,
+    "amenity.cafe": 1,
+    "shop.confectionery": 1,
+    "shop.convenience": 1,
+    "shop.cosmetics": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Wateishoku Kaneda",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 40.8160981,
+      "lon": -73.9796299,
+      "osm_id": 3656101703,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shiseido",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 40.8166483,
+      "lon": -73.9799659,
+      "osm_id": 8530362495,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Japan",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8165932,
+      "lon": -73.9797847,
+      "osm_id": 8530362496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Matcha Love",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 40.8162088,
+      "lon": -73.9797447,
+      "osm_id": 8530362498,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Minamoto Kitchoan",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 40.8161179,
+      "lon": -73.9800851,
+      "osm_id": 9082325659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kai Sweets",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8162633,
+      "lon": -73.9800611,
+      "osm_id": 9082325660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kinokuniya",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8164922,
+      "lon": -73.9795718,
+      "osm_id": 9082427769,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00dcmacha",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8164568,
+      "lon": -73.9794076,
+      "osm_id": 10200267914,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

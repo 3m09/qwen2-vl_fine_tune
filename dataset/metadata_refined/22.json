@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/22.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.93305679436422,
+  "bbox": [
+    -73.93454442115612,
+    40.8,
+    -73.9315691675723,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.post_box",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.post_box": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "2nd Avenue & East 124th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8022038,
+      "lon": -73.9341174,
+      "osm_id": 5269095676,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 124th Street & 2nd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8021334,
+      "lon": -73.934323,
+      "osm_id": 5338921227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "USPS",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 40.8022419,
+      "lon": -73.9341225,
+      "osm_id": 7658594665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/125.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.98363332830112,
+  "bbox": [
+    -73.98512120754647,
+    40.81126126126127,
+    -73.98214544905576,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "shop.clothes",
+    "shop.supermarket",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "shop.clothes": 1,
+    "shop.supermarket": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8130952,
+      "lon": -73.9843469,
+      "osm_id": 1950344608,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Acme",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8117548,
+      "lon": -73.9844592,
+      "osm_id": 8168414833,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Old Navy",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8113623,
+      "lon": -73.9834194,
+      "osm_id": 9181495786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "image": "dataset/images/40.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.95090665005227,
+  "bbox": [
+    -73.95239432732342,
+    40.80225225225225,
+    -73.94941897278113,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "tourism.hostel",
+    "amenity.bank",
+    "highway.bus_stop",
+    "amenity.place_of_worship",
+    "amenity.restaurant",
+    "shop.clothes",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "tourism.hostel": 1,
+    "amenity.bank": 1,
+    "highway.bus_stop": 2,
+    "amenity.place_of_worship": 2,
+    "amenity.restaurant": 5,
+    "shop.clothes": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Memorial Canaan Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8024294,
+      "lon": -73.9520812,
+      "osm_id": 357621009,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L-Hostels",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 40.804182,
+      "lon": -73.951475,
+      "osm_id": 607275263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canaan Baptist Church of Christ",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8025977,
+      "lon": -73.9514547,
+      "osm_id": 2762496227,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Gourmet Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8029592,
+      "lon": -73.9523662,
+      "osm_id": 2762496233,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Amy Ruth's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8024602,
+      "lon": -73.9502299,
+      "osm_id": 4987134521,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 116th Street & Adam Clayton Powell Jr. Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8028176,
+      "lon": -73.9518389,
+      "osm_id": 5263689429,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr. Boulevard & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8033417,
+      "lon": -73.9522132,
+      "osm_id": 5263691305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of America",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8027065,
+      "lon": -73.9495427,
+      "osm_id": 5972704910,
+      "osm_type": "node",
+      "address": "West 117th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Kilimanjaro Fashions",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8025525,
+      "lon": -73.9505182,
+      "osm_id": 9049400012,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Pizza Co.",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8028171,
+      "lon": -73.9511423,
+      "osm_id": 9432238405,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Baobab Gouygui",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8023545,
+      "lon": -73.9509307,
+      "osm_id": 9553068941,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Keur Coumba",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8026563,
+      "lon": -73.9507343,
+      "osm_id": 9553068947,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tropilyz",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8028721,
+      "lon": -73.9521254,
+      "osm_id": 9553127998,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

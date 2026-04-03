@@ -1,0 +1,159 @@
+{
+  "image": "dataset/images/113.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.94792599398771,
+  "bbox": [
+    -73.94941382273092,
+    40.80900900900902,
+    -73.9464381652445,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "shop.furniture",
+    "amenity.community_centre",
+    "shop.convenience",
+    "shop.supermarket",
+    "highway.bus_stop",
+    "shop.beauty",
+    "amenity.bicycle_rental",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.furniture": 1,
+    "amenity.community_centre": 1,
+    "shop.convenience": 1,
+    "shop.supermarket": 1,
+    "highway.bus_stop": 3,
+    "shop.beauty": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8092477,
+      "lon": -73.9485008,
+      "osm_id": 2562438633,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ashley HomeStore",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 40.8091977,
+      "lon": -73.9492769,
+      "osm_id": 2767369894,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Community Board 10",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8094814,
+      "lon": -73.948904,
+      "osm_id": 4922127903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 127th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8104228,
+      "lon": -73.9470571,
+      "osm_id": 5235570887,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.80918,
+      "lon": -73.9479659,
+      "osm_id": 5235594792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & Adam Clayton Powell Jr Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8093207,
+      "lon": -73.9488598,
+      "osm_id": 5235595642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Adam Clayton Powell Blvd & W 126 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.809284,
+      "lon": -73.947813,
+      "osm_id": 11980276295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "A&S Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8102571,
+      "lon": -73.9470624,
+      "osm_id": 11980400025,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Shiny Nail Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8105048,
+      "lon": -73.9468761,
+      "osm_id": 11981765081,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Shop Fair",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8095106,
+      "lon": -73.948298,
+      "osm_id": 12550855288,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 22,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

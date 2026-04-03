@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/162.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.94494659913069,
+  "bbox": [
+    -73.94643452888391,
+    40.81351351351353,
+    -73.94345866937746,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.cafe",
+    "amenity.police",
+    "amenity.restaurant",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.fast_food": 1,
+    "amenity.cafe": 2,
+    "amenity.police": 1,
+    "amenity.restaurant": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "NYPD 32 PCT",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 40.8157476,
+      "lon": -73.9453969,
+      "osm_id": 2381570818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8155747,
+      "lon": -73.9438822,
+      "osm_id": 2562438644,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Yatenga French Bistro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8142327,
+      "lon": -73.9441134,
+      "osm_id": 4449731898,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 135th Street & Adam Clayton Powell Jr Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8155809,
+      "lon": -73.9441286,
+      "osm_id": 5235584758,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 135th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8151366,
+      "lon": -73.9440396,
+      "osm_id": 5235589804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Doctors Medical Group",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8137417,
+      "lon": -73.9445114,
+      "osm_id": 6296848316,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Acts III Bagels",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8157311,
+      "lon": -73.9451417,
+      "osm_id": 6511878535,
+      "osm_type": "node",
+      "address": "West 135th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "PROOF Coffee Roasters",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8149807,
+      "lon": -73.9443109,
+      "osm_id": 9543860017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

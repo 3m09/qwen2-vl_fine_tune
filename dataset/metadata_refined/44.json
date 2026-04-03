@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/44.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.93900523188313,
+  "bbox": [
+    -73.94049290915427,
+    40.80225225225225,
+    -73.93751755461199,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8044651,
+      "lon": -73.9380441,
+      "osm_id": 3661038129,
+      "osm_type": "node",
+      "address": "East 125 Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Dallas Chicken & Biscuits",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8035481,
+      "lon": -73.9378506,
+      "osm_id": 5972697822,
+      "osm_type": "node",
+      "address": "Lexington Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 9,
+    "model": "gemini-2.5-flash"
+  }
+}

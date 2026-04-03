@@ -6,7 +6,7 @@ from utils.utils import haversine
 
 DATASET_DIR = Path("dataset")
 IMAGE_DIR = DATASET_DIR / "images"
-META_DIR = DATASET_DIR / "metadata"
+META_DIR = DATASET_DIR / "metadata_refined"
 
 OUT_DIR = DATASET_DIR / "output_mcqs"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -18,6 +18,11 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def valid_name(name):
     return name and name.lower() != "unnamed"
+
+def convert_category_to_human_readable(category):
+    if not category:
+        return "location"
+    return category.replace('_', ' ')
 
 def get_category_type(categories):
     """Extract the main category type from POI categories"""
@@ -39,7 +44,7 @@ def get_category_type(categories):
             if cat.startswith(key):
                 return value
     
-    return categories[0].split('.')[0] if categories else 'location'
+    return categories[0].split('.')[1] if categories else 'location'
 
 def generate_4_options_names(correct_name, all_pois):
     """Generate 4 unique name options"""
@@ -104,6 +109,19 @@ def get_direction_detailed(from_poi, to_poi):
     else:
         return f"{ns_dir}{ew_dir} of"
 
+def generate_distractor_pois(target_poi, all_pois):
+    """Generate distractor POIs that are of different categories than the target"""
+    target_categories = set([cat.split('.')[1] for cat in target_poi.get("category", [])])
+    
+    distractors = []
+    for poi in all_pois:
+        if poi["name"] == target_poi["name"]:
+            continue
+        poi_categories = set([cat.split('.')[1] for cat in poi.get("category", [])])
+        if not target_categories.intersection(poi_categories):
+            distractors.append(poi)
+    
+    return distractors
 # -------------------------
 # POI MCQ generators
 # -------------------------
@@ -116,12 +134,13 @@ def simple_poi_existence_mcq(image_id, pois, all_pois):
     
     target_poi = random.choice(named_pois)
     category_type = get_category_type(target_poi.get("category", []))
+    #category_type = target_poi.get("primary_type", "location") 
     
-    options = generate_4_options_names(target_poi["name"], all_pois)
+    options = generate_4_options_names(target_poi["name"], generate_distractor_pois(target_poi, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"Does the image portray a {category_type}? If so, what is the name of this {category_type}?",
+        "question": f"Does the image portray a {convert_category_to_human_readable(category_type)}? If so, what is the name of this {convert_category_to_human_readable(category_type)}?",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(options.index(target_poi["name"]) + 1),
@@ -139,15 +158,16 @@ def location_based_mcq(image_id, pois, all_pois):
     
     target_poi, reference_poi = random.sample(named_pois, 2)
     category_type = get_category_type(target_poi.get("category", []))
-    
+    # category_type = target_poi.get("primary_type", "location")
+
     # Calculate actual direction from reference to target
     direction = get_direction(reference_poi, target_poi)
     
-    options = generate_4_options_names(target_poi["name"], all_pois)
+    options = generate_4_options_names(target_poi["name"], generate_distractor_pois(target_poi, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"What {category_type} is located {direction} {reference_poi['name']}?",
+        "question": f"What {convert_category_to_human_readable(category_type)} is located {direction} {reference_poi['name']}?",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(options.index(target_poi["name"]) + 1),
@@ -170,11 +190,11 @@ def specific_poi_question_mcq(image_id, pois, all_pois):
     else:
         category = get_category_type(categories)
     
-    options = generate_4_options_names(target_poi["name"], all_pois)
+    options = generate_4_options_names(target_poi["name"], generate_distractor_pois(target_poi, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"Is there a {category} depicted in the image? If so, what is the name of this {category}?",
+        "question": f"Is there a {convert_category_to_human_readable(category)} depicted in the image? If so, what is the name of this {convert_category_to_human_readable(category)}?",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(options.index(target_poi["name"]) + 1),
@@ -188,13 +208,13 @@ def neighboring_poi_mcq(image_id, pois, all_pois):
         return None
     
     landmark_poi, neighbor_poi = random.sample(named_pois, 2)
-    category_type = get_category_type(neighbor_poi.get("category", []))
+    category_type = neighbor_poi.get("primary_type", get_category_type(neighbor_poi.get("category", [])))
     
-    options = generate_4_options_names(neighbor_poi["name"], all_pois)
+    options = generate_4_options_names(neighbor_poi["name"], generate_distractor_pois(neighbor_poi, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"What is the neighboring {category_type} to {landmark_poi['name']}?",
+        "question": f"What is the neighboring {convert_category_to_human_readable(category_type)} to {landmark_poi['name']}?",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(options.index(neighbor_poi["name"]) + 1),
@@ -213,6 +233,8 @@ def contextual_recommendation_mcq(image_id, pois, all_pois):
     
     workplace = random.choice(other_pois)
     restaurant = random.choice(restaurants)
+
+    other_pois_without_workplace = [p for p in all_pois if p["name"] != workplace["name"]]
     
     contexts = [
         f"I work at {workplace['name']} and I'm looking for a good place to have lunch. Can you recommend a restaurant?",
@@ -221,7 +243,7 @@ def contextual_recommendation_mcq(image_id, pois, all_pois):
         f"I have a meeting at {workplace['name']} and need a place for dinner afterwards. Any restaurant recommendations?"
     ]
     
-    options = generate_4_options_names(restaurant["name"], all_pois)
+    options = generate_4_options_names(restaurant["name"], generate_distractor_pois(restaurant, other_pois_without_workplace))
     
     return {
         "image_path": f"images/{image_id}.png",
@@ -252,12 +274,12 @@ def service_finder_mcq(image_id, pois, all_pois):
         service_type = "health service"
     
     contexts = [
-        f"I need a {service_type}. Can you help me find one?",
-        f"I'm looking for a good {service_type} in this area. Any suggestions?",
-        f"Can you recommend a {service_type} nearby?"
+        f"I need a {convert_category_to_human_readable(service_type)}. Can you help me find one?",
+        f"I'm looking for a good {convert_category_to_human_readable(service_type)} in this area. Any suggestions?",
+        f"Can you recommend a {convert_category_to_human_readable(service_type)} nearby?"
     ]
     
-    options = generate_4_options_names(service_poi["name"], all_pois)
+    options = generate_4_options_names(service_poi["name"], generate_distractor_pois(service_poi, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
@@ -275,16 +297,17 @@ def landmark_identification_mcq(image_id, pois, all_pois):
         return None
     
     landmark = random.choice(named_pois)
-    category_type = get_category_type(landmark.get("category", []))
+    # category_type = get_category_type(landmark.get("category", []))
     
-    landmark_types = ["landmark", "building", "establishment", category_type]
-    landmark_type = random.choice(landmark_types)
+    # landmark_types = ["landmark", "building", "establishment", category_type]
+    # landmark_type = random.choice(landmark_types)
+    landmark_type = landmark.get("primary_type", get_category_type(landmark.get("category", [])))
     
-    options = generate_4_options_names(landmark["name"], all_pois)
+    options = generate_4_options_names(landmark["name"], generate_distractor_pois(landmark, all_pois))
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"What is the name of the {landmark_type} in this picture?",
+        "question": f"What is the name of the {convert_category_to_human_readable(landmark_type)} in this picture?",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(options.index(landmark["name"]) + 1),

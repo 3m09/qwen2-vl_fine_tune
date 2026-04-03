@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/8.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.9747103445376,
+  "bbox": [
+    -73.9761979713295,
+    40.8,
+    -73.97322271774568,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.drinking_water"
+  ],
+  "poi_count_per_category": {
+    "amenity.drinking_water": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Riverside Park 2",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 40.8011,
+      "lon": -73.9737,
+      "osm_id": 1504407888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

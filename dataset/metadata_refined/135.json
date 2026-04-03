@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/135.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.95387574339406,
+  "bbox": [
+    -73.95536362263941,
+    40.81126126126127,
+    -73.9523878641487,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.hairdresser",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.hairdresser": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Union African Hair Brading",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8122123,
+      "lon": -73.9536193,
+      "osm_id": 2768245722,
+      "osm_type": "node",
+      "address": "Morningside Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Morningside Avenue & West 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8115649,
+      "lon": -73.9540185,
+      "osm_id": 5972713773,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & Morningside Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8113767,
+      "lon": -73.9542668,
+      "osm_id": 6823995479,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Presto Fresh Cafe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8122183,
+      "lon": -73.9549914,
+      "osm_id": 9902852319,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

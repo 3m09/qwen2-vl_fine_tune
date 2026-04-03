@@ -9,1766 +9,220 @@
     40.80450450450451
   ],
   "unique_categories": [
-    "commercial.clothing.clothes",
-    "access_limited.private",
-    "commercial",
-    "highway",
-    "highway.service",
-    "highway.tertiary",
-    "highway.residential",
-    "highway.footway",
-    "highway.primary",
-    "commercial.clothing",
-    "access_limited.customers",
-    "catering",
-    "access_limited",
-    "halal",
-    "commercial.food_and_drink",
-    "commercial.convenience",
-    "commercial.food_and_drink.butcher",
-    "catering.restaurant",
-    "catering.restaurant.pizza",
-    "highway.secondary"
+    "amenity.bank",
+    "amenity.restaurant",
+    "tourism.hostel",
+    "highway.bus_stop",
+    "shop.clothes",
+    "amenity.bicycle_rental",
+    "shop.butcher",
+    "amenity.place_of_worship",
+    "shop.convenience"
   ],
   "poi_count_per_category": {
-    "commercial.clothing.clothes": 1,
-    "access_limited.private": 3,
-    "commercial": 3,
-    "highway": 55,
-    "highway.service": 6,
-    "highway.tertiary": 1,
-    "highway.residential": 5,
-    "highway.footway": 32,
-    "highway.primary": 6,
-    "commercial.clothing": 1,
-    "access_limited.customers": 1,
-    "catering": 5,
-    "access_limited": 4,
-    "halal": 1,
-    "commercial.food_and_drink": 1,
-    "commercial.convenience": 1,
-    "commercial.food_and_drink.butcher": 1,
-    "catering.restaurant": 5,
-    "catering.restaurant.pizza": 1,
-    "highway.secondary": 5
+    "amenity.bank": 1,
+    "amenity.restaurant": 5,
+    "tourism.hostel": 1,
+    "highway.bus_stop": 3,
+    "shop.clothes": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.butcher": 1,
+    "amenity.place_of_worship": 2,
+    "shop.convenience": 1
   },
-  "poi_count": 63,
+  "poi_count": 16,
   "pois": [
     {
-      "name": "Harlem Pizza Co.",
+      "name": "Memorial Canaan Baptist Church",
       "category": [
-        "catering",
-        "catering.restaurant",
-        "catering.restaurant.pizza"
+        "amenity.place_of_worship"
       ],
-      "lat": 40.8028171,
-      "lon": -73.9511423,
-      "place_id": "51e715f483df7c52c059d960f3b5c2664440f00103f90145893432020000009203104861726c656d2050697a7a6120436f2e",
-      "geometry_type": "Point",
+      "lat": 40.8024294,
+      "lon": -73.9520812,
+      "osm_id": 357621009,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tropilyz",
+      "name": "L-Hostels",
       "category": [
-        "catering",
-        "catering.restaurant"
+        "tourism.hostel"
       ],
-      "lat": 40.8028721,
-      "lon": -73.9521254,
-      "place_id": "5138ac5f9fef7c52c0599efa5283c4664440f00103f9013e2a69390200000092030854726f70696c797a",
-      "geometry_type": "Point",
+      "lat": 40.804182,
+      "lon": -73.951475,
+      "osm_id": 607275263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canaan Baptist Church of Christ",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8025977,
+      "lon": -73.9514547,
+      "osm_id": 2762496227,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Gourmet Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8029592,
+      "lon": -73.9523662,
+      "osm_id": 2762496233,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
       "road_geometry": null
     },
     {
       "name": "Amy Ruth's",
       "category": [
-        "catering",
-        "catering.restaurant"
+        "amenity.restaurant"
       ],
       "lat": 40.8024602,
       "lon": -73.9502299,
-      "place_id": "519b0b1291d07c52c059db760e04b7664440f00103f90139a241290100000092030a416d7920527574682773",
-      "geometry_type": "Point",
+      "osm_id": 4987134521,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "Le Baobab Gouygui",
+      "name": "West 116th Street & Malcolm X Boulevard",
       "category": [
-        "catering",
-        "catering.restaurant"
+        "highway.bus_stop"
       ],
-      "lat": 40.8023545,
-      "lon": -73.9509307,
-      "place_id": "51ca50700cdc7c52c0595271618db3664440f00103f9018d436839020000009203114c652042616f62616220476f7579677569",
-      "geometry_type": "Point",
+      "lat": 40.8022685,
+      "lon": -73.9499921,
+      "osm_id": 5263683775,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Keur Coumba",
+      "name": "West 116th Street & Adam Clayton Powell Jr. Boulevard",
       "category": [
-        "catering",
-        "catering.restaurant"
+        "highway.bus_stop"
       ],
-      "lat": 40.8026563,
-      "lon": -73.9507343,
-      "place_id": "51df6badd4d87c52c059f8011071bd664440f00103f901934368390200000092030b4b65757220436f756d6261",
-      "geometry_type": "Point",
+      "lat": 40.8028176,
+      "lon": -73.9518389,
+      "osm_id": 5263689429,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr. Boulevard",
+      "name": "Adam Clayton Powell Jr. Boulevard & West 116th Street",
       "category": [
-        "highway",
-        "highway.primary"
+        "highway.bus_stop"
       ],
-      "lat": 40.80418616017793,
-      "lon": -73.95192730654634,
-      "place_id": "5144a2d0b2ee7c52c059a5e5ca3fe9664440f00102f901ba875600000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9516496,
-            40.8045644
-          ],
-          [
-            -73.9516898,
-            40.8045096
-          ],
-          [
-            -73.952069,
-            40.8039932
-          ],
-          [
-            -73.9521121,
-            40.8039345
-          ],
-          [
-            -73.9521502,
-            40.803882
-          ],
-          [
-            -73.9522043,
-            40.8038074
-          ]
-        ]
-      }
+      "lat": 40.8033417,
+      "lon": -73.9522132,
+      "osm_id": 5263691305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr. Boulevard",
+      "name": "Bank of America",
       "category": [
-        "highway",
-        "highway.primary"
+        "amenity.bank"
       ],
-      "lat": 40.803349643673215,
-      "lon": -73.95232414131473,
-      "place_id": "514e27d9eaf27c52c0592d790a0ed4664440f00102f901dc192a0c000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9524444,
-            40.8031843
-          ],
-          [
-            -73.9523682,
-            40.803289
-          ],
-          [
-            -73.9523265,
-            40.8033464
-          ],
-          [
-            -73.9522039,
-            40.803515
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 116th Street",
-      "category": [
-        "highway",
-        "highway.tertiary"
-      ],
-      "lat": 40.80262849393944,
-      "lon": -73.95109972962292,
-      "place_id": "516752f98de57c52c059f8ef6717c2664440f00102f90114dc3212000000009203115765737420313136746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9497548,
-            40.8020733
-          ],
-          [
-            -73.9498595,
-            40.8021165
-          ],
-          [
-            -73.9500257,
-            40.8021852
-          ],
-          [
-            -73.9515109,
-            40.8027982
-          ],
-          [
-            -73.9523332,
-            40.8031371
-          ],
-          [
-            -73.9524444,
-            40.8031843
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard",
-      "category": [
-        "highway",
-        "highway.primary"
-      ],
-      "lat": 40.80369020246626,
-      "lon": -73.95207645338992,
-      "place_id": "51278f5d58ed7c52c059c9d38d60e3664440f00102f9010a131619000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522039,
-            40.803515
-          ],
-          [
-            -73.9519864,
-            40.803814
-          ],
-          [
-            -73.951949,
-            40.8038654
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard",
-      "category": [
-        "highway",
-        "highway.primary"
-      ],
-      "lat": 40.803466986917655,
-      "lon": -73.95245216366212,
-      "place_id": "51f35c3a41f67c52c05940402080d4664440f00102f9010e131619000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522965,
-            40.8036804
-          ],
-          [
-            -73.9525302,
-            40.80336
-          ],
-          [
-            -73.952608,
-            40.8032537
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Malcolm X Boulevard",
-      "category": [
-        "highway",
-        "highway.secondary"
-      ],
-      "lat": 40.80225364530318,
-      "lon": -73.94943214349517,
-      "place_id": "515a7b9faac27c52c059d5b1d98bb2664440f00102f90107171619000000009203134d616c636f6c6d205820426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9496071,
-            40.8020112
-          ],
-          [
-            -73.9495471,
-            40.8020944
-          ],
-          [
-            -73.9493815,
-            40.8023238
-          ],
-          [
-            -73.9492572,
-            40.8024961
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Malcolm X Boulevard",
-      "category": [
-        "highway",
-        "highway.secondary"
-      ],
-      "lat": 40.80222434913449,
-      "lon": -73.94964552967053,
-      "place_id": "515e0f26c5c77c52c0595d650d22ad664440f00102f90109171619000000009203134d616c636f6c6d205820426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9495364,
-            40.8023755
-          ],
-          [
-            -73.949693,
-            40.8021586
-          ],
-          [
-            -73.9497548,
-            40.8020733
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Malcolm X Boulevard",
-      "category": [
-        "highway",
-        "highway.secondary"
-      ],
-      "lat": 40.8028726732041,
-      "lon": -73.94917858816748,
-      "place_id": "510f5df525c07c52c059c999dd43c2664440f00102f90124171619000000009203134d616c636f6c6d205820426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9488235,
-            40.8033718
-          ],
-          [
-            -73.9488649,
-            40.8033136
-          ],
-          [
-            -73.9492278,
-            40.8028035
-          ],
-          [
-            -73.9492747,
-            40.8027375
-          ],
-          [
-            -73.9493145,
-            40.8026823
-          ],
-          [
-            -73.9495364,
-            40.8023755
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard",
-      "category": [
-        "highway",
-        "highway.primary"
-      ],
-      "lat": 40.80424584173675,
-      "lon": -73.95166871591454,
-      "place_id": "5184f5dac7e57c52c059e051baeef7664440f00102f901dfa1763a000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.951949,
-            40.8038654
-          ],
-          [
-            -73.951906,
-            40.8039238
-          ],
-          [
-            -73.9515247,
-            40.8044413
-          ],
-          [
-            -73.9514846,
-            40.8044957
-          ],
-          [
-            -73.9514414,
-            40.8045549
-          ],
-          [
-            -73.951389,
-            40.8046267
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard",
-      "category": [
-        "highway",
-        "highway.primary"
-      ],
-      "lat": 40.8037439,
-      "lon": -73.9522504,
-      "place_id": "5114e74deaf07c52c059676f3029e3664440f00102f9014480103d000000009203214164616d20436c6179746f6e20506f77656c6c204a722e20426f756c6576617264",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522043,
-            40.8038074
-          ],
-          [
-            -73.9522965,
-            40.8036804
-          ]
-        ]
-      }
+      "lat": 40.8027065,
+      "lon": -73.9495427,
+      "osm_id": 5972704910,
+      "osm_type": "node",
+      "address": "West 117th Street",
+      "road_geometry": null
     },
     {
       "name": "Daru Salam Halal Meat & Fish Market",
       "category": [
-        "commercial",
-        "commercial.food_and_drink",
-        "commercial.food_and_drink.butcher",
-        "halal"
+        "shop.butcher"
       ],
       "lat": 40.8025986,
       "lon": -73.9506242,
-      "place_id": "515072e206d77c52c05982330a8dbb664440f00103f901cae2621b02000000920323446172752053616c616d2048616c616c204d65617420262046697368204d61726b6574",
-      "geometry_type": "Point",
+      "osm_id": 9049400010,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
       "name": "Kilimanjaro Fashions",
       "category": [
-        "commercial",
-        "commercial.clothing",
-        "commercial.clothing.clothes"
+        "shop.clothes"
       ],
       "lat": 40.8025525,
       "lon": -73.9505182,
-      "place_id": "512ed0494ad57c52c0597934530aba664440f00103f901cce2621b020000009203144b696c696d616e6a61726f2046617368696f6e73",
-      "geometry_type": "Point",
+      "osm_id": 9049400012,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "West 115th Street",
+      "name": "Harlem Pizza Co.",
       "category": [
-        "highway",
-        "highway.residential"
+        "amenity.restaurant"
       ],
-      "lat": 40.80128345660496,
-      "lon": -73.95001547329815,
-      "place_id": "518b677517cd7c52c05963f0917d90664440f00102f9011a8a5600000000009203115765737420313135746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9471084,
-            40.8000191
-          ],
-          [
-            -73.9484295,
-            40.8005903
-          ],
-          [
-            -73.949176,
-            40.800907
-          ],
-          [
-            -73.9500178,
-            40.8012845
-          ],
-          [
-            -73.9501099,
-            40.8013237
-          ],
-          [
-            -73.9502539,
-            40.8013803
-          ],
-          [
-            -73.9503359,
-            40.8014149
-          ],
-          [
-            -73.9508369,
-            40.8016263
-          ],
-          [
-            -73.9513081,
-            40.8018252
-          ],
-          [
-            -73.9524607,
-            40.8023107
-          ],
-          [
-            -73.9525882,
-            40.802366
-          ],
-          [
-            -73.9527183,
-            40.8024213
-          ],
-          [
-            -73.9528474,
-            40.8024754
-          ],
-          [
-            -73.9529374,
-            40.8025132
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 117th Street",
-      "category": [
-        "highway",
-        "highway.secondary"
-      ],
-      "lat": 40.80406659788252,
-      "lon": -73.95242290090003,
-      "place_id": "511cf0541bf77c52c059ffd66cdfed664440f00102f9018144c702000000009203115765737420313137746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9521121,
-            40.8039345
-          ],
-          [
-            -73.9522182,
-            40.8039796
-          ],
-          [
-            -73.9525822,
-            40.8041343
-          ],
-          [
-            -73.9527337,
-            40.8041987
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 118th Street",
-      "category": [
-        "highway",
-        "highway.residential"
-      ],
-      "lat": 40.80323370504758,
-      "lon": -73.94849614930554,
-      "place_id": "51bb9a3c65b57c52c059d40b6767d1664440f00102f9018244c702000000009203115765737420313138746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9514846,
-            40.8044957
-          ],
-          [
-            -73.9513839,
-            40.8044531
-          ],
-          [
-            -73.9505964,
-            40.8041206
-          ],
-          [
-            -73.948911,
-            40.8034088
-          ],
-          [
-            -73.9488235,
-            40.8033718
-          ],
-          [
-            -73.9486636,
-            40.8033044
-          ],
-          [
-            -73.9485715,
-            40.8032655
-          ],
-          [
-            -73.9462272,
-            40.8022763
-          ],
-          [
-            -73.9456339,
-            40.8020245
-          ],
-          [
-            -73.945508,
-            40.801971
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 117th Street",
-      "category": [
-        "highway",
-        "highway.secondary"
-      ],
-      "lat": 40.80389996322062,
-      "lon": -73.95203054439868,
-      "place_id": "51f0bd1afbed7c52c0596935ae1ee6664440f00102f9011bbe3b1a000000009203115765737420313137746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.951949,
-            40.8038654
-          ],
-          [
-            -73.9520252,
-            40.8038977
-          ],
-          [
-            -73.9521121,
-            40.8039345
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 118th Street",
-      "category": [
-        "highway",
-        "highway.residential"
-      ],
-      "lat": 40.80453005,
-      "lon": -73.9515671,
-      "place_id": "511850b9d3e77c52c059918e5df7fb664440f00102f9011cbe3b1a000000009203115765737420313138746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9516496,
-            40.8045644
-          ],
-          [
-            -73.9514846,
-            40.8044957
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 117th Street",
-      "category": [
-        "highway",
-        "highway.residential"
-      ],
-      "lat": 40.803295643966564,
-      "lon": -73.95061432826182,
-      "place_id": "51049c9438e17c52c0593a7f7505db664440f00102f901ea580b28000000009203115765737420313137746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9492747,
-            40.8027375
-          ],
-          [
-            -73.9493681,
-            40.8027764
-          ],
-          [
-            -73.9497814,
-            40.8029486
-          ],
-          [
-            -73.9512464,
-            40.803559
-          ],
-          [
-            -73.9518409,
-            40.8038194
-          ],
-          [
-            -73.951949,
-            40.8038654
-          ]
-        ]
-      }
-    },
-    {
-      "name": "West 119th Street",
-      "category": [
-        "highway",
-        "highway.residential"
-      ],
-      "lat": 40.804930659391246,
-      "lon": -73.95057723098239,
-      "place_id": "5165e723dfdb7c52c059dab63baf0c674440f00102f90169f1543a000000009203115765737420313139746820537472656574",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9483526,
-            40.8039962
-          ],
-          [
-            -73.94844,
-            40.8040329
-          ],
-          [
-            -73.9509199,
-            40.8050746
-          ],
-          [
-            -73.9510272,
-            40.8051196
-          ],
-          [
-            -73.9511928,
-            40.8051892
-          ],
-          [
-            -73.9513053,
-            40.8052364
-          ],
-          [
-            -73.9526685,
-            40.8058224
-          ],
-          [
-            -73.9527966,
-            40.8058775
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Urban Gourmet Deli",
-      "category": [
-        "commercial",
-        "commercial.convenience"
-      ],
-      "lat": 40.8029592,
-      "lon": -73.9523662,
-      "place_id": "5136b45c91f37c52c05904cef85dc7664440f00103f901e958a8a400000000920312557262616e20476f75726d65742044656c69",
-      "geometry_type": "Point",
+      "lat": 40.8028171,
+      "lon": -73.9511423,
+      "osm_id": 9432238405,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "Unnamed",
+      "name": "Le Baobab Gouygui",
       "category": [
-        "highway",
-        "highway.service"
+        "amenity.restaurant"
       ],
-      "lat": 40.80248800036948,
-      "lon": -73.9517387,
-      "place_id": "519bb56f49e97c52c0597a8242edb7664440f00102f9011adefb2100000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9515995,
-            40.8026757
-          ],
-          [
-            -73.9517387,
-            40.802488
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "access_limited",
-        "access_limited.private",
-        "highway",
-        "highway.service"
-      ],
-      "lat": 40.80347000036959,
-      "lon": -73.95131009999999,
-      "place_id": "51aff6c143e27c52c059c773df1ad8664440f00102f9011bdefb2100000000",
-      "geometry_type": "Point",
+      "lat": 40.8023545,
+      "lon": -73.9509307,
+      "osm_id": 9553068941,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "Unnamed",
+      "name": "Keur Coumba",
       "category": [
-        "access_limited",
-        "access_limited.private",
-        "highway",
-        "highway.service"
+        "amenity.restaurant"
       ],
-      "lat": 40.803275700369575,
-      "lon": -73.951449,
-      "place_id": "51f6b3588ae47c52c0592161f7bcd1664440f00102f9016d43a32f00000000",
-      "geometry_type": "Point",
+      "lat": 40.8026563,
+      "lon": -73.9507343,
+      "osm_id": 9553068947,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "Unnamed",
+      "name": "Tropilyz",
       "category": [
-        "access_limited",
-        "access_limited.private",
-        "highway",
-        "highway.service"
+        "amenity.restaurant"
       ],
-      "lat": 40.802854900369525,
-      "lon": -73.9498474,
-      "place_id": "5133ccbf4cca7c52c0599e420af3c3664440f00102f9016e43a32f00000000",
-      "geometry_type": "Point",
+      "lat": 40.8028721,
+      "lon": -73.9521254,
+      "osm_id": 9553127998,
+      "osm_type": "node",
+      "address": "West 116th Street",
       "road_geometry": null
     },
     {
-      "name": "Unnamed",
+      "name": "Citi Bike - Adam Clayton Powell Blvd & W 118 St",
       "category": [
-        "access_limited",
-        "access_limited.customers",
-        "highway",
-        "highway.service"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.804071800369684,
-      "lon": -73.95063,
-      "place_id": "512d26361fd77c52c059a01c23d3eb664440f00102f901a24aa82f00000000",
-      "geometry_type": "Point",
+      "lat": 40.8043792,
+      "lon": -73.9514771,
+      "osm_id": 13226785427,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.service"
-      ],
-      "lat": 40.80271850036951,
-      "lon": -73.95156859999999,
-      "place_id": "51a139fc7fe67c52c059987dd57abf664440f00102f9015c5bf53c00000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9515109,
-            40.8027982
-          ],
-          [
-            -73.9515686,
-            40.8027185
-          ],
-          [
-            -73.9515995,
-            40.8026757
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.8035135003696,
-      "lon": -73.95127899999999,
-      "place_id": "51c79750c1e17c52c059affdc687d9664440f00102f9018ac23f4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9494084,
-            40.8027222
-          ],
-          [
-            -73.9498179,
-            40.8028967
-          ],
-          [
-            -73.951279,
-            40.8035135
-          ],
-          [
-            -73.9518772,
-            40.8037688
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803878100369644,
-      "lon": -73.9517987,
-      "place_id": "5105381845ea7c52c0597487437ae5664440f00102f9018bc23f4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9517987,
-            40.8038781
-          ],
-          [
-            -73.9493191,
-            40.8028424
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80200290036942,
-      "lon": -73.9515603,
-      "place_id": "51012b2c5de67c52c0592131f207a8664440f00102f9018dc23f4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9525091,
-            40.8024058
-          ],
-          [
-            -73.9524666,
-            40.802387
-          ],
-          [
-            -73.9522265,
-            40.8022854
-          ],
-          [
-            -73.9515603,
-            40.8020029
-          ],
-          [
-            -73.9507941,
-            40.8016873
-          ],
-          [
-            -73.9502925,
-            40.8014744
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.802928500369525,
-      "lon": -73.9524975,
-      "place_id": "51650113b8f57c52c059850e715cc6664440f00102f901b64b434200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9525784,
-            40.8028336
-          ],
-          [
-            -73.9524975,
-            40.8029285
-          ],
-          [
-            -73.952397,
-            40.8030526
-          ],
-          [
-            -73.9523788,
-            40.803075
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80313710036956,
-      "lon": -73.95233319999998,
-      "place_id": "514739f306f37c52c05951254e32cd664440f00102f901b74b434200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9523788,
-            40.803075
-          ],
-          [
-            -73.9523332,
-            40.8031371
-          ],
-          [
-            -73.9522733,
-            40.8032185
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803289000369574,
-      "lon": -73.9523682,
-      "place_id": "510630c099f37c52c05974e9882cd2664440f00102f9018a80444200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9525917,
-            40.8033869
-          ],
-          [
-            -73.9525302,
-            40.80336
-          ],
-          [
-            -73.9523682,
-            40.803289
-          ],
-          [
-            -73.9522948,
-            40.8032569
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80450960036972,
-      "lon": -73.95168979999998,
-      "place_id": "51f3bb557ce87c52c059f773ab2bfa664440f00102f90141e5464200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9517967,
-            40.8045539
-          ],
-          [
-            -73.9516898,
-            40.8045096
-          ],
-          [
-            -73.9515247,
-            40.8044413
-          ],
-          [
-            -73.9514234,
-            40.8043994
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80388200036965,
-      "lon": -73.9521502,
-      "place_id": "5150786407f07c52c05921b7fa9ae5664440f00102f90143e5464200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522325,
-            40.803916
-          ],
-          [
-            -73.9521502,
-            40.803882
-          ],
-          [
-            -73.9519864,
-            40.803814
-          ],
-          [
-            -73.9519053,
-            40.8037804
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80399320036967,
-      "lon": -73.952069,
-      "place_id": "5144a2d0b2ee7c52c059a5e5ca3fe9664440f00102f90144e5464200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9521529,
-            40.8040296
-          ],
-          [
-            -73.952069,
-            40.8039932
-          ],
-          [
-            -73.951906,
-            40.8039238
-          ],
-          [
-            -73.9518317,
-            40.8038922
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80220270036944,
-      "lon": -73.94979329999998,
-      "place_id": "516e5dd669c97c52c059c16cfd93ae664440f00102f90147e5464200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9497933,
-            40.8022027
-          ],
-          [
-            -73.9494084,
-            40.8027222
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80324120036958,
-      "lon": -73.95225759999998,
-      "place_id": "518357dcc9f17c52c0598d318f9bd0664440f00102f901b8d8474200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522948,
-            40.8032569
-          ],
-          [
-            -73.9522576,
-            40.8032412
-          ],
-          [
-            -73.9497933,
-            40.8022027
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80271850036951,
-      "lon": -73.95156859999999,
-      "place_id": "51a139fc7fe67c52c059987dd57abf664440f00102f901b9d8474200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9499274,
-            40.8020281
-          ],
-          [
-            -73.9515686,
-            40.8027185
-          ],
-          [
-            -73.952397,
-            40.8030526
-          ],
-          [
-            -73.9524349,
-            40.803068
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.8042119003697,
-      "lon": -73.95258089999999,
-      "place_id": "51d412e115f77c52c0592992616af0664440f00102f901c5d8474200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9525809,
-            40.8042119
-          ],
-          [
-            -73.952175,
-            40.8040384
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80406500036967,
-      "lon": -73.95258279999999,
-      "place_id": "51da2ed91df77c52c0591539189aeb664440f00102f901c6d8474200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9525828,
-            40.804065
-          ],
-          [
-            -73.9522578,
-            40.8039265
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.805029300369775,
-      "lon": -73.9509531,
-      "place_id": "51e921646adc7c52c05979b43a330b674440f00102f901cad8474200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9484831,
-            40.8039764
-          ],
-          [
-            -73.9509531,
-            40.8050293
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80324120036958,
-      "lon": -73.95225759999998,
-      "place_id": "518357dcc9f17c52c0598d318f9bd0664440f00102f90180404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522733,
-            40.8032185
-          ],
-          [
-            -73.9522576,
-            40.8032412
-          ],
-          [
-            -73.9518772,
-            40.8037688
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803819400369655,
-      "lon": -73.9518409,
-      "place_id": "51b11f18f6ea7c52c0592f3dda8de3664440f00102f90181404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9518649,
-            40.8037859
-          ],
-          [
-            -73.9518409,
-            40.8038194
-          ],
-          [
-            -73.951812,
-            40.8038596
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80354960036961,
-      "lon": -73.9525372,
-      "place_id": "514c8e965ef67c52c05992269bb6da664440f00102f90182404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522578,
-            40.8039265
-          ],
-          [
-            -73.9525372,
-            40.8035496
-          ],
-          [
-            -73.9526472,
-            40.8034085
-          ],
-          [
-            -73.9526638,
-            40.8033872
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80397960036966,
-      "lon": -73.95221819999999,
-      "place_id": "51fbe99a24f17c52c059921eb5cde8664440f00102f90183404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9521871,
-            40.804022
-          ],
-          [
-            -73.9522182,
-            40.8039796
-          ],
-          [
-            -73.9522424,
-            40.8039472
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803878100369644,
-      "lon": -73.9517987,
-      "place_id": "5105381845ea7c52c0597487437ae5664440f00102f90184404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9517987,
-            40.8038781
-          ],
-          [
-            -73.9514234,
-            40.8043994
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.804453100369734,
-      "lon": -73.95138389999998,
-      "place_id": "51371c4c79e37c52c0597da0b651f8664440f00102f90185404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9514234,
-            40.8043994
-          ],
-          [
-            -73.9513839,
-            40.8044531
-          ],
-          [
-            -73.951341,
-            40.8045114
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.804553900369726,
-      "lon": -73.95179669999999,
-      "place_id": "5134bcb43cea7c52c05986fa489ffb664440f00102f90186404e4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9517967,
-            40.8045539
-          ],
-          [
-            -73.952175,
-            40.8040384
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.804071800369684,
-      "lon": -73.95063,
-      "place_id": "512d26361fd77c52c059a01c23d3eb664440f00102f901a6c15f4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9514234,
-            40.8043994
-          ],
-          [
-            -73.95063,
-            40.8040718
-          ],
-          [
-            -73.9489459,
-            40.8033607
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80346880036959,
-      "lon": -73.94886769999998,
-      "place_id": "51c3ee963fba7c52c059cd78ce10d8664440f00102f901a7c15f4200000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.951341,
-            40.8045114
-          ],
-          [
-            -73.9488677,
-            40.8034688
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80403840036966,
-      "lon": -73.95217499999998,
-      "place_id": "516644696ff07c52c0596e28f5baea664440f00102f9010756885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.952175,
-            40.8040384
-          ],
-          [
-            -73.9521871,
-            40.804022
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80403840036966,
-      "lon": -73.95217499999998,
-      "place_id": "516644696ff07c52c0596e28f5baea664440f00102f9010856885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.952175,
-            40.8040384
-          ],
-          [
-            -73.9521529,
-            40.8040296
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80385960036965,
-      "lon": -73.951812,
-      "place_id": "512ffce07cea7c52c059e61413dfe4664440f00102f9010956885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.951812,
-            40.8038596
-          ],
-          [
-            -73.9517987,
-            40.8038781
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803892200369646,
-      "lon": -73.95183169999999,
-      "place_id": "51f2b281cfea7c52c0596e0c8bf0e5664440f00102f9010a56885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9518317,
-            40.8038922
-          ],
-          [
-            -73.9517987,
-            40.8038781
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80378590036963,
-      "lon": -73.9518649,
-      "place_id": "5176edc15aeb7c52c0596889d574e2664440f00102f9010b56885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9518772,
-            40.8037688
-          ],
-          [
-            -73.9518649,
-            40.8037859
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80378040036963,
-      "lon": -73.9519053,
-      "place_id": "51e7183504ec7c52c0596e60b246e2664440f00102f9010c56885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9519053,
-            40.8037804
-          ],
-          [
-            -73.9518772,
-            40.8037688
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.803916000369654,
-      "lon": -73.9522325,
-      "place_id": "510d6c9560f17c52c059ce2831b8e6664440f00102f9010d56885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522578,
-            40.8039265
-          ],
-          [
-            -73.9522325,
-            40.803916
-          ]
-        ]
-      }
-    },
-    {
-      "name": "Unnamed",
-      "category": [
-        "highway",
-        "highway.footway"
-      ],
-      "lat": 40.80392650036965,
-      "lon": -73.95225779999998,
-      "place_id": "511817b3caf17c52c059d9bc4510e7664440f00102f9010e56885400000000",
-      "geometry_type": "Point",
-      "road_geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.9522424,
-            40.8039472
-          ],
-          [
-            -73.9522578,
-            40.8039265
-          ]
-        ]
-      }
     }
   ]
 }

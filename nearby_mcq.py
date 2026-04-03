@@ -7,7 +7,7 @@ from utils.utils import haversine
 
 DATASET_DIR =  Path("dataset")
 IMAGE_DIR = DATASET_DIR / "images"
-META_DIR = DATASET_DIR / "metadata"
+META_DIR = DATASET_DIR / "metadata_refined"
 
 OUT_DIR = DATASET_DIR / "output_mcqs"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -65,6 +65,11 @@ def generate_4_options_names(correct_name, distractors):
     correct_index = options.index(correct_name)
     return options, correct_index
 
+
+def convert_category_to_human_readable(category):
+    if not category:
+        return "location"
+    return category.replace('_', ' ')
 # -------------------------
 # Nearby MCQ generators
 # -------------------------
@@ -78,6 +83,11 @@ def nearest_restaurant_mcq(image_id, pois):
     # Find restaurants
     restaurants = [p for p in pois if valid_name(p.get("name", "")) and 
                   any("catering" in cat for cat in p.get("category", []))]
+
+    # restaurants = [p for p in pois if valid_name(p.get("name", "")) and 
+    #                any("restaurant" in [cat.split('.')[-1].split('_')[-1] for cat in p.get("category", [])])]
+    # base_candidates = [p for p in pois if valid_name(p.get("name", "")) and 
+    #               not any("restaurant" in [cat.split('.')[-1].split('_')[-1] for cat in p.get("category", [])])]
     
     if not base_candidates or len(restaurants) < 2:
         return None
@@ -172,7 +182,7 @@ def nearest_service_mcq(image_id, pois):
     
     return {
         "image_path": f"images/{image_id}.png",
-        "question": f"What is the closest {service_type} to me? I am at {base['name']}.",
+        "question": f"What is the closest {convert_category_to_human_readable(service_type)} to me? I am at {base['name']}.",
         "option_count": "4",
         "options": "\n".join([f"{i+1}.{opt}" for i, opt in enumerate(options)]),
         "answer": str(correct_index + 1),

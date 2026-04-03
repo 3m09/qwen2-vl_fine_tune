@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/133.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.95982726037548,
+  "bbox": [
+    -73.96131513962082,
+    40.81126126126127,
+    -73.95833938113012,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "shop.laundry",
+    "shop.bakery",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "shop.laundry": 1,
+    "shop.bakery": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Broadway & West 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8120348,
+      "lon": -73.960741,
+      "osm_id": 4284112689,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chokolat Bakery & Tea",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8130156,
+      "lon": -73.9605656,
+      "osm_id": 9509315844,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia Cleaners",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8113267,
+      "lon": -73.9611465,
+      "osm_id": 11772947998,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

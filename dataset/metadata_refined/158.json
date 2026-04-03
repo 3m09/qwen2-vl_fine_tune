@@ -1,0 +1,209 @@
+{
+  "image": "dataset/images/158.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.95685003715649,
+  "bbox": [
+    -73.95833796690971,
+    40.81351351351353,
+    -73.95536210740326,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.cafe",
+    "amenity.school",
+    "amenity.clinic",
+    "shop.supermarket",
+    "shop.convenience",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "highway.bus_stop": 4,
+    "amenity.fast_food": 1,
+    "amenity.cafe": 1,
+    "amenity.school": 3,
+    "amenity.clinic": 1,
+    "shop.supermarket": 1,
+    "shop.convenience": 1,
+    "shop.alcohol": 1
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "The Urban Assembly Institute for New Technologies (M410)",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8156522,
+      "lon": -73.9558478,
+      "osm_id": 357621407,
+      "osm_type": "node",
+      "address": "West 129th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Speyer School (Historic Site)",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8144703,
+      "lon": -73.9562333,
+      "osm_id": 357624515,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Junior High School 43",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8157206,
+      "lon": -73.9554612,
+      "osm_id": 5319268727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Red Olive Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8154688,
+      "lon": -73.9578278,
+      "osm_id": 5399812753,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8136612,
+      "lon": -73.9559188,
+      "osm_id": 5402622147,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & Amsterdam Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8138451,
+      "lon": -73.9565034,
+      "osm_id": 5972713588,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C-Town",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8146913,
+      "lon": -73.9577661,
+      "osm_id": 7598923198,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8152555,
+      "lon": -73.9580743,
+      "osm_id": 8736432119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 125th Street & Old Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8150994,
+      "lon": -73.9576052,
+      "osm_id": 8736432132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charm Thai Express",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8138643,
+      "lon": -73.9561495,
+      "osm_id": 10195646156,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Plowshares Coffee Roasters",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8137808,
+      "lon": -73.9557256,
+      "osm_id": 10798119179,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Lala Wine & Liquor",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8150334,
+      "lon": -73.9579873,
+      "osm_id": 11772965585,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "City Prime Health",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8153704,
+      "lon": -73.9577427,
+      "osm_id": 11772978388,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8156413,
+      "lon": -73.957977,
+      "osm_id": 11772978389,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 26,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}
