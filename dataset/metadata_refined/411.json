@@ -1,0 +1,589 @@
+{
+  "image": "dataset/images/411.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.18555656380077,
+  "bbox": [
+    114.18433958457217,
+    22.2795045045045,
+    114.18677354302939,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "shop.bag",
+    "shop.pet",
+    "shop.chemist",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.post_office",
+    "shop.telecommunication",
+    "amenity.cinema",
+    "shop.furniture",
+    "shop.optician",
+    "amenity.bank",
+    "shop.supermarket",
+    "shop.electronics",
+    "highway.bus_stop",
+    "shop.clothes",
+    "shop.mall",
+    "amenity.pharmacy",
+    "shop.sports",
+    "railway.tram_stop"
+  ],
+  "poi_count_per_category": {
+    "shop.bag": 1,
+    "shop.pet": 1,
+    "shop.chemist": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.post_office": 1,
+    "shop.telecommunication": 1,
+    "amenity.cinema": 1,
+    "shop.furniture": 2,
+    "shop.optician": 1,
+    "amenity.bank": 1,
+    "shop.supermarket": 1,
+    "shop.electronics": 1,
+    "highway.bus_stop": 17,
+    "shop.clothes": 7,
+    "shop.mall": 1,
+    "amenity.pharmacy": 1,
+    "shop.sports": 1,
+    "railway.tram_stop": 2
+  },
+  "poi_count": 44,
+  "pois": [
+    {
+      "name": "May May King",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2807571,
+      "lon": 114.1857547,
+      "osm_id": 629118338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mr Steak",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2800252,
+      "lon": 114.1861449,
+      "osm_id": 1298704543,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Watami",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2803208,
+      "lon": 114.185947,
+      "osm_id": 1298704723,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e23\u6253\u9280\u884c Standard Chartered",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2796931,
+      "lon": 114.1855683,
+      "osm_id": 1299465456,
+      "osm_type": "node",
+      "address": "\u6021\u548c\u8857 Yee Wo Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Victoria's Secret",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2798314,
+      "lon": 114.18454,
+      "osm_id": 1299465500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b9c\u5bb6\u5bb6\u5c45 IKEA",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.2809453,
+      "lon": 114.1865085,
+      "osm_id": 1802894781,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cinema City",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 22.2806885,
+      "lon": 114.185775,
+      "osm_id": 2090579206,
+      "osm_type": "node",
+      "address": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2796898,
+      "lon": 114.1861371,
+      "osm_id": 2300434248,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2798278,
+      "lon": 114.1856238,
+      "osm_id": 2300434263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279972,
+      "lon": 114.18487,
+      "osm_id": 2604514258,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279794,
+      "lon": 114.186108,
+      "osm_id": 2958865901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799674,
+      "lon": 114.1855828,
+      "osm_id": 2958865902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.280009,
+      "lon": 114.18545,
+      "osm_id": 2958865903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800396,
+      "lon": 114.1853521,
+      "osm_id": 2958865904,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800642,
+      "lon": 114.1852733,
+      "osm_id": 2958865905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279817,
+      "lon": 114.18535,
+      "osm_id": 2958865908,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6021\u548c\u8857 Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798415,
+      "lon": 114.185274,
+      "osm_id": 2958865909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6021\u548c\u8857 Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798709,
+      "lon": 114.185183,
+      "osm_id": 2958865910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798906,
+      "lon": 114.185122,
+      "osm_id": 2958865911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799265,
+      "lon": 114.185011,
+      "osm_id": 2958865912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799064,
+      "lon": 114.185073,
+      "osm_id": 2958865913,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799859,
+      "lon": 114.1855237,
+      "osm_id": 2958865914,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u540d\u5e97\u574a Fashion Walk",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2815629,
+      "lon": 114.1852026,
+      "osm_id": 2977109014,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f8d\u8c50Mall Lung Fung Mall",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.280778,
+      "lon": 114.1847817,
+      "osm_id": 3813866659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Franc Franc",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.2816607,
+      "lon": 114.1862589,
+      "osm_id": 4459004489,
+      "osm_type": "node",
+      "address": "\u4eac\u58eb\u9813\u8857 Kingston Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Repulse Bay Bus Station (40,40x)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2797053,
+      "lon": 114.1847712,
+      "osm_id": 4780849423,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4eae\u8996\u9ede Lens Crafters",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2801024,
+      "lon": 114.1854487,
+      "osm_id": 4856146959,
+      "osm_type": "node",
+      "address": "\u6021\u548c\u8857 Yee Wo Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u677e\u672c\u6e05 Matsumoto Kiyoshi",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2800176,
+      "lon": 114.1859138,
+      "osm_id": 4856151216,
+      "osm_type": "node",
+      "address": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8c50\u6fa4 Fortress",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 22.2798768,
+      "lon": 114.1860454,
+      "osm_id": 4856151219,
+      "osm_type": "node",
+      "address": "\u6021\u548c\u8857 Yee Wo Street",
+      "road_geometry": null
+    },
+    {
+      "name": "$50",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2798381,
+      "lon": 114.1861693,
+      "osm_id": 4856152221,
+      "osm_type": "node",
+      "address": "\u6021\u548c\u8857 Yee Wo Street",
+      "road_geometry": null
+    },
+    {
+      "name": "COS",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.281429,
+      "lon": 114.1855485,
+      "osm_id": 5161899121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\u90f5\u653f\u5c40 Causeway Bay Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 22.2804828,
+      "lon": 114.1866616,
+      "osm_id": 5386799346,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Maison Kitsun\u00e9",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2809132,
+      "lon": 114.1855905,
+      "osm_id": 6417901299,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kura Chika",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2817476,
+      "lon": 114.1851914,
+      "osm_id": 6417901306,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Little Boss",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2796658,
+      "lon": 114.185146,
+      "osm_id": 6759443415,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2795946,
+      "lon": 114.1849679,
+      "osm_id": 6759443424,
+      "osm_type": "node",
+      "address": "\u6e23\u7538\u8857 Jardine's Bazaar",
+      "road_geometry": null
+    },
+    {
+      "name": "3 Supreme",
+      "category": [
+        "shop.telecommunication"
+      ],
+      "lat": 22.2798185,
+      "lon": 114.1851589,
+      "osm_id": 6793319320,
+      "osm_type": "node",
+      "address": "\u6021\u548c\u8857 Yee Wo Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Don Don Donki",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2812616,
+      "lon": 114.1857147,
+      "osm_id": 8157730430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Decathlon",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 22.280854,
+      "lon": 114.1862012,
+      "osm_id": 8244642343,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hannah",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2806391,
+      "lon": 114.184831,
+      "osm_id": 9697359844,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2797886,
+      "lon": 114.185438,
+      "osm_id": 10844132370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063 - \u6021\u548c\u8857 Causeway Bay - Yee Wo Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798525,
+      "lon": 114.18524,
+      "osm_id": 10844132371,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Focus. S",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2807685,
+      "lon": 114.1845055,
+      "osm_id": 11510801108,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u5fb7\u65b0\u8857 Paterson Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799867,
+      "lon": 114.1855149,
+      "osm_id": 12740842347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 98,
+    "removed_count": 54,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/311.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.65394329757674,
+  "bbox": [
+    -46.65517182006821,
+    -23.558738738738743,
+    -46.652714775085265,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.beauty",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.beauty": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Solarium",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5571324,
+      "lon": -46.6530804,
+      "osm_id": 5227135021,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arabia Express",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5572261,
+      "lon": -46.6541245,
+      "osm_id": 6042821333,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Melhor Forma Est\u00e9tica Corporal",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5565394,
+      "lon": -46.654009,
+      "osm_id": 12015680363,
+      "osm_type": "node",
+      "address": "Rua Barata Ribeiro",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

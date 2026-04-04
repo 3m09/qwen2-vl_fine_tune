@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/1315.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.96873436262109,
+  "bbox": [
+    -73.97022320249627,
+    40.85405405405412,
+    -73.9672455227459,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.chemist",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.fire_station",
+    "shop.tea"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.chemist": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 1,
+    "amenity.fire_station": 1,
+    "shop.tea": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Kung Fu Tea",
+      "category": [
+        "amenity.cafe",
+        "shop.tea"
+      ],
+      "lat": 40.8557438,
+      "lon": -73.9676475,
+      "osm_id": 8514846262,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Walgreens",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.8562256,
+      "lon": -73.9681739,
+      "osm_id": 8514846281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Punta Cana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8557621,
+      "lon": -73.9676989,
+      "osm_id": 8542062389,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Kura Sushi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8557109,
+      "lon": -73.9675799,
+      "osm_id": 8697676632,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Port Authority Tunnel & Bridge Agents GWB Command",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 40.8540929,
+      "lon": -73.9694733,
+      "osm_id": 13274945487,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

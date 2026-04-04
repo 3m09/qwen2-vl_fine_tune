@@ -1,20 +1,340 @@
 {
   "image": "dataset/images/7.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.97768559812141,
+  "center_lat": 35.65737837837838,
+  "center_lon": 139.70570166523632,
   "bbox": [
-    -73.97917322491331,
-    40.8,
-    -73.9761979713295,
-    40.80225225225225
+    139.7043157130597,
+    35.65625225225226,
+    139.70708761741295,
+    35.65850450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "amenity.pub",
+    "amenity.theatre",
+    "tourism.hotel",
+    "shop.perfumery",
+    "shop.convenience",
+    "shop.chemist",
+    "shop.stationery",
+    "amenity.restaurant",
+    "shop.outdoor",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "shop.toys"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 2,
+    "amenity.pub": 2,
+    "amenity.theatre": 1,
+    "tourism.hotel": 1,
+    "shop.perfumery": 1,
+    "shop.convenience": 4,
+    "shop.chemist": 1,
+    "shop.stationery": 1,
+    "amenity.restaurant": 6,
+    "shop.outdoor": 2,
+    "amenity.bicycle_rental": 1,
+    "amenity.fast_food": 1,
+    "shop.toys": 1
+  },
+  "poi_count": 24,
+  "pois": [
+    {
+      "name": "Kinko's",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 35.6570211,
+      "lon": 139.704653,
+      "osm_id": 1378123777,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30a4\u30bc\u30ea\u30e4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6565831,
+      "lon": 139.7053059,
+      "osm_id": 1378123779,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30c8\u30e2\u30ba",
+      "category": [
+        "amenity.pharmacy",
+        "shop.chemist"
+      ],
+      "lat": 35.6566929,
+      "lon": 139.7051356,
+      "osm_id": 1378123782,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6563303,
+      "lon": 139.7055945,
+      "osm_id": 1378123981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d5c\u3061\u3083\u3093",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.6568253,
+      "lon": 139.7049105,
+      "osm_id": 1378123988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u98df\u5e79",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.657993,
+      "lon": 139.706995,
+      "osm_id": 2212624955,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657932,
+      "lon": 139.705187,
+      "osm_id": 2212628467,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657932,
+      "lon": 139.704822,
+      "osm_id": 2212633679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8d64\u982d\u5dfe",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.65784,
+      "lon": 139.704626,
+      "osm_id": 2212638241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3068\u308d\u3068\u308d\u623f",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.657781,
+      "lon": 139.7048,
+      "osm_id": 2212639229,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657916,
+      "lon": 139.704396,
+      "osm_id": 2212651608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7389\u9020\u7a32\u8377\u795e\u793e",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6573621,
+      "lon": 139.7064088,
+      "osm_id": 2213088430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u738b\u4e38\u5fa1\u5f71\u5802",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6573739,
+      "lon": 139.7068473,
+      "osm_id": 2213088435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ad\u30df\u30c9\u30ea",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6566387,
+      "lon": 139.7059674,
+      "osm_id": 4563377389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30f3\u30b9\u30a4 \u6e0b\u8c37\u5e97 Part 2\u00a0",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6563451,
+      "lon": 139.7048934,
+      "osm_id": 5891353685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30f3\u30b9\u30a4 \u6e0b\u8c37\u5e97 Part 2",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6563261,
+      "lon": 139.7049296,
+      "osm_id": 5905492185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306f\u306a\u307e\u308b\u3046\u3069\u3093",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6571943,
+      "lon": 139.7044919,
+      "osm_id": 6342629587,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30e2\u30c7\u30eb\u30aa\u30fc\u30c8\u30a8\u30f3\u30ef",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 35.6574103,
+      "lon": 139.7054824,
+      "osm_id": 7166493885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gyukatsu motormura",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6564819,
+      "lon": 139.704692,
+      "osm_id": 7169689781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u7b2c\u4e00\u751f\u547d\u30d3\u30eb",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.657526,
+      "lon": 139.704367,
+      "osm_id": 11436145698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oreryu Shio-Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.657388,
+      "lon": 139.7044669,
+      "osm_id": 12452329263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SHIBUYA ONE5",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 35.6579282,
+      "lon": 139.7054488,
+      "osm_id": 12991041226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "THE FLAVOR DESIGN STORE TOKYO",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 35.6579831,
+      "lon": 139.7063413,
+      "osm_id": 12991041227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37WAVE\uff08SHIBUYA WAVE\uff09",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 35.6565471,
+      "lon": 139.7063455,
+      "osm_id": 12991041231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 45,
+    "removed_count": 21,
     "model": "gemini-2.5-flash"
   }
 }

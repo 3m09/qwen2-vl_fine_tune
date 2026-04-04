@@ -1,31 +1,87 @@
 {
   "image": "dataset/images/145.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.99553621074033,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.82857171450392,
   "bbox": [
-    -73.99702414049355,
-    40.81351351351353,
-    -73.9940482809871,
-    40.81576576576578
+    72.82738114300261,
+    18.938018018018013,
+    72.82976228600522,
+    18.940270270270265
   ],
   "unique_categories": [
+    "amenity.college",
+    "amenity.school",
+    "amenity.events_venue",
+    "tourism.guest_house",
     "amenity.cafe"
   ],
   "poi_count_per_category": {
+    "amenity.college": 1,
+    "amenity.school": 1,
+    "amenity.events_venue": 1,
+    "tourism.guest_house": 1,
     "amenity.cafe": 1
   },
-  "poi_count": 1,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "Kahve",
+      "name": "Cafe Coffee Day",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.815325,
-      "lon": -73.9959848,
-      "osm_id": 6708917485,
+      "lat": 18.9401785,
+      "lon": 72.8283196,
+      "osm_id": 7944300038,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leelabai Thackersey College of Nursing",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 18.9383143,
+      "lon": 72.8282592,
+      "osm_id": 9056958181,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Blossom English Primary School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 18.938294,
+      "lon": 72.8280567,
+      "osm_id": 9056958182,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Central Government Touring Officers Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 18.9386001,
+      "lon": 72.8274228,
+      "osm_id": 9740687824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shri Sunderbai Hall",
+      "category": [
+        "amenity.events_venue"
+      ],
+      "lat": 18.9382872,
+      "lon": 72.8279791,
+      "osm_id": 10220942702,
+      "osm_type": "node",
+      "address": "N Thackersey Road (Carnegy Road)",
       "road_geometry": null
     }
   ]

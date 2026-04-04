@@ -1,50 +1,19 @@
 {
   "image": "dataset/images/150.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.98065691320808,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.84047742951697,
   "bbox": [
-    -73.9821448429613,
-    40.81351351351353,
-    -73.97916898345485,
-    40.81576576576578
+    72.83928685801565,
+    18.938018018018013,
+    72.84166800101826,
+    18.940270270270265
   ],
-  "unique_categories": [
-    "amenity.pharmacy",
-    "shop.department_store"
-  ],
-  "poi_count_per_category": {
-    "amenity.pharmacy": 1,
-    "shop.department_store": 1
-  },
-  "poi_count": 2,
-  "pois": [
-    {
-      "name": "CVS Pharmacy",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.813661,
-      "lon": -73.9817692,
-      "osm_id": 6291787528,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Target",
-      "category": [
-        "shop.department_store"
-      ],
-      "lat": 40.8137666,
-      "lon": -73.9821125,
-      "osm_id": 6291787529,
-      "osm_type": "node",
-      "address": "River Road",
-      "road_geometry": null
-    }
-  ],
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": [],
   "refinement": {
-    "original_poi_count": 2,
+    "original_poi_count": 0,
     "removed_count": 0,
     "model": "gemini-2.5-flash"
   }

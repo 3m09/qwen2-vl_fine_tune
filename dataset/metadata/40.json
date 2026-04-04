@@ -1,227 +1,1034 @@
 {
   "image": "dataset/images/40.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.95090665005227,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.08733376436092088,
   "bbox": [
-    -73.95239432732342,
-    40.80225225225225,
-    -73.94941897278113,
-    40.80450450450451
+    -0.08914322659507505,
+    51.51175675675677,
+    -0.08552430212676673,
+    51.51400900900902
   ],
   "unique_categories": [
-    "amenity.bank",
+    "shop.luxury",
     "amenity.restaurant",
-    "tourism.hostel",
+    "amenity.cafe",
+    "railway.stop",
+    "shop.tobacco",
+    "tourism.information",
+    "shop.optician",
+    "shop.tea",
+    "shop.locksmith",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "leisure.escape_game",
     "highway.bus_stop",
+    "shop.alcohol",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "shop.beverages",
+    "shop.perfumery",
     "shop.clothes",
-    "amenity.bicycle_rental",
-    "shop.butcher",
-    "amenity.place_of_worship",
-    "shop.convenience"
+    "amenity.pub",
+    "tourism.artwork",
+    "shop.wine",
+    "shop.fashion_accessories",
+    "shop.pens",
+    "shop.bag",
+    "shop.beauty",
+    "shop.pastry",
+    "shop.berries",
+    "shop.newsagent",
+    "amenity.bar",
+    "amenity.bench",
+    "shop.shoes",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "amenity.bank": 1,
+    "shop.luxury": 2,
     "amenity.restaurant": 5,
-    "tourism.hostel": 1,
+    "amenity.cafe": 5,
+    "railway.stop": 4,
+    "shop.tobacco": 1,
+    "tourism.information": 1,
+    "shop.optician": 1,
+    "shop.tea": 1,
+    "shop.locksmith": 1,
+    "railway.subway_entrance": 11,
+    "shop.convenience": 1,
+    "leisure.escape_game": 1,
     "highway.bus_stop": 3,
-    "shop.clothes": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.butcher": 1,
-    "amenity.place_of_worship": 2,
-    "shop.convenience": 1
+    "shop.alcohol": 2,
+    "amenity.dentist": 3,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1,
+    "shop.beverages": 1,
+    "shop.perfumery": 1,
+    "shop.clothes": 3,
+    "amenity.pub": 6,
+    "tourism.artwork": 1,
+    "shop.wine": 1,
+    "shop.fashion_accessories": 1,
+    "shop.pens": 1,
+    "shop.bag": 1,
+    "shop.beauty": 3,
+    "shop.pastry": 3,
+    "shop.berries": 1,
+    "shop.newsagent": 1,
+    "amenity.bar": 4,
+    "amenity.bench": 1,
+    "shop.shoes": 3,
+    "shop.jewelry": 4
   },
-  "poi_count": 16,
+  "poi_count": 79,
   "pois": [
     {
-      "name": "Memorial Canaan Baptist Church",
+      "name": "Forge",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.pub"
       ],
-      "lat": 40.8024294,
-      "lon": -73.9520812,
-      "osm_id": 357621009,
+      "lat": 51.5132004,
+      "lon": -0.0871776,
+      "osm_id": 277906484,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Pitcher and Piano",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5132258,
+      "lon": -0.0867502,
+      "osm_id": 289830212,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 4",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5134333,
+      "lon": -0.0881305,
+      "osm_id": 291913900,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "L-Hostels",
-      "category": [
-        "tourism.hostel"
-      ],
-      "lat": 40.804182,
-      "lon": -73.951475,
-      "osm_id": 607275263,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Canaan Baptist Church of Christ",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8025977,
-      "lon": -73.9514547,
-      "osm_id": 2762496227,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Urban Gourmet Deli",
+      "name": "Sainsbury's Local",
       "category": [
         "shop.convenience"
       ],
-      "lat": 40.8029592,
-      "lon": -73.9523662,
-      "osm_id": 2762496233,
+      "lat": 51.5126526,
+      "lon": -0.0874977,
+      "osm_id": 295975600,
       "osm_type": "node",
-      "address": "Adam Clayton Powell Jr. Boulevard",
+      "address": "Lombard Street",
       "road_geometry": null
     },
     {
-      "name": "Amy Ruth's",
+      "name": "Bank Station / Cornhill",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5133627,
+      "lon": -0.0874589,
+      "osm_id": 469759939,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank Station / Cornhill",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5132793,
+      "lon": -0.087615,
+      "osm_id": 469759940,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank Station / King William Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5122269,
+      "lon": -0.0880172,
+      "osm_id": 469759941,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cock and Woolpack",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5137032,
+      "lon": -0.0858011,
+      "osm_id": 796482320,
+      "osm_type": "node",
+      "address": "Finch Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Pod",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5130422,
+      "lon": -0.0881441,
+      "osm_id": 871982508,
+      "osm_type": "node",
+      "address": "Lombard Street",
+      "road_geometry": null
+    },
+    {
+      "name": "1 Lombard Street",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8024602,
-      "lon": -73.9502299,
-      "osm_id": 4987134521,
+      "lat": 51.5131003,
+      "lon": -0.0889797,
+      "osm_id": 871985013,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": "Lombard Street",
       "road_geometry": null
     },
     {
-      "name": "West 116th Street & Malcolm X Boulevard",
+      "name": "Wheeler's Rib Room and Oyster Bar",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8022685,
-      "lon": -73.9499921,
-      "osm_id": 5263683775,
+      "lat": 51.513987,
+      "lon": -0.085556,
+      "osm_id": 972235674,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.512715,
+      "lon": -0.0877077,
+      "osm_id": 1271071236,
+      "osm_type": "node",
+      "address": "Lombard Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Jamaica Wine House",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5129704,
+      "lon": -0.0856635,
+      "osm_id": 1497452168,
+      "osm_type": "node",
+      "address": "St. Michaels Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "Simpson's Tavern",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5130283,
+      "lon": -0.0859508,
+      "osm_id": 1497452177,
+      "osm_type": "node",
+      "address": "Ball Court",
+      "road_geometry": null
+    },
+    {
+      "name": "George and Vulture",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5129153,
+      "lon": -0.0857705,
+      "osm_id": 1497452179,
+      "osm_type": "node",
+      "address": "Castle Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5132557,
+      "lon": -0.0889454,
+      "osm_id": 1655439947,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 116th Street & Adam Clayton Powell Jr. Boulevard",
+      "name": "Bank station, Exit 3",
       "category": [
-        "highway.bus_stop"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8028176,
-      "lon": -73.9518389,
-      "osm_id": 5263689429,
+      "lat": 51.51358,
+      "lon": -0.0881748,
+      "osm_id": 2622210364,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr. Boulevard & West 116th Street",
+      "name": "Bank station, Exit 1",
       "category": [
-        "highway.bus_stop"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8033417,
-      "lon": -73.9522132,
-      "osm_id": 5263691305,
+      "lat": 51.513507,
+      "lon": -0.0891244,
+      "osm_id": 2622404476,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Bank of America",
+      "name": "Horatio",
       "category": [
-        "amenity.bank"
+        "shop.shoes"
       ],
-      "lat": 40.8027065,
-      "lon": -73.9495427,
-      "osm_id": 5972704910,
+      "lat": 51.5134288,
+      "lon": -0.0870225,
+      "osm_id": 2642856998,
       "osm_type": "node",
-      "address": "West 117th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Daru Salam Halal Meat & Fish Market",
+      "name": "Baudoin & Lange",
       "category": [
-        "shop.butcher"
+        "shop.shoes"
       ],
-      "lat": 40.8025986,
-      "lon": -73.9506242,
-      "osm_id": 9049400010,
+      "lat": 51.5138059,
+      "lon": -0.0871787,
+      "osm_id": 2642857008,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Kilimanjaro Fashions",
+      "name": "Tom Davies",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5138542,
+      "lon": -0.0869785,
+      "osm_id": 2642857013,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tumi",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 51.5138003,
+      "lon": -0.0866683,
+      "osm_id": 2642857023,
+      "osm_type": "node",
+      "address": "Royal Exchange",
+      "road_geometry": null
+    },
+    {
+      "name": "Herm\u00e8s",
       "category": [
         "shop.clothes"
       ],
-      "lat": 40.8025525,
-      "lon": -73.9505182,
-      "osm_id": 9049400012,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem Pizza Co.",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8028171,
-      "lon": -73.9511423,
-      "osm_id": 9432238405,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Le Baobab Gouygui",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8023545,
-      "lon": -73.9509307,
-      "osm_id": 9553068941,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Keur Coumba",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8026563,
-      "lon": -73.9507343,
-      "osm_id": 9553068947,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Tropilyz",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8028721,
-      "lon": -73.9521254,
-      "osm_id": 9553127998,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Adam Clayton Powell Blvd & W 118 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8043792,
-      "lon": -73.9514771,
-      "osm_id": 13226785427,
+      "lat": 51.5135422,
+      "lon": -0.0865955,
+      "osm_id": 2642857027,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crockett & Jones",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 51.5138389,
+      "lon": -0.0870402,
+      "osm_id": 2642857036,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "J.Redford & Co",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 51.5137058,
+      "lon": -0.0876506,
+      "osm_id": 2642857045,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jo Malone",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 51.5138731,
+      "lon": -0.0868918,
+      "osm_id": 2642857046,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hagen",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5136344,
+      "lon": -0.0866048,
+      "osm_id": 2642857051,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "elevate",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 51.5137735,
+      "lon": -0.0873231,
+      "osm_id": 2642857053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Searle & Co",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5134117,
+      "lon": -0.0874382,
+      "osm_id": 2642857055,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "M&K",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.513822,
+      "lon": -0.0871164,
+      "osm_id": 2642857061,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Montblanc",
+      "category": [
+        "shop.pens"
+      ],
+      "lat": 51.5134646,
+      "lon": -0.0866766,
+      "osm_id": 2642857064,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "Panino Gusto",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5137835,
+      "lon": -0.0863464,
+      "osm_id": 2642857073,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "Tomoka",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5134148,
+      "lon": -0.0873611,
+      "osm_id": 2642857074,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "Acai Berry",
+      "category": [
+        "shop.berries"
+      ],
+      "lat": 51.5137425,
+      "lon": -0.0874832,
+      "osm_id": 2642857075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chango",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 51.5137316,
+      "lon": -0.0875475,
+      "osm_id": 2642857077,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "Dr David Jack",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5138936,
+      "lon": -0.086818,
+      "osm_id": 2642857085,
+      "osm_type": "node",
+      "address": "Royal Exchange",
+      "road_geometry": null
+    },
+    {
+      "name": "Royal Exchange Jewellers",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5137618,
+      "lon": -0.0874028,
+      "osm_id": 2642857087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Napket",
+      "category": [
+        "shop.luxury"
+      ],
+      "lat": 51.513693,
+      "lon": -0.0877228,
+      "osm_id": 2642857092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Libertine",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5134249,
+      "lon": -0.0875835,
+      "osm_id": 2642857190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rosslyn",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5138957,
+      "lon": -0.086732,
+      "osm_id": 2642857235,
+      "osm_type": "node",
+      "address": "Royal Exchange",
+      "road_geometry": null
+    },
+    {
+      "name": "Bupa Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.513469,
+      "lon": -0.0855335,
+      "osm_id": 2793904911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5134183,
+      "lon": -0.0890314,
+      "osm_id": 3076573909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5120279,
+      "lon": -0.0882346,
+      "osm_id": 3153753719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The East India Company",
+      "category": [
+        "shop.luxury"
+      ],
+      "lat": 51.5136926,
+      "lon": -0.0877451,
+      "osm_id": 3340683299,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5134509,
+      "lon": -0.0862909,
+      "osm_id": 3580324093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, DLR lift R",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5126065,
+      "lon": -0.0880676,
+      "osm_id": 4300196357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Simmons",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5132639,
+      "lon": -0.0862317,
+      "osm_id": 4360076798,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Royal Exchange Grind",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5136823,
+      "lon": -0.0877795,
+      "osm_id": 4428611560,
+      "osm_type": "node",
+      "address": "Royal Exchange",
+      "road_geometry": null
+    },
+    {
+      "name": "Escape Enterainment",
+      "category": [
+        "leisure.escape_game"
+      ],
+      "lat": 51.5127826,
+      "lon": -0.0858931,
+      "osm_id": 4513696612,
+      "osm_type": "node",
+      "address": "George Yard",
+      "road_geometry": null
+    },
+    {
+      "name": "The Birchin Lane Gold Coin Co",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5129784,
+      "lon": -0.08584,
+      "osm_id": 4584963340,
+      "osm_type": "node",
+      "address": "Castle Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 2",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5135583,
+      "lon": -0.0888367,
+      "osm_id": 4861365382,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sweet Express",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": 51.5134252,
+      "lon": -0.0890425,
+      "osm_id": 5165791436,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Timpson",
+      "category": [
+        "shop.locksmith"
+      ],
+      "lat": 51.5134288,
+      "lon": -0.088689,
+      "osm_id": 5165791437,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5120856,
+      "lon": -0.0876995,
+      "osm_id": 5183300153,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hispania",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5128897,
+      "lon": -0.0876847,
+      "osm_id": 5413211373,
+      "osm_type": "node",
+      "address": "Lombard Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 6",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5129893,
+      "lon": -0.088285,
+      "osm_id": 5473274720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit P",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5127727,
+      "lon": -0.0881965,
+      "osm_id": 5473274739,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 2",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5135793,
+      "lon": -0.0889254,
+      "osm_id": 5473274907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 7",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5131368,
+      "lon": -0.089131,
+      "osm_id": 5473274971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 5",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5132093,
+      "lon": -0.088672,
+      "osm_id": 5473274996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Exit 5",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5133069,
+      "lon": -0.0886589,
+      "osm_id": 5473275002,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Honest Burger",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5128692,
+      "lon": -0.08687,
+      "osm_id": 6142562733,
+      "osm_type": "node",
+      "address": "Change Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "Jubilee Walkway",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5134917,
+      "lon": -0.0882771,
+      "osm_id": 6711747463,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Connected Journeys",
+      "category": [
+        "amenity.bench",
+        "tourism.artwork"
+      ],
+      "lat": 51.5134857,
+      "lon": -0.0883136,
+      "osm_id": 6711747464,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fortnum & Mason",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 51.5137552,
+      "lon": -0.0870742,
+      "osm_id": 12410053302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lasagneria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5136065,
+      "lon": -0.0863455,
+      "osm_id": 12599251701,
+      "osm_type": "node",
+      "address": "Royal Exchange Buildings",
+      "road_geometry": null
+    },
+    {
+      "name": "L&Y Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5132186,
+      "lon": -0.0861479,
+      "osm_id": 12866448578,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Bodyscan City",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5132625,
+      "lon": -0.0860897,
+      "osm_id": 12866683209,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Clearstone Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5126398,
+      "lon": -0.0884095,
+      "osm_id": 12867023554,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "St Swithin Wine Shippers",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 51.5120532,
+      "lon": -0.0890978,
+      "osm_id": 12892234882,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bar 1790",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5120097,
+      "lon": -0.0889506,
+      "osm_id": 12892234883,
+      "osm_type": "node",
+      "address": "St Swithin's Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Euphoria Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.51321,
+      "lon": -0.0861494,
+      "osm_id": 12959669717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kale Bespoke",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5130403,
+      "lon": -0.0862373,
+      "osm_id": 12959669718,
+      "osm_type": "node",
+      "address": "Birchin Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Trotters",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5134212,
+      "lon": -0.087204,
+      "osm_id": 13036846830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tomoka",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.513418,
+      "lon": -0.0872817,
+      "osm_id": 13036846831,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Laduree",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 51.5134243,
+      "lon": -0.0871255,
+      "osm_id": 13036890245,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Buns From Home",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 51.513717,
+      "lon": -0.0875969,
+      "osm_id": 13036953129,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aspinal of London",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 51.5138453,
+      "lon": -0.0866781,
+      "osm_id": 13619798054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kiani Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5138527,
+      "lon": -0.0866889,
+      "osm_id": 13628207095,
+      "osm_type": "node",
+      "address": "Royal Exchange",
       "road_geometry": null
     }
   ]

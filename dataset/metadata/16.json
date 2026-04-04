@@ -1,193 +1,229 @@
 {
   "image": "dataset/images/16.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9509083158671,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.09819080608899147,
   "bbox": [
-    -73.952395942659,
-    40.8,
-    -73.94942068907518,
-    40.80225225225225
+    -0.1,
+    51.505,
+    -0.09638161217798295,
+    51.50725225225226
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "railway.station",
-    "amenity.clinic",
-    "amenity.pharmacy",
-    "shop.shoe_repair",
-    "railway.subway_entrance",
-    "amenity.restaurant",
-    "shop.hairdresser",
     "amenity.bicycle_rental",
-    "railway.stop"
+    "tourism.artwork",
+    "amenity.community_centre",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "leisure.sports_centre",
+    "tourism.hostel",
+    "amenity.charging_station",
+    "amenity.bar"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "railway.station": 1,
-    "amenity.clinic": 1,
-    "amenity.pharmacy": 1,
-    "shop.shoe_repair": 1,
-    "railway.subway_entrance": 4,
-    "amenity.restaurant": 1,
-    "shop.hairdresser": 1,
-    "amenity.bicycle_rental": 1,
-    "railway.stop": 1
+    "amenity.bicycle_rental": 2,
+    "tourism.artwork": 1,
+    "amenity.community_centre": 1,
+    "amenity.restaurant": 2,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 4,
+    "leisure.sports_centre": 1,
+    "tourism.hostel": 1,
+    "amenity.charging_station": 1,
+    "amenity.bar": 1
   },
-  "poi_count": 13,
+  "poi_count": 16,
   "pois": [
     {
-      "name": "116th Street",
+      "name": "Lavington Street",
       "category": [
-        "railway.station"
+        "highway.bus_stop"
       ],
-      "lat": 40.8020498,
-      "lon": -73.9497314,
-      "osm_id": 2013632984,
+      "lat": 51.5053624,
+      "lon": -0.0988059,
+      "osm_id": 469773775,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Rodriguez Shoe Repair",
+      "name": "Lavington Street",
       "category": [
-        "shop.shoe_repair"
+        "highway.bus_stop"
       ],
-      "lat": 40.8020332,
-      "lon": -73.9501159,
-      "osm_id": 2762496181,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Lenox Avenue & 116th Street at Northeast Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8021152,
-      "lon": -73.9494321,
-      "osm_id": 3584410162,
+      "lat": 51.5053651,
+      "lon": -0.0980908,
+      "osm_id": 469773776,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Lenox Avenue & 116th Street at Northwest Corner",
+      "name": "The Refinery",
       "category": [
-        "railway.subway_entrance"
+        "amenity.bar"
       ],
-      "lat": 40.8022408,
-      "lon": -73.9497312,
-      "osm_id": 3584410163,
+      "lat": 51.5060174,
+      "lon": -0.0995696,
+      "osm_id": 1662606928,
       "osm_type": "node",
-      "address": null,
+      "address": "Southwark Street",
       "road_geometry": null
     },
     {
-      "name": "Lenox Avenue & 116th Street at Southeast Corner",
+      "name": "Bankside Community Space",
       "category": [
-        "railway.subway_entrance"
+        "amenity.community_centre"
       ],
-      "lat": 40.8018319,
-      "lon": -73.9496391,
-      "osm_id": 3584410164,
+      "lat": 51.5060539,
+      "lon": -0.0977903,
+      "osm_id": 3248942232,
       "osm_type": "node",
-      "address": null,
+      "address": "Great Guildford Street",
       "road_geometry": null
     },
     {
-      "name": "Lenox Avenue & 116th Street at Southwest Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8019523,
-      "lon": -73.9499405,
-      "osm_id": 3584410165,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "116th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8016248,
-      "lon": -73.9500704,
-      "osm_id": 4460385052,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Lenox Ave & W 115 St",
+      "name": "Tate Modern",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8011308,
-      "lon": -73.9501098,
-      "osm_id": 6680630122,
+      "lat": 51.5067046,
+      "lon": -0.0987005,
+      "osm_id": 4335940089,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Los 3 Charros",
+      "name": "LSE Bankside House",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 51.5064596,
+      "lon": -0.0986518,
+      "osm_id": 4668939414,
+      "osm_type": "node",
+      "address": "Sumner Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Marco\u2019s New York Italian London Bridge",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8001097,
-      "lon": -73.9513997,
-      "osm_id": 9459167484,
+      "lat": 51.5051841,
+      "lon": -0.0992199,
+      "osm_id": 6339919610,
       "osm_type": "node",
-      "address": "Malcolm X Boulevard",
+      "address": "Lavington Street",
       "road_geometry": null
     },
     {
-      "name": "Your Modern Barber Salon",
+      "name": "Lavington Street",
       "category": [
-        "shop.hairdresser"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8020781,
-      "lon": -73.9502363,
-      "osm_id": 9553068943,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem RX",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8020016,
-      "lon": -73.9500536,
-      "osm_id": 9553068950,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Fine Fare Supermarket",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8017203,
-      "lon": -73.9495714,
-      "osm_id": 10969587472,
+      "lat": 51.5052018,
+      "lon": -0.0979069,
+      "osm_id": 6731291481,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Community Healthcare Network",
+      "name": "Boiler And Company",
       "category": [
-        "amenity.clinic"
+        "amenity.cafe"
       ],
-      "lat": 40.8011884,
-      "lon": -73.9495007,
-      "osm_id": 11033496966,
+      "lat": 51.5062358,
+      "lon": -0.0995086,
+      "osm_id": 7579085325,
       "osm_type": "node",
-      "address": "West 115th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "bp pulse",
+      "category": [
+        "amenity.charging_station"
+      ],
+      "lat": 51.505181,
+      "lon": -0.0970848,
+      "osm_id": 8424132634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bankside Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5064039,
+      "lon": -0.0997688,
+      "osm_id": 9550715317,
+      "osm_type": "node",
+      "address": "Sumner Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Font Borough",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5071808,
+      "lon": -0.0971764,
+      "osm_id": 11042290163,
+      "osm_type": "node",
+      "address": "Park Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Reach",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5065785,
+      "lon": -0.0986041,
+      "osm_id": 11263417816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nine Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5052607,
+      "lon": -0.098579,
+      "osm_id": 12082875769,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Marco's New York Italian",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.505335,
+      "lon": -0.0989226,
+      "osm_id": 12151899376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uncommon",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5067546,
+      "lon": -0.0976847,
+      "osm_id": 12219090244,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

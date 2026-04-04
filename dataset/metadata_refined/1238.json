@@ -1,0 +1,73 @@
+{
+  "image": "dataset/images/1238.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.9836244313497,
+  "bbox": [
+    -73.98511311940881,
+    40.84729729729735,
+    -73.98213574329057,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 4
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Shaburo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8477081,
+      "lon": -73.9848379,
+      "osm_id": 8530362373,
+      "osm_type": "node",
+      "address": "Bergen Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Menya Sandaime",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8492007,
+      "lon": -73.9844064,
+      "osm_id": 8530362374,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spoon & Chopstick",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8479404,
+      "lon": -73.9848025,
+      "osm_id": 12148712255,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Johnny's Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8478279,
+      "lon": -73.984823,
+      "osm_id": 12148713030,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

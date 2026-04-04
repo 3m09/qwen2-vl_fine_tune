@@ -1,0 +1,388 @@
+{
+  "image": "dataset/images/671.png",
+  "center_lat": 19.432882882882883,
+  "center_lon": -99.14141756014973,
+  "bbox": [
+    -99.14261170676649,
+    19.431756756756755,
+    -99.14022341353298,
+    19.434009009009007
+  ],
+  "unique_categories": [
+    "shop.books",
+    "shop.variety_store",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "amenity.community_centre",
+    "tourism.hotel",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.electronics",
+    "amenity.pharmacy",
+    "amenity.cafe",
+    "shop.ticket",
+    "amenity.nightclub",
+    "amenity.fast_food",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "shop.variety_store": 1,
+    "railway.subway_entrance": 1,
+    "shop.convenience": 2,
+    "amenity.community_centre": 1,
+    "tourism.hotel": 1,
+    "amenity.restaurant": 8,
+    "highway.bus_stop": 2,
+    "shop.electronics": 1,
+    "amenity.pharmacy": 1,
+    "amenity.cafe": 2,
+    "shop.ticket": 1,
+    "amenity.nightclub": 1,
+    "amenity.fast_food": 1,
+    "amenity.bar": 1,
+    "amenity.bank": 1,
+    "shop.clothes": 2
+  },
+  "poi_count": 28,
+  "pois": [
+    {
+      "name": "Miniso",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 19.4340025,
+      "lon": -99.1408358,
+      "osm_id": 2812604119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "RadioShack",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 19.4339917,
+      "lon": -99.1406748,
+      "osm_id": 2812604120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Inbursa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.434,
+      "lon": -99.1407533,
+      "osm_id": 2812604121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Ave F\u00e9nix",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4328207,
+      "lon": -99.1403376,
+      "osm_id": 4156712500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4325573,
+      "lon": -99.1404871,
+      "osm_id": 4156712501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salvaje Tentaci\u00f3n",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4325549,
+      "lon": -99.1402912,
+      "osm_id": 4156713689,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Librer\u00eda del Fondo Juan Jos\u00e9 Arreola",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4321339,
+      "lon": -99.1409869,
+      "osm_id": 4335716090,
+      "osm_type": "node",
+      "address": "L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 de la Gran Cuidad",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.43391,
+      "lon": -99.1407864,
+      "osm_id": 4616110089,
+      "osm_type": "node",
+      "address": "L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Tlaquepaque Taquer\u00eda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.432658,
+      "lon": -99.1414137,
+      "osm_id": 4766427045,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Normandie",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 19.4331613,
+      "lon": -99.1421979,
+      "osm_id": 5017262622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4317732,
+      "lon": -99.1411283,
+      "osm_id": 5185175041,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centro Cultural El Rule",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 19.4335491,
+      "lon": -99.1407449,
+      "osm_id": 5192270802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Suburbia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4325293,
+      "lon": -99.1407799,
+      "osm_id": 5842139811,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4337794,
+      "lon": -99.1411549,
+      "osm_id": 6577322231,
+      "osm_type": "node",
+      "address": "Avenida L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Nivel 40 SkyBar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4338818,
+      "lon": -99.1407874,
+      "osm_id": 6604324745,
+      "osm_type": "node",
+      "address": "L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "La casa de todos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4333431,
+      "lon": -99.1421208,
+      "osm_id": 6653107785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cielito Querido Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4334671,
+      "lon": -99.14079,
+      "osm_id": 6806724485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miralto",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.43385,
+      "lon": -99.1407843,
+      "osm_id": 7103367385,
+      "osm_type": "node",
+      "address": "L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Fonda Santa Rita",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4328505,
+      "lon": -99.1419194,
+      "osm_id": 7275656086,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Buffet Chino $50",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4331552,
+      "lon": -99.1425441,
+      "osm_id": 8555213917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El josue",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 19.4322129,
+      "lon": -99.1424779,
+      "osm_id": 8774067917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacias Similares",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4329866,
+      "lon": -99.1414373,
+      "osm_id": 10173865706,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Francisco I. Madero",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4338781,
+      "lon": -99.140886,
+      "osm_id": 10582818903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Independencia",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4330113,
+      "lon": -99.1411927,
+      "osm_id": 10592409236,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El saz\u00f3n",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4319589,
+      "lon": -99.1416941,
+      "osm_id": 13318465501,
+      "osm_type": "node",
+      "address": "Calle Art\u00edculo 123",
+      "road_geometry": null
+    },
+    {
+      "name": "OXXO",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4330861,
+      "lon": -99.1421666,
+      "osm_id": 13515919091,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Marlowe",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4329144,
+      "lon": -99.1424561,
+      "osm_id": 13534652559,
+      "osm_type": "node",
+      "address": "Independencia",
+      "road_geometry": null
+    },
+    {
+      "name": "El Italianito",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4328054,
+      "lon": -99.1420041,
+      "osm_id": 13670126001,
+      "osm_type": "node",
+      "address": "Calle L\u00f3pez",
+      "road_geometry": null
+    }
+  ]
+}

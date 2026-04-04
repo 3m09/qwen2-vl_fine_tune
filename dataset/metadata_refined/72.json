@@ -1,20 +1,860 @@
 {
   "image": "dataset/images/72.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.9985122217532,
+  "center_lat": 48.86063063063063,
+  "center_lon": 2.34355839012063,
   "bbox": [
-    -74.0,
-    40.80675675675676,
-    -73.9970244435064,
-    40.80900900900902
+    2.341846712096504,
+    48.85950450450451,
+    2.345270068144756,
+    48.86175675675676
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "shop.chocolate",
+    "shop.laundry",
+    "tourism.museum",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.butcher",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "amenity.nightclub",
+    "shop.furniture",
+    "shop.hairdresser",
+    "shop.optician",
+    "amenity.bank",
+    "shop.books",
+    "shop.supermarket",
+    "shop.toys",
+    "shop.locksmith",
+    "shop.beverages",
+    "shop.cosmetics",
+    "shop.art",
+    "shop.jewelry",
+    "amenity.bar",
+    "shop.erotic",
+    "shop.clothes",
+    "shop.travel_agency",
+    "shop.beauty",
+    "shop.shoes",
+    "amenity.pharmacy",
+    "amenity.parcel_locker",
+    "amenity.kindergarten",
+    "shop.mobile_phone",
+    "amenity.parking",
+    "amenity.food_court",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.chocolate": 1,
+    "shop.laundry": 1,
+    "tourism.museum": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 14,
+    "shop.butcher": 1,
+    "tourism.gallery": 1,
+    "amenity.fast_food": 3,
+    "amenity.nightclub": 1,
+    "shop.furniture": 3,
+    "shop.hairdresser": 1,
+    "shop.optician": 3,
+    "amenity.bank": 1,
+    "shop.books": 1,
+    "shop.supermarket": 2,
+    "shop.toys": 1,
+    "shop.locksmith": 1,
+    "shop.beverages": 1,
+    "shop.cosmetics": 1,
+    "shop.art": 1,
+    "shop.jewelry": 3,
+    "amenity.bar": 1,
+    "shop.erotic": 1,
+    "shop.clothes": 8,
+    "shop.travel_agency": 1,
+    "shop.beauty": 3,
+    "shop.shoes": 1,
+    "amenity.pharmacy": 1,
+    "amenity.parcel_locker": 1,
+    "amenity.kindergarten": 1,
+    "shop.mobile_phone": 1,
+    "amenity.parking": 1,
+    "amenity.food_court": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 64,
+  "pois": [
+    {
+      "name": "Bistrot Du Jardin",
+      "category": [
+        "amenity.restaurant",
+        "shop.beverages"
+      ],
+      "lat": 48.8617057,
+      "lon": 2.3441306,
+      "osm_id": 433073754,
+      "osm_type": "node",
+      "address": "Rue Berger",
+      "road_geometry": null
+    },
+    {
+      "name": "Delhicious",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8601397,
+      "lon": 2.3451638,
+      "osm_id": 677730871,
+      "osm_type": "node",
+      "address": "Rue des Bourdonnais",
+      "road_geometry": null
+    },
+    {
+      "name": "Rare Vintage",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8611046,
+      "lon": 2.3442138,
+      "osm_id": 678029797,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Honor\u00e9 Beaut\u00e9",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.8610556,
+      "lon": 2.3445689,
+      "osm_id": 678029802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Visionhair",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.8609205,
+      "lon": 2.3450753,
+      "osm_id": 678033088,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Au Chien qui Fume",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8613541,
+      "lon": 2.3448441,
+      "osm_id": 678802941,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Hippopotamus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8616033,
+      "lon": 2.3446347,
+      "osm_id": 1542715734,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "N'Importe Quoi",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8607815,
+      "lon": 2.3438855,
+      "osm_id": 2244578060,
+      "osm_type": "node",
+      "address": "Rue du Roule",
+      "road_geometry": null
+    },
+    {
+      "name": "Soci\u00e9t\u00e9 Generale",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 48.8602809,
+      "lon": 2.344466,
+      "osm_id": 2514802634,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "G20",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 48.8599348,
+      "lon": 2.3449563,
+      "osm_id": 2634120982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HD Diner",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8602996,
+      "lon": 2.3436624,
+      "osm_id": 2879817401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Koshi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8603776,
+      "lon": 2.34347,
+      "osm_id": 2879817501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IKEA",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8604894,
+      "lon": 2.3425799,
+      "osm_id": 3236236858,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Odette",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8606488,
+      "lon": 2.3443746,
+      "osm_id": 3396586048,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Mimosa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8608323,
+      "lon": 2.3445264,
+      "osm_id": 3396587403,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Caroll",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.860236,
+      "lon": 2.3433236,
+      "osm_id": 3405072649,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King Jouet",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 48.8606401,
+      "lon": 2.3422403,
+      "osm_id": 3405085302,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Outfitters",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8606735,
+      "lon": 2.3419787,
+      "osm_id": 3405085303,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Mauboussin",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8603316,
+      "lon": 2.3430134,
+      "osm_id": 3405085305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre Rivoli",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 48.8601609,
+      "lon": 2.3436021,
+      "osm_id": 3405085307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L\u00e4derach",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": 48.860079,
+      "lon": 2.3438763,
+      "osm_id": 3405085308,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Au Billot des Halles",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 48.8612897,
+      "lon": 2.3441749,
+      "osm_id": 3496494727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Indiana Caf\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8614893,
+      "lon": 2.3447073,
+      "osm_id": 3672098289,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Chez L\u00e9o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8616006,
+      "lon": 2.3440663,
+      "osm_id": 3672098290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Epiderm Institut",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.860543,
+      "lon": 2.3437503,
+      "osm_id": 3916696091,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Izakaya",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8604509,
+      "lon": 2.3437017,
+      "osm_id": 3916696564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Opticiens Conseils",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.859945,
+      "lon": 2.3442355,
+      "osm_id": 3980334512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurant Traditionnel Tha\u00eflandais",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8613192,
+      "lon": 2.3429253,
+      "osm_id": 3980676679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "P\u00e9pite",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8612004,
+      "lon": 2.3446476,
+      "osm_id": 3980826478,
+      "osm_type": "node",
+      "address": "Rue Saint-Honor\u00e9",
+      "road_geometry": null
+    },
+    {
+      "name": "Starcow",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8613097,
+      "lon": 2.3436195,
+      "osm_id": 3980826484,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mus\u00e9e en Herbe",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 48.8601457,
+      "lon": 2.3421021,
+      "osm_id": 4249899936,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Point fort fichet",
+      "category": [
+        "shop.locksmith"
+      ],
+      "lat": 48.8614167,
+      "lon": 2.3422407,
+      "osm_id": 4763491529,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Passage du D\u00e9sir",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": 48.8607791,
+      "lon": 2.3448572,
+      "osm_id": 4998774937,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "K-Mart",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 48.8605243,
+      "lon": 2.3446535,
+      "osm_id": 5001825766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Galcante",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8609675,
+      "lon": 2.3429396,
+      "osm_id": 5312156973,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fellini",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.861223,
+      "lon": 2.3423775,
+      "osm_id": 5312405919,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moida",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 48.8601938,
+      "lon": 2.3440147,
+      "osm_id": 6192140388,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "miliboo",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8603196,
+      "lon": 2.3421164,
+      "osm_id": 6192208385,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brow Bar Benefit",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.8598723,
+      "lon": 2.3435634,
+      "osm_id": 8047446829,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Panier Sympa",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 48.8614391,
+      "lon": 2.342902,
+      "osm_id": 8459561474,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les lunettes du Pont Neuf",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.8601865,
+      "lon": 2.3443706,
+      "osm_id": 8726775746,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Liberta",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.861265,
+      "lon": 2.3451254,
+      "osm_id": 8873779839,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "L'univers du mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 48.8613383,
+      "lon": 2.3439995,
+      "osm_id": 9102261136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8596359,
+      "lon": 2.3442259,
+      "osm_id": 9194523917,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Bento&Go!",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.861721,
+      "lon": 2.3423545,
+      "osm_id": 9196305171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fram",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 48.8603116,
+      "lon": 2.3419224,
+      "osm_id": 9537293751,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Halte-garderie municipale des Prouvaires",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 48.8614718,
+      "lon": 2.3443885,
+      "osm_id": 9644589074,
+      "osm_type": "node",
+      "address": "Rue des Prouvaires",
+      "road_geometry": null
+    },
+    {
+      "name": "Molly",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8611438,
+      "lon": 2.3423998,
+      "osm_id": 9661935095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ernest",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8599828,
+      "lon": 2.3432129,
+      "osm_id": 9710480616,
+      "osm_type": "node",
+      "address": "Rue de la Monnaie",
+      "road_geometry": null
+    },
+    {
+      "name": "Les cireurs",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 48.8610981,
+      "lon": 2.3426175,
+      "osm_id": 9802906435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Pont-Neuf",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8605324,
+      "lon": 2.3442833,
+      "osm_id": 9807537732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amazon Hub Locker",
+      "category": [
+        "amenity.parcel_locker"
+      ],
+      "lat": 48.8617506,
+      "lon": 2.3438458,
+      "osm_id": 10103805536,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zara",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8599062,
+      "lon": 2.3434721,
+      "osm_id": 10128989963,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Champion",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8612619,
+      "lon": 2.3432713,
+      "osm_id": 10203070716,
+      "osm_type": "node",
+      "address": "Rue Saint-Honor\u00e9",
+      "road_geometry": null
+    },
+    {
+      "name": "Merry",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 48.8612065,
+      "lon": 2.3435402,
+      "osm_id": 10203138718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zara",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8597806,
+      "lon": 2.3435908,
+      "osm_id": 10730772047,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Conte culinaire",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 48.861471,
+      "lon": 2.341971,
+      "osm_id": 11514094473,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eclore",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 48.8609778,
+      "lon": 2.3421634,
+      "osm_id": 11514101239,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IKEA",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8605733,
+      "lon": 2.3435737,
+      "osm_id": 11514106555,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Capitale",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8609045,
+      "lon": 2.3439493,
+      "osm_id": 11514118790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Julien",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.8606464,
+      "lon": 2.3435976,
+      "osm_id": 11514128748,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Pierre Passebon",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8605526,
+      "lon": 2.3451006,
+      "osm_id": 11583864729,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ach Chajai Paris",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8611101,
+      "lon": 2.3432804,
+      "osm_id": 12255431016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles - St Eustache",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 48.8611704,
+      "lon": 2.3452628,
+      "osm_id": 13125664791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 181,
+    "removed_count": 117,
     "model": "gemini-2.5-flash"
   }
 }

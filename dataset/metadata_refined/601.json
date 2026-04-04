@@ -1,0 +1,175 @@
+{
+  "image": "dataset/images/601.png",
+  "center_lat": 41.019144144144164,
+  "center_lon": 28.96746269917734,
+  "bbox": [
+    28.96597015934187,
+    41.01801801801804,
+    28.968955239012807,
+    41.020270270270295
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.hardware",
+    "shop.perfumery",
+    "shop.furniture",
+    "shop.convenience",
+    "shop.gift",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "shop.travel_agency",
+    "amenity.townhall"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "shop.hardware": 1,
+    "shop.perfumery": 2,
+    "shop.furniture": 1,
+    "shop.convenience": 1,
+    "shop.gift": 1,
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 1,
+    "shop.travel_agency": 1,
+    "amenity.townhall": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Birsen Kolonyalar\u0131",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0186981,
+      "lon": 28.965986,
+      "osm_id": 5244812082,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Birsen Kolonya",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0185227,
+      "lon": 28.9663988,
+      "osm_id": 5244812087,
+      "osm_type": "node",
+      "address": "K\u0131ble \u00c7e\u015fme Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "As H\u0131rdavat",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 41.0183805,
+      "lon": 28.9668167,
+      "osm_id": 5244812089,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Volkan Emaye Soba Mangal",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0180554,
+      "lon": 28.9683634,
+      "osm_id": 5244812099,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hocaogullari Gida Kuruyemis",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0180805,
+      "lon": 28.9680857,
+      "osm_id": 5244812101,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Toprak Hobi\u0307",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.018219,
+      "lon": 28.9673403,
+      "osm_id": 5244812105,
+      "osm_type": "node",
+      "address": "Kutucular Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Marmara Belediyeler Birli\u011fi",
+      "category": [
+        "amenity.townhall"
+      ],
+      "lat": 41.019008,
+      "lon": 28.9687391,
+      "osm_id": 5244812125,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Masal Gemisi",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0191303,
+      "lon": 28.9681979,
+      "osm_id": 5244812126,
+      "osm_type": "node",
+      "address": "Park \u0130\u00e7i Yolu",
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Night",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0193455,
+      "lon": 28.9673196,
+      "osm_id": 5244812128,
+      "osm_type": "node",
+      "address": "Park \u0130\u00e7i Yolu",
+      "road_geometry": null
+    },
+    {
+      "name": "Ziraat Bankas\u0131",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0187741,
+      "lon": 28.9673173,
+      "osm_id": 7109331886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.019467,
+      "lon": 28.966094,
+      "osm_id": 10978923280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 23,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

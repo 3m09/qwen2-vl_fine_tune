@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1171.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.96874073781127,
+  "bbox": [
+    -73.97022927410598,
+    40.84054054054059,
+    -73.96725220151657,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.fire_station",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.fire_station": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "River Palm Terrace",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8426844,
+      "lon": -73.9687863,
+      "osm_id": 2159537771,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Edgewater Volunteer Fire Department",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 40.842311,
+      "lon": -73.9691725,
+      "osm_id": 2159537772,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

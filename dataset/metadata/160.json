@@ -1,43 +1,57 @@
 {
   "image": "dataset/images/160.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.95089831814359,
+  "center_lat": 18.943648648648644,
+  "center_lon": 72.83095301810997,
   "bbox": [
-    -73.95238624789681,
-    40.81351351351353,
-    -73.94941038839036,
-    40.81576576576578
+    72.82976241448797,
+    18.942522522522516,
+    72.83214362173196,
+    18.944774774774768
   ],
   "unique_categories": [
-    "amenity.college",
-    "highway.bus_stop"
+    "highway.bus_stop",
+    "amenity.bank",
+    "amenity.monastery"
   ],
   "poi_count_per_category": {
-    "amenity.college": 1,
-    "highway.bus_stop": 1
+    "highway.bus_stop": 1,
+    "amenity.bank": 1,
+    "amenity.monastery": 1
   },
-  "poi_count": 2,
+  "poi_count": 3,
   "pois": [
     {
-      "name": "CUNY Advanced Science Research Center",
+      "name": "Corporation Bank",
       "category": [
-        "amenity.college"
+        "amenity.bank"
       ],
-      "lat": 40.8156286,
-      "lon": -73.9502282,
-      "osm_id": 5033161921,
+      "lat": 18.9437972,
+      "lon": 72.8318235,
+      "osm_id": 7925356116,
       "osm_type": "node",
-      "address": "Saint Nicholas Terrace",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Saint Nicholas Avenue & West 130th Street",
+      "name": "chapel",
+      "category": [
+        "amenity.monastery"
+      ],
+      "lat": 18.9426888,
+      "lon": 72.831569,
+      "osm_id": 7931550875,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "V.B. Phadke Chowk",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8140619,
-      "lon": -73.9495226,
-      "osm_id": 5402622131,
+      "lat": 18.9433071,
+      "lon": 72.8298953,
+      "osm_id": 9788414500,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

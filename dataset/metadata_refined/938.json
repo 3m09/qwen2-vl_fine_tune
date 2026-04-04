@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/938.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.94791892248479,
+  "bbox": [
+    -73.94940695327094,
+    40.81801801801804,
+    -73.94643089169864,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Saint Mark's Methodist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8186111,
+      "lon": -73.9469444,
+      "osm_id": 357621136,
+      "osm_type": "node",
+      "address": "Edgecombe Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8189901,
+      "lon": -73.9472905,
+      "osm_id": 5274251155,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8200847,
+      "lon": -73.9464493,
+      "osm_id": 5274251307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

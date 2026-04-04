@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/243.png",
+  "center_lat": 37.494126126126126,
+  "center_lon": 127.02625795361283,
+  "bbox": [
+    127.02483863574189,
+    37.493,
+    127.02767727148377,
+    37.49525225225226
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\ub86f\ub370\uce60\uc131",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4950773,
+      "lon": 127.0252199,
+      "osm_id": 357826020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ub798\ubbf8\uc548\uc5d0\uc2a4\ud2f0\uc9c0",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4931604,
+      "lon": 127.0259166,
+      "osm_id": 357898420,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

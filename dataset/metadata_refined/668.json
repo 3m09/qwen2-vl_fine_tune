@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/668.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.12708804912802,
+  "bbox": [
+    -99.12828217918616,
+    19.429504504504504,
+    -99.1258939190699,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.bar",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Comida callejera mexicana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4307204,
+      "lon": -99.1268645,
+      "osm_id": 8232959417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pulqueria El Recreo",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4299071,
+      "lon": -99.1268754,
+      "osm_id": 8542024217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4313282,
+      "lon": -99.127946,
+      "osm_id": 11004264854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Cafeto",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 19.4297079,
+      "lon": -99.1282355,
+      "osm_id": 11017027597,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Equis \"La Casa Del Caf\u00e9\"",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4302462,
+      "lon": -99.1268141,
+      "osm_id": 12883958801,
+      "osm_type": "node",
+      "address": "Calle Rold\u00e1n",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

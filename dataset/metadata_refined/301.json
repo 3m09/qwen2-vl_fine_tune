@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/301.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.65640019515175,
+  "bbox": [
+    -46.6576287387015,
+    -23.560990990990994,
+    -46.655171651602,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.courthouse"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 1,
+    "shop.clothes": 3,
+    "amenity.courthouse": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Caixa Econ\u00f4mica Federal",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5605268,
+      "lon": -46.6570198,
+      "osm_id": 3621336520,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Brooksfield",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5604475,
+      "lon": -46.6572431,
+      "osm_id": 4128426694,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Marisa",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5608855,
+      "lon": -46.6573835,
+      "osm_id": 4139302907,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c7a-Va Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5603694,
+      "lon": -46.6563246,
+      "osm_id": 4939136891,
+      "osm_type": "node",
+      "address": "Rua Carlos Comenale",
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Paulista, 1754",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5602323,
+      "lon": -46.6574811,
+      "osm_id": 4940530185,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Justi\u00e7a Federal",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": -23.5589635,
+      "lon": -46.6567955,
+      "osm_id": 4940530188,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Brooksfield",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5604309,
+      "lon": -46.6572185,
+      "osm_id": 11292167887,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 14,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

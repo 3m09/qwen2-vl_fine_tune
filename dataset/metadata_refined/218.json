@@ -1,0 +1,61 @@
+{
+  "image": "dataset/images/218.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.50712215783498,
+  "bbox": [
+    121.50580506877075,
+    31.239009009009006,
+    121.50843924689921,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u6d66\u4e1c\u5927\u9053",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2390309,
+      "lon": 121.50663,
+      "osm_id": 5081328863,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5927\u9053\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2402756,
+      "lon": 121.5074741,
+      "osm_id": 9704438835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5927\u9053\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2406207,
+      "lon": 121.5078362,
+      "osm_id": 9704438836,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

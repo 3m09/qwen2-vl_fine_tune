@@ -1,15 +1,46 @@
 {
   "image": "dataset/images/25.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.99553696818657,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.09095358329790564,
   "bbox": [
-    -73.99702464545771,
-    40.80225225225225,
-    -73.99404929091543,
-    40.80450450450451
+    -0.0927628666383245,
+    51.50725225225226,
+    -0.08914429995748675,
+    51.50950450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "The Banker",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5093933,
+      "lon": -0.0916244,
+      "osm_id": 266560384,
+      "osm_type": "node",
+      "address": "Cousin Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "The Oyster Shed",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5091099,
+      "lon": -0.0897444,
+      "osm_id": 1769294100,
+      "osm_type": "node",
+      "address": "Angel Lane",
+      "road_geometry": null
+    }
+  ]
 }

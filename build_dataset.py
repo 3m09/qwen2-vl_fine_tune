@@ -49,8 +49,8 @@ def build_dataset(limit=1000):
             "pois": pois
         }
 
-        with open(f"g_dataset/metadata/{i}.json", "w") as f:
+        with open(f"dataset/metadata/{i}.json", "w") as f:
             json.dump(record, f, indent=2)
 
 if __name__ == "__main__":
-    build_dataset(limit=500)
+    build_dataset(limit=2000)

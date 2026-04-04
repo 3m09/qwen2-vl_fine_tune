@@ -1,65 +1,20 @@
 {
   "image": "dataset/images/88.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.95090331785568,
+  "center_lat": 18.92112612612613,
+  "center_lon": 72.82619044310945,
   "bbox": [
-    -73.95239109610247,
-    40.80675675675676,
-    -73.94941553960888,
-    40.80900900900902
+    72.825,
+    18.92,
+    72.8273808862189,
+    18.922252252252253
   ],
-  "unique_categories": [
-    "amenity.restaurant",
-    "shop.convenience",
-    "shop.hairdresser"
-  ],
-  "poi_count_per_category": {
-    "amenity.restaurant": 1,
-    "shop.convenience": 1,
-    "shop.hairdresser": 1
-  },
-  "poi_count": 3,
-  "pois": [
-    {
-      "name": "Gourmet Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8089007,
-      "lon": -73.951878,
-      "osm_id": 2767383760,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Chez Alain",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8073593,
-      "lon": -73.9498334,
-      "osm_id": 5266905501,
-      "osm_type": "node",
-      "address": "Adam Clayton Powell Jr Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Slayed By Vicky African Hair Braiding",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8077216,
-      "lon": -73.9496813,
-      "osm_id": 11840561722,
-      "osm_type": "node",
-      "address": "Adam Clayton Powell Jr. Boulevard",
-      "road_geometry": null
-    }
-  ],
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": [],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 3,
+    "original_poi_count": 2,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

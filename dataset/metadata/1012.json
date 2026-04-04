@@ -1,0 +1,192 @@
+{
+  "image": "dataset/images/1012.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.94196088723787,
+  "bbox": [
+    -73.94344906961639,
+    40.8247747747748,
+    -73.94047270485936,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "leisure.park",
+    "shop.convenience",
+    "shop.laundry",
+    "railway.stop",
+    "amenity.clinic",
+    "leisure.playground",
+    "amenity.restaurant",
+    "amenity.pharmacy"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "leisure.park": 1,
+    "shop.convenience": 1,
+    "shop.laundry": 1,
+    "railway.stop": 4,
+    "amenity.clinic": 1,
+    "leisure.playground": 1,
+    "amenity.restaurant": 1,
+    "amenity.pharmacy": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Donnellan Square",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 40.8269444,
+      "lon": -73.9427778,
+      "osm_id": 357650517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ZipCare",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8255747,
+      "lon": -73.9433066,
+      "osm_id": 2768125214,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8256685,
+      "lon": -73.9432713,
+      "osm_id": 2768125218,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Super Plan Laundromat",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8258128,
+      "lon": -73.943228,
+      "osm_id": 2768125221,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "148 Deli Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.824926,
+      "lon": -73.9406083,
+      "osm_id": 2830368770,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Tsion Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8262841,
+      "lon": -73.9434171,
+      "osm_id": 5296101437,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8258667,
+      "lon": -73.9434117,
+      "osm_id": 6342093640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8258135,
+      "lon": -73.9432845,
+      "osm_id": 6342093907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.825878,
+      "lon": -73.9434381,
+      "osm_id": 6342093926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8258207,
+      "lon": -73.9433017,
+      "osm_id": 7624144931,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Playground One Forty Nine CIL",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8257002,
+      "lon": -73.9413954,
+      "osm_id": 9461192295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Edgecombe Ave & W 150 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8268842,
+      "lon": -73.9414282,
+      "osm_id": 13226753079,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Bradhurst Ave & W 148 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8251194,
+      "lon": -73.9416187,
+      "osm_id": 13226781701,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "image": "dataset/images/662.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.1414176098256,
+  "bbox": [
+    -99.14261173988373,
+    19.429504504504504,
+    -99.14022347976747,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "shop.coffee",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "railway.stop",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "railway.station",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "shop.coffee": 2,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "railway.subway_entrance": 2,
+    "amenity.restaurant": 1,
+    "railway.stop": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 1,
+    "railway.station": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 19.4312856,
+      "lon": -99.1413291,
+      "osm_id": 555081970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Rosal\u00eda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4310659,
+      "lon": -99.1411393,
+      "osm_id": 2270027260,
+      "osm_type": "node",
+      "address": "Eje Central L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Villarias",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 19.4305495,
+      "lon": -99.1423019,
+      "osm_id": 4595863989,
+      "osm_type": "node",
+      "address": "L\u00f3pez",
+      "road_geometry": null
+    },
+    {
+      "name": "El Chavalete",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 19.4303253,
+      "lon": -99.1425615,
+      "osm_id": 4978337001,
+      "osm_type": "node",
+      "address": "Ayuntamiento",
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4312724,
+      "lon": -99.1415789,
+      "osm_id": 5185175042,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel El Salvador",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4303044,
+      "lon": -99.1405528,
+      "osm_id": 5842139796,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4305131,
+      "lon": -99.1412046,
+      "osm_id": 5842139797,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ISSSTE",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 19.4317306,
+      "lon": -99.1420839,
+      "osm_id": 8254905765,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Uruguay",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4310078,
+      "lon": -99.1412557,
+      "osm_id": 10582818899,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Uruguay",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4313795,
+      "lon": -99.1414248,
+      "osm_id": 10592409237,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Villar\u00edas",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4308618,
+      "lon": -99.1423109,
+      "osm_id": 11926927856,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4313594,
+      "lon": -99.1411983,
+      "osm_id": 12657200213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.4315049,
+      "lon": -99.1412928,
+      "osm_id": 12785180677,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 8,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "image": "dataset/images/1256.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.9300316612214,
+  "bbox": [
+    -73.93152034928052,
+    40.84729729729735,
+    -73.92854297316228,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.bicycle_rental",
+    "shop.tattoo",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.bicycle_rental": 2,
+    "shop.tattoo": 1,
+    "highway.bus_stop": 4
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Amsterdam Avenue & West 181st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8483119,
+      "lon": -73.9308914,
+      "osm_id": 5797599727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 181st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8483309,
+      "lon": -73.9305845,
+      "osm_id": 5797599728,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 181st Street & Amsterdam Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8481336,
+      "lon": -73.9311433,
+      "osm_id": 5797617901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 181st Street & Amsterdam Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8484219,
+      "lon": -73.9313842,
+      "osm_id": 5797631990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Milo Coffee Shop",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.848325,
+      "lon": -73.9309817,
+      "osm_id": 11197809340,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Ink 181",
+      "category": [
+        "shop.tattoo"
+      ],
+      "lat": 40.8483375,
+      "lon": -73.9310509,
+      "osm_id": 11484406289,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 183 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8492392,
+      "lon": -73.9302247,
+      "osm_id": 11595081993,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 180 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8473931,
+      "lon": -73.9312103,
+      "osm_id": 13244025376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

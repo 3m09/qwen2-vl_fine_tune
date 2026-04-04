@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/418.png",
+  "center_lat": 22.28288288288288,
+  "center_lon": 114.17582098478837,
+  "bbox": [
+    114.1746039859585,
+    22.281756756756753,
+    114.17703798361825,
+    22.284009009009004
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Pier1929",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2832556,
+      "lon": 114.1762325,
+      "osm_id": 5973912640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

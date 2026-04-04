@@ -1,0 +1,143 @@
+{
+  "image": "dataset/images/390.png",
+  "center_lat": 22.278378378378378,
+  "center_lon": 114.16121695962985,
+  "bbox": [
+    114.16,
+    22.27725225225225,
+    114.1624339192597,
+    22.2795045045045
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.restaurant",
+    "amenity.bank",
+    "tourism.artwork",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 3,
+    "amenity.bank": 2,
+    "tourism.artwork": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "\u82b1\u65d7\u9280\u884c Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2787856,
+      "lon": 114.1606222,
+      "osm_id": 4857968560,
+      "osm_type": "node",
+      "address": "\u82b1\u5712\u9053 Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Food le Parc",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2794899,
+      "lon": 114.1605458,
+      "osm_id": 7566254887,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Garden Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2778757,
+      "lon": 114.1601209,
+      "osm_id": 8064179751,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popinjays",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780882,
+      "lon": 114.1601595,
+      "osm_id": 8064179752,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Murray Lane",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2779869,
+      "lon": 114.1600372,
+      "osm_id": 8064179754,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guo Fu Lou",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2779114,
+      "lon": 114.1600072,
+      "osm_id": 8064179755,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u9280\u884c\uff08\u9999\u6e2f\uff09 Bank of China (Hong Kong)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.279362,
+      "lon": 114.161655,
+      "osm_id": 8064870985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "John Robert Osborn Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2779707,
+      "lon": 114.161995,
+      "osm_id": 9705370017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Nest",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2788129,
+      "lon": 114.1600526,
+      "osm_id": 9989691780,
+      "osm_type": "node",
+      "address": "\u82b1\u5712\u9053 Garden Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

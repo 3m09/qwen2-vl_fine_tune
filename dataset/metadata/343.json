@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/343.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.82612641717355,
+  "bbox": [
+    103.825,
+    1.3025045045045047,
+    103.8272528343471,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bicycle_rental"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.bicycle_rental": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Before Tomlinson Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.30376,
+      "lon": 103.826712,
+      "osm_id": 410468224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "RIV-0001",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 1.303782,
+      "lon": 103.826737,
+      "osm_id": 11129316752,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,20 +1,141 @@
 {
   "image": "dataset/images/123.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98958484528254,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.82619052333732,
   "bbox": [
-    -73.99107272452788,
-    40.81126126126127,
-    -73.98809696603718,
-    40.81351351351353
+    72.825,
+    18.93126126126126,
+    72.82738104667463,
+    18.93351351351351
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "railway.stop",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 4,
+    "railway.stop": 2,
+    "railway.station": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Sarvodaya",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 18.9334222,
+      "lon": 72.8270605,
+      "osm_id": 1056702145,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9314819,
+      "lon": 72.8269617,
+      "osm_id": 5221297484,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9314965,
+      "lon": 72.8269098,
+      "osm_id": 5777542381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9330397,
+      "lon": 72.8270286,
+      "osm_id": 9788414508,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gaylord",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9329648,
+      "lon": 72.8260903,
+      "osm_id": 10220801717,
+      "osm_type": "node",
+      "address": "Veer Nariman Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mockingbird Caf\u00e9 Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9334556,
+      "lon": 72.8262238,
+      "osm_id": 10220803817,
+      "osm_type": "node",
+      "address": "Veer Nariman Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Shiv Sagar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9335078,
+      "lon": 72.8258961,
+      "osm_id": 10695142870,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nksha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9328119,
+      "lon": 72.8268738,
+      "osm_id": 11456147262,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.9314946,
+      "lon": 72.8269394,
+      "osm_id": 13207029319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 19,
+    "removed_count": 10,
     "model": "gemini-2.5-flash"
   }
 }

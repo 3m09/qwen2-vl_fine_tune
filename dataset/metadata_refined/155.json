@@ -1,20 +1,219 @@
 {
   "image": "dataset/images/155.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.96577761567583,
+  "center_lat": 18.941396396396392,
+  "center_lon": 72.83571528804464,
   "bbox": [
-    -73.96726554542906,
-    40.81351351351353,
-    -73.96428968592261,
-    40.81576576576578
+    72.83452470048412,
+    18.940270270270265,
+    72.83690587560515,
+    18.942522522522516
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "railway.station",
+    "railway.stop"
+  ],
+  "poi_count_per_category": {
+    "railway.station": 1,
+    "railway.stop": 15
+  },
+  "poi_count": 16,
+  "pois": [
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406037,
+      "lon": 72.8350795,
+      "osm_id": 316306549,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406335,
+      "lon": 72.8353869,
+      "osm_id": 619293646,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408204,
+      "lon": 72.836017,
+      "osm_id": 1234805938,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.94081,
+      "lon": 72.8359068,
+      "osm_id": 1234805948,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408811,
+      "lon": 72.8362973,
+      "osm_id": 1234815591,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9417555,
+      "lon": 72.8367595,
+      "osm_id": 1234815595,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408763,
+      "lon": 72.8361599,
+      "osm_id": 1234815598,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406221,
+      "lon": 72.8352693,
+      "osm_id": 1234823928,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406445,
+      "lon": 72.8355003,
+      "osm_id": 2166817451,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406128,
+      "lon": 72.8351737,
+      "osm_id": 2166817452,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9406523,
+      "lon": 72.8355803,
+      "osm_id": 2166817453,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408662,
+      "lon": 72.8364907,
+      "osm_id": 2175658375,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408787,
+      "lon": 72.8363407,
+      "osm_id": 2175658376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9417671,
+      "lon": 72.8366107,
+      "osm_id": 2175658385,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.9404925,
+      "lon": 72.8357856,
+      "osm_id": 12176277888,
+      "osm_type": "node",
+      "address": "Dr Dadabhai Naoroji Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai CSMT (Suburban)",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408905,
+      "lon": 72.8357077,
+      "osm_id": 12176277892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 18,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

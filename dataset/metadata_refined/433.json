@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/433.png",
+  "center_lat": 22.285135135135132,
+  "center_lon": 114.18555738710678,
+  "bbox": [
+    114.18434036867313,
+    22.284009009009004,
+    114.18677440554045,
+    22.286261261261256
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u7dad\u5712\u9053 Victoria Park Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2840817,
+      "lon": 114.1862449,
+      "osm_id": 6251878032,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

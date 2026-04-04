@@ -1,0 +1,372 @@
+{
+  "image": "dataset/images/665.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.13425282947681,
+  "bbox": [
+    -99.13544695953495,
+    19.429504504504504,
+    -99.13305869941868,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "amenity.ice_cream",
+    "amenity.bicycle_rental",
+    "amenity.atm",
+    "shop.pastry",
+    "amenity.restaurant",
+    "tourism.museum",
+    "amenity.library",
+    "shop.chocolate",
+    "amenity.cafe",
+    "shop.fabric",
+    "shop.department_store",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.atm": 1,
+    "shop.pastry": 2,
+    "amenity.restaurant": 4,
+    "tourism.museum": 1,
+    "amenity.library": 1,
+    "shop.chocolate": 1,
+    "amenity.cafe": 1,
+    "shop.fabric": 3,
+    "shop.department_store": 2,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 4,
+    "shop.clothes": 3,
+    "shop.shoes": 1
+  },
+  "poi_count": 27,
+  "pois": [
+    {
+      "name": "Hampton Inn",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4299764,
+      "lon": -99.1345745,
+      "osm_id": 603127095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici 20 de Noviembre / Venustiano Carranza",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4306696,
+      "lon": -99.1336994,
+      "osm_id": 2812628978,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mahakian Zapatos y Mochilas",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 19.4307294,
+      "lon": -99.1346926,
+      "osm_id": 3681208378,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Telas Junco",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 19.4308158,
+      "lon": -99.1334262,
+      "osm_id": 4049515324,
+      "osm_type": "node",
+      "address": "Calle 20 de Noviembre",
+      "road_geometry": null
+    },
+    {
+      "name": "Pasteler\u00eda Madrid",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 19.4297776,
+      "lon": -99.1348583,
+      "osm_id": 4765226124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel NH",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4315908,
+      "lon": -99.1353724,
+      "osm_id": 5119046423,
+      "osm_type": "node",
+      "address": "Palma",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Pepe",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4303338,
+      "lon": -99.1344888,
+      "osm_id": 5773151754,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Suburbia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4299788,
+      "lon": -99.1335038,
+      "osm_id": 5842139790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Telas Parisina",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 19.4309605,
+      "lon": -99.1347678,
+      "osm_id": 5842139805,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C&A",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4308719,
+      "lon": -99.1343386,
+      "osm_id": 5842139806,
+      "osm_type": "node",
+      "address": "Calle Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "El Nuevo Mundo",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 19.4315422,
+      "lon": -99.1346507,
+      "osm_id": 5842139809,
+      "osm_type": "node",
+      "address": "Calle Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "Dulces y chocolates La Suiza",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": 19.4304536,
+      "lon": -99.1345373,
+      "osm_id": 6267091286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Toallas Josefina",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4304182,
+      "lon": -99.1345439,
+      "osm_id": 6267091287,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tacos Los Cocuyos",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4313042,
+      "lon": -99.1349794,
+      "osm_id": 6935458785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fisher's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4301096,
+      "lon": -99.1345531,
+      "osm_id": 7212409130,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Garabatos",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4298489,
+      "lon": -99.134615,
+      "osm_id": 7212413541,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Globo",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 19.429744,
+      "lon": -99.134624,
+      "osm_id": 7212415679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Perla",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 19.430408,
+      "lon": -99.1354187,
+      "osm_id": 8004915605,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Sanborns",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4310808,
+      "lon": -99.1352547,
+      "osm_id": 8677141617,
+      "osm_type": "node",
+      "address": "Calle Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "La P",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4313457,
+      "lon": -99.135397,
+      "osm_id": 8677152117,
+      "osm_type": "node",
+      "address": "Calle Palma",
+      "road_geometry": null
+    },
+    {
+      "name": "Road Scholar Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4315151,
+      "lon": -99.1353843,
+      "osm_id": 8715351217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Saz\u00f3n",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4301181,
+      "lon": -99.1332824,
+      "osm_id": 10136547973,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parisina",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 19.430152,
+      "lon": -99.133525,
+      "osm_id": 10136550007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centro de Documentaci\u00f3n Francisco Gamoneda",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 19.4315263,
+      "lon": -99.1339887,
+      "osm_id": 10884154704,
+      "osm_type": "node",
+      "address": "Plaza de la Constituci\u00f3n",
+      "road_geometry": null
+    },
+    {
+      "name": "Museo Sal\u00f3n de Cabildos",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 19.4317186,
+      "lon": -99.1340079,
+      "osm_id": 10972922370,
+      "osm_type": "node",
+      "address": "Plaza de la Constituci\u00f3n",
+      "road_geometry": null
+    },
+    {
+      "name": "Nutrisa",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 19.4301346,
+      "lon": -99.1347811,
+      "osm_id": 11017027599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BTM Hostel Casa Pepe",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 19.4302881,
+      "lon": -99.1343897,
+      "osm_id": 11390823867,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

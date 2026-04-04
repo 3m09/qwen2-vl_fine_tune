@@ -1,71 +1,81 @@
 {
   "image": "dataset/images/117.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.93602336404204,
+  "center_lat": 18.930135135135135,
+  "center_lon": 72.8285715218616,
   "bbox": [
-    -73.93751119278525,
-    40.80900900900902,
-    -73.93453553529883,
-    40.81126126126127
+    72.8273810145744,
+    18.929009009009008,
+    72.8297620291488,
+    18.93126126126126
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
-    "highway.bus_stop",
-    "tourism.artwork",
-    "amenity.community_centre"
+    "shop.books",
+    "amenity.bank",
+    "shop.supermarket"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
-    "highway.bus_stop": 1,
-    "tourism.artwork": 1,
-    "amenity.community_centre": 1
+    "shop.books": 1,
+    "amenity.bank": 3,
+    "shop.supermarket": 1
   },
-  "poi_count": 4,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "Lincoln East Senior Center",
+      "name": "Oxford Bookstore",
       "category": [
-        "amenity.community_centre"
+        "shop.books"
       ],
-      "lat": 40.8112136,
-      "lon": -73.9353331,
-      "osm_id": 5171042767,
-      "osm_type": "node",
-      "address": "East 135th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Madison Avenue & East 132nd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.810333,
-      "lon": -73.9372179,
-      "osm_id": 5235612062,
+      "lat": 18.9295514,
+      "lon": 72.8275099,
+      "osm_id": 1332565534,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Lincoln Holding a Child",
+      "name": "Bank of Baroda",
       "category": [
-        "tourism.artwork"
+        "amenity.bank"
       ],
-      "lat": 40.8110316,
-      "lon": -73.9365295,
-      "osm_id": 8226173442,
+      "lat": 18.9296368,
+      "lon": 72.827438,
+      "osm_id": 9918827615,
       "osm_type": "node",
-      "address": null,
+      "address": "Dinshaw Wachha Road",
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - E 132 St & Madison Ave",
+      "name": "Bank of Baroda",
       "category": [
-        "amenity.bicycle_rental"
+        "amenity.bank"
       ],
-      "lat": 40.8102323,
-      "lon": -73.9372011,
-      "osm_id": 13244016619,
+      "lat": 18.929549,
+      "lon": 72.8274022,
+      "osm_id": 9918837074,
+      "osm_type": "node",
+      "address": "Dinshaw Wachha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Baroda",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9295514,
+      "lon": 72.8274013,
+      "osm_id": 9918846975,
+      "osm_type": "node",
+      "address": "Dinshaw Wachha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nature Basket",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 18.9294782,
+      "lon": 72.827528,
+      "osm_id": 11145671977,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

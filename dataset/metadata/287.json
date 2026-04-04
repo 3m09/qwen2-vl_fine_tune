@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/287.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.64657121488756,
+  "bbox": [
+    -46.64779980056172,
+    -23.565495495495497,
+    -46.645342629213395,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.lottery"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.lottery": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Casa Lot\u00e9rica",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5651818,
+      "lon": -46.6475466,
+      "osm_id": 3527331820,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Parada Treze De Maio",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5637507,
+      "lon": -46.6460791,
+      "osm_id": 8378419538,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parada Treze De Maio",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.563945,
+      "lon": -46.646421,
+      "osm_id": 8378419539,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

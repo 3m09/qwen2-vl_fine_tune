@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/1335.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.98064442360365,
+  "bbox": [
+    -73.98213331409568,
+    40.85630630630637,
+    -73.97915553311162,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "shop.storage_rental",
+    "amenity.fuel"
+  ],
+  "poi_count_per_category": {
+    "shop.storage_rental": 1,
+    "amenity.fuel": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Citgo",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 40.8567299,
+      "lon": -73.9818123,
+      "osm_id": 6100934736,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Extra Space Storage",
+      "category": [
+        "shop.storage_rental"
+      ],
+      "lat": 40.8565562,
+      "lon": -73.9798976,
+      "osm_id": 9406308143,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BP",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 40.8574794,
+      "lon": -73.9818645,
+      "osm_id": 10236688106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

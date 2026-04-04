@@ -1,0 +1,88 @@
+{
+  "image": "dataset/images/645.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.139029515261,
+  "bbox": [
+    -99.1402236122088,
+    19.425,
+    -99.1378354183132,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "amenity.fuel",
+    "railway.stop",
+    "railway.station",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "amenity.fuel": 1,
+    "railway.stop": 1,
+    "railway.station": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Isabel la Cat\u00f3lica",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 19.4263577,
+      "lon": -99.1378401,
+      "osm_id": 1158001795,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Isabel la Cat\u00f3lica",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.426354,
+      "lon": -99.1378834,
+      "osm_id": 1158001819,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Noi Soto Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4269037,
+      "lon": -99.1392483,
+      "osm_id": 5073024042,
+      "osm_type": "node",
+      "address": "Bol\u00edvar",
+      "road_geometry": null
+    },
+    {
+      "name": "Pemex",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 19.4270467,
+      "lon": -99.1392073,
+      "osm_id": 6579275785,
+      "osm_type": "node",
+      "address": "Calle Sim\u00f3n Bol\u00edvar",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4266906,
+      "lon": -99.1392929,
+      "osm_id": 10219049217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

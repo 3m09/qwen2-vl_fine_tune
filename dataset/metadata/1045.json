@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/1045.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.98660544878122,
+  "bbox": [
+    -73.98809373224998,
+    40.82927927927931,
+    -73.98511716531247,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.fast_food",
+    "shop.laundry",
+    "amenity.pharmacy",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1,
+    "shop.laundry": 1,
+    "amenity.pharmacy": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Grand Bazaar Food",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8303036,
+      "lon": -73.9855059,
+      "osm_id": 4638289476,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Rite Aid",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8296855,
+      "lon": -73.986168,
+      "osm_id": 4638291992,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8300252,
+      "lon": -73.9856444,
+      "osm_id": 8686059884,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Laundry Warehouse",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8301519,
+      "lon": -73.9855886,
+      "osm_id": 8688518830,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    }
+  ]
+}

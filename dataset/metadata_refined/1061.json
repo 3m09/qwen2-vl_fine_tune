@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/1061.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.93898037778114,
+  "bbox": [
+    -73.9404686612499,
+    40.82927927927931,
+    -73.93749209431239,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.convenience": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "94 St Nicholas Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.829837,
+      "lon": -73.9402967,
+      "osm_id": 2768121861,
+      "osm_type": "node",
+      "address": "Saint Nicholas Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecomb Avenue & West 155th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8307082,
+      "lon": -73.9404655,
+      "osm_id": 5296021048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecomb Avenue & West 155th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.830848,
+      "lon": -73.9402911,
+      "osm_id": 5296021171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

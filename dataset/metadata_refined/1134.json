@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/1134.png",
+  "center_lat": 40.8371621621622,
+  "center_lon": -73.93599728867397,
+  "bbox": [
+    -73.9374857238211,
+    40.83603603603608,
+    -73.93450885352686,
+    40.83828828828833
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Edgecombe Avenue & West 164th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8366352,
+      "lon": -73.9368584,
+      "osm_id": 8725170810,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecombe Avenue & West 164th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8362739,
+      "lon": -73.9372158,
+      "osm_id": 8725182226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

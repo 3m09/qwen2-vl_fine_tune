@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1050.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.9717226140937,
+  "bbox": [
+    -73.97321089756245,
+    40.82927927927931,
+    -73.97023433062495,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Jack's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8303571,
+      "lon": -73.9724046,
+      "osm_id": 5854119088,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

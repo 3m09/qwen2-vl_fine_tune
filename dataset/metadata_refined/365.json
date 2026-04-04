@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/365.png",
+  "center_lat": 1.3081351351351356,
+  "center_lon": 103.835137772715,
+  "bbox": [
+    103.83401135352445,
+    1.3070090090090094,
+    103.83626419190556,
+    1.3092612612612617
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "shop.bakery",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 3,
+    "shop.bakery": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Goodwood Park Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3082222,
+      "lon": 103.8341091,
+      "osm_id": 4302906018,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Quincy Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3077515,
+      "lon": 103.8357483,
+      "osm_id": 4302906139,
+      "osm_type": "node",
+      "address": "Mount Elizabeth",
+      "road_geometry": null
+    },
+    {
+      "name": "Vibe Hotel Singapore Orchard",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3080241,
+      "lon": 103.8357123,
+      "osm_id": 4302906354,
+      "osm_type": "node",
+      "address": "Mount Elizabeth",
+      "road_geometry": null
+    },
+    {
+      "name": "Min Jiang",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3086682,
+      "lon": 103.8343097,
+      "osm_id": 9862200743,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Deli",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.3088173,
+      "lon": 103.8342878,
+      "osm_id": 9862200744,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

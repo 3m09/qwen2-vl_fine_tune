@@ -1,51 +1,103 @@
 {
   "image": "dataset/images/116.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.93899902152846,
+  "center_lat": 18.930135135135135,
+  "center_lon": 72.82619050728721,
   "bbox": [
-    -73.94048685027167,
-    40.80900900900902,
-    -73.93751119278525,
-    40.81126126126127
+    72.825,
+    18.929009009009008,
+    72.8273810145744,
+    18.93126126126126
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "amenity.cafe"
+    "amenity.bank",
+    "amenity.cafe",
+    "amenity.fast_food",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 1,
-    "amenity.cafe": 1
+    "amenity.bank": 1,
+    "amenity.cafe": 2,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2
   },
-  "poi_count": 2,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "OurtBox Cafe",
+      "name": "210 C",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8105082,
-      "lon": -73.9395267,
-      "osm_id": 4953971785,
+      "lat": 18.9304651,
+      "lon": 72.8264743,
+      "osm_id": 1332567346,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "5th Avenue & West 130th Street",
+      "name": "Samrat",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8094367,
-      "lon": -73.940178,
-      "osm_id": 5235611138,
+      "lat": 18.9304448,
+      "lon": 72.8265816,
+      "osm_id": 1332567646,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Relish",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.93036,
+      "lon": 72.8265145,
+      "osm_id": 1332568045,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tea Villa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9306581,
+      "lon": 72.8258945,
+      "osm_id": 5776168799,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Raju Rolls",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9291169,
+      "lon": 72.826709,
+      "osm_id": 10538700178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Axis Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9301607,
+      "lon": 72.8270943,
+      "osm_id": 11142934544,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 4,
-    "removed_count": 2,
+    "original_poi_count": 9,
+    "removed_count": 3,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/428.png",
+  "center_lat": 22.285135135135132,
+  "center_lon": 114.17338720277021,
+  "bbox": [
+    114.17217018433657,
+    22.284009009009004,
+    114.17460422120388,
+    22.286261261261256
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u91d1\u7d2b\u834a\u7cb5\u83dc Golden Bauhinia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2842885,
+      "lon": 114.1728085,
+      "osm_id": 9681896728,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7d2b\u834a\u5ef3 Bauhinia Room",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2842946,
+      "lon": 114.1731151,
+      "osm_id": 9681896729,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

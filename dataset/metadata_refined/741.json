@@ -1,0 +1,187 @@
+{
+  "image": "dataset/images/741.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.96280933020235,
+  "bbox": [
+    -73.96429695699425,
+    40.8,
+    -73.96132170341043,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "shop.laundry",
+    "shop.hardware",
+    "amenity.cafe",
+    "amenity.kindergarten",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.hairdresser",
+    "amenity.dentist",
+    "amenity.clinic",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.laundry": 3,
+    "shop.hardware": 1,
+    "amenity.cafe": 1,
+    "amenity.kindergarten": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 1,
+    "shop.hairdresser": 1,
+    "amenity.dentist": 1,
+    "amenity.clinic": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "Columbus Medical Group",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8007935,
+      "lon": -73.9619825,
+      "osm_id": 2583212032,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Raquelle Nail Bar",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8009143,
+      "lon": -73.9618952,
+      "osm_id": 2583212033,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "SLN Cleaners",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8005612,
+      "lon": -73.9616506,
+      "osm_id": 2761651136,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "UWS Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8010889,
+      "lon": -73.9617691,
+      "osm_id": 2761651139,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Lion's Head Tavern",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.802193,
+      "lon": -73.9641798,
+      "osm_id": 2761651148,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Garcia Hardware",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8009923,
+      "lon": -73.961345,
+      "osm_id": 2761651152,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Demitasse Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8003172,
+      "lon": -73.9618481,
+      "osm_id": 5539074684,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Kikoo Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8013869,
+      "lon": -73.9615545,
+      "osm_id": 11538724479,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Gracie's Laundry",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8016041,
+      "lon": -73.9613856,
+      "osm_id": 11538724480,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Greenclean",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8002287,
+      "lon": -73.9619114,
+      "osm_id": 11539287129,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Jasmeiry Hair Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8001334,
+      "lon": -73.9619779,
+      "osm_id": 11539287132,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Bloomingdale Family Program",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 40.8007542,
+      "lon": -73.9615138,
+      "osm_id": 11553236715,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 26,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

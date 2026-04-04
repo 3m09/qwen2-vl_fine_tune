@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/667.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.12947630924428,
+  "bbox": [
+    -99.13067043930242,
+    19.429504504504504,
+    -99.12828217918616,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "shop.craft",
+    "shop.clothes",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "shop.craft": 1,
+    "shop.clothes": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Guaida AMB Mercer\u00eda",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 19.430417,
+      "lon": -99.1300363,
+      "osm_id": 10658551017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4295234,
+      "lon": -99.1303061,
+      "osm_id": 11004272405,
+      "osm_type": "node",
+      "address": "Correo Mayor",
+      "road_geometry": null
+    },
+    {
+      "name": "gorras",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4295259,
+      "lon": -99.1300807,
+      "osm_id": 11117725905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

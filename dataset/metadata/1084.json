@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/1084.png",
+  "center_lat": 40.83265765765769,
+  "center_lon": -73.94195497312346,
+  "bbox": [
+    -73.94344330714593,
+    40.83153153153157,
+    -73.94046663910098,
+    40.83378378378382
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.bicycle_rental",
+    "amenity.bar",
+    "amenity.clinic",
+    "amenity.community_centre",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.bicycle_rental": 2,
+    "amenity.bar": 1,
+    "amenity.clinic": 1,
+    "amenity.community_centre": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Public School 28",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.831546,
+      "lon": -73.9424038,
+      "osm_id": 2796691184,
+      "osm_type": "node",
+      "address": "West 155th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Sisters Uptown Bookstore",
+      "category": [
+        "amenity.community_centre",
+        "shop.books"
+      ],
+      "lat": 40.8323961,
+      "lon": -73.9426051,
+      "osm_id": 2796746411,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Blue mountain heights cafe and bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8334517,
+      "lon": -73.941173,
+      "osm_id": 11010933605,
+      "osm_type": "node",
+      "address": "West 158th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Community Healthcare Network",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.833239,
+      "lon": -73.9426093,
+      "osm_id": 11033496964,
+      "osm_type": "node",
+      "address": "West 157th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 156 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8321066,
+      "lon": -73.9424025,
+      "osm_id": 13244010359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - St Nicholas Ave & W 157 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8323233,
+      "lon": -73.9410239,
+      "osm_id": 13244021964,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

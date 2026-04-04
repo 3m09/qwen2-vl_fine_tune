@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/657.png",
+  "center_lat": 19.42837837837838,
+  "center_lon": -99.13186475148001,
+  "bbox": [
+    -99.13305886498182,
+    19.427252252252252,
+    -99.13067063797818,
+    19.429504504504504
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.stationery",
+    "shop.electronics"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "shop.clothes": 1,
+    "shop.stationery": 1,
+    "shop.electronics": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Hotel Patria",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4287764,
+      "lon": -99.1312007,
+      "osm_id": 2957695244,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Papeleria El Cisne",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4273238,
+      "lon": -99.1318237,
+      "osm_id": 5509017071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mayoristas",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 19.4273637,
+      "lon": -99.1321344,
+      "osm_id": 5509017293,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luany Casual",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4274339,
+      "lon": -99.1326814,
+      "osm_id": 5509017304,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 24,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

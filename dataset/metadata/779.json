@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/779.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.99256136121947,
+  "bbox": [
+    -73.99404908897557,
+    40.80450450450451,
+    -73.99107363346336,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.mobile_phone",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 1,
+    "shop.mobile_phone": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Moe's Southwest Grill",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8048531,
+      "lon": -73.9919426,
+      "osm_id": 5285151125,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "AT&T",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8047679,
+      "lon": -73.9920022,
+      "osm_id": 5285151422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "River Rd at Church Hill Rd",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8047031,
+      "lon": -73.9930774,
+      "osm_id": 8260679162,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porto by Antonio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.804925,
+      "lon": -73.993408,
+      "osm_id": 8260705162,
+      "osm_type": "node",
+      "address": "Old River Road",
+      "road_geometry": null
+    }
+  ]
+}

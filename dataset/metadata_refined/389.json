@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/389.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.18555574070577,
+  "bbox": [
+    114.18433880067215,
+    22.275,
+    114.18677268073937,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.museum"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.museum": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u4fdd\u826f\u5c40\u6b77\u53f2\u535a\u7269\u9928 Po Leung Kuk Museum",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 22.2767091,
+      "lon": 114.1847376,
+      "osm_id": 5973912641,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u52a0\u8def\u9023\u5c71\u9053 Caroline Hill Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2756193,
+      "lon": 114.1860602,
+      "osm_id": 12207922704,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

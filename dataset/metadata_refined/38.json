@@ -1,207 +1,477 @@
 {
   "image": "dataset/images/38.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.95685735913685,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.09457161329753752,
   "bbox": [
-    -73.95834503640799,
-    40.80225225225225,
-    -73.9553696818657,
-    40.80450450450451
+    -0.09638107553169169,
+    51.51175675675677,
+    -0.09276215106338337,
+    51.51400900900902
   ],
   "unique_categories": [
+    "amenity.atm",
+    "amenity.pub",
     "highway.bus_stop",
-    "amenity.doctors",
-    "amenity.fast_food",
-    "amenity.bicycle_rental",
-    "shop.bicycle",
-    "tourism.artwork",
+    "shop.convenience",
     "amenity.restaurant",
-    "amenity.cafe"
+    "railway.subway_entrance",
+    "shop.sports",
+    "shop.hairdresser",
+    "railway.stop",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "amenity.bar",
+    "amenity.bank",
+    "tourism.hotel",
+    "railway.station",
+    "shop.clothes",
+    "shop.travel_agency"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 4,
-    "amenity.doctors": 1,
-    "amenity.fast_food": 2,
-    "amenity.bicycle_rental": 1,
-    "shop.bicycle": 1,
-    "tourism.artwork": 1,
-    "amenity.restaurant": 3,
-    "amenity.cafe": 1
+    "amenity.atm": 1,
+    "amenity.pub": 3,
+    "highway.bus_stop": 3,
+    "shop.convenience": 1,
+    "amenity.restaurant": 6,
+    "railway.subway_entrance": 2,
+    "shop.sports": 1,
+    "shop.hairdresser": 1,
+    "railway.stop": 2,
+    "tourism.artwork": 3,
+    "amenity.fast_food": 6,
+    "amenity.bar": 1,
+    "amenity.bank": 1,
+    "tourism.hotel": 1,
+    "railway.station": 1,
+    "shop.clothes": 1,
+    "shop.travel_agency": 1
   },
-  "poi_count": 14,
+  "poi_count": 35,
   "pois": [
     {
-      "name": "Mod Squad Cycles",
+      "name": "Mansion House",
       "category": [
-        "shop.bicycle"
+        "railway.station"
       ],
-      "lat": 40.8035486,
-      "lon": -73.9562943,
-      "osm_id": 1667410041,
+      "lat": 51.5118924,
+      "lon": -0.0952228,
+      "osm_id": 18395696,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Melba's",
+      "name": "Mansion House",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5118216,
+      "lon": -0.0952117,
+      "osm_id": 64775110,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Thai Square",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8030944,
-      "lon": -73.95657,
-      "osm_id": 1667412535,
+      "lat": 51.5118712,
+      "lon": -0.0937202,
+      "osm_id": 319984698,
       "osm_type": "node",
-      "address": "West 114th Street",
+      "address": "Great St. Thomas Apostle",
       "road_geometry": null
     },
     {
-      "name": "Atomic Wings",
+      "name": "Mansion House Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5126558,
+      "lon": -0.0948153,
+      "osm_id": 469761460,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mansion House Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5121219,
+      "lon": -0.0946902,
+      "osm_id": 469761461,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Change / Cannon Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5134935,
+      "lon": -0.0962691,
+      "osm_id": 469777023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spianata",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8025114,
-      "lon": -73.9565294,
-      "osm_id": 2762470557,
+      "lat": 51.5132469,
+      "lon": -0.0946381,
+      "osm_id": 560751244,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": "Watling Street",
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 116th Street",
+      "name": "The Saint",
       "category": [
-        "highway.bus_stop"
+        "amenity.pub"
       ],
-      "lat": 40.8041924,
-      "lon": -73.9556662,
-      "osm_id": 5263698203,
+      "lat": 51.5135985,
+      "lon": -0.0940496,
+      "osm_id": 666475908,
+      "osm_type": "node",
+      "address": "Bow Churchyard",
+      "road_geometry": null
+    },
+    {
+      "name": "The Sea Horse",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5121486,
+      "lon": -0.0955817,
+      "osm_id": 1144626359,
+      "osm_type": "node",
+      "address": "Queen Victoria Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mansion House",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5124088,
+      "lon": -0.0943162,
+      "osm_id": 1590789253,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 116th Street & Frederick Douglas Boulevard",
+      "name": "Mansion House",
       "category": [
-        "highway.bus_stop"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8044624,
-      "lon": -73.9557108,
-      "osm_id": 5263698237,
+      "lat": 51.512205,
+      "lon": -0.0937994,
+      "osm_id": 1678155316,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 114th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8029495,
-      "lon": -73.9565672,
-      "osm_id": 5384049998,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Cafe Frederick",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8029397,
-      "lon": -73.956201,
-      "osm_id": 6549322049,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Lafayette and Washington",
+      "name": "The Cordwainer",
       "category": [
         "tourism.artwork"
       ],
-      "lat": 40.8036855,
-      "lon": -73.9580124,
-      "osm_id": 6821846246,
+      "lat": 51.5128285,
+      "lon": -0.0930834,
+      "osm_id": 1719875319,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Manhattan Avenue & West 114th Street",
+      "name": "Sainsbury's Local",
       "category": [
-        "highway.bus_stop"
+        "shop.convenience"
       ],
-      "lat": 40.8038949,
-      "lon": -73.9577647,
-      "osm_id": 8832001346,
+      "lat": 51.5121671,
+      "lon": -0.0942146,
+      "osm_id": 2489364566,
+      "osm_type": "node",
+      "address": "Queen Victoria Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Interspersed city",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5134744,
+      "lon": -0.0933744,
+      "osm_id": 3014255927,
+      "osm_type": "node",
+      "address": "Bow Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Mansion House",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.511929,
+      "lon": -0.0952257,
+      "osm_id": 3076574235,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Maharaja Palace",
+      "name": "Khops",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5131532,
+      "lon": -0.0933264,
+      "osm_id": 4601684016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taberna Etrusca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5135163,
+      "lon": -0.0937777,
+      "osm_id": 4603537401,
+      "osm_type": "node",
+      "address": "Bow Churchyard",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8033615,
-      "lon": -73.9563955,
-      "osm_id": 10196098734,
+      "lat": 51.5122227,
+      "lon": -0.0936072,
+      "osm_id": 4639477431,
       "osm_type": "node",
-      "address": null,
+      "address": "Cannon Street",
       "road_geometry": null
     },
     {
-      "name": "Vegan Hood",
+      "name": "Nyokee",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8028363,
-      "lon": -73.9562879,
-      "osm_id": 11040513632,
+      "lat": 51.5120383,
+      "lon": -0.0937282,
+      "osm_id": 4640157309,
       "osm_type": "node",
-      "address": "Frederick Douglass Blvd",
+      "address": "Garlick Hill",
       "road_geometry": null
     },
     {
-      "name": "Cantina Taqueria",
+      "name": "Rooftop Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.513536,
+      "lon": -0.0960534,
+      "osm_id": 5180126323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burrito Joe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5127525,
+      "lon": -0.0935368,
+      "osm_id": 5696100032,
+      "osm_type": "node",
+      "address": "Bow Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Souvlaki Street",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5126285,
+      "lon": -0.0933669,
+      "osm_id": 5696124621,
+      "osm_type": "node",
+      "address": "Watling Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Shake Shack",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5125546,
+      "lon": -0.0938753,
+      "osm_id": 6016798685,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bread street kitchen",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8027452,
-      "lon": -73.9568209,
-      "osm_id": 12036720755,
+      "lat": 51.512858,
+      "lon": -0.095215,
+      "osm_id": 7054310585,
+      "osm_type": "node",
+      "address": "Bread Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Nail",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5137858,
+      "lon": -0.0963025,
+      "osm_id": 7235153336,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tribeca Pediatrics",
+      "name": "Bank of Ireland",
       "category": [
-        "amenity.doctors"
+        "amenity.bank"
       ],
-      "lat": 40.8032998,
-      "lon": -73.9564167,
-      "osm_id": 12036720765,
+      "lat": 51.5134414,
+      "lon": -0.0944758,
+      "osm_id": 7797396373,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": "Bread Street",
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Frederick Douglass Blvd & W 115 St",
+      "name": "TSB",
       "category": [
-        "amenity.bicycle_rental"
+        "amenity.atm"
       ],
-      "lat": 40.8039005,
-      "lon": -73.9558836,
-      "osm_id": 12410916763,
+      "lat": 51.5139934,
+      "lon": -0.0939587,
+      "osm_id": 10033236597,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Captain John Smith",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5138044,
+      "lon": -0.093848,
+      "osm_id": 11229672991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cove",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.512135,
+      "lon": -0.0931802,
+      "osm_id": 12051479697,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eatviet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5128182,
+      "lon": -0.0937366,
+      "osm_id": 12122024056,
+      "osm_type": "node",
+      "address": "Bow Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "The Mokapot House",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5131753,
+      "lon": -0.0942409,
+      "osm_id": 12122024058,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Wren Tavern",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5129827,
+      "lon": -0.093276,
+      "osm_id": 12431593816,
+      "osm_type": "node",
+      "address": "Watling Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Zara",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5135673,
+      "lon": -0.0958769,
+      "osm_id": 12959502951,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trailfinders",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 51.5138455,
+      "lon": -0.0933959,
+      "osm_id": 12959568353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Acer",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.512941,
+      "lon": -0.092999,
+      "osm_id": 12962155285,
+      "osm_type": "node",
+      "address": "Watling Street",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 21,
-    "removed_count": 7,
+    "original_poi_count": 54,
+    "removed_count": 19,
     "model": "gemini-2.5-flash"
   }
 }

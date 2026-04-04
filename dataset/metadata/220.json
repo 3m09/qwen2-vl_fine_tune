@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/220.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.5123905140919,
+  "bbox": [
+    121.51107342502767,
+    31.239009009009006,
+    121.51370760315613,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "amenity.theatre"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "amenity.theatre": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u6587\u5316\u9986\u5267\u573a",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 31.2392585,
+      "lon": 121.5117971,
+      "osm_id": 11898954499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2401651,
+      "lon": 121.5116731,
+      "osm_id": 11898954500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "image": "dataset/images/938.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.94791892248479,
+  "bbox": [
+    -73.94940695327094,
+    40.81801801801804,
+    -73.94643089169864,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.place_of_worship",
+    "railway.stop",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.place_of_worship": 1,
+    "railway.stop": 1,
+    "highway.bus_stop": 3
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Saint Mark's Methodist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8186111,
+      "lon": -73.9469444,
+      "osm_id": 357621136,
+      "osm_type": "node",
+      "address": "Edgecombe Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8189901,
+      "lon": -73.9472905,
+      "osm_id": 5274251155,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8200847,
+      "lon": -73.9464493,
+      "osm_id": 5274251307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecombe Avenue & West 137th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8182917,
+      "lon": -73.9469502,
+      "osm_id": 5274254232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "135th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8185181,
+      "lon": -73.9472425,
+      "osm_id": 7657141845,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - St Nicholas Ave & W 137 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8185263,
+      "lon": -73.9475725,
+      "osm_id": 13226785183,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

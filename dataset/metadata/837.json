@@ -1,0 +1,126 @@
+{
+  "image": "dataset/images/837.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.96280428141979,
+  "bbox": [
+    -73.964292110163,
+    40.80900900900902,
+    -73.96131645267658,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "leisure.sports_centre",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.theatre",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "leisure.sports_centre": 1,
+    "highway.bus_stop": 3,
+    "amenity.cafe": 1,
+    "amenity.theatre": 1,
+    "tourism.artwork": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Minor Latham Playhouse",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8102679,
+      "lon": -73.9627553,
+      "osm_id": 368051690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dodge Fitness Center",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 40.8096772,
+      "lon": -73.9617322,
+      "osm_id": 368062431,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joe Coffee Company",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8101961,
+      "lon": -73.9618962,
+      "osm_id": 2308955289,
+      "osm_type": "node",
+      "address": "West 120th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8103216,
+      "lon": -73.9619981,
+      "osm_id": 5177358157,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Reclining Woman",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.809011,
+      "lon": -73.9622465,
+      "osm_id": 6245004725,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 120 St & Claremont Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8109535,
+      "lon": -73.9634152,
+      "osm_id": 6798013352,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8109256,
+      "lon": -73.9641582,
+      "osm_id": 6798013353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8102662,
+      "lon": -73.9624856,
+      "osm_id": 8703182174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

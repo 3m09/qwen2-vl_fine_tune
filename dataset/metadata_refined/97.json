@@ -1,37 +1,121 @@
 {
   "image": "dataset/images/97.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.99553651377038,
+  "center_lat": 18.92337837837838,
+  "center_lon": 72.8309522957524,
   "bbox": [
-    -73.99702434251358,
-    40.80900900900902,
-    -73.99404868502717,
-    40.81126126126127
+    72.82976183660192,
+    18.922252252252253,
+    72.83214275490288,
+    18.924504504504505
   ],
   "unique_categories": [
-    "amenity.school"
+    "amenity.hospital",
+    "tourism.hostel",
+    "amenity.cafe",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "tourism.hotel",
+    "amenity.clinic"
   ],
   "poi_count_per_category": {
-    "amenity.school": 1
+    "amenity.hospital": 1,
+    "tourism.hostel": 1,
+    "amenity.cafe": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "tourism.hotel": 1,
+    "amenity.clinic": 1
   },
-  "poi_count": 1,
+  "poi_count": 7,
   "pois": [
     {
-      "name": "Number 5 Elementary School",
+      "name": "Sahakari Bhandar",
       "category": [
-        "amenity.school"
+        "shop.supermarket"
       ],
-      "lat": 40.8111173,
-      "lon": -73.99432,
-      "osm_id": 357729852,
+      "lat": 18.9243285,
+      "lon": 72.83175,
+      "osm_id": 1973402579,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Think Juice",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9239696,
+      "lon": 72.8318052,
+      "osm_id": 6221009336,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R&R Eye Care Clinic",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 18.923164,
+      "lon": 72.831908,
+      "osm_id": 7664032229,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bombay YMCA Central Branch",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 18.9242562,
+      "lon": 72.8309479,
+      "osm_id": 8457285999,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Volga",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9230125,
+      "lon": 72.831736,
+      "osm_id": 12560777888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apollo Hospitals",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 18.9232674,
+      "lon": 72.831386,
+      "osm_id": 12560946824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9236148,
+      "lon": 72.8319942,
+      "osm_id": 12595233301,
+      "osm_type": "node",
+      "address": "Shahid Bhagat Singh Road (Colaba Causeway)",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 11,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

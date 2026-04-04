@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/282.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.658857071629185,
+  "bbox": [
+    -46.66008565730335,
+    -23.565495495495497,
+    -46.65762848595502,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "tourism.apartment",
+    "tourism.hotel",
+    "amenity.taxi"
+  ],
+  "poi_count_per_category": {
+    "tourism.apartment": 1,
+    "tourism.hotel": 1,
+    "amenity.taxi": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Trianon Paulista",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5645031,
+      "lon": -46.6581635,
+      "osm_id": 1801306004,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edificio Paulistania",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": -23.5642905,
+      "lon": -46.6580529,
+      "osm_id": 5238252521,
+      "osm_type": "node",
+      "address": "Alameda Casa Branca",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 1345",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.565096,
+      "lon": -46.6596216,
+      "osm_id": 11381480089,
+      "osm_type": "node",
+      "address": "Alameda Franca",
+      "road_geometry": null
+    }
+  ]
+}

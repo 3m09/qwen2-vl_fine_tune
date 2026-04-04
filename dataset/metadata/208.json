@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/208.png",
+  "center_lat": 31.237882882882882,
+  "center_lon": 121.50712174961255,
+  "bbox": [
+    121.50580469195005,
+    31.236756756756755,
+    121.50843880727506,
+    31.239009009009006
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "railway.planned",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "railway.planned": 2,
+    "railway.station": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u6d66\u4e1c\u5927\u9053",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2386473,
+      "lon": 121.5072822,
+      "osm_id": 5081328862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "railway.planned"
+      ],
+      "lat": 31.2377297,
+      "lon": 121.5078668,
+      "osm_id": 12584051357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "railway.planned"
+      ],
+      "lat": 31.2378038,
+      "lon": 121.508013,
+      "osm_id": 12584051358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\uff08\u5728\u5efa\uff09",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 31.2377494,
+      "lon": 121.507915,
+      "osm_id": 13444650648,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

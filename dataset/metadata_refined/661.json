@@ -1,0 +1,153 @@
+{
+  "image": "dataset/images/661.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.14380586994186,
+  "bbox": [
+    -99.145,
+    19.429504504504504,
+    -99.14261173988373,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "shop.gift",
+    "amenity.restaurant",
+    "shop.ticket",
+    "amenity.fast_food",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "shop.gift": 1,
+    "amenity.restaurant": 6,
+    "shop.ticket": 1,
+    "amenity.fast_food": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Tacos de Canasta48",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4306095,
+      "lon": -99.1446059,
+      "osm_id": 4398372690,
+      "osm_type": "node",
+      "address": "Ayuntamiento",
+      "road_geometry": null
+    },
+    {
+      "name": "Centrina",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4298411,
+      "lon": -99.143922,
+      "osm_id": 4734730681,
+      "osm_type": "node",
+      "address": "Plaza de San Juan",
+      "road_geometry": null
+    },
+    {
+      "name": "Tortas Super Astro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4304306,
+      "lon": -99.1439355,
+      "osm_id": 4766414962,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bar Cantina La Reforma",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4306757,
+      "lon": -99.1431887,
+      "osm_id": 7924604913,
+      "osm_type": "node",
+      "address": "Calle Dolores",
+      "road_geometry": null
+    },
+    {
+      "name": "Mercado de Artesan\u00edas y Curiosidades Mexicanas San Juan",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 19.4299806,
+      "lon": -99.1431024,
+      "osm_id": 8205695117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiendita",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 19.4314413,
+      "lon": -99.1433619,
+      "osm_id": 8774087117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mi Jacalito",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4308432,
+      "lon": -99.1444207,
+      "osm_id": 10692043705,
+      "osm_type": "node",
+      "address": "Calle Ayuntamiento",
+      "road_geometry": null
+    },
+    {
+      "name": "El Paisa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4308187,
+      "lon": -99.144279,
+      "osm_id": 10978442321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Plaza Victoria",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 19.4315037,
+      "lon": -99.1441424,
+      "osm_id": 11241881108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Huequito Tacos Gourmet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4306501,
+      "lon": -99.142951,
+      "osm_id": 11746715417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

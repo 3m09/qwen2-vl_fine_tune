@@ -1,0 +1,294 @@
+{
+  "image": "dataset/images/662.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.1414176098256,
+  "bbox": [
+    -99.14261173988373,
+    19.429504504504504,
+    -99.14022347976747,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.coffee",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "tourism.hotel",
+    "shop.radiotechnics"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "railway.subway_entrance": 2,
+    "amenity.restaurant": 3,
+    "highway.bus_stop": 3,
+    "shop.coffee": 2,
+    "amenity.cafe": 2,
+    "railway.stop": 1,
+    "railway.station": 1,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1,
+    "tourism.hotel": 1,
+    "shop.radiotechnics": 3
+  },
+  "poi_count": 21,
+  "pois": [
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 19.4312856,
+      "lon": -99.1413291,
+      "osm_id": 555081970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Rosal\u00eda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4310659,
+      "lon": -99.1411393,
+      "osm_id": 2270027260,
+      "osm_type": "node",
+      "address": "Eje Central L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Electr\u00f3nica Estudio",
+      "category": [
+        "shop.radiotechnics"
+      ],
+      "lat": 19.4304323,
+      "lon": -99.1403629,
+      "osm_id": 2514183574,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Villarias",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 19.4305495,
+      "lon": -99.1423019,
+      "osm_id": 4595863989,
+      "osm_type": "node",
+      "address": "L\u00f3pez",
+      "road_geometry": null
+    },
+    {
+      "name": "El Chavalete",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 19.4303253,
+      "lon": -99.1425615,
+      "osm_id": 4978337001,
+      "osm_type": "node",
+      "address": "Ayuntamiento",
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici L\u00f3pez / Ayuntamiento",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4308192,
+      "lon": -99.1424498,
+      "osm_id": 5067281569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4312724,
+      "lon": -99.1415789,
+      "osm_id": 5185175042,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Steren Outlet",
+      "category": [
+        "shop.radiotechnics"
+      ],
+      "lat": 19.4302399,
+      "lon": -99.1402336,
+      "osm_id": 5842139794,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Steren Centro",
+      "category": [
+        "shop.radiotechnics"
+      ],
+      "lat": 19.4302589,
+      "lon": -99.1403624,
+      "osm_id": 5842139795,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel El Salvador",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4303044,
+      "lon": -99.1405528,
+      "osm_id": 5842139796,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4305131,
+      "lon": -99.1412046,
+      "osm_id": 5842139797,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churrer\u00eda El Moro",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4313896,
+      "lon": -99.1411354,
+      "osm_id": 5842139800,
+      "osm_type": "node",
+      "address": "L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "ISSSTE",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 19.4317306,
+      "lon": -99.1420839,
+      "osm_id": 8254905765,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Metrob\u00fas Eje Central",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4303666,
+      "lon": -99.1418034,
+      "osm_id": 9082900517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taquer\u00eda Pocho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4313736,
+      "lon": -99.1415381,
+      "osm_id": 10173843945,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Uruguay",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4310078,
+      "lon": -99.1412557,
+      "osm_id": 10582818899,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Uruguay",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4313795,
+      "lon": -99.1414248,
+      "osm_id": 10592409237,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Danubio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4310615,
+      "lon": -99.1410121,
+      "osm_id": 10746765545,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Villar\u00edas",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4308618,
+      "lon": -99.1423109,
+      "osm_id": 11926927856,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4313594,
+      "lon": -99.1411983,
+      "osm_id": 12657200213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Juan de Letr\u00e1n",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.4315049,
+      "lon": -99.1412928,
+      "osm_id": 12785180677,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

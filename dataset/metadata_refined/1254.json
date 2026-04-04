@@ -1,0 +1,145 @@
+{
+  "image": "dataset/images/1254.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.93598641345788,
+  "bbox": [
+    -73.937475101517,
+    40.84729729729735,
+    -73.93449772539876,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.bicycle_rental",
+    "amenity.doctors",
+    "amenity.dentist"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 1,
+    "highway.bus_stop": 3,
+    "shop.convenience": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.doctors": 1,
+    "amenity.dentist": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Temple of the Covenant",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8486111,
+      "lon": -73.935,
+      "osm_id": 357624597,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "San Pedro Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8482027,
+      "lon": -73.9347678,
+      "osm_id": 2797466255,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "New Heights Oral Surgery",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8493815,
+      "lon": -73.9357674,
+      "osm_id": 5798586020,
+      "osm_type": "node",
+      "address": "West 180th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Wadsworth Avenue & West 180th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8492708,
+      "lon": -73.9354777,
+      "osm_id": 5798630379,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 179th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8487988,
+      "lon": -73.9370012,
+      "osm_id": 5798630381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 179th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8489319,
+      "lon": -73.9367474,
+      "osm_id": 5798632107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chop Cheese Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8493192,
+      "lon": -73.9363867,
+      "osm_id": 11484284535,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Wellness Center",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 40.8489888,
+      "lon": -73.936728,
+      "osm_id": 12925573367,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Wadsworth Ave & W 179 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8484856,
+      "lon": -73.9361025,
+      "osm_id": 12925573379,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 8,
+    "model": "gemini-2.5-flash"
+  }
+}

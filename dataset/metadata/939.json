@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/939.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.94494286091249,
+  "bbox": [
+    -73.94643089169864,
+    40.81801801801804,
+    -73.94345483012634,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "tourism.gallery",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 1,
+    "tourism.gallery": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "The Edge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8198671,
+      "lon": -73.9460727,
+      "osm_id": 2768136308,
+      "osm_type": "node",
+      "address": "Edgecombe Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8182157,
+      "lon": -73.9454254,
+      "osm_id": 5274262297,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8185888,
+      "lon": -73.9449049,
+      "osm_id": 5274262526,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Faction Art Projects",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 40.8188292,
+      "lon": -73.9446254,
+      "osm_id": 6511898056,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Frederick Douglass Blvd & W 139 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8190068,
+      "lon": -73.9448038,
+      "osm_id": 13226775802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

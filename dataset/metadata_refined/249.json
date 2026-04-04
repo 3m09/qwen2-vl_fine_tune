@@ -1,0 +1,107 @@
+{
+  "image": "dataset/images/249.png",
+  "center_lat": 37.49637837837838,
+  "center_lon": 127.03193552471392,
+  "bbox": [
+    127.0305161640405,
+    37.49525225225226,
+    127.03335488538734,
+    37.49750450450451
+  ],
+  "unique_categories": [
+    "amenity.college",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.post_office",
+    "amenity.townhall"
+  ],
+  "poi_count_per_category": {
+    "amenity.college": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 1,
+    "amenity.post_office": 1,
+    "amenity.townhall": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "\uc11c\uc6b8\uc5ed\uc0bc\uc6b0\uc131\uc6b0\ud3b8\ucde8\uae09\uad6d",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 37.4954802,
+      "lon": 127.0307131,
+      "osm_id": 368876095,
+      "osm_type": "node",
+      "address": "\ud14c\ud5e4\ub780\ub85c4\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc5ed\uc0bc1\ub3d9 \uc8fc\ubbfc\uc13c\ud130",
+      "category": [
+        "amenity.townhall"
+      ],
+      "lat": 37.495394,
+      "lon": 127.033108,
+      "osm_id": 368898817,
+      "osm_type": "node",
+      "address": "\uc5ed\uc0bc\ub85c7\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc218\uc6d0\uacfc\ud559\ub300\ud559\uad50",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 37.496103,
+      "lon": 127.0332313,
+      "osm_id": 7895730386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LA \ub77c\ud2f4 \ubc14(LA Latin bar)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4954403,
+      "lon": 127.0312963,
+      "osm_id": 12074266867,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c78\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\ud321\ubba4\uc81c \ubca0\uc774\ucee4\ub9ac \uac15\ub0a8\ubcf8\uc810",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 37.4963534,
+      "lon": 127.0320282,
+      "osm_id": 12074365630,
+      "osm_type": "node",
+      "address": "\ud14c\ud5e4\ub780\ub85c8\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc5ed\uc0bc1\ub3d9\uc8fc\ubbfc\uc13c\ud130",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4965631,
+      "lon": 127.0323073,
+      "osm_id": 12232162052,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 23,
+    "removed_count": 17,
+    "model": "gemini-2.5-flash"
+  }
+}

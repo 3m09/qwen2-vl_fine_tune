@@ -1,195 +1,159 @@
 {
   "image": "dataset/images/134.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.95685150188477,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.83571485450734,
   "bbox": [
-    -73.95833938113012,
-    40.81126126126127,
-    -73.95536362263941,
-    40.81351351351353
+    72.83452431511763,
+    18.93351351351351,
+    72.83690539389704,
+    18.935765765765762
   ],
   "unique_categories": [
-    "shop.chemist",
-    "amenity.restaurant",
-    "shop.deli",
-    "shop.supermarket",
-    "highway.bus_stop",
-    "shop.hairdresser",
-    "amenity.bicycle_rental",
-    "amenity.bank"
+    "amenity.fire_station",
+    "amenity.place_of_worship",
+    "tourism.museum",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.post_office",
+    "shop.books",
+    "shop.supermarket"
   ],
   "poi_count_per_category": {
-    "shop.chemist": 1,
-    "amenity.restaurant": 2,
-    "shop.deli": 1,
-    "shop.supermarket": 1,
-    "highway.bus_stop": 5,
-    "shop.hairdresser": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.bank": 1
+    "amenity.fire_station": 1,
+    "amenity.place_of_worship": 1,
+    "tourism.museum": 1,
+    "amenity.bank": 3,
+    "shop.clothes": 1,
+    "amenity.post_office": 1,
+    "shop.books": 1,
+    "shop.supermarket": 1
   },
-  "poi_count": 13,
+  "poi_count": 10,
   "pois": [
     {
-      "name": "Nikko Hibachi Asian Fusion",
+      "name": "Bazaar Gate Post Office",
       "category": [
-        "amenity.restaurant"
+        "amenity.post_office"
       ],
-      "lat": 40.8114761,
-      "lon": -73.9579151,
-      "osm_id": 2768405698,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.812891,
-      "lon": -73.9567648,
-      "osm_id": 5402622144,
+      "lat": 18.9346708,
+      "lon": 72.8349898,
+      "osm_id": 662459688,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Amsterdam Avenue & West 125th Street",
+      "name": "Strand Book Stall",
       "category": [
-        "highway.bus_stop"
+        "shop.books"
       ],
-      "lat": 40.8130344,
-      "lon": -73.9566699,
-      "osm_id": 5402622150,
+      "lat": 18.934187,
+      "lon": 72.83481,
+      "osm_id": 1973422759,
       "osm_type": "node",
-      "address": null,
+      "address": "Sayed Abdullah Brevi Road",
       "road_geometry": null
     },
     {
-      "name": "Amsterdam Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8129781,
-      "lon": -73.9564227,
-      "osm_id": 5402622153,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 123rd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8114434,
-      "lon": -73.9575724,
-      "osm_id": 5801963019,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Amsterdam Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8128333,
-      "lon": -73.9559643,
-      "osm_id": 5980557679,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Malvin Barber Shop",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8126567,
-      "lon": -73.9553989,
-      "osm_id": 8375908256,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "1 Columbia Deli",
-      "category": [
-        "shop.deli"
-      ],
-      "lat": 40.8117166,
-      "lon": -73.9577238,
-      "osm_id": 8375950588,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Center Pharmacy",
-      "category": [
-        "shop.chemist"
-      ],
-      "lat": 40.8119034,
-      "lon": -73.9575829,
-      "osm_id": 8375950590,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citibank",
+      "name": "Zorastrian Bank",
       "category": [
         "amenity.bank"
       ],
-      "lat": 40.8122461,
-      "lon": -73.9573375,
-      "osm_id": 8375950592,
+      "lat": 18.9347594,
+      "lon": 72.8356936,
+      "osm_id": 2166856503,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Foodtown",
+      "name": "Bank of Tokyo",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9337367,
+      "lon": 72.8348465,
+      "osm_id": 2167547604,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Fire Brigade",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 18.9350735,
+      "lon": 72.8346417,
+      "osm_id": 2168679530,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apna Bazar Co-operative",
       "category": [
         "shop.supermarket"
       ],
-      "lat": 40.8123847,
-      "lon": -73.9572358,
-      "osm_id": 8375950593,
+      "lat": 18.9342708,
+      "lon": 72.8360075,
+      "osm_id": 4803494925,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Sir Pheroze Shah Mehta Road",
       "road_geometry": null
     },
     {
-      "name": "West Place",
+      "name": "Shantinath Jain Mandir",
       "category": [
-        "amenity.restaurant"
+        "amenity.place_of_worship"
       ],
-      "lat": 40.811599,
-      "lon": -73.9578096,
-      "osm_id": 8385594245,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Amsterdam Ave & W 125 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8133237,
-      "lon": -73.9565046,
-      "osm_id": 11982188294,
+      "lat": 18.934986,
+      "lon": 72.8351708,
+      "osm_id": 5263883521,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "RBI Monetary Museum",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 18.934005,
+      "lon": 72.8361829,
+      "osm_id": 6052636216,
+      "osm_type": "node",
+      "address": "Sir Pheroze Shah Mehta Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Smart Hosiery",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9346362,
+      "lon": 72.8352795,
+      "osm_id": 12633513701,
+      "osm_type": "node",
+      "address": "Bora Bazaar Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab National Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9341323,
+      "lon": 72.8356824,
+      "osm_id": 12633513702,
+      "osm_type": "node",
+      "address": "Sir Pherozeshah Mehta Road",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 13,
-    "removed_count": 0,
+    "original_poi_count": 14,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

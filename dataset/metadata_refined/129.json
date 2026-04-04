@@ -1,19 +1,36 @@
 {
   "image": "dataset/images/129.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.9717302943383,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.84047680338509,
   "bbox": [
-    -73.97321817358365,
-    40.81126126126127,
-    -73.97024241509294,
-    40.81351351351353
+    72.83928628004777,
+    18.93126126126126,
+    72.8416673267224,
+    18.93351351351351
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Britannia Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9323318,
+      "lon": 72.8398242,
+      "osm_id": 1973424904,
+      "osm_type": "node",
+      "address": "16 Sprott Road",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
+    "original_poi_count": 1,
     "removed_count": 0,
     "model": "gemini-2.5-flash"
   }

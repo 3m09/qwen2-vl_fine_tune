@@ -1,0 +1,133 @@
+{
+  "image": "dataset/images/1258.png",
+  "center_lat": 40.85067567567573,
+  "center_lon": -73.99553378402379,
+  "bbox": [
+    -73.99702252268253,
+    40.84954954954961,
+    -73.99404504536506,
+    40.85180180180186
+  ],
+  "unique_categories": [
+    "shop.hardware",
+    "shop.bakery",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.clothes",
+    "shop.supermarket",
+    "shop.deli"
+  ],
+  "poi_count_per_category": {
+    "shop.hardware": 1,
+    "shop.bakery": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 2,
+    "shop.clothes": 1,
+    "shop.supermarket": 1,
+    "shop.deli": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Noah Bank - Palisades Park",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8517653,
+      "lon": -73.9954818,
+      "osm_id": 4273599293,
+      "osm_type": "node",
+      "address": "Broad Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Oritani Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8496005,
+      "lon": -73.996394,
+      "osm_id": 6171873487,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kraut & Benson",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8500325,
+      "lon": -73.996574,
+      "osm_id": 6171873488,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banner",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8498715,
+      "lon": -73.9962116,
+      "osm_id": 6171873489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Donna's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.849964,
+      "lon": -73.9961382,
+      "osm_id": 6171873491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SysMax",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8501566,
+      "lon": -73.9964777,
+      "osm_id": 6171873492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Baguette",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.850115,
+      "lon": -73.9960746,
+      "osm_id": 6171873494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Good Morning Mart",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8502518,
+      "lon": -73.9959359,
+      "osm_id": 6171873504,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 12,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1158.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.9359951141242,
+  "bbox": [
+    -73.93748359984224,
+    40.83828828828833,
+    -73.93450662840615,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Public School 8",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8391667,
+      "lon": -73.9366667,
+      "osm_id": 357621565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 167 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.839431,
+      "lon": -73.9370267,
+      "osm_id": 13244024506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

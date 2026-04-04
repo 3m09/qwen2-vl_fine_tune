@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1307.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.99255580062407,
+  "bbox": [
+    -73.99404464049925,
+    40.85405405405412,
+    -73.99106696074888,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Broad Avenue at Ames Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8556799,
+      "lon": -73.9924277,
+      "osm_id": 10265501049,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

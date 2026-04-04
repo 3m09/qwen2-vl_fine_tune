@@ -1,20 +1,65 @@
 {
   "image": "dataset/images/145.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.99553621074033,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.82857171450392,
   "bbox": [
-    -73.99702414049355,
-    40.81351351351353,
-    -73.9940482809871,
-    40.81576576576578
+    72.82738114300261,
+    18.938018018018013,
+    72.82976228600522,
+    18.940270270270265
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.guest_house",
+    "amenity.cafe",
+    "amenity.college"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 1,
+    "amenity.cafe": 1,
+    "amenity.college": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Cafe Coffee Day",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9401785,
+      "lon": 72.8283196,
+      "osm_id": 7944300038,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leelabai Thackersey College of Nursing",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 18.9383143,
+      "lon": 72.8282592,
+      "osm_id": 9056958181,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Central Government Touring Officers Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 18.9386001,
+      "lon": 72.8274228,
+      "osm_id": 9740687824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 1,
+    "original_poi_count": 5,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

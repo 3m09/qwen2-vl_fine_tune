@@ -1,91 +1,105 @@
 {
   "image": "dataset/images/64.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.95090498404848,
+  "center_lat": 48.858378378378376,
+  "center_lon": 2.3367116010089437,
   "bbox": [
-    -73.95239271180458,
-    40.80450450450451,
-    -73.94941725629236,
-    40.80675675675676
+    2.335,
+    48.85725225225225,
+    2.338423202017888,
+    48.85950450450451
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "amenity.restaurant",
-    "shop.deli",
-    "amenity.school"
+    "tourism.viewpoint",
+    "shop.art",
+    "shop.antiques",
+    "shop.clothes",
+    "tourism.artwork"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 2,
-    "amenity.restaurant": 1,
-    "shop.deli": 1,
-    "amenity.school": 1
+    "tourism.viewpoint": 1,
+    "shop.art": 1,
+    "shop.antiques": 1,
+    "shop.clothes": 2,
+    "tourism.artwork": 1
   },
-  "poi_count": 5,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "Junior High School 81",
+      "name": "La R\u00e9publique",
       "category": [
-        "amenity.school"
+        "tourism.artwork"
       ],
-      "lat": 40.8059341,
-      "lon": -73.9518045,
-      "osm_id": 357567590,
+      "lat": 48.8577563,
+      "lon": 2.3359273,
+      "osm_id": 4537529275,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr Boulevard & West 121st Street",
+      "name": "Pont des Arts",
       "category": [
-        "highway.bus_stop"
+        "tourism.viewpoint"
       ],
-      "lat": 40.806608,
-      "lon": -73.9498303,
-      "osm_id": 5187017437,
+      "lat": 48.8585951,
+      "lon": 2.3376989,
+      "osm_id": 4551075167,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr. Boulevard & West 119th Street",
+      "name": "Dries van Noten",
       "category": [
-        "highway.bus_stop"
+        "shop.clothes"
       ],
-      "lat": 40.8053104,
-      "lon": -73.9507936,
-      "osm_id": 5274260981,
+      "lat": 48.8576519,
+      "lon": 2.3352191,
+      "osm_id": 11478717257,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Ali Deli Grocery",
+      "name": "Dries Van Noten",
       "category": [
-        "shop.deli"
+        "shop.clothes"
       ],
-      "lat": 40.8064436,
-      "lon": -73.9498479,
-      "osm_id": 8333828582,
+      "lat": 48.8576073,
+      "lon": 2.3355546,
+      "osm_id": 11478717259,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Minton's Playhouse",
+      "name": "T. Delage",
       "category": [
-        "amenity.restaurant"
+        "shop.antiques"
       ],
-      "lat": 40.8047396,
-      "lon": -73.9523755,
-      "osm_id": 9482649821,
+      "lat": 48.8573642,
+      "lon": 2.3352575,
+      "osm_id": 11907452792,
       "osm_type": "node",
-      "address": "West 118th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arenthon",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.857526,
+      "lon": 2.3360441,
+      "osm_id": 11907452802,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 9,
-    "removed_count": 4,
+    "original_poi_count": 15,
+    "removed_count": 9,
     "model": "gemini-2.5-flash"
   }
 }

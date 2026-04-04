@@ -1,57 +1,510 @@
 {
   "image": "dataset/images/43.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.94198058642542,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.07647699095599593,
   "bbox": [
-    -73.94346826369656,
-    40.80225225225225,
-    -73.94049290915427,
-    40.80450450450451
+    -0.0782864531901501,
+    51.51175675675677,
+    -0.07466752872184178,
+    51.51400900900902
   ],
   "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.photo",
+    "shop.optician",
+    "shop.hairdresser",
     "amenity.bicycle_rental",
+    "shop.pawnbroker",
+    "shop.convenience",
     "highway.bus_stop",
-    "amenity.social_facility"
+    "shop.copyshop",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "amenity.pub",
+    "tourism.artwork",
+    "amenity.nightclub",
+    "amenity.post_office",
+    "railway.junction",
+    "amenity.bar",
+    "amenity.bank"
   ],
   "poi_count_per_category": {
+    "amenity.restaurant": 4,
+    "amenity.cafe": 6,
+    "shop.photo": 1,
+    "shop.optician": 1,
+    "shop.hairdresser": 1,
     "amenity.bicycle_rental": 1,
-    "highway.bus_stop": 1,
-    "amenity.social_facility": 1
+    "shop.pawnbroker": 1,
+    "shop.convenience": 2,
+    "highway.bus_stop": 3,
+    "shop.copyshop": 2,
+    "amenity.fast_food": 6,
+    "tourism.hotel": 2,
+    "amenity.pub": 2,
+    "tourism.artwork": 1,
+    "amenity.nightclub": 1,
+    "amenity.post_office": 1,
+    "railway.junction": 1,
+    "amenity.bar": 2,
+    "amenity.bank": 1
   },
-  "poi_count": 3,
+  "poi_count": 38,
   "pois": [
     {
-      "name": "NYC Health + Hospitals/Carter",
+      "name": "itsu",
       "category": [
-        "amenity.social_facility"
+        "amenity.fast_food"
       ],
-      "lat": 40.8030121,
-      "lon": -73.9410468,
-      "osm_id": 5422817254,
+      "lat": 51.5137136,
+      "lon": -0.0757885,
+      "osm_id": 295975610,
       "osm_type": "node",
-      "address": "Park Avenue",
+      "address": "Minories",
       "road_geometry": null
     },
     {
-      "name": "Madison Avenue & East 121st Street",
+      "name": "Minories",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8033792,
-      "lon": -73.9422753,
-      "osm_id": 6680630099,
+      "lat": 51.5127663,
+      "lon": -0.0755596,
+      "osm_id": 469759895,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Madison Ave & E 120 St",
+      "name": "The Chamberlain",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5121747,
+      "lon": -0.0757376,
+      "osm_id": 666918951,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Dirty Martini Minories",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5118709,
+      "lon": -0.0756786,
+      "osm_id": 666918952,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Slug and Lettuce",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.512367,
+      "lon": -0.0754101,
+      "osm_id": 666920103,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.513777,
+      "lon": -0.0755619,
+      "osm_id": 666920753,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5135654,
+      "lon": -0.0762155,
+      "osm_id": 668806548,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Chamberlain",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.5121008,
+      "lon": -0.0756938,
+      "osm_id": 675734360,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Thai Square",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.512412,
+      "lon": -0.075709,
+      "osm_id": 826482370,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Jewry Street",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8029153,
-      "lon": -73.9429523,
-      "osm_id": 6799248314,
+      "lat": 51.513419,
+      "lon": -0.076789,
+      "osm_id": 826488381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Peter's Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5138266,
+      "lon": -0.0753846,
+      "osm_id": 916986417,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Snappy Snaps",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 51.5135407,
+      "lon": -0.0763148,
+      "osm_id": 1682512977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Bus Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.513866,
+      "lon": -0.0753367,
+      "osm_id": 3231501610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Unbolted",
+      "category": [
+        "shop.pawnbroker"
+      ],
+      "lat": 51.5118606,
+      "lon": -0.0780174,
+      "osm_id": 3480523788,
+      "osm_type": "node",
+      "address": "Lloyd's Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Oasis Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5139968,
+      "lon": -0.0749161,
+      "osm_id": 4209732964,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tossed",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5133314,
+      "lon": -0.0779763,
+      "osm_id": 4542453557,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Omnino",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5133839,
+      "lon": -0.0782334,
+      "osm_id": 4542454225,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Greggs",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5138296,
+      "lon": -0.0754691,
+      "osm_id": 4548254491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "My Lunch Box",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5133734,
+      "lon": -0.0756395,
+      "osm_id": 4548307037,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "One Stop",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5133443,
+      "lon": -0.0756348,
+      "osm_id": 4548309989,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 51.5134315,
+      "lon": -0.0759575,
+      "osm_id": 5401946303,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Climb",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5138717,
+      "lon": -0.0781166,
+      "osm_id": 5768339781,
+      "osm_type": "node",
+      "address": "Mitre Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Illy",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5139703,
+      "lon": -0.0778956,
+      "osm_id": 5906011189,
+      "osm_type": "node",
+      "address": "Creechurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Co-op Food",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5131281,
+      "lon": -0.0781027,
+      "osm_id": 6206722380,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Leightons",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5133244,
+      "lon": -0.0781027,
+      "osm_id": 6245313485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5135255,
+      "lon": -0.0752231,
+      "osm_id": 6548782931,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cococure",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 51.5134732,
+      "lon": -0.0757268,
+      "osm_id": 6548960314,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Flame & Steel",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5131479,
+      "lon": -0.077419,
+      "osm_id": 7191045140,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5132137,
+      "lon": -0.0771634,
+      "osm_id": 7191053934,
+      "osm_type": "node",
+      "address": "Aldgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Nationwide",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5132659,
+      "lon": -0.0769275,
+      "osm_id": 7191114550,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Minories Junction",
+      "category": [
+        "railway.junction"
+      ],
+      "lat": 51.5133992,
+      "lon": -0.0754059,
+      "osm_id": 7590510597,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canopy by Hilton London City",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.51293,
+      "lon": -0.0752867,
+      "osm_id": 9211258351,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Farmer J",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129613,
+      "lon": -0.0778583,
+      "osm_id": 11648626569,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "SENZO",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5121967,
+      "lon": -0.0761624,
+      "osm_id": 11941064744,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cloud Land",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129655,
+      "lon": -0.0758579,
+      "osm_id": 11941064745,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Print by Atlantis Print",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 51.513389,
+      "lon": -0.0763143,
+      "osm_id": 12205017878,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Feeney's 5 Lloyds Avenue",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5118019,
+      "lon": -0.0774811,
+      "osm_id": 12599228001,
+      "osm_type": "node",
+      "address": "Lloyd's Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Nosh",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5120869,
+      "lon": -0.075276,
+      "osm_id": 12942455781,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/1304.png",
+  "center_lat": 40.852927927927986,
+  "center_lon": -73.9300269045879,
+  "bbox": [
+    -73.93151569385199,
+    40.85180180180186,
+    -73.92853811532382,
+    40.85405405405412
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 1,
+    "amenity.place_of_worship": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Holy Cross Armenian Apostolic Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8525,
+      "lon": -73.9305557,
+      "osm_id": 357624567,
+      "osm_type": "node",
+      "address": "West 187th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Grito",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8535476,
+      "lon": -73.9308711,
+      "osm_id": 2797628447,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 187 Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8528395,
+      "lon": -73.9313146,
+      "osm_id": 8369968535,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 187 Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.853332,
+      "lon": -73.9306638,
+      "osm_id": 8369968544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 186 St & St Nicholas Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8522554,
+      "lon": -73.9313163,
+      "osm_id": 13244019281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,37 +1,106 @@
 {
   "image": "dataset/images/149.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.98363277271453,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.83809628651436,
   "bbox": [
-    -73.98512070246775,
-    40.81351351351353,
-    -73.9821448429613,
-    40.81576576576578
+    72.83690571501305,
+    18.938018018018013,
+    72.83928685801565,
+    18.940270270270265
   ],
   "unique_categories": [
-    "shop.department_store"
+    "amenity.cafe",
+    "shop.travel_agency",
+    "amenity.post_office",
+    "shop.copyshop",
+    "tourism.hotel"
   ],
   "poi_count_per_category": {
-    "shop.department_store": 1
+    "amenity.cafe": 1,
+    "shop.travel_agency": 1,
+    "amenity.post_office": 1,
+    "shop.copyshop": 1,
+    "tourism.hotel": 3
   },
-  "poi_count": 1,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "Burlington",
+      "name": "Hotel Manama",
       "category": [
-        "shop.department_store"
+        "tourism.hotel"
       ],
-      "lat": 40.8140081,
-      "lon": -73.9826797,
-      "osm_id": 9181495784,
+      "lat": 18.9394214,
+      "lon": 72.8384104,
+      "osm_id": 3229419686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Heraa",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9392416,
+      "lon": 72.8383645,
+      "osm_id": 11465204240,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FedEx Office",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 18.9391331,
+      "lon": 72.8383336,
+      "osm_id": 11465204241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "We Wake Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9387195,
+      "lon": 72.8382479,
+      "osm_id": 11465204243,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Seventh Sky",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9380678,
+      "lon": 72.8381367,
+      "osm_id": 11465204246,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ship Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9396583,
+      "lon": 72.8385217,
+      "osm_id": 12298890609,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 8,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

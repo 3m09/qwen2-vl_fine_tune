@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/678.png",
+  "center_lat": 19.432882882882883,
+  "center_lon": -99.12469950751517,
+  "bbox": [
+    -99.12589365413193,
+    19.431756756756755,
+    -99.12350536089842,
+    19.434009009009007
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Toni Francesco",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4331159,
+      "lon": -99.1252471,
+      "osm_id": 3241793318,
+      "osm_type": "node",
+      "address": "San Marcos",
+      "road_geometry": null
+    },
+    {
+      "name": "Continental",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4332341,
+      "lon": -99.1252562,
+      "osm_id": 4753775421,
+      "osm_type": "node",
+      "address": "San Marcos",
+      "road_geometry": null
+    }
+  ]
+}

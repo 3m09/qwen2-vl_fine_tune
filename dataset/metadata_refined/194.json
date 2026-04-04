@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/194.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.49658513132158,
+  "bbox": [
+    121.49526810505726,
+    31.234504504504503,
+    121.4979021575859,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 2,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2365695,
+      "lon": 121.4953171,
+      "osm_id": 8920840216,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u4fe1\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2364152,
+      "lon": 121.4953011,
+      "osm_id": 8920873717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.236192,
+      "lon": 121.495899,
+      "osm_id": 8920873718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2361302,
+      "lon": 121.4965551,
+      "osm_id": 8920873719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8d5b\u767e\u5473",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.235673,
+      "lon": 121.4958243,
+      "osm_id": 8920873720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

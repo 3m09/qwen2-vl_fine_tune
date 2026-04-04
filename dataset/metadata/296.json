@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/296.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.64657153084031,
+  "bbox": [
+    -46.64780009545096,
+    -23.563243243243246,
+    -46.64534296622967,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.bicycle_rental",
+    "shop.bakery"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.bakery": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Nova Charmosa",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5626857,
+      "lon": -46.6474733,
+      "osm_id": 9403559658,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rua dos Belgas",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5626886,
+      "lon": -46.646945,
+      "osm_id": 11135386505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Raia",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5629688,
+      "lon": -46.6472773,
+      "osm_id": 13278114001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

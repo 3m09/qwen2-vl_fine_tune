@@ -1,0 +1,397 @@
+{
+  "image": "dataset/images/1229.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.93896586392502,
+  "bbox": [
+    -73.94045450139026,
+    40.8450450450451,
+    -73.93747722645978,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "shop.deli",
+    "amenity.clinic",
+    "shop.beauty",
+    "shop.hardware",
+    "shop.alcohol",
+    "amenity.animal_boarding",
+    "shop.cosmetics",
+    "amenity.parking",
+    "amenity.theatre",
+    "amenity.place_of_worship",
+    "shop.hairdresser",
+    "amenity.school",
+    "amenity.bicycle_rental",
+    "shop.pet_grooming",
+    "railway.stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.bicycle",
+    "leisure.sports_centre",
+    "shop.convenience",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.deli": 1,
+    "amenity.clinic": 1,
+    "shop.beauty": 2,
+    "shop.hardware": 1,
+    "shop.alcohol": 1,
+    "amenity.animal_boarding": 1,
+    "shop.cosmetics": 1,
+    "amenity.parking": 2,
+    "amenity.theatre": 1,
+    "amenity.place_of_worship": 1,
+    "shop.hairdresser": 2,
+    "amenity.school": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.pet_grooming": 1,
+    "railway.stop": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 5,
+    "shop.bicycle": 1,
+    "leisure.sports_centre": 1,
+    "shop.convenience": 2,
+    "shop.supermarket": 1
+  },
+  "poi_count": 28,
+  "pois": [
+    {
+      "name": "United Palace",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8465626,
+      "lon": -73.9381268,
+      "osm_id": 357621192,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Public School 210",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.845226,
+      "lon": -73.9391679,
+      "osm_id": 357621672,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway Temple-Washington Heights United Methodist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8452778,
+      "lon": -73.9391667,
+      "osm_id": 357624548,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pace's Italian Market #2",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.845917,
+      "lon": -73.938737,
+      "osm_id": 2797243210,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Lenox Hill Radiology",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8456572,
+      "lon": -73.9384198,
+      "osm_id": 2797243217,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Best Friends Boarding & Day Care",
+      "category": [
+        "amenity.animal_boarding",
+        "shop.pet_grooming"
+      ],
+      "lat": 40.8458091,
+      "lon": -73.9383704,
+      "osm_id": 2797243218,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Aneudis Barber Shop & Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8457124,
+      "lon": -73.9384019,
+      "osm_id": 2797243219,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "The Food Emporium",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8459905,
+      "lon": -73.9383114,
+      "osm_id": 2797243220,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Papa John's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.845324,
+      "lon": -73.9389167,
+      "osm_id": 2797260688,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Yummilicious",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8455904,
+      "lon": -73.9388396,
+      "osm_id": 2797260689,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Beauty Supplies & Gift Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 40.8456437,
+      "lon": -73.9388211,
+      "osm_id": 2797260690,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Yvelisse Hair Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8457618,
+      "lon": -73.9387867,
+      "osm_id": 2797260692,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Mi Paso",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8458772,
+      "lon": -73.9387502,
+      "osm_id": 2797260694,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Suross",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8459748,
+      "lon": -73.9387222,
+      "osm_id": 2797260695,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Best NY Deli Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8460061,
+      "lon": -73.9387119,
+      "osm_id": 2797260696,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Thread on SS",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8460411,
+      "lon": -73.9387012,
+      "osm_id": 2797260697,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "El Sabor Nuevo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.846117,
+      "lon": -73.9386733,
+      "osm_id": 2797260698,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Malecon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8463658,
+      "lon": -73.9386007,
+      "osm_id": 2797260699,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Nu\u00f1ez Depot",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8464563,
+      "lon": -73.9385726,
+      "osm_id": 2797260700,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Champions Martial Arts",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 40.8454675,
+      "lon": -73.9391251,
+      "osm_id": 2797260709,
+      "osm_type": "node",
+      "address": "West 174th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Manolo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.847173,
+      "lon": -73.938357,
+      "osm_id": 2797261799,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "175th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8465982,
+      "lon": -73.9400579,
+      "osm_id": 6693913872,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centerpark Broadway Parking Garage",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 40.8471417,
+      "lon": -73.9377827,
+      "osm_id": 12384513430,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Centerpark Broadway Parking Garage",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 40.8470293,
+      "lon": -73.9377911,
+      "osm_id": 12481647703,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Wadsworth Ave & W 175 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8460824,
+      "lon": -73.9376289,
+      "osm_id": 13146097154,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Estilismo Beauty Salon",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8465183,
+      "lon": -73.9385544,
+      "osm_id": 13478233401,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Palace Wines & Liquors",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8459472,
+      "lon": -73.9387299,
+      "osm_id": 13478233402,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Victor Bike",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 40.8457239,
+      "lon": -73.9387976,
+      "osm_id": 13478233403,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ]
+}

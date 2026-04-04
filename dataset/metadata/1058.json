@@ -1,0 +1,150 @@
+{
+  "image": "dataset/images/1058.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.94791007859365,
+  "bbox": [
+    -73.94939836206241,
+    40.82927927927931,
+    -73.9464217951249,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.bar",
+    "shop.deli",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.bar": 1,
+    "shop.deli": 2,
+    "highway.bus_stop": 1,
+    "amenity.fast_food": 3,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Broadway & West 150th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8294309,
+      "lon": -73.9484768,
+      "osm_id": 5281937641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uptown Bourbon",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8294475,
+      "lon": -73.9486657,
+      "osm_id": 8333828562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taco Bell",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8299508,
+      "lon": -73.9483096,
+      "osm_id": 8333828563,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8299044,
+      "lon": -73.9483541,
+      "osm_id": 8333828564,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Silver Saddle Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8295454,
+      "lon": -73.9485617,
+      "osm_id": 8333828565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crown Fried Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.829518,
+      "lon": -73.9486476,
+      "osm_id": 8333828566,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yellow Banana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8293505,
+      "lon": -73.9487609,
+      "osm_id": 8333828567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8296372,
+      "lon": -73.9477156,
+      "osm_id": 8333828568,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Chopcheese Deli 4",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8304349,
+      "lon": -73.9478668,
+      "osm_id": 12209958121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 153 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8313207,
+      "lon": -73.946676,
+      "osm_id": 13226735599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

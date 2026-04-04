@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/830.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.98363388382471,
+  "bbox": [
+    -73.98512171256792,
+    40.80900900900902,
+    -73.9821460550815,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "shop.variety_store",
+    "shop.houseware"
+  ],
+  "poi_count_per_category": {
+    "shop.variety_store": 1,
+    "shop.houseware": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Five Below",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 40.8110594,
+      "lon": -73.9825125,
+      "osm_id": 11663260252,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "HomeGoods",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 40.8111651,
+      "lon": -73.9828139,
+      "osm_id": 12205561353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

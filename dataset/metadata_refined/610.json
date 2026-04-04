@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/610.png",
+  "center_lat": 41.02139639639642,
+  "center_lon": 28.96149259087232,
+  "bbox": [
+    28.96,
+    41.020270270270295,
+    28.96298518174464,
+    41.02252252252255
+  ],
+  "unique_categories": [
+    "shop.jewelry",
+    "amenity.bank",
+    "shop.music",
+    "tourism.artwork",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.jewelry": 1,
+    "amenity.bank": 1,
+    "shop.music": 1,
+    "tourism.artwork": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.02131,
+      "lon": 28.96041,
+      "osm_id": 4679475828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beyda\u011f Peynircilik",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0224516,
+      "lon": 28.9601357,
+      "osm_id": 5081442481,
+      "osm_type": "node",
+      "address": "Cemalettin Efendi S",
+      "road_geometry": null
+    },
+    {
+      "name": "Ey\u00fcp Sultan Lokumcusu",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 41.0216936,
+      "lon": 28.9618762,
+      "osm_id": 5429323926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tigra",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0210652,
+      "lon": 28.9625226,
+      "osm_id": 7109381486,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esen Shop",
+      "category": [
+        "shop.music"
+      ],
+      "lat": 41.0212186,
+      "lon": 28.9606566,
+      "osm_id": 10929801370,
+      "osm_type": "node",
+      "address": "Atat\u00fcrk Bulvar\u0131",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

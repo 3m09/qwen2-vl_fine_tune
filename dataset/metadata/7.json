@@ -1,15 +1,607 @@
 {
   "image": "dataset/images/7.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.97768559812141,
+  "center_lat": 35.65737837837838,
+  "center_lon": 139.70570166523632,
   "bbox": [
-    -73.97917322491331,
-    40.8,
-    -73.9761979713295,
-    40.80225225225225
+    139.7043157130597,
+    35.65625225225226,
+    139.70708761741295,
+    35.65850450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.toys",
+    "shop.hairdresser",
+    "amenity.prep_school",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.hospital",
+    "tourism.hotel",
+    "shop.stationery",
+    "shop.perfumery",
+    "amenity.pub",
+    "tourism.artwork",
+    "amenity.theatre",
+    "shop.chemist",
+    "shop.outdoor",
+    "amenity.veterinary",
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "amenity.bar",
+    "amenity.social_facility",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 8,
+    "amenity.cafe": 4,
+    "shop.toys": 1,
+    "shop.hairdresser": 2,
+    "amenity.prep_school": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.convenience": 4,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 2,
+    "amenity.hospital": 1,
+    "tourism.hotel": 1,
+    "shop.stationery": 1,
+    "shop.perfumery": 1,
+    "amenity.pub": 5,
+    "tourism.artwork": 1,
+    "amenity.theatre": 1,
+    "shop.chemist": 1,
+    "shop.outdoor": 2,
+    "amenity.veterinary": 1,
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 3,
+    "amenity.bar": 1,
+    "amenity.social_facility": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 45,
+  "pois": [
+    {
+      "name": "\u57ce\u5357\u4fe1\u7528\u91d1\u5eab",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 35.6572617,
+      "lon": 139.7043292,
+      "osm_id": 728435766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kinko's",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 35.6570211,
+      "lon": 139.704653,
+      "osm_id": 1378123777,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30a4\u30bc\u30ea\u30e4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6565831,
+      "lon": 139.7053059,
+      "osm_id": 1378123779,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b9\u30bf\u30fc\u30d0\u30c3\u30af\u30b9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6564007,
+      "lon": 139.7054779,
+      "osm_id": 1378123780,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30c8\u30e2\u30ba",
+      "category": [
+        "amenity.pharmacy",
+        "shop.chemist"
+      ],
+      "lat": 35.6566929,
+      "lon": 139.7051356,
+      "osm_id": 1378123782,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6563303,
+      "lon": 139.7055945,
+      "osm_id": 1378123981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30ec\u30f3\u30ba\u52d5\u7269\u75c5\u9662",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": 35.6568957,
+      "lon": 139.7048178,
+      "osm_id": 1378123982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u5cf6\u73c8\u7432\u5e97",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6565383,
+      "lon": 139.7053018,
+      "osm_id": 1378123983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d5c\u3061\u3083\u3093",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.6568253,
+      "lon": 139.7049105,
+      "osm_id": 1378123988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4eac\u90fd\u6e08\u751f\u4f1a\u6e0b\u8c37\u8a3a\u7642\u6240",
+      "category": [
+        "amenity.social_facility"
+      ],
+      "lat": 35.657683,
+      "lon": 139.705939,
+      "osm_id": 1655913298,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u98df\u5e79",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.657993,
+      "lon": 139.706995,
+      "osm_id": 2212624955,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657932,
+      "lon": 139.705187,
+      "osm_id": 2212628467,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc\u30b7\u30e7\u30c3\u30d7",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6579697,
+      "lon": 139.7050027,
+      "osm_id": 2212628749,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5320\u30c7\u30f3\u30bf\u30eb\u30af\u30ea\u30cb\u30c3\u30af",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 35.657919,
+      "lon": 139.705002,
+      "osm_id": 2212629746,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657932,
+      "lon": 139.704822,
+      "osm_id": 2212633679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30e9\u30fc\u30e1\u30f3 \u51ea \u716e\u5e72\u738b",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.657899,
+      "lon": 139.704621,
+      "osm_id": 2212638219,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8d64\u982d\u5dfe",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.65784,
+      "lon": 139.704626,
+      "osm_id": 2212638241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3068\u308d\u3068\u308d\u623f",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.657781,
+      "lon": 139.7048,
+      "osm_id": 2212639229,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bistro \u6e0b\u8c37",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.657692,
+      "lon": 139.704814,
+      "osm_id": 2212639492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d0\u30c1BAR",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.657587,
+      "lon": 139.704819,
+      "osm_id": 2212639576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BisCafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.657603,
+      "lon": 139.7048,
+      "osm_id": 2212640466,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3046\u305f\u3054\u3048\u9152\u5834 \u5b63\u5473",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 35.657587,
+      "lon": 139.704653,
+      "osm_id": 2212643801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.657916,
+      "lon": 139.704396,
+      "osm_id": 2212651608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fa1\u5dbd\u795e\u793e",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6573333,
+      "lon": 139.7064532,
+      "osm_id": 2213088428,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7389\u9020\u7a32\u8377\u795e\u793e",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6573621,
+      "lon": 139.7064088,
+      "osm_id": 2213088430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u738b\u4e38\u5fa1\u5f71\u5802",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6573739,
+      "lon": 139.7068473,
+      "osm_id": 2213088435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u77f3\u306e\u83ef",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6579546,
+      "lon": 139.704987,
+      "osm_id": 4486492894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ad\u30df\u30c9\u30ea",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6566387,
+      "lon": 139.7059674,
+      "osm_id": 4563377389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30f3\u30b9\u30a4 \u6e0b\u8c37\u5e97 Part 2\u00a0",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6563451,
+      "lon": 139.7048934,
+      "osm_id": 5891353685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30f3\u30b9\u30a4 \u6e0b\u8c37\u5e97 Part 2",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6563261,
+      "lon": 139.7049296,
+      "osm_id": 5905492185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306f\u306a\u307e\u308b\u3046\u3069\u3093",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6571943,
+      "lon": 139.7044919,
+      "osm_id": 6342629587,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u304b\u3064\u5409",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6571205,
+      "lon": 139.7045891,
+      "osm_id": 6919529603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30e2\u30c7\u30eb\u30aa\u30fc\u30c8\u30a8\u30f3\u30ef",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 35.6574103,
+      "lon": 139.7054824,
+      "osm_id": 7166493885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gyukatsu motormura",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6564819,
+      "lon": 139.704692,
+      "osm_id": 7169689781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KISS, TOKYO",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 35.6564229,
+      "lon": 139.7044183,
+      "osm_id": 9855774618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3054\u3061\u3068\u3093 \u6e0b\u8c37\u65b0\u5357\u53e3\u5e97",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6564795,
+      "lon": 139.7047375,
+      "osm_id": 10028760586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u7b2c\u4e00\u751f\u547d\u30d3\u30eb",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.657526,
+      "lon": 139.704367,
+      "osm_id": 11436145698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oreryu Shio-Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.657388,
+      "lon": 139.7044669,
+      "osm_id": 12452329263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SHIBUYA ONE5",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 35.6579282,
+      "lon": 139.7054488,
+      "osm_id": 12991041226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "THE FLAVOR DESIGN STORE TOKYO",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 35.6579831,
+      "lon": 139.7063413,
+      "osm_id": 12991041227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MERICAN BARBERSHOP\u00ae\ufe0e TYO l \u30e1\u30ea\u30b1\u30f3\u30d0\u30fc\u30d0\u30fc\u30b7\u30e7\u30c3\u30d7 \u30c8\u30fc\u30ad\u30e7\u30fc",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 35.6578953,
+      "lon": 139.7049821,
+      "osm_id": 12991041228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37WAVE\uff08SHIBUYA WAVE\uff09",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 35.6565471,
+      "lon": 139.7063455,
+      "osm_id": 12991041231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KMS",
+      "category": [
+        "amenity.prep_school"
+      ],
+      "lat": 35.6569613,
+      "lon": 139.7067027,
+      "osm_id": 12991041243,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30a2\u30a4\u30b7\u30fc\u30af\u30ea\u30cb\u30c3\u30af\u6e0b\u8c37\u9662",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 35.6562823,
+      "lon": 139.7050228,
+      "osm_id": 13031025555,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CUT\u7d14",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 35.6567079,
+      "lon": 139.704381,
+      "osm_id": 13261087066,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

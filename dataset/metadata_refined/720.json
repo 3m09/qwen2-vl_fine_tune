@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/720.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.27868946616887,
+  "bbox": [
+    55.27744496924443,
+    25.192252252252253,
+    55.27993396309331,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "tourism.artwork",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "tourism.artwork": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "NEOS",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 25.1940704,
+      "lon": 55.2789638,
+      "osm_id": 3431793864,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0632\u0629 \u0647\u0627\u0648\u0633",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 25.1927119,
+      "lon": 55.2793642,
+      "osm_id": 4311768412,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "AL SIDRA",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 25.1923956,
+      "lon": 55.2785094,
+      "osm_id": 10311418417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

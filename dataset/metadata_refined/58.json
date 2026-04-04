@@ -1,61 +1,539 @@
 {
   "image": "dataset/images/58.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.96875771712176,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3367115240033365,
   "bbox": [
-    -73.97024544487786,
-    40.80450450450451,
-    -73.96726998936565,
-    40.80675675675676
+    2.335,
+    48.855,
+    2.338423048006673,
+    48.85725225225225
   ],
   "unique_categories": [
-    "leisure.playground"
+    "shop.interior_decoration",
+    "shop.art",
+    "amenity.cafe",
+    "shop.video",
+    "shop.furniture",
+    "amenity.kindergarten",
+    "amenity.restaurant",
+    "shop.antiques",
+    "tourism.artwork",
+    "shop.books",
+    "tourism.hotel",
+    "shop.watches"
   ],
   "poi_count_per_category": {
-    "leisure.playground": 3
+    "shop.interior_decoration": 1,
+    "shop.art": 22,
+    "amenity.cafe": 1,
+    "shop.video": 1,
+    "shop.furniture": 3,
+    "amenity.kindergarten": 1,
+    "amenity.restaurant": 1,
+    "shop.antiques": 4,
+    "tourism.artwork": 1,
+    "shop.books": 3,
+    "tourism.hotel": 1,
+    "shop.watches": 2
   },
-  "poi_count": 3,
+  "poi_count": 41,
   "pois": [
     {
-      "name": "Tot Lot 112",
+      "name": "L'H\u00f4tel",
       "category": [
-        "leisure.playground"
+        "tourism.hotel"
       ],
-      "lat": 40.8064948,
-      "lon": -73.9679338,
-      "osm_id": 6929263892,
+      "lat": 48.8563424,
+      "lon": 2.3352399,
+      "osm_id": 251733871,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tot Lot 112",
+      "name": "H\u00e9rodote",
       "category": [
-        "leisure.playground"
+        "shop.books"
       ],
-      "lat": 40.8062674,
-      "lon": -73.9680398,
-      "osm_id": 6929263893,
+      "lat": 48.8553743,
+      "lon": 2.3381031,
+      "osm_id": 4986721616,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tot Lot 110",
+      "name": "Le bistrot Mazarin",
       "category": [
-        "leisure.playground"
+        "amenity.restaurant"
       ],
-      "lat": 40.8052035,
-      "lon": -73.9686339,
-      "osm_id": 6929263894,
+      "lat": 48.8553707,
+      "lon": 2.3375997,
+      "osm_id": 4986721618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Librairie des Alpes",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8571903,
+      "lon": 2.3363909,
+      "osm_id": 5001825767,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wilde's Lounge",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8562359,
+      "lon": 2.3352091,
+      "osm_id": 5029919421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carolina",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.857012,
+      "lon": 2.33667,
+      "osm_id": 5355026411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Minotaure",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856369,
+      "lon": 2.3367176,
+      "osm_id": 9217277912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Cin\u00e9ma Club",
+      "category": [
+        "shop.video"
+      ],
+      "lat": 48.8561484,
+      "lon": 2.3373314,
+      "osm_id": 10131474329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zidoun & Bossuyt",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550525,
+      "lon": 2.3369025,
+      "osm_id": 11869621980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Didier Guedj",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554386,
+      "lon": 2.3366725,
+      "osm_id": 11869621981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Natalie Seroussi",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553144,
+      "lon": 2.3366856,
+      "osm_id": 11869621986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Norki",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8571034,
+      "lon": 2.3363946,
+      "osm_id": 11876805052,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roger-Viollet",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8570183,
+      "lon": 2.336405,
+      "osm_id": 11876805053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558403,
+      "lon": 2.336793,
+      "osm_id": 11904528564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Yeux Fertiles",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856229,
+      "lon": 2.3367399,
+      "osm_id": 11904528565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yann Ferrandin",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8558008,
+      "lon": 2.3367981,
+      "osm_id": 11904528567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Beautiful Watch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8561302,
+      "lon": 2.3367545,
+      "osm_id": 11904528568,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jousse",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8560715,
+      "lon": 2.3365387,
+      "osm_id": 11904563070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Doria",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562096,
+      "lon": 2.3365166,
+      "osm_id": 11904563074,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Downtown",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8559701,
+      "lon": 2.336549,
+      "osm_id": 11904563075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ratton",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8558943,
+      "lon": 2.3367868,
+      "osm_id": 11904563081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555531,
+      "lon": 2.3368326,
+      "osm_id": 11904563084,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557631,
+      "lon": 2.3368107,
+      "osm_id": 11904563085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles Zana",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8567151,
+      "lon": 2.3366739,
+      "osm_id": 11907452806,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anne Julien",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564271,
+      "lon": 2.3364916,
+      "osm_id": 11907452808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kiyama",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563985,
+      "lon": 2.3361187,
+      "osm_id": 11917892620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Minotaure",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563672,
+      "lon": 2.3363805,
+      "osm_id": 11917892624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loeve & Co",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563639,
+      "lon": 2.3350343,
+      "osm_id": 11917892629,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Olivier Castellano",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558512,
+      "lon": 2.3374103,
+      "osm_id": 11917892634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bayart",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563262,
+      "lon": 2.3354136,
+      "osm_id": 11917892640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Entwistle",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8562781,
+      "lon": 2.3359728,
+      "osm_id": 11917892642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OA Fine Art",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550834,
+      "lon": 2.3379321,
+      "osm_id": 11918835844,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Espace 4",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557239,
+      "lon": 2.3376738,
+      "osm_id": 11918835850,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maxime Flatry",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855293,
+      "lon": 2.3379557,
+      "osm_id": 11918835853,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Garbelli",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554744,
+      "lon": 2.3377773,
+      "osm_id": 11918835858,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Couteron",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8555048,
+      "lon": 2.3380691,
+      "osm_id": 11937604625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Montres Mania",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8551381,
+      "lon": 2.3367177,
+      "osm_id": 11937604636,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lee",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855701,
+      "lon": 2.3360591,
+      "osm_id": 12865069119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Voyageurs & Curieux",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855739,
+      "lon": 2.3364388,
+      "osm_id": 12865069123,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jean-Pierre Dutel",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8553766,
+      "lon": 2.336999,
+      "osm_id": 12865069124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Visconti",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 48.8557298,
+      "lon": 2.3355324,
+      "osm_id": 12865069131,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 3,
-    "removed_count": 0,
+    "original_poi_count": 144,
+    "removed_count": 103,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,143 +1,121 @@
 {
   "image": "dataset/images/21.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.93603204794803,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.08009886697890621,
   "bbox": [
-    -73.93751967473993,
-    40.8,
-    -73.93454442115612,
-    40.80225225225225
+    -0.08190806088991474,
+    51.505,
+    -0.07828967306789769,
+    51.50725225225226
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "shop.charity",
-    "amenity.place_of_worship",
-    "amenity.bicycle_rental",
-    "amenity.school",
-    "shop.convenience"
+    "amenity.restaurant",
+    "shop.ticket",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "amenity.information",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 2,
-    "shop.charity": 1,
-    "amenity.place_of_worship": 2,
-    "amenity.bicycle_rental": 1,
-    "amenity.school": 1,
-    "shop.convenience": 2
+    "amenity.restaurant": 2,
+    "shop.ticket": 1,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 1,
+    "amenity.information": 2,
+    "tourism.information": 2
   },
-  "poi_count": 9,
+  "poi_count": 7,
   "pois": [
     {
-      "name": "Chambers Memorial Baptist Church",
+      "name": "Tavolino",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.restaurant"
       ],
-      "lat": 40.8022222,
-      "lon": -73.9358333,
-      "osm_id": 357621175,
+      "lat": 51.5053308,
+      "lon": -0.0801739,
+      "osm_id": 296615758,
+      "osm_type": "node",
+      "address": "More London Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Five Guys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5052298,
+      "lon": -0.0802465,
+      "osm_id": 296615761,
+      "osm_type": "node",
+      "address": "More London Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Gaucho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5051331,
+      "lon": -0.0803967,
+      "osm_id": 296615763,
+      "osm_type": "node",
+      "address": "More London Riverside",
+      "road_geometry": null
+    },
+    {
+      "name": "Full Stop Slipstream",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5054031,
+      "lon": -0.0795977,
+      "osm_id": 729896081,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Iglesia Adventista Del Septimo Dia",
+      "name": "Braille Map",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.information",
+        "tourism.information"
       ],
-      "lat": 40.8019972,
-      "lon": -73.9353152,
-      "osm_id": 357621178,
+      "lat": 51.5051038,
+      "lon": -0.0787288,
+      "osm_id": 729896084,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Democracy Prep Public Schools",
+      "name": "Braille Map",
       "category": [
-        "amenity.school"
+        "amenity.information",
+        "tourism.information"
       ],
-      "lat": 40.8015727,
-      "lon": -73.9351046,
-      "osm_id": 2765549885,
-      "osm_type": "node",
-      "address": "East 123rd Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Futuro Deli & Grocery",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.800795,
-      "lon": -73.9352751,
-      "osm_id": 4980494071,
-      "osm_type": "node",
-      "address": "2nd Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "2 Av/E 122 St",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8004878,
-      "lon": -73.9353856,
-      "osm_id": 5309514327,
+      "lat": 51.5050829,
+      "lon": -0.0798952,
+      "osm_id": 729896099,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Goodwill",
+      "name": "HMS Belfast ticket office",
       "category": [
-        "shop.charity"
+        "shop.ticket"
       ],
-      "lat": 40.8013649,
-      "lon": -73.9371706,
-      "osm_id": 5702880030,
-      "osm_type": "node",
-      "address": "3rd Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "3rd Avenue & East 122nd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8019434,
-      "lon": -73.9369716,
-      "osm_id": 5981262325,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Latin Food & Grocwry",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8016139,
-      "lon": -73.93464,
-      "osm_id": 10969669855,
-      "osm_type": "node",
-      "address": "2nd Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - 2 Ave & E 122 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8006799,
-      "lon": -73.9348984,
-      "osm_id": 13244003781,
+      "lat": 51.5060299,
+      "lon": -0.0813948,
+      "osm_id": 13332725571,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 10,
-    "removed_count": 1,
+    "original_poi_count": 11,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

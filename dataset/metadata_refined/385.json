@@ -1,0 +1,351 @@
+{
+  "image": "dataset/images/385.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.1758202204369,
+  "bbox": [
+    114.17460328040329,
+    22.275,
+    114.1770371604705,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "leisure.playground",
+    "amenity.toilets",
+    "tourism.guest_house",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.pet",
+    "shop.hairdresser",
+    "amenity.restaurant",
+    "amenity.bank",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "railway.tram_stop",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "leisure.playground": 1,
+    "amenity.toilets": 1,
+    "tourism.guest_house": 1,
+    "highway.bus_stop": 6,
+    "amenity.cafe": 2,
+    "shop.convenience": 3,
+    "shop.pet": 2,
+    "shop.hairdresser": 1,
+    "amenity.restaurant": 3,
+    "amenity.bank": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "railway.tram_stop": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 25,
+  "pois": [
+    {
+      "name": "\u4ea4\u52a0\u91cc\u516c\u5ec1 Cross Lane Public Toilet",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 22.2763417,
+      "lon": 114.1760616,
+      "osm_id": 1025363926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2769307,
+      "lon": 114.1756038,
+      "osm_id": 1923127724,
+      "osm_type": "node",
+      "address": "Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2769883,
+      "lon": 114.1753516,
+      "osm_id": 2498627238,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u666e\u6a02\u91cc Bullock Lane",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.276782,
+      "lon": 114.175962,
+      "osm_id": 2585382682,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2770134,
+      "lon": 114.1749421,
+      "osm_id": 2585382690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2771049,
+      "lon": 114.1749307,
+      "osm_id": 2585382691,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u4e16\u7d00\u5ee3\u5834 New Century Plaza",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2768595,
+      "lon": 114.1767835,
+      "osm_id": 2585382692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2769102,
+      "lon": 114.1747054,
+      "osm_id": 3667211310,
+      "osm_type": "node",
+      "address": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2767895,
+      "lon": 114.1765744,
+      "osm_id": 3667320222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2765378,
+      "lon": 114.1749702,
+      "osm_id": 3667349295,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6d77\u6fe4\u5bf5\u7269\u5c4b",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2770478,
+      "lon": 114.1757919,
+      "osm_id": 3668108823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60e0\u5eb7 Wellcome",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2771856,
+      "lon": 114.1760467,
+      "osm_id": 3668114075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u51a0\u8ecd\u5821\u5bf5\u7269\u7528\u54c1\u5e97",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2763634,
+      "lon": 114.1764068,
+      "osm_id": 3668141211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2763634,
+      "lon": 114.17649,
+      "osm_id": 3668142410,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JR8",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2762411,
+      "lon": 114.1747508,
+      "osm_id": 4169503189,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b89\u5357 An Nam Pho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771239,
+      "lon": 114.1746812,
+      "osm_id": 4172508389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uncle 4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769391,
+      "lon": 114.1762393,
+      "osm_id": 4172640204,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5de5\u5546\u9280\u884c\uff08\u4e9e\u6d32\uff09 ICBC (Asia)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.276651,
+      "lon": 114.1763281,
+      "osm_id": 4172762290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mingle Place",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2767301,
+      "lon": 114.1762562,
+      "osm_id": 4172762389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.275184,
+      "lon": 114.1768644,
+      "osm_id": 4361279422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2766913,
+      "lon": 114.1755059,
+      "osm_id": 5143400422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u654f\u83ef\u51b0\u5ef3 Men Wah Bing Teng",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2766833,
+      "lon": 114.1752267,
+      "osm_id": 9245822202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2751915,
+      "lon": 114.1769317,
+      "osm_id": 12161483594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2751877,
+      "lon": 114.1768971,
+      "osm_id": 12161483595,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u516c\u5712 Wan Chai Park",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 22.2752064,
+      "lon": 114.1757598,
+      "osm_id": 13686456978,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 73,
+    "removed_count": 48,
+    "model": "gemini-2.5-flash"
+  }
+}

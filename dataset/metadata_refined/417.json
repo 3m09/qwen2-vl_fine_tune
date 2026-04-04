@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/417.png",
+  "center_lat": 22.28288288288288,
+  "center_lon": 114.17338698712862,
+  "bbox": [
+    114.17216998829875,
+    22.281756756756753,
+    114.1746039859585,
+    22.284009009009004
+  ],
+  "unique_categories": [
+    "shop.ticket"
+  ],
+  "poi_count_per_category": {
+    "shop.ticket": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u9f8d\u73e0\u904a\u8239\u78bc\u982d",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 22.2838762,
+      "lon": 114.1743235,
+      "osm_id": 4770871621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

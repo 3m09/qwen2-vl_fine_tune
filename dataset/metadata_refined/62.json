@@ -1,87 +1,167 @@
 {
   "image": "dataset/images/62.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.9568558950729,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3504037160300286,
   "bbox": [
-    -73.958343622829,
-    40.80450450450451,
-    -73.95536816731679,
-    40.80675675675676
+    2.348692192026692,
+    48.855,
+    2.352115240033365,
+    48.85725225225225
   ],
   "unique_categories": [
-    "shop.convenience",
-    "highway.bus_stop"
+    "highway.bus_stop",
+    "railway.subway_entrance",
+    "shop.clothes",
+    "tourism.artwork",
+    "amenity.parking",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "shop.convenience": 1,
-    "highway.bus_stop": 4
+    "highway.bus_stop": 4,
+    "railway.subway_entrance": 1,
+    "shop.clothes": 1,
+    "tourism.artwork": 2,
+    "amenity.parking": 1,
+    "tourism.information": 2
   },
-  "poi_count": 5,
+  "poi_count": 11,
   "pois": [
     {
-      "name": "Sunny Deli & Grill",
+      "name": "Parking H\u00f4tel de Ville",
       "category": [
-        "shop.convenience"
+        "amenity.parking"
       ],
-      "lat": 40.8049571,
-      "lon": -73.9570766,
-      "osm_id": 2762571608,
+      "lat": 48.8569481,
+      "lon": 2.3497138,
+      "osm_id": 218117881,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": "Quai de Gesvres",
       "road_geometry": null
     },
     {
-      "name": "Manhattan Avenue & West 119th Street",
+      "name": "Rue Saint-Martin",
       "category": [
-        "highway.bus_stop"
+        "railway.subway_entrance"
       ],
-      "lat": 40.806715,
-      "lon": -73.9556855,
-      "osm_id": 5263699275,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Manhattan Avenue & West 116th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8048215,
-      "lon": -73.9568783,
-      "osm_id": 5972709376,
+      "lat": 48.8571645,
+      "lon": 2.3493934,
+      "osm_id": 299668084,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Manhattan Avenue & West 116th Street",
+      "name": "H\u00f4tel de Ville",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.805303,
-      "lon": -73.9565277,
-      "osm_id": 5972709472,
+      "lat": 48.8561475,
+      "lon": 2.3502365,
+      "osm_id": 2079103342,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Manhattan Avenue & West 116th Street",
+      "name": "H\u00f4tel de Ville",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8047569,
-      "lon": -73.9571289,
-      "osm_id": 5972709799,
+      "lat": 48.8571668,
+      "lon": 2.3501193,
+      "osm_id": 2211556500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8572235,
+      "lon": 2.3521054,
+      "osm_id": 2666807384,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Arche Marion",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8550512,
+      "lon": 2.350102,
+      "osm_id": 5075255436,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Science",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8566508,
+      "lon": 2.3518681,
+      "osm_id": 6216897829,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Art",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8565387,
+      "lon": 2.3518054,
+      "osm_id": 6216912785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8556689,
+      "lon": 2.3514882,
+      "osm_id": 8058748437,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8554921,
+      "lon": 2.3519245,
+      "osm_id": 8140033594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St\u00e9phane Bianca",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8563052,
+      "lon": 2.3505033,
+      "osm_id": 12298810360,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 1,
+    "original_poi_count": 16,
+    "removed_count": 5,
     "model": "gemini-2.5-flash"
   }
 }

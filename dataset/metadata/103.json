@@ -1,15 +1,60 @@
 {
   "image": "dataset/images/103.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.97768256885188,
+  "center_lat": 18.925630630630632,
+  "center_lon": 72.82857142558134,
   "bbox": [
-    -73.97917039759508,
-    40.80900900900902,
-    -73.97619474010867,
-    40.81126126126127
+    72.82738095038756,
+    18.924504504504505,
+    72.82976190077513,
+    18.926756756756756
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "tourism.artwork",
+    "amenity.fuel",
+    "shop.travel_agency"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "amenity.fuel": 1,
+    "shop.travel_agency": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Korean Air",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9261477,
+      "lon": 72.8278365,
+      "osm_id": 1541857831,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HP",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 18.9267067,
+      "lon": 72.8273901,
+      "osm_id": 1541857832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rajiv Gandhi Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9260497,
+      "lon": 72.8283728,
+      "osm_id": 6608982566,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

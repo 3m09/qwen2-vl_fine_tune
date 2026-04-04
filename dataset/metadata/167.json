@@ -1,43 +1,29 @@
 {
   "image": "dataset/images/167.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93006730159844,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.83095309842875,
   "bbox": [
-    -73.93155523135167,
-    40.81351351351353,
-    -73.92857937184522,
-    40.81576576576578
+    72.829762478743,
+    18.944774774774768,
+    72.83214371811451,
+    18.94702702702702
   ],
   "unique_categories": [
-    "railway.signal",
-    "railway.stop"
+    "amenity.police"
   ],
   "poi_count_per_category": {
-    "railway.signal": 1,
-    "railway.stop": 1
+    "amenity.police": 1
   },
-  "poi_count": 2,
+  "poi_count": 1,
   "pois": [
     {
-      "name": "138th Street\u2013Grand Concourse",
+      "name": "Lokmanya Tilak Road Police Station",
       "category": [
-        "railway.stop"
+        "amenity.police"
       ],
-      "lat": 40.8140107,
-      "lon": -73.9293412,
-      "osm_id": 5104151868,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "CP 5",
-      "category": [
-        "railway.signal"
-      ],
-      "lat": 40.8138615,
-      "lon": -73.9285854,
-      "osm_id": 10830938723,
+      "lat": 18.9453708,
+      "lon": 72.8303315,
+      "osm_id": 605221901,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

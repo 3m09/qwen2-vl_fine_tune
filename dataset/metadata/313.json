@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/313.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.649029207610845,
+  "bbox": [
+    -46.65025773010232,
+    -23.558738738738743,
+    -46.64780068511937,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "shop.books",
+    "shop.convenience",
+    "shop.lottery",
+    "shop.car_repair",
+    "amenity.bar",
+    "railway.construction"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "shop.convenience": 1,
+    "shop.lottery": 1,
+    "shop.car_repair": 1,
+    "amenity.bar": 1,
+    "railway.construction": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Esta\u00e7\u00e3o 14 Bis",
+      "category": [
+        "railway.construction"
+      ],
+      "lat": -23.5569841,
+      "lon": -46.6491026,
+      "osm_id": 5137828974,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rocha",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5569549,
+      "lon": -46.6499456,
+      "osm_id": 6960264417,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Esta\u00e7\u00e3o 14 Bis",
+      "category": [
+        "railway.construction"
+      ],
+      "lat": -23.5570172,
+      "lon": -46.6491389,
+      "osm_id": 7717251209,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Injet Auto Center",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": -23.5566012,
+      "lon": -46.6499804,
+      "osm_id": 7826275695,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Mioni Mercado Supera\u00e7\u00e3o",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5569885,
+      "lon": -46.6499422,
+      "osm_id": 7826275696,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Livraria Simples",
+      "category": [
+        "shop.books"
+      ],
+      "lat": -23.5585246,
+      "lon": -46.6495631,
+      "osm_id": 12065302096,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Bar do Manoel",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5579634,
+      "lon": -46.6498256,
+      "osm_id": 12780040822,
+      "osm_type": "node",
+      "address": "R. Rocha",
+      "road_geometry": null
+    }
+  ]
+}

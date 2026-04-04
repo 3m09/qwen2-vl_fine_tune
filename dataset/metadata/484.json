@@ -1,0 +1,502 @@
+{
+  "image": "dataset/images/484.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.1758225143731,
+  "bbox": [
+    114.17460539788286,
+    22.29527027027026,
+    114.17703963086333,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "tourism.artwork",
+    "shop.convenience",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.confectionery",
+    "railway.stop",
+    "railway.station",
+    "amenity.toilets",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "amenity.bus_station",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 5,
+    "tourism.artwork": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 3,
+    "highway.bus_stop": 12,
+    "amenity.cafe": 4,
+    "shop.confectionery": 1,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "amenity.toilets": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "amenity.bus_station": 1,
+    "shop.jewelry": 3
+  },
+  "poi_count": 38,
+  "pois": [
+    {
+      "name": "\u5c16\u6771 East Tsim Sha Tsui",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 22.2954745,
+      "lon": 114.1751008,
+      "osm_id": 384143704,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u516c\u5171\u904b\u8f38\u4ea4\u532f\u8655\u516c\u5ec1 Tsim Sha Tsui East Public Transport Interchange Public Toilet",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 22.295849,
+      "lon": 114.1755539,
+      "osm_id": 1189559125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "amenity.bus_station"
+      ],
+      "lat": 22.2965416,
+      "lon": 114.1758247,
+      "osm_id": 1189559241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u5b89\u5ee3\u5834 Wing On Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2965005,
+      "lon": 114.1768049,
+      "osm_id": 1949213213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6771 East Tsim Sha Tsui",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 22.295647,
+      "lon": 114.1750129,
+      "osm_id": 2179557425,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u5b89\u5ee3\u5834 Wing On Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2964629,
+      "lon": 114.1767562,
+      "osm_id": 2441279696,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6771 East Tsim Sha Tsui",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 22.295561,
+      "lon": 114.1750721,
+      "osm_id": 2546436295,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u60e0\u5eb7 Wellcome",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2972059,
+      "lon": 114.1753282,
+      "osm_id": 2604587276,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "N1 Coffee and Co.",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.297138,
+      "lon": 114.1747807,
+      "osm_id": 3771427619,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.297195,
+      "lon": 114.175266,
+      "osm_id": 3914318608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spring Deer",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2971665,
+      "lon": 114.1750445,
+      "osm_id": 4149643551,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u674e\u5c0f\u9f8d\u9285\u50cf Bruce Lee Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2955486,
+      "lon": 114.1763957,
+      "osm_id": 4623637241,
+      "osm_type": "node",
+      "address": "Avenue of Stars, Tsim Sha Tsui",
+      "road_geometry": null
+    },
+    {
+      "name": "Owl's Choux",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 22.2971562,
+      "lon": 114.1746726,
+      "osm_id": 4739821124,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dy Kee",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2969994,
+      "lon": 114.1753463,
+      "osm_id": 4848354394,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenirs City",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2970693,
+      "lon": 114.1753264,
+      "osm_id": 4848354395,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Swatow Embroidery & Craft",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2971245,
+      "lon": 114.1753025,
+      "osm_id": 4848354396,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Siberian Fur Store",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2973825,
+      "lon": 114.1753856,
+      "osm_id": 4848354397,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Hong Kong Fur",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2971279,
+      "lon": 114.174747,
+      "osm_id": 4850352272,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Delsey",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2972895,
+      "lon": 114.1746867,
+      "osm_id": 4850352273,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "FHP Shopping Centre",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2973889,
+      "lon": 114.1746684,
+      "osm_id": 4850676188,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Time Art",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.297436,
+      "lon": 114.1746635,
+      "osm_id": 4850676189,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "N1 Coffee & Co",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2970886,
+      "lon": 114.1748428,
+      "osm_id": 5182609990,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2973804,
+      "lon": 114.176413,
+      "osm_id": 5225836321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2957195,
+      "lon": 114.1755282,
+      "osm_id": 6375239085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2954622,
+      "lon": 114.1762782,
+      "osm_id": 6546838585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sangeetha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.296641,
+      "lon": 114.1766395,
+      "osm_id": 6778574617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Woodlands",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2966633,
+      "lon": 114.1762921,
+      "osm_id": 6778574618,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\uff08\u9ebc\u5730\u9053\uff09 Tsim Sha Tsui (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2960919,
+      "lon": 114.1758989,
+      "osm_id": 8140840209,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.296249,
+      "lon": 114.1756525,
+      "osm_id": 9875923915,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f06\u54b8\u9053\u5357\uff0f\u9ebc\u5730\u9053",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2964385,
+      "lon": 114.175508,
+      "osm_id": 10799353208,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f06\u54b8\u9053\u5357\uff0f\u9ebc\u5730\u9053",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2966156,
+      "lon": 114.1755402,
+      "osm_id": 10799353209,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2966617,
+      "lon": 114.176044,
+      "osm_id": 10799353210,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2964359,
+      "lon": 114.1761189,
+      "osm_id": 10799353212,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09\uff08\u843d\u5ba2\u7ad9\uff09 Tsim Sha Tsui East (Mody Road) (Alighting Stop)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2962331,
+      "lon": 114.176111,
+      "osm_id": 10799353213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2964404,
+      "lon": 114.1756878,
+      "osm_id": 10799353214,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2966594,
+      "lon": 114.1757221,
+      "osm_id": 10799353215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\uff08\u9ebc\u5730\u9053\uff09Tsim Sha Tsui East (Mody Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2969156,
+      "lon": 114.1757522,
+      "osm_id": 10799353216,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Colour Group",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2969098,
+      "lon": 114.1752218,
+      "osm_id": 12578278586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

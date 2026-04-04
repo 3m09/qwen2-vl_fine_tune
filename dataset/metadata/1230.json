@@ -1,0 +1,110 @@
+{
+  "image": "dataset/images/1230.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.93598858899453,
+  "bbox": [
+    -73.93747722645978,
+    40.8450450450451,
+    -73.93449995152929,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.pharmacy",
+    "shop.supermarket",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.pharmacy": 2,
+    "shop.supermarket": 1,
+    "highway.bus_stop": 3
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Cibao Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8456925,
+      "lon": -73.9366101,
+      "osm_id": 2797243197,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "St. Maria Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8462929,
+      "lon": -73.9357164,
+      "osm_id": 2797287613,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Bravo",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8466157,
+      "lon": -73.9359507,
+      "osm_id": 4747736325,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lola Lola Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8456605,
+      "lon": -73.9361488,
+      "osm_id": 5413507961,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "West 178th Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8471395,
+      "lon": -73.9348431,
+      "osm_id": 5431127431,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 178th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8471075,
+      "lon": -73.9354938,
+      "osm_id": 5431127593,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 176th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.84637,
+      "lon": -73.9357627,
+      "osm_id": 8722881555,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

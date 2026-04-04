@@ -1,20 +1,51 @@
 {
   "image": "dataset/images/118.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.93304770655563,
+  "center_lat": 18.930135135135135,
+  "center_lon": 72.830952536436,
   "bbox": [
-    -73.93453553529883,
-    40.80900900900902,
-    -73.93155987781242,
-    40.81126126126127
+    72.8297620291488,
+    18.929009009009008,
+    72.83214304372319,
+    18.93126126126126
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.place_of_worship",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Cafe Military",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9307521,
+      "lon": 72.8320601,
+      "osm_id": 9574721718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Allana Center Masjid",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 18.9295703,
+      "lon": 72.8316916,
+      "osm_id": 11549945737,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 5,
+    "removed_count": 3,
     "model": "gemini-2.5-flash"
   }
 }

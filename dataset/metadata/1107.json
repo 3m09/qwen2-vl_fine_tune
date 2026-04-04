@@ -1,0 +1,370 @@
+{
+  "image": "dataset/images/1107.png",
+  "center_lat": 40.834909909909946,
+  "center_lon": -73.94492977046875,
+  "bbox": [
+    -73.94641815505068,
+    40.83378378378382,
+    -73.94344138588683,
+    40.83603603603608
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "railway.subway_entrance",
+    "amenity.cafe",
+    "shop.laundry",
+    "railway.stop",
+    "amenity.bank",
+    "railway.station",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.beauty",
+    "amenity.post_box",
+    "amenity.pharmacy",
+    "leisure.fitness_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "highway.bus_stop": 5,
+    "railway.subway_entrance": 3,
+    "amenity.cafe": 2,
+    "shop.laundry": 1,
+    "railway.stop": 1,
+    "amenity.bank": 2,
+    "railway.station": 1,
+    "amenity.fast_food": 3,
+    "amenity.restaurant": 3,
+    "shop.beauty": 1,
+    "amenity.post_box": 1,
+    "amenity.pharmacy": 1,
+    "leisure.fitness_centre": 1
+  },
+  "poi_count": 27,
+  "pois": [
+    {
+      "name": "TD Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8343881,
+      "lon": -73.944313,
+      "osm_id": 2796746872,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8357173,
+      "lon": -73.944001,
+      "osm_id": 2796759877,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "City Brows Threading Salon",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8343061,
+      "lon": -73.9450289,
+      "osm_id": 2796840315,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8352848,
+      "lon": -73.9443185,
+      "osm_id": 2796929069,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th Street at Northwest Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8342325,
+      "lon": -73.9450703,
+      "osm_id": 3584443082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th Street at Northwest Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8342735,
+      "lon": -73.9451733,
+      "osm_id": 3584443083,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chez Messy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8344857,
+      "lon": -73.9451934,
+      "osm_id": 3627346235,
+      "osm_type": "node",
+      "address": "Edward M. Morgan Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Planet Fitness",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8344844,
+      "lon": -73.9450017,
+      "osm_id": 3627346236,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Semicolon",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8345935,
+      "lon": -73.9452247,
+      "osm_id": 3627374568,
+      "osm_type": "node",
+      "address": "Edward M. Morgan Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th St",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 40.8342959,
+      "lon": -73.9449256,
+      "osm_id": 3627498347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th St",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8342348,
+      "lon": -73.9445158,
+      "osm_id": 3627498348,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of America",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8346748,
+      "lon": -73.9441017,
+      "osm_id": 3627524353,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8342548,
+      "lon": -73.9449674,
+      "osm_id": 3627528693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ACM Suds 3802",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8347208,
+      "lon": -73.944072,
+      "osm_id": 3627536667,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "157th Street & Broadway at Southeast Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8338537,
+      "lon": -73.9447461,
+      "osm_id": 3627675768,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "157th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8346891,
+      "lon": -73.9444405,
+      "osm_id": 4459312804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "157th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8340678,
+      "lon": -73.944916,
+      "osm_id": 4459312805,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 159th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8354928,
+      "lon": -73.9436085,
+      "osm_id": 8369975414,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 160th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8357822,
+      "lon": -73.9438494,
+      "osm_id": 8369975415,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgar M Morgan Place & W 157 Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8345013,
+      "lon": -73.9455473,
+      "osm_id": 13030209144,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 157 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8339634,
+      "lon": -73.9451531,
+      "osm_id": 13030298561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hilltop",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8355593,
+      "lon": -73.9441484,
+      "osm_id": 13030298571,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 160 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8357133,
+      "lon": -73.9434721,
+      "osm_id": 13146113971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Five Flies",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8343803,
+      "lon": -73.9439731,
+      "osm_id": 13243810169,
+      "osm_type": "node",
+      "address": "W 158th",
+      "road_geometry": null
+    },
+    {
+      "name": "Oval Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8346878,
+      "lon": -73.9452503,
+      "osm_id": 13348973795,
+      "osm_type": "node",
+      "address": "Edward M. Morgan Place",
+      "road_geometry": null
+    },
+    {
+      "name": "IPizzaNY",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8349001,
+      "lon": -73.9446331,
+      "osm_id": 13348997186,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8342667,
+      "lon": -73.9450684,
+      "osm_id": 13349055114,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ]
+}

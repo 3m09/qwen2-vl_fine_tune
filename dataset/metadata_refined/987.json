@@ -1,0 +1,183 @@
+{
+  "image": "dataset/images/987.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.94493912184618,
+  "bbox": [
+    -73.94642725368817,
+    40.82252252252255,
+    -73.94345099000418,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.school",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.hairdresser",
+    "amenity.bank",
+    "amenity.fast_food",
+    "amenity.dentist"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "amenity.school": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 5,
+    "shop.hairdresser": 1,
+    "amenity.bank": 1,
+    "amenity.fast_food": 1,
+    "amenity.dentist": 1
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "Capital One",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8241121,
+      "lon": -73.9444308,
+      "osm_id": 2562438631,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Capital One",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 40.8241317,
+      "lon": -73.9444319,
+      "osm_id": 2562438703,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8242066,
+      "lon": -73.9456088,
+      "osm_id": 5281909155,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823727,
+      "lon": -73.9450464,
+      "osm_id": 5281913405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823752,
+      "lon": -73.9443661,
+      "osm_id": 5281913439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8240473,
+      "lon": -73.9445094,
+      "osm_id": 5281913440,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8243166,
+      "lon": -73.9444372,
+      "osm_id": 5281914624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823244,
+      "lon": -73.945027,
+      "osm_id": 5281914722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "W Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8243075,
+      "lon": -73.9443398,
+      "osm_id": 6296848389,
+      "osm_type": "node",
+      "address": "Crown Pointe Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8227941,
+      "lon": -73.9456279,
+      "osm_id": 9851588445,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Kingston Bakery",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8236254,
+      "lon": -73.9441951,
+      "osm_id": 10762002912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FA Braiding or Weaving",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8234667,
+      "lon": -73.9441098,
+      "osm_id": 10762002913,
+      "osm_type": "node",
+      "address": "Edgecombe Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 25,
+    "removed_count": 13,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,20 +1,261 @@
 {
   "image": "dataset/images/3.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.98958661245666,
+  "center_lat": 35.65512612612613,
+  "center_lon": 139.70570139165432,
   "bbox": [
-    -73.99107423924856,
-    40.8,
-    -73.98809898566475,
-    40.80225225225225
+    139.70431547856083,
+    35.654,
+    139.70708730474777,
+    35.65625225225226
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.theatre",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.outdoor",
+    "amenity.restaurant",
+    "amenity.bicycle_rental",
+    "amenity.post_office",
+    "amenity.fast_food",
+    "tourism.information",
+    "tourism.hotel",
+    "amenity.nightclub"
+  ],
+  "poi_count_per_category": {
+    "amenity.theatre": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "shop.outdoor": 2,
+    "amenity.restaurant": 3,
+    "amenity.bicycle_rental": 2,
+    "amenity.post_office": 1,
+    "amenity.fast_food": 3,
+    "tourism.information": 1,
+    "tourism.hotel": 2,
+    "amenity.nightclub": 1
+  },
+  "poi_count": 18,
+  "pois": [
+    {
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30d9\u30ed\u30fc\u30c1\u30a7",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.655786,
+      "lon": 139.7043997,
+      "osm_id": 727340234,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u4e09\u90f5\u4fbf\u5c40",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 35.6560387,
+      "lon": 139.7045788,
+      "osm_id": 728435660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bcc\u58eb\u305d\u3070",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6555004,
+      "lon": 139.7065517,
+      "osm_id": 1378123986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u307b\u3063\u304b\u307b\u3063\u304b\u4ead",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6555916,
+      "lon": 139.7059112,
+      "osm_id": 1999123485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3084\u3088\u3044\u8ed2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.656223,
+      "lon": 139.704467,
+      "osm_id": 2151545070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c71\u6c34",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6562129,
+      "lon": 139.705083,
+      "osm_id": 2151662577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "co-ba",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 35.6541929,
+      "lon": 139.7056132,
+      "osm_id": 2747136446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.655759,
+      "lon": 139.7063658,
+      "osm_id": 3755850394,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u6025\u30b9\u30c6\u30a4 \u6e0b\u8c37\u65b0\u5357\u53e3",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 35.6544501,
+      "lon": 139.7053356,
+      "osm_id": 5088377221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Circus Tokyo",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 35.6541103,
+      "lon": 139.7055564,
+      "osm_id": 5323416499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30b5\u30f3\u30b9\u30a4Part1",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 35.6562369,
+      "lon": 139.7050676,
+      "osm_id": 5891352585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hashiya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6559102,
+      "lon": 139.7054945,
+      "osm_id": 6513208087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u8fba\u6848\u5185",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6551365,
+      "lon": 139.7061597,
+      "osm_id": 9855717105,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CoCo\u58f1\u756a\u5c4b",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6555328,
+      "lon": 139.7059937,
+      "osm_id": 10588586185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tokyu Stay",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 35.654784,
+      "lon": 139.7051537,
+      "osm_id": 11415830929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u5357\u6771\u6025\u30d3\u30eb",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.656228,
+      "lon": 139.706284,
+      "osm_id": 11436145535,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u6025\u30b9\u30c6\u30a4\u6e0b\u8c37\u65b0\u5357\u53e3",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.65494,
+      "lon": 139.70534,
+      "osm_id": 11436145836,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "COCOROTUS Foodtruck",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6559524,
+      "lon": 139.7049089,
+      "osm_id": 12035542961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 38,
+    "removed_count": 20,
     "model": "gemini-2.5-flash"
   }
 }

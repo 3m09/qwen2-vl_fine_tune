@@ -1,20 +1,143 @@
 {
   "image": "dataset/images/104.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.97470691136546,
+  "center_lat": 18.925630630630632,
+  "center_lon": 72.8309523759689,
   "bbox": [
-    -73.97619474010867,
-    40.80900900900902,
-    -73.97321908262225,
-    40.81126126126127
+    72.82976190077513,
+    18.924504504504505,
+    72.83214285116269,
+    18.926756756756756
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.college",
+    "amenity.pub",
+    "tourism.hostel",
+    "tourism.museum",
+    "amenity.restaurant",
+    "leisure.park"
+  ],
+  "poi_count_per_category": {
+    "amenity.college": 1,
+    "amenity.pub": 1,
+    "tourism.hostel": 1,
+    "tourism.museum": 1,
+    "amenity.restaurant": 4,
+    "leisure.park": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Villa 39",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9254094,
+      "lon": 72.8304996,
+      "osm_id": 704468160,
+      "osm_type": "node",
+      "address": "Madame Cama Road",
+      "road_geometry": null
+    },
+    {
+      "name": "YWCA - Lady Willingdon Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 18.9252691,
+      "lon": 72.8310128,
+      "osm_id": 1151728614,
+      "osm_type": "node",
+      "address": "Madame Came Road, Kala Ghoda Fort",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0928\u0945\u0936\u0928\u0932 \u0917\u0945\u0932\u0930\u0940 \u0911\u092b \u092e\u0949\u0921\u0930\u094d\u0928 \u0906\u0930\u094d\u091f",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 18.9258376,
+      "lon": 72.8313854,
+      "osm_id": 1973436453,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sahakari Bhandar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9245845,
+      "lon": 72.8318581,
+      "osm_id": 3306535108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Royal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9250842,
+      "lon": 72.8318941,
+      "osm_id": 4561291577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Royal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9251132,
+      "lon": 72.8319074,
+      "osm_id": 4605376505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sabina Chandrashekhar Memorial Municipal Garden and Playground",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 18.9246548,
+      "lon": 72.8304766,
+      "osm_id": 5330860952,
+      "osm_type": "node",
+      "address": "Nathalal M. Parikh Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Woodside Inn",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 18.9249021,
+      "lon": 72.8318781,
+      "osm_id": 5437750121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Institute of Science, Colaba",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 18.9263126,
+      "lon": 72.8300134,
+      "osm_id": 6555983064,
+      "osm_type": "node",
+      "address": "Karmaveer Bhaurao Patil Road",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 11,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

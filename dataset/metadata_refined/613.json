@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/613.png",
+  "center_lat": 41.02139639639642,
+  "center_lon": 28.970448136106235,
+  "bbox": [
+    28.968955545233914,
+    41.020270270270295,
+    28.971940726978552,
+    41.02252252252255
+  ],
+  "unique_categories": [
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Mario Balik Ekmek",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0223907,
+      "lon": 28.9707991,
+      "osm_id": 9281173202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

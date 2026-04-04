@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/271.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.663771393259694,
+  "bbox": [
+    -46.665,
+    -23.56774774774775,
+    -46.662542786519396,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.convenience",
+    "amenity.cafe",
+    "amenity.taxi"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "shop.convenience": 1,
+    "amenity.cafe": 1,
+    "amenity.taxi": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Duque Conveni\u00eancia",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5662998,
+      "lon": -46.6630328,
+      "osm_id": 3891577383,
+      "osm_type": "node",
+      "address": "Alameda Lorena",
+      "road_geometry": null
+    },
+    {
+      "name": "AMMA",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5658198,
+      "lon": -46.664124,
+      "osm_id": 4131789673,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi L Entrec\u00f4te de Paris",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5659027,
+      "lon": -46.6640046,
+      "osm_id": 5046709768,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Santo Colomba",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5662779,
+      "lon": -46.6635639,
+      "osm_id": 13505702401,
+      "osm_type": "node",
+      "address": "Alameda Lorena",
+      "road_geometry": null
+    }
+  ]
+}

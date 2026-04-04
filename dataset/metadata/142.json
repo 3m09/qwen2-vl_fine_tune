@@ -1,15 +1,102 @@
 {
   "image": "dataset/images/142.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93304543395912,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.83809610988804,
   "bbox": [
-    -73.93453331320447,
-    40.81126126126127,
-    -73.93155755471376,
-    40.81351351351353
+    72.83690555444367,
+    18.935765765765762,
+    72.83928666533241,
+    18.938018018018013
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.craft",
+    "amenity.clinic",
+    "tourism.hotel",
+    "shop.general",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.craft": 1,
+    "amenity.clinic": 1,
+    "tourism.hotel": 1,
+    "shop.general": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Windsor",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9365103,
+      "lon": 72.8386041,
+      "osm_id": 4133868438,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sun Clinic",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 18.9369719,
+      "lon": 72.8379477,
+      "osm_id": 7664032228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swami Dayanand Saraswati Chowk (Fort)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9360894,
+      "lon": 72.8375074,
+      "osm_id": 9739950356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ramesh Stores",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 18.9379942,
+      "lon": 72.8382585,
+      "osm_id": 11465204245,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Patel International Merchant Navy Uniforms",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9377078,
+      "lon": 72.8379515,
+      "osm_id": 11465204247,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maharastra Bread & Biscuit Shop",
+      "category": [
+        "shop.general"
+      ],
+      "lat": 18.9377741,
+      "lon": 72.837679,
+      "osm_id": 11465204248,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/845.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.93899902152846,
+  "bbox": [
+    -73.94048685027167,
+    40.80900900900902,
+    -73.93751119278525,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "OurtBox Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8105082,
+      "lon": -73.9395267,
+      "osm_id": 4953971785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 130th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8094367,
+      "lon": -73.940178,
+      "osm_id": 5235611138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

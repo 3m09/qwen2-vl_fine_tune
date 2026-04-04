@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/780.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.98958590570726,
+  "bbox": [
+    -73.99107363346336,
+    40.80450450450451,
+    -73.98809817795114,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "shop.cosmetics",
+    "shop.optician",
+    "shop.mobile_phone",
+    "shop.clothes",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.cosmetics": 1,
+    "shop.optician": 1,
+    "shop.mobile_phone": 1,
+    "shop.clothes": 2,
+    "shop.beauty": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Bath & Body Works",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 40.8063757,
+      "lon": -73.988646,
+      "osm_id": 5285140421,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Express",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8065844,
+      "lon": -73.9881756,
+      "osm_id": 5285140423,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Loft",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8066484,
+      "lon": -73.9883369,
+      "osm_id": 5285151121,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Verizon",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8067379,
+      "lon": -73.9885622,
+      "osm_id": 5285151122,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "LensCrafters",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8062169,
+      "lon": -73.9882441,
+      "osm_id": 5286405423,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "JJ Eyelashes",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8067375,
+      "lon": -73.9895616,
+      "osm_id": 5286416021,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Victoria's Secret Beauty",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.806492,
+      "lon": -73.9889402,
+      "osm_id": 9861373210,
+      "osm_type": "node",
+      "address": "The Promenade",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

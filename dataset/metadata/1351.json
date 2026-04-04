@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/1351.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.93299992785879,
+  "bbox": [
+    -73.93448881835081,
+    40.85630630630637,
+    -73.93151103736676,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.variety_store",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "shop.variety_store": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Broadway & West 192nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8573751,
+      "lon": -73.9324549,
+      "osm_id": 1205715016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & Fairview Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.856934,
+      "lon": -73.9323964,
+      "osm_id": 1205715048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dollar Tree",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 40.8577272,
+      "lon": -73.9323369,
+      "osm_id": 4865589221,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 190 St & Broadway",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8565289,
+      "lon": -73.9329913,
+      "osm_id": 13146102941,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 192 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8579921,
+      "lon": -73.9320874,
+      "osm_id": 13146127462,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

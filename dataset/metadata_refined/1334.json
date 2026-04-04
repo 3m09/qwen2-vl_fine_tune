@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1334.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.9836222045877,
+  "bbox": [
+    -73.98511109507973,
+    40.85630630630637,
+    -73.98213331409568,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "amenity.fuel"
+  ],
+  "poi_count_per_category": {
+    "amenity.fuel": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Gulf Express of Fort Lee",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 40.8570036,
+      "lon": -73.9823869,
+      "osm_id": 10236712013,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/291.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.65885717694677,
+  "bbox": [
+    -46.66008574155742,
+    -23.563243243243246,
+    -46.657628612336126,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.taxi",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.taxi": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Capim Santo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5622275,
+      "lon": -46.6600729,
+      "osm_id": 2847700929,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Alliance Francaise",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5619195,
+      "lon": -46.6596662,
+      "osm_id": 5266445335,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Alameda Santos, 1767",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.561631,
+      "lon": -46.658341,
+      "osm_id": 7833470880,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Alecrim Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5619231,
+      "lon": -46.6583278,
+      "osm_id": 7833509712,
+      "osm_type": "node",
+      "address": "Rua Peixoto Gomide",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "dataset/images/551.png",
+  "center_lat": 41.00788288288289,
+  "center_lon": 28.982384271072174,
+  "bbox": [
+    28.98089198633403,
+    41.006756756756765,
+    28.98387655581032,
+    41.00900900900902
+  ],
+  "unique_categories": [
+    "tourism.museum",
+    "amenity.cafe",
+    "shop.travel_agency",
+    "tourism.information",
+    "tourism.hotel",
+    "amenity.police"
+  ],
+  "poi_count_per_category": {
+    "tourism.museum": 1,
+    "amenity.cafe": 2,
+    "shop.travel_agency": 1,
+    "tourism.information": 1,
+    "tourism.hotel": 2,
+    "amenity.police": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Mavi Guesthouse",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0069969,
+      "lon": 28.9813746,
+      "osm_id": 278004998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ottoman Haimam Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0070731,
+      "lon": 28.981424,
+      "osm_id": 3499195653,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hal\u0131 M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0087318,
+      "lon": 28.9809561,
+      "osm_id": 4990028128,
+      "osm_type": "node",
+      "address": "So\u011fuk\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Sky Blue",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0068076,
+      "lon": 28.9811423,
+      "osm_id": 5113623107,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Best Island Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0069402,
+      "lon": 28.981302,
+      "osm_id": 5113623108,
+      "osm_type": "node",
+      "address": "Kutlug\u00fcn Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "III. Ahmet \u00c7e\u015fmesi",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 41.0081348,
+      "lon": 28.9813015,
+      "osm_id": 11812565355,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Topkapu",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0088013,
+      "lon": 28.9811622,
+      "osm_id": 11968450324,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Turizm Polisi",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 41.0074227,
+      "lon": 28.9815404,
+      "osm_id": 13431435341,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

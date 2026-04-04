@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/380.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.16365082010083,
+  "bbox": [
+    114.16243388006721,
+    22.275,
+    114.16486776013443,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u6e2f\u5cf6\u9999\u683c\u91cc\u62c9\u5927\u9152\u5e97 Island Shangri-La, Hong Kong",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2772027,
+      "lon": 114.164467,
+      "osm_id": 508023592,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobster Bar and Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.277074,
+      "lon": 114.1645069,
+      "osm_id": 4682221105,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

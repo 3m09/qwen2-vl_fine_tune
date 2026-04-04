@@ -1,0 +1,300 @@
+{
+  "image": "dataset/images/664.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.13664108959307,
+  "bbox": [
+    -99.13783521965121,
+    19.429504504504504,
+    -99.13544695953495,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.atm",
+    "shop.convenience",
+    "amenity.bank",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.beauty",
+    "shop.bakery",
+    "amenity.cafe",
+    "amenity.arts_centre",
+    "amenity.cinema",
+    "tourism.hostel",
+    "shop.department_store",
+    "shop.mobile_phone",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.atm": 1,
+    "shop.convenience": 1,
+    "amenity.bank": 2,
+    "amenity.restaurant": 3,
+    "highway.bus_stop": 2,
+    "shop.beauty": 1,
+    "shop.bakery": 1,
+    "amenity.cafe": 1,
+    "amenity.arts_centre": 1,
+    "amenity.cinema": 1,
+    "tourism.hostel": 1,
+    "shop.department_store": 1,
+    "shop.mobile_phone": 1,
+    "tourism.hotel": 3
+  },
+  "poi_count": 21,
+  "pois": [
+    {
+      "name": "Hotel Isabel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4299193,
+      "lon": -99.1369075,
+      "osm_id": 1707410876,
+      "osm_type": "node",
+      "address": "Isabel La Cat\u00f3lica",
+      "road_geometry": null
+    },
+    {
+      "name": "Pasteler\u00eda Ideal",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 19.430486,
+      "lon": -99.1357163,
+      "osm_id": 4472139790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa del Cine MX",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 19.4307872,
+      "lon": -99.1377691,
+      "osm_id": 4920529021,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Hostal Amigo",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4300827,
+      "lon": -99.1368674,
+      "osm_id": 4973884749,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Scotiabank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4303474,
+      "lon": -99.1369144,
+      "osm_id": 5842139791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vips",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4304663,
+      "lon": -99.1373865,
+      "osm_id": 5842139792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sanborns",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 19.4309187,
+      "lon": -99.1368608,
+      "osm_id": 5842139803,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banco de M\u00e9xico",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4306607,
+      "lon": -99.1364209,
+      "osm_id": 5842139804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Dulzaina",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4295649,
+      "lon": -99.1367504,
+      "osm_id": 6267085656,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Montecarlo",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4302987,
+      "lon": -99.1360753,
+      "osm_id": 6267091257,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa del Conde de Regla",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": 19.429891,
+      "lon": -99.1375665,
+      "osm_id": 8262657580,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4315703,
+      "lon": -99.137174,
+      "osm_id": 8663640417,
+      "osm_type": "node",
+      "address": "Calle Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "Metrob\u00fas Isabel la Cat\u00f3lica",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4296915,
+      "lon": -99.1370015,
+      "osm_id": 9082933717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jugos Mar\u00eda Cristina",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4314272,
+      "lon": -99.1377133,
+      "osm_id": 9747055827,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manthra Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 19.4308426,
+      "lon": -99.1377497,
+      "osm_id": 11910143955,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Punto MX",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4305567,
+      "lon": -99.1376,
+      "osm_id": 11910177404,
+      "osm_type": "node",
+      "address": "Vale Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Inbursa",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 19.4309582,
+      "lon": -99.136915,
+      "osm_id": 12009943589,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Azul\u00edsimo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4314102,
+      "lon": -99.1370529,
+      "osm_id": 12710605501,
+      "osm_type": "node",
+      "address": "Calle Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "La Faena",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 19.4314629,
+      "lon": -99.1376459,
+      "osm_id": 12894155178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centre de atencion al cliente Telcel",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 19.4307082,
+      "lon": -99.1373186,
+      "osm_id": 13383826301,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Isabel la Cat\u00f3lica",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4296836,
+      "lon": -99.1365392,
+      "osm_id": 13537492705,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

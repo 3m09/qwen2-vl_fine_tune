@@ -1,65 +1,405 @@
 {
   "image": "dataset/images/63.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.95388043956069,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3538267640367017,
   "bbox": [
-    -73.95536816731679,
-    40.80450450450451,
-    -73.95239271180458,
-    40.80675675675676
+    2.352115240033365,
+    48.855,
+    2.355538288040038,
+    48.85725225225225
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "amenity.meditation_centre",
-    "amenity.bank",
-    "railway.stop",
-    "shop.laundry",
-    "shop.bakery",
-    "amenity.clinic",
-    "shop.shipping",
-    "amenity.pharmacy",
-    "amenity.fast_food",
-    "leisure.fitness_centre",
+    "amenity.marketplace",
+    "shop.books",
     "amenity.restaurant",
-    "highway.bus_stop",
-    "shop.hairdresser",
+    "shop.gift",
+    "amenity.cafe",
+    "shop.tobacco",
+    "shop.games",
+    "amenity.kindergarten",
+    "tourism.information",
+    "shop.optician",
+    "shop.art",
+    "railway.subway_entrance",
+    "amenity.atm",
     "amenity.bicycle_rental",
-    "shop.convenience",
-    "shop.hardware",
-    "amenity.cafe"
+    "amenity.college",
+    "highway.bus_stop",
+    "shop.travel_agency",
+    "shop.car_repair",
+    "tourism.gallery",
+    "shop.antiques",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.clothes",
+    "amenity.parking",
+    "amenity.doctors",
+    "amenity.parking_entrance",
+    "amenity.taxi",
+    "amenity.pharmacy",
+    "amenity.library",
+    "shop.bakery",
+    "amenity.bar",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "amenity.meditation_centre": 1,
-    "amenity.bank": 1,
-    "railway.stop": 1,
-    "shop.laundry": 1,
-    "shop.bakery": 2,
-    "amenity.clinic": 1,
-    "shop.shipping": 1,
-    "amenity.pharmacy": 1,
+    "amenity.marketplace": 1,
+    "shop.books": 1,
+    "amenity.restaurant": 5,
+    "shop.gift": 2,
+    "amenity.cafe": 6,
+    "shop.tobacco": 1,
+    "shop.games": 1,
+    "amenity.kindergarten": 1,
+    "tourism.information": 1,
+    "shop.optician": 1,
+    "shop.art": 1,
+    "railway.subway_entrance": 3,
+    "amenity.atm": 1,
+    "amenity.bicycle_rental": 2,
+    "amenity.college": 1,
+    "highway.bus_stop": 2,
+    "shop.travel_agency": 1,
+    "shop.car_repair": 1,
+    "tourism.gallery": 1,
+    "shop.antiques": 1,
     "amenity.fast_food": 3,
-    "leisure.fitness_centre": 1,
-    "amenity.restaurant": 9,
-    "highway.bus_stop": 1,
-    "shop.hairdresser": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.convenience": 1,
-    "shop.hardware": 1,
-    "amenity.cafe": 2
+    "tourism.hotel": 2,
+    "shop.clothes": 1,
+    "amenity.parking": 2,
+    "amenity.doctors": 1,
+    "amenity.parking_entrance": 6,
+    "amenity.taxi": 1,
+    "amenity.pharmacy": 1,
+    "amenity.library": 1,
+    "shop.bakery": 1,
+    "amenity.bar": 2,
+    "shop.jewelry": 1
   },
-  "poi_count": 30,
+  "poi_count": 56,
   "pois": [
     {
-      "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+      "name": "Lobau Rivoli",
       "category": [
-        "amenity.clinic"
+        "amenity.parking_entrance"
       ],
-      "lat": 40.8051864,
-      "lon": -73.9536189,
-      "osm_id": 357642771,
+      "lat": 48.8562998,
+      "lon": 2.3535246,
+      "osm_id": 218119662,
       "osm_type": "node",
-      "address": "West 118th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel du Loiret",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8569202,
+      "lon": 2.3552931,
+      "osm_id": 251127867,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue de Lobau (Bazar de l'H\u00f4tel de Ville)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8568341,
+      "lon": 2.3534359,
+      "osm_id": 259637347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8571724,
+      "lon": 2.3522143,
+      "osm_id": 259637358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobau Rivoli",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.8566083,
+      "lon": 2.3533348,
+      "osm_id": 557420805,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8570778,
+      "lon": 2.3521618,
+      "osm_id": 697180639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobau Rivoli",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 48.8566955,
+      "lon": 2.3538078,
+      "osm_id": 698083476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobau Rivoli",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.8555458,
+      "lon": 2.3531126,
+      "osm_id": 698083584,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baudoyer",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.8563329,
+      "lon": 2.3553132,
+      "osm_id": 699225047,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baudoyer",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.855991,
+      "lon": 2.3550679,
+      "osm_id": 699225073,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baudoyer",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.8561179,
+      "lon": 2.3551976,
+      "osm_id": 699225084,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kyo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8571142,
+      "lon": 2.3550378,
+      "osm_id": 702296020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "O'9 Pok\u00e9",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8571467,
+      "lon": 2.3549741,
+      "osm_id": 702296060,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pharmacie des Archives",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 48.8571121,
+      "lon": 2.3541574,
+      "osm_id": 702296079,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Relais de l'H\u00f4tel de Ville",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8570216,
+      "lon": 2.3541492,
+      "osm_id": 702306852,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Gribouille",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8567226,
+      "lon": 2.3553121,
+      "osm_id": 727743490,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Les Souffleurs",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8570901,
+      "lon": 2.3550923,
+      "osm_id": 1404449817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "March\u00e9 Baudoyer",
+      "category": [
+        "amenity.marketplace"
+      ],
+      "lat": 48.8563394,
+      "lon": 2.3554822,
+      "osm_id": 1425127534,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8572511,
+      "lon": 2.3528385,
+      "osm_id": 2073394402,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobau Rivoli",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 48.8560563,
+      "lon": 2.3534444,
+      "osm_id": 2162802071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 48.8567308,
+      "lon": 2.3537614,
+      "osm_id": 2211556510,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Biblioth\u00e8que de l'H\u00f4tel de Ville",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 48.8567195,
+      "lon": 2.3532017,
+      "osm_id": 2997913294,
+      "osm_type": "node",
+      "address": "Rue de Lobau",
+      "road_geometry": null
+    },
+    {
+      "name": "Librairie du Compagnonage",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8550318,
+      "lon": 2.3537423,
+      "osm_id": 3181039561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rosy",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8569885,
+      "lon": 2.3542349,
+      "osm_id": 3306560720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SG",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 48.8571079,
+      "lon": 2.3538718,
+      "osm_id": 3306561097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bo&Mie Hotel de Ville",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 48.856891,
+      "lon": 2.3546332,
+      "osm_id": 3306561357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Focacceria",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8570236,
+      "lon": 2.3551292,
+      "osm_id": 3306561673,
+      "osm_type": "node",
+      "address": "Rue de la Verrerie",
       "road_geometry": null
     },
     {
@@ -67,345 +407,345 @@
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.80593,
-      "lon": -73.9545289,
-      "osm_id": 1666603088,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Chase",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8063138,
-      "lon": -73.9542239,
-      "osm_id": 1666605529,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Lidl",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8061134,
-      "lon": -73.9543707,
-      "osm_id": 1667353975,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Lee Lee's Baked Goods",
-      "category": [
-        "shop.bakery"
-      ],
-      "lat": 40.8056378,
-      "lon": -73.9538775,
-      "osm_id": 1667402828,
+      "lat": 48.8568355,
+      "lon": 2.3548812,
+      "osm_id": 3306561674,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Levain Bakery",
+      "name": "Le Coin des Barons",
       "category": [
-        "shop.bakery"
+        "shop.games"
       ],
-      "lat": 40.8049414,
-      "lon": -73.955275,
-      "osm_id": 1667407048,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Subway",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8048764,
-      "lon": -73.955334,
-      "osm_id": 1667407727,
+      "lat": 48.8569509,
+      "lon": 2.3543747,
+      "osm_id": 3306561675,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Cedric",
+      "name": "Kiccho",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8061352,
-      "lon": -73.9530327,
-      "osm_id": 1667418892,
+      "lat": 48.8571638,
+      "lon": 2.3548714,
+      "osm_id": 3306562265,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Billie's Black Bar & Lounge",
+      "name": "Optique Caroline Joo",
       "category": [
-        "amenity.restaurant"
+        "shop.optician"
       ],
-      "lat": 40.8062286,
-      "lon": -73.9532312,
-      "osm_id": 1667419712,
+      "lat": 48.8571899,
+      "lon": 2.3541922,
+      "osm_id": 3307940661,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Rite Aid",
+      "name": "\u00c9cole Nationale Droit et Proc\u00e9dure du Personnel des Avocats",
       "category": [
-        "amenity.pharmacy"
+        "amenity.college"
       ],
-      "lat": 40.8051525,
-      "lon": -73.9545347,
-      "osm_id": 1667420596,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Kennedy Chicken & Burgers",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8046013,
-      "lon": -73.954985,
-      "osm_id": 2762553956,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "United Hardware",
-      "category": [
-        "shop.hardware"
-      ],
-      "lat": 40.8046483,
-      "lon": -73.9549514,
-      "osm_id": 2762553960,
-      "osm_type": "node",
-      "address": "8th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "BIXI Harlem",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8048187,
-      "lon": -73.9548295,
-      "osm_id": 2762553969,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Mindful Harlem",
-      "category": [
-        "amenity.meditation_centre"
-      ],
-      "lat": 40.8066189,
-      "lon": -73.9543158,
-      "osm_id": 2767404509,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Frederick Douglass Boulevard & West 116th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8046686,
-      "lon": -73.9550738,
-      "osm_id": 5972708843,
+      "lat": 48.8569071,
+      "lon": 2.3546538,
+      "osm_id": 3980384399,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "116th Street",
+      "name": "Cabinet m\u00e9dical Rivoli.",
       "category": [
-        "railway.stop"
+        "amenity.doctors"
       ],
-      "lat": 40.8056517,
-      "lon": -73.954386,
-      "osm_id": 6427120645,
+      "lat": 48.856922,
+      "lon": 2.3545845,
+      "osm_id": 3980384401,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Vinateria",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8065375,
-      "lon": -73.9540554,
-      "osm_id": 7125397465,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Cecil",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8047922,
-      "lon": -73.9525262,
-      "osm_id": 7125417491,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Baby Girls Bubbles Cleaners",
-      "category": [
-        "shop.laundry"
-      ],
-      "lat": 40.8064359,
-      "lon": -73.953656,
-      "osm_id": 7125417492,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Moca Bar & Lounge",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.806371,
-      "lon": -73.9536786,
-      "osm_id": 7125417493,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Agaveria La Diagonal",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8060758,
-      "lon": -73.9530327,
-      "osm_id": 7290190311,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "The UPS Store",
-      "category": [
-        "shop.shipping"
-      ],
-      "lat": 40.8065868,
-      "lon": -73.9535339,
-      "osm_id": 8014564674,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Ganache Coffee",
+      "name": "Caly",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8066718,
-      "lon": -73.9539564,
-      "osm_id": 10195939473,
+      "lat": 48.8567626,
+      "lon": 2.3551515,
+      "osm_id": 3980384402,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Harlem Pilates",
+      "name": "Lambert",
       "category": [
-        "leisure.fitness_centre"
+        "shop.antiques"
       ],
-      "lat": 40.8059923,
-      "lon": -73.9547674,
-      "osm_id": 12401145040,
+      "lat": 48.8550659,
+      "lon": 2.3552665,
+      "osm_id": 5059824698,
       "osm_type": "node",
-      "address": "West 118th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Splash Juicery",
+      "name": "Sources Vives",
       "category": [
-        "amenity.fast_food"
+        "shop.gift"
       ],
-      "lat": 40.8045591,
-      "lon": -73.9550152,
-      "osm_id": 12414103707,
+      "lat": 48.8551857,
+      "lon": 2.3553476,
+      "osm_id": 5059824699,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Lido",
+      "name": "B\u00e9n\u00e9dikt A\u00efchel\u00e9 Joaillier",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8550464,
+      "lon": 2.3554631,
+      "osm_id": 5059824702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Minh Chau",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.80492,
-      "lon": -73.954757,
-      "osm_id": 12414899829,
+      "lat": 48.8572468,
+      "lon": 2.3551074,
+      "osm_id": 5655629098,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Peking Kitchen",
+      "name": "Brown",
       "category": [
-        "amenity.restaurant"
+        "amenity.cafe"
       ],
-      "lat": 40.8047726,
-      "lon": -73.9548625,
-      "osm_id": 12414899830,
+      "lat": 48.8570692,
+      "lon": 2.3551281,
+      "osm_id": 5655629099,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "2166 Discount Store",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8047268,
-      "lon": -73.9548953,
-      "osm_id": 12414899831,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Little Senegal Hair Braiding",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8048688,
-      "lon": -73.9547937,
-      "osm_id": 12414899832,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Frederick Douglass Blvd & W 117 St",
+      "name": "Archives - Rivoli",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8051568,
-      "lon": -73.9546468,
-      "osm_id": 13226773040,
+      "lat": 48.857202,
+      "lon": 2.3540035,
+      "osm_id": 6438519107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lobau - H\u00f4tel de Ville",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8562451,
+      "lon": 2.353283,
+      "osm_id": 6438519108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tabac de Rivoli",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 48.8567442,
+      "lon": 2.3552193,
+      "osm_id": 6476128411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de Ville",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8568484,
+      "lon": 2.3545585,
+      "osm_id": 6539372198,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sant Antonio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8569091,
+      "lon": 2.355416,
+      "osm_id": 7475692169,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Gr\u00e8s",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8550982,
+      "lon": 2.3554968,
+      "osm_id": 8777233344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 du Marais",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8567963,
+      "lon": 2.3553443,
+      "osm_id": 9848188285,
+      "osm_type": "node",
+      "address": "Rue du Bourg Tibourg",
+      "road_geometry": null
+    },
+    {
+      "name": "Pulpy",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8569625,
+      "lon": 2.3553204,
+      "osm_id": 10212698995,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rivoli",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8567593,
+      "lon": 2.3551903,
+      "osm_id": 10212698996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Soltours",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 48.8568797,
+      "lon": 2.3550033,
+      "osm_id": 10212698997,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Mauvais Gar\u00e7ons",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8568185,
+      "lon": 2.3551996,
+      "osm_id": 10212698998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "A+Glass Mobile Paris Iv",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 48.8554907,
+      "lon": 2.355492,
+      "osm_id": 11069094905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris boutique",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8569618,
+      "lon": 2.3528207,
+      "osm_id": 12299554981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Autour de l'H\u00f4tel de Ville",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8572064,
+      "lon": 2.3521759,
+      "osm_id": 12735429850,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Terraza mikuna",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8572276,
+      "lon": 2.3538349,
+      "osm_id": 12844783512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wilde",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855774,
+      "lon": 2.3548655,
+      "osm_id": 12960923843,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cr\u00e8che municipale Moussy",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 48.8571186,
+      "lon": 2.3555247,
+      "osm_id": 12990434676,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

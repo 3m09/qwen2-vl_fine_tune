@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/195.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.49921918385022,
+  "bbox": [
+    121.4979021575859,
+    31.234504504504503,
+    121.50053621011453,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.attraction",
+    "shop.convenience",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "tourism.attraction": 1,
+    "shop.convenience": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u9646\u5bb6\u5634\u73af\u8def\u94f6\u57ce\u4e2d\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2351443,
+      "lon": 121.4981097,
+      "osm_id": 1489404202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fatburger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2357631,
+      "lon": 121.500467,
+      "osm_id": 5605278321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2360967,
+      "lon": 121.4991378,
+      "osm_id": 8920873721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u82b1\u56ed\u77f3\u6865\u8def\u94f6\u57ce\u4e2d\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2367427,
+      "lon": 121.4987871,
+      "osm_id": 10302136233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u4e2d\u5fc3\u5927\u53a6",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 31.2354554,
+      "lon": 121.5004394,
+      "osm_id": 11221740642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

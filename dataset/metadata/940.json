@@ -1,0 +1,156 @@
+{
+  "image": "dataset/images/940.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.9419667993402,
+  "bbox": [
+    -73.94345483012634,
+    40.81801801801804,
+    -73.94047876855404,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.bakery",
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "amenity.post_office",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.bakery": 1,
+    "amenity.restaurant": 2,
+    "amenity.place_of_worship": 1,
+    "amenity.post_office": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Saint Charles Borromeo Roman Catholic Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8197222,
+      "lon": -73.9419444,
+      "osm_id": 357621138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "College Station New York Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.8191667,
+      "lon": -73.9427778,
+      "osm_id": 357621228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Charles Borromeo School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.82,
+      "lon": -73.9416667,
+      "osm_id": 357621726,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Super African Hair Braiding",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8190756,
+      "lon": -73.9406209,
+      "osm_id": 2767863002,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Empire Chinese Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8191781,
+      "lon": -73.940541,
+      "osm_id": 2767863009,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Polanco Restaurant B.B.Q.",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8192262,
+      "lon": -73.9405059,
+      "osm_id": 2767863013,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Associated",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8199553,
+      "lon": -73.9406341,
+      "osm_id": 2768086327,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Make My Cake",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8180893,
+      "lon": -73.9420069,
+      "osm_id": 6511912113,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr. Boulevard & West 140th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8183571,
+      "lon": -73.9417041,
+      "osm_id": 8237387576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Adam Clayton Powell Blvd & W 141 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8192413,
+      "lon": -73.9410299,
+      "osm_id": 13244039606,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,37 +1,103 @@
 {
   "image": "dataset/images/124.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98660908679183,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.82857157001195,
   "bbox": [
-    -73.98809696603718,
-    40.81126126126127,
-    -73.98512120754647,
-    40.81351351351353
+    72.82738104667463,
+    18.93126126126126,
+    72.82976209334926,
+    18.93351351351351
   ],
   "unique_categories": [
-    "shop.department_store"
+    "amenity.cinema",
+    "highway.bus_stop",
+    "amenity.bus_station",
+    "amenity.cafe"
   ],
   "poi_count_per_category": {
-    "shop.department_store": 1
+    "amenity.cinema": 1,
+    "highway.bus_stop": 3,
+    "amenity.bus_station": 1,
+    "amenity.cafe": 1
   },
-  "poi_count": 1,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "TJ Maxx",
+      "name": "Eros Cinema",
       "category": [
-        "shop.department_store"
+        "amenity.cinema"
       ],
-      "lat": 40.812077,
-      "lon": -73.9851345,
-      "osm_id": 8530362500,
+      "lat": 18.9322385,
+      "lon": 72.8279388,
+      "osm_id": 1332570741,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "amenity.bus_station"
+      ],
+      "lat": 18.9331079,
+      "lon": 72.8285954,
+      "osm_id": 2629682524,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9329613,
+      "lon": 72.8287391,
+      "osm_id": 2629682539,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9326034,
+      "lon": 72.8297156,
+      "osm_id": 9788414506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9323852,
+      "lon": 72.827543,
+      "osm_id": 9788414507,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Beer Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9321506,
+      "lon": 72.8280275,
+      "osm_id": 11456248703,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 1,
+    "original_poi_count": 9,
+    "removed_count": 3,
     "model": "gemini-2.5-flash"
   }
 }

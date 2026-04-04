@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/989.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.9389865944782,
+  "bbox": [
+    -73.94047472632019,
+    40.82252252252255,
+    -73.9374984626362,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.car",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 1,
+    "shop.car": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Auto 4 Leasing",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 40.8242429,
+      "lon": -73.9376924,
+      "osm_id": 2830368769,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Food City",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8230831,
+      "lon": -73.9375251,
+      "osm_id": 4363763590,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "West 147th Street & Adam Clayton Powell Jr Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.822872,
+      "lon": -73.9378267,
+      "osm_id": 8454752570,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8230715,
+      "lon": -73.9378086,
+      "osm_id": 8454752571,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 148th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8234561,
+      "lon": -73.9380057,
+      "osm_id": 8454752572,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8235568,
+      "lon": -73.9380017,
+      "osm_id": 11748824591,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr",
+      "road_geometry": null
+    },
+    {
+      "name": "Kensi Thai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8227041,
+      "lon": -73.9386287,
+      "osm_id": 11748913964,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    }
+  ]
+}

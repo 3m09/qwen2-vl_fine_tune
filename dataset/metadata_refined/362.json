@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/362.png",
+  "center_lat": 1.3081351351351356,
+  "center_lon": 103.82837925757167,
+  "bbox": [
+    103.82725283838111,
+    1.3070090090090094,
+    103.82950567676222,
+    1.3092612612612617
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.restaurant",
+    "shop.wine",
+    "shop.supermarket",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.restaurant": 2,
+    "shop.wine": 1,
+    "shop.supermarket": 1,
+    "tourism.hotel": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Cold Storage",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3075324,
+      "lon": 103.8289836,
+      "osm_id": 3621214613,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Hotel Singapore",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3076686,
+      "lon": 103.8281644,
+      "osm_id": 4302905876,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Thai Tantic",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3071208,
+      "lon": 103.8293848,
+      "osm_id": 4678456490,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wine Culture",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 1.307217,
+      "lon": 103.8282042,
+      "osm_id": 4749080338,
+      "osm_type": "node",
+      "address": "Tanglin Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Hotel Singapore",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3079045,
+      "lon": 103.8282727,
+      "osm_id": 6033668367,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jewel Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3072387,
+      "lon": 103.8288114,
+      "osm_id": 6478679804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Korat Thai Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3071726,
+      "lon": 103.8292189,
+      "osm_id": 9671017617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

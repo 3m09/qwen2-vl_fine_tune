@@ -1,166 +1,947 @@
 {
   "image": "dataset/images/18.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.94495780869947,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.09095403044495737,
   "bbox": [
-    -73.94644543549137,
-    40.8,
-    -73.94347018190756,
-    40.80225225225225
+    -0.0927632243559659,
+    51.505,
+    -0.08914483653394885,
+    51.50725225225226
   ],
   "unique_categories": [
-    "shop.tyres",
-    "amenity.clinic",
-    "amenity.fast_food",
+    "amenity.marketplace",
+    "shop.appliance",
     "amenity.restaurant",
-    "amenity.telephone",
-    "highway.bus_stop",
-    "tourism.information",
-    "amenity.bicycle_rental"
+    "shop.gift",
+    "shop.houseware",
+    "amenity.cafe",
+    "shop.chocolate",
+    "amenity.arts_centre",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.optician",
+    "shop.tea",
+    "amenity.ice_cream",
+    "amenity.bicycle_rental",
+    "shop.sports",
+    "amenity.cinema",
+    "shop.alcohol",
+    "amenity.fast_food",
+    "shop.butcher",
+    "shop.clothes",
+    "tourism.artwork",
+    "shop.spices",
+    "railway.junction",
+    "shop.beauty",
+    "shop.bakery",
+    "shop.greengrocer",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "shop.tyres": 1,
-    "amenity.clinic": 1,
-    "amenity.fast_food": 1,
-    "amenity.restaurant": 2,
-    "amenity.telephone": 1,
-    "highway.bus_stop": 4,
-    "tourism.information": 1,
-    "amenity.bicycle_rental": 1
+    "amenity.marketplace": 1,
+    "shop.appliance": 1,
+    "amenity.restaurant": 28,
+    "shop.gift": 1,
+    "shop.houseware": 1,
+    "amenity.cafe": 4,
+    "shop.chocolate": 1,
+    "amenity.arts_centre": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "shop.optician": 2,
+    "shop.tea": 1,
+    "amenity.ice_cream": 2,
+    "amenity.bicycle_rental": 1,
+    "shop.sports": 1,
+    "amenity.cinema": 1,
+    "shop.alcohol": 1,
+    "amenity.fast_food": 9,
+    "shop.butcher": 1,
+    "shop.clothes": 2,
+    "tourism.artwork": 1,
+    "shop.spices": 1,
+    "railway.junction": 2,
+    "shop.beauty": 1,
+    "shop.bakery": 5,
+    "shop.greengrocer": 1,
+    "shop.jewelry": 1
   },
-  "poi_count": 11,
+  "poi_count": 73,
   "pois": [
     {
-      "name": "Subway",
+      "name": "Bread Ahead",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5064173,
+      "lon": -0.0892636,
+      "osm_id": 247956786,
+      "osm_type": "node",
+      "address": "Montague Close",
+      "road_geometry": null
+    },
+    {
+      "name": "Minerva",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5065707,
+      "lon": -0.0896632,
+      "osm_id": 347420319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.506748,
+      "lon": -0.0906,
+      "osm_id": 534964186,
+      "osm_type": "node",
+      "address": "Cathedral Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8014498,
-      "lon": -73.943959,
-      "osm_id": 2714226125,
+      "lat": 51.5068441,
+      "lon": -0.0913009,
+      "osm_id": 567814235,
       "osm_type": "node",
-      "address": "Madison Avenue",
+      "address": "Stoney Street",
       "road_geometry": null
     },
     {
-      "name": "East 116th Street & Madison Avenue",
+      "name": "Hobb's Barber Shop",
       "category": [
-        "highway.bus_stop"
+        "shop.hairdresser"
       ],
-      "lat": 40.8002111,
-      "lon": -73.9451437,
-      "osm_id": 5262946670,
+      "lat": 51.5055155,
+      "lon": -0.0903405,
+      "osm_id": 597340275,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 116th Street & 5th Avenue",
+      "name": "A. Sugarman",
       "category": [
-        "highway.bus_stop"
+        "shop.greengrocer"
       ],
-      "lat": 40.8006637,
-      "lon": -73.9461842,
-      "osm_id": 5263686457,
+      "lat": 51.505904,
+      "lon": -0.09052,
+      "osm_id": 597341493,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Empire Corner 2",
+      "name": "Roast Restaurant",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8004366,
-      "lon": -73.9463914,
-      "osm_id": 5719018954,
+      "lat": 51.5053997,
+      "lon": -0.0909664,
+      "osm_id": 597342965,
       "osm_type": "node",
-      "address": "5th Avenue",
+      "address": "Stoney Street",
       "road_geometry": null
     },
     {
-      "name": "El San Juan Restaurant",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8010858,
-      "lon": -73.9459088,
-      "osm_id": 6296848317,
-      "osm_type": "node",
-      "address": "5th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Madison Avenue & East 116th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8001649,
-      "lon": -73.9446187,
-      "osm_id": 6379095120,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "5th Avenue & West 118th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8018257,
-      "lon": -73.9457696,
-      "osm_id": 6899386346,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Family Health Center Of Harlem",
-      "category": [
-        "amenity.clinic"
-      ],
-      "lat": 40.8018746,
-      "lon": -73.9436715,
-      "osm_id": 7620039830,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Link NYC",
-      "category": [
-        "amenity.telephone",
-        "tourism.information"
-      ],
-      "lat": 40.8001364,
-      "lon": -73.9449612,
-      "osm_id": 7620039837,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Jireh Tire",
-      "category": [
-        "shop.tyres"
-      ],
-      "lat": 40.8003264,
-      "lon": -73.9461018,
-      "osm_id": 10969584164,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - E 118 St & Madison Ave",
+      "name": "Park Street",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.801486,
-      "lon": -73.9442445,
-      "osm_id": 13241261621,
+      "lat": 51.5060071,
+      "lon": -0.092713,
+      "osm_id": 848525385,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sknfed",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5066764,
+      "lon": -0.0915878,
+      "osm_id": 963510170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Franco Manca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5063082,
+      "lon": -0.0914182,
+      "osm_id": 1757377762,
+      "osm_type": "node",
+      "address": "Winchester Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Altamarea",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5057703,
+      "lon": -0.0899601,
+      "osm_id": 1797692539,
+      "osm_type": "node",
+      "address": "Green Dragon Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Red Bus Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5070853,
+      "lon": -0.0915179,
+      "osm_id": 2649639894,
+      "osm_type": "node",
+      "address": "Clink Street",
+      "road_geometry": null
+    },
+    {
+      "name": "BAO",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5057188,
+      "lon": -0.0916112,
+      "osm_id": 2996559744,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Flat Iron",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5070275,
+      "lon": -0.0921286,
+      "osm_id": 3054326508,
+      "osm_type": "node",
+      "address": "Clink Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Jubilee Market (Borough Market)",
+      "category": [
+        "amenity.marketplace"
+      ],
+      "lat": 51.505697,
+      "lon": -0.0903345,
+      "osm_id": 3532904213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hawksmoor",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5063,
+      "lon": -0.0912496,
+      "osm_id": 4779514963,
+      "osm_type": "node",
+      "address": "Winchester Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Silka",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5050685,
+      "lon": -0.0899488,
+      "osm_id": 4781209342,
+      "osm_type": "node",
+      "address": "Southwark Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gelateria 3 Bis",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 51.5054881,
+      "lon": -0.0915512,
+      "osm_id": 5960124885,
+      "osm_type": "node",
+      "address": "Park Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Rabot 1745",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5053783,
+      "lon": -0.0901397,
+      "osm_id": 6090685492,
+      "osm_type": "node",
+      "address": "Bedale Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Porte\u00f1a",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5052768,
+      "lon": -0.0912367,
+      "osm_id": 6557948390,
+      "osm_type": "node",
+      "address": "Southwark Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pulia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5066332,
+      "lon": -0.0913841,
+      "osm_id": 7056456785,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Borough Market Junction",
+      "category": [
+        "railway.junction"
+      ],
+      "lat": 51.5056728,
+      "lon": -0.0893509,
+      "osm_id": 7479546792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street South Junction",
+      "category": [
+        "railway.junction"
+      ],
+      "lat": 51.5066399,
+      "lon": -0.092209,
+      "osm_id": 8711834431,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Whisky Ginger",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5057304,
+      "lon": -0.0892648,
+      "osm_id": 8817402988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bread Ahead",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5059679,
+      "lon": -0.090417,
+      "osm_id": 9550749413,
+      "osm_type": "node",
+      "address": "Cathedral Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tacos Padre",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5058891,
+      "lon": -0.0908779,
+      "osm_id": 9764354228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shuk;",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5060858,
+      "lon": -0.0907587,
+      "osm_id": 9764354229,
+      "osm_type": "node",
+      "address": "Southwark Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Black Pig",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5059684,
+      "lon": -0.0908941,
+      "osm_id": 9764354230,
+      "osm_type": "node",
+      "address": "Winchester Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Horn OK Please",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5058854,
+      "lon": -0.0908299,
+      "osm_id": 9764354231,
+      "osm_type": "node",
+      "address": "Southwark Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mallow",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5062423,
+      "lon": -0.0903798,
+      "osm_id": 9842144897,
+      "osm_type": "node",
+      "address": "Cathedral Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Parrillan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5055963,
+      "lon": -0.0920185,
+      "osm_id": 9960451064,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Everyman",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 51.5056351,
+      "lon": -0.0922029,
+      "osm_id": 9960451065,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Brother Marcus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5055225,
+      "lon": -0.0922233,
+      "osm_id": 9960451077,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Barrafina",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5054528,
+      "lon": -0.0920724,
+      "osm_id": 9960451081,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Paul Smith",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5058884,
+      "lon": -0.0916909,
+      "osm_id": 9960451082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger & Beyond",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5068621,
+      "lon": -0.0926065,
+      "osm_id": 9962734975,
+      "osm_type": "node",
+      "address": "Bank End",
+      "road_geometry": null
+    },
+    {
+      "name": "Utobeer",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5054981,
+      "lon": -0.0908787,
+      "osm_id": 10031218514,
+      "osm_type": "node",
+      "address": "Borough High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Monmouth",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5055564,
+      "lon": -0.09118,
+      "osm_id": 10110391434,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taste Croatia",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 51.5052053,
+      "lon": -0.0902335,
+      "osm_id": 10110393018,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Applebee\u2019s Fish",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5050964,
+      "lon": -0.090944,
+      "osm_id": 10899909722,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mondo Beer + Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.506935,
+      "lon": -0.0926106,
+      "osm_id": 11077564219,
+      "osm_type": "node",
+      "address": "Bank End",
+      "road_geometry": null
+    },
+    {
+      "name": "La Tua Pasta",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5058813,
+      "lon": -0.0909626,
+      "osm_id": 11413568269,
+      "osm_type": "node",
+      "address": "Rochester Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Longboys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5070709,
+      "lon": -0.092341,
+      "osm_id": 11557826349,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Yi Fang Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5066882,
+      "lon": -0.0922886,
+      "osm_id": 11557826350,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "After School Cookie Club",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5067019,
+      "lon": -0.0922148,
+      "osm_id": 11557826351,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Kitchen Provisions",
+      "category": [
+        "shop.appliance"
+      ],
+      "lat": 51.5066428,
+      "lon": -0.0921834,
+      "osm_id": 11557826352,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Delight",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": 51.5070718,
+      "lon": -0.0922522,
+      "osm_id": 11557826353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Santa Nata",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5060989,
+      "lon": -0.0921788,
+      "osm_id": 11557826354,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Amorino",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 51.5061419,
+      "lon": -0.0921992,
+      "osm_id": 11557826355,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Ace & Tate",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5058842,
+      "lon": -0.0921613,
+      "osm_id": 11557826356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Chocolat Alain Ducasse",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": 51.5058343,
+      "lon": -0.0921416,
+      "osm_id": 11557826357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vinoteca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5062778,
+      "lon": -0.0916463,
+      "osm_id": 11676429528,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bancone Borough Yards",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5065691,
+      "lon": -0.0916052,
+      "osm_id": 11676429529,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Akara",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5064104,
+      "lon": -0.0916276,
+      "osm_id": 11676429530,
+      "osm_type": "node",
+      "address": "Stoney Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pop Specs",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5066843,
+      "lon": -0.0917495,
+      "osm_id": 12077157357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lalune",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5066169,
+      "lon": -0.0915961,
+      "osm_id": 12077157358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Handmade Stories",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5066388,
+      "lon": -0.091758,
+      "osm_id": 12077157359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Seoul tokyo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5051501,
+      "lon": -0.0897893,
+      "osm_id": 12083747069,
+      "osm_type": "node",
+      "address": "Borough High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Lids",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5062605,
+      "lon": -0.0922389,
+      "osm_id": 12097520872,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Atis",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5059393,
+      "lon": -0.0921677,
+      "osm_id": 12097520873,
+      "osm_type": "node",
+      "address": "Dirty Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Spice  Mountain",
+      "category": [
+        "shop.spices"
+      ],
+      "lat": 51.5051664,
+      "lon": -0.0902882,
+      "osm_id": 12307747119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tea 2 you",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 51.5053141,
+      "lon": -0.0901372,
+      "osm_id": 12307747120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Pastor",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.505262,
+      "lon": -0.0911525,
+      "osm_id": 12424512702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oma",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5053404,
+      "lon": -0.0900773,
+      "osm_id": 12477919501,
+      "osm_type": "node",
+      "address": "Bedale Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Kolae",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.505443,
+      "lon": -0.0915899,
+      "osm_id": 12620888701,
+      "osm_type": "node",
+      "address": "Park Street",
+      "road_geometry": null
+    },
+    {
+      "name": "K\u00eau",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5052471,
+      "lon": -0.089157,
+      "osm_id": 12666515501,
+      "osm_type": "node",
+      "address": "Borough High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Or\u00e9e",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5052019,
+      "lon": -0.0892026,
+      "osm_id": 12773123646,
+      "osm_type": "node",
+      "address": "Borough High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "MOMO",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5067348,
+      "lon": -0.0926156,
+      "osm_id": 12864557875,
+      "osm_type": "node",
+      "address": "Bank End",
+      "road_geometry": null
+    },
+    {
+      "name": "Borough Kitchen",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 51.5054991,
+      "lon": -0.0893413,
+      "osm_id": 13234838380,
+      "osm_type": "node",
+      "address": "Borough High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Angry Crab Shack",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5067946,
+      "lon": -0.0926114,
+      "osm_id": 13476270303,
+      "osm_type": "node",
+      "address": "Bank End",
+      "road_geometry": null
+    },
+    {
+      "name": "Agora",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5053651,
+      "lon": -0.0900406,
+      "osm_id": 13563937201,
+      "osm_type": "node",
+      "address": "Bedale Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ginger Pig",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 51.5060722,
+      "lon": -0.0903896,
+      "osm_id": 13665646119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salt Yard",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5062258,
+      "lon": -0.0906405,
+      "osm_id": 13665646120,
+      "osm_type": "node",
+      "address": "Winchester Walk",
       "road_geometry": null
     }
   ]

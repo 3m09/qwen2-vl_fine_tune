@@ -1,0 +1,61 @@
+{
+  "image": "dataset/images/1037.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.9389824502484,
+  "bbox": [
+    -73.94047068316917,
+    40.82702702702706,
+    -73.93749421732763,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Frederick Douglass Boulevard & West 155th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8289912,
+      "lon": -73.937573,
+      "osm_id": 5296084265,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 154th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8283783,
+      "lon": -73.9379876,
+      "osm_id": 5415651945,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 153rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8279785,
+      "lon": -73.9380768,
+      "osm_id": 5415651946,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

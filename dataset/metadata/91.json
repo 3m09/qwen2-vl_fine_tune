@@ -1,113 +1,111 @@
 {
   "image": "dataset/images/91.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.94197664837489,
+  "center_lat": 18.92112612612613,
+  "center_lon": 72.83333310176616,
   "bbox": [
-    -73.94346442662169,
-    40.80675675675676,
-    -73.94048887012809,
-    40.80900900900902
+    72.83214265865671,
+    18.92,
+    72.83452354487561,
+    18.922252252252253
   ],
   "unique_categories": [
-    "shop.mobile_phone",
-    "highway.bus_stop",
-    "shop.alcohol",
-    "shop.pastry",
-    "amenity.bicycle_rental",
-    "amenity.place_of_worship",
-    "shop.convenience"
+    "amenity.pub",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "amenity.bar",
+    "shop.leather",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "shop.mobile_phone": 1,
-    "highway.bus_stop": 1,
-    "shop.alcohol": 1,
-    "shop.pastry": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.place_of_worship": 1,
-    "shop.convenience": 1
+    "amenity.pub": 1,
+    "amenity.restaurant": 2,
+    "amenity.cafe": 1,
+    "amenity.bar": 1,
+    "shop.leather": 1,
+    "shop.jewelry": 1
   },
   "poi_count": 7,
   "pois": [
     {
-      "name": "Saint Andrew's Episcopal Church",
+      "name": "Busaba",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.pub"
       ],
-      "lat": 40.8078384,
-      "lon": -73.9409554,
-      "osm_id": 357621088,
-      "osm_type": "node",
-      "address": "5th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Insomnia Cookies",
-      "category": [
-        "shop.pastry"
-      ],
-      "lat": 40.8069759,
-      "lon": -73.9431751,
-      "osm_id": 2767369849,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem Wine and Spirits",
-      "category": [
-        "shop.alcohol"
-      ],
-      "lat": 40.8069514,
-      "lon": -73.9431164,
-      "osm_id": 2767369853,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "CD West Harlem Deli Corp",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8070723,
-      "lon": -73.9420154,
-      "osm_id": 2767369865,
-      "osm_type": "node",
-      "address": "5th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "5th Avenue & West 128th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8081123,
-      "lon": -73.9411488,
-      "osm_id": 5274257023,
+      "lat": 18.9222319,
+      "lon": 72.8322099,
+      "osm_id": 870445723,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Verizon",
+      "name": "Starbucks",
       "category": [
-        "shop.mobile_phone"
+        "amenity.cafe"
       ],
-      "lat": 40.8067644,
-      "lon": -73.9413357,
-      "osm_id": 6112147957,
+      "lat": 18.9214742,
+      "lon": 72.8324799,
+      "osm_id": 4342167989,
+      "osm_type": "node",
+      "address": "Ram mahal,Dinshaw Vacha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Papaya bistro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9214456,
+      "lon": 72.8322791,
+      "osm_id": 4841716622,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - 5 Ave & W 126 St",
+      "name": "Nappa Dori",
       "category": [
-        "amenity.bicycle_rental"
+        "shop.leather"
       ],
-      "lat": 40.8072282,
-      "lon": -73.941791,
-      "osm_id": 13243987828,
+      "lat": 18.9217734,
+      "lon": 72.8323925,
+      "osm_id": 8084321641,
+      "osm_type": "node",
+      "address": "Boman Behram Road (Mere Weather Road)/Shri Boman Kawasji Boman Behram Marg (Mere Weather Road)",
+      "road_geometry": null
+    },
+    {
+      "name": "Colaba SOCIAL",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 18.9217405,
+      "lon": 72.8323576,
+      "osm_id": 13227676860,
+      "osm_type": "node",
+      "address": "B.K. Boman Behram Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Smoke House Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9215619,
+      "lon": 72.8322661,
+      "osm_id": 13227676861,
+      "osm_type": "node",
+      "address": "B.K. Boman Behram Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Zoya",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 18.9215653,
+      "lon": 72.8332601,
+      "osm_id": 13227690533,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/322.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.64902948133436,
+  "bbox": [
+    -46.65025798277018,
+    -23.55648648648649,
+    -46.64780097989854,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Mercado da Villa",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5555706,
+      "lon": -46.6483118,
+      "osm_id": 4946143588,
+      "osm_type": "node",
+      "address": "Rua Manoel Dutra",
+      "road_geometry": null
+    },
+    {
+      "name": "Bella paim",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5547468,
+      "lon": -46.6499394,
+      "osm_id": 12077264895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

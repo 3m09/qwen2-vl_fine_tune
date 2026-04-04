@@ -1,84 +1,15 @@
 {
   "image": "dataset/images/183.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.95387261172849,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.49395098460896,
   "bbox": [
-    -73.9553605919953,
-    40.81576576576578,
-    -73.95238463146165,
-    40.81801801801804
+    121.4926339897393,
+    31.232252252252252,
+    121.49526797947861,
+    31.234504504504503
   ],
-  "unique_categories": [
-    "amenity.bicycle_rental",
-    "amenity.restaurant",
-    "highway.bus_stop"
-  ],
-  "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
-    "amenity.restaurant": 1,
-    "highway.bus_stop": 3
-  },
-  "poi_count": 5,
-  "pois": [
-    {
-      "name": "Rai Rai Ken",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8171459,
-      "lon": -73.9532953,
-      "osm_id": 5400474152,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 133rd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8178874,
-      "lon": -73.952831,
-      "osm_id": 8736432147,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 131st Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8166292,
-      "lon": -73.9537561,
-      "osm_id": 8736432161,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 131st Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8161648,
-      "lon": -73.9544019,
-      "osm_id": 8736432174,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Amsterdam Ave & W 131 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8163731,
-      "lon": -73.9543042,
-      "osm_id": 13226718030,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    }
-  ]
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": []
 }

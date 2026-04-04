@@ -1,20 +1,79 @@
 {
   "image": "dataset/images/31.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.97768484093285,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.09457188165559975,
   "bbox": [
-    -73.979172518204,
-    40.80225225225225,
-    -73.97619716366171,
-    40.80450450450451
+    -0.09638125443706651,
+    51.50950450450451,
+    -0.09276250887413301,
+    51.51175675675677
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.cafe",
+    "tourism.artwork",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.cafe": 1,
+    "tourism.artwork": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Etsu Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5109264,
+      "lon": -0.0945923,
+      "osm_id": 1713257250,
+      "osm_type": "node",
+      "address": "Queenhithe",
+      "road_geometry": null
+    },
+    {
+      "name": "Queenhithe Mosaic",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5104556,
+      "lon": -0.0950729,
+      "osm_id": 7567588699,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Queenhithe",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5102445,
+      "lon": -0.0951963,
+      "osm_id": 7567588700,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Westin London City",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.511038,
+      "lon": -0.0952443,
+      "osm_id": 11771807570,
+      "osm_type": "node",
+      "address": "Upper Thames Street",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 9,
+    "removed_count": 5,
     "model": "gemini-2.5-flash"
   }
 }

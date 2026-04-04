@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1059.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.94493351165615,
+  "bbox": [
+    -73.9464217951249,
+    40.82927927927931,
+    -73.9434452281874,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.deli",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.deli": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Amsterdam Avenue & West 152nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8299311,
+      "lon": -73.9440816,
+      "osm_id": 5281920502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jose Deli Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8303159,
+      "lon": -73.9436739,
+      "osm_id": 8333828556,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 152 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8295165,
+      "lon": -73.9442727,
+      "osm_id": 13226778256,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

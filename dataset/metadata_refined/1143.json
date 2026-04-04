@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1143.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.98064968566545,
+  "bbox": [
+    -73.9821381713835,
+    40.83828828828833,
+    -73.97916119994741,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.supermarket": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Cafasso's Fairway Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8393675,
+      "lon": -73.981311,
+      "osm_id": 2002586729,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

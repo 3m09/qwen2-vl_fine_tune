@@ -1,43 +1,29 @@
 {
   "image": "dataset/images/169.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.99553605919954,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.83571557717175,
   "bbox": [
-    -73.99702403946635,
-    40.81576576576578,
-    -73.9940480789327,
-    40.81801801801804
+    72.83452495748601,
+    18.944774774774768,
+    72.83690619685751,
+    18.94702702702702
   ],
   "unique_categories": [
-    "amenity.school",
-    "amenity.place_of_worship"
+    "highway.bus_stop"
   ],
   "poi_count_per_category": {
-    "amenity.school": 1,
-    "amenity.place_of_worship": 1
+    "highway.bus_stop": 1
   },
-  "poi_count": 2,
+  "poi_count": 1,
   "pois": [
     {
-      "name": "Saint Johns School",
+      "name": "Mahatma Phule Market",
       "category": [
-        "amenity.school"
+        "highway.bus_stop"
       ],
-      "lat": 40.8164895,
-      "lon": -73.9956946,
-      "osm_id": 357728740,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Saint John the Baptist Church",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8167673,
-      "lon": -73.9951391,
-      "osm_id": 357743063,
+      "lat": 18.9461637,
+      "lon": 72.8351283,
+      "osm_id": 9739433167,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

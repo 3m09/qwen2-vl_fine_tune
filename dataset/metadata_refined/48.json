@@ -1,20 +1,361 @@
 {
   "image": "dataset/images/48.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.9985122722439,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.08371403471365207,
   "bbox": [
-    -74.0,
-    40.80450450450451,
-    -73.99702454448779,
-    40.80675675675676
+    -0.08552358641213517,
+    51.51400900900902,
+    -0.08190448301516896,
+    51.51626126126128
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.newsagent",
+    "tourism.viewpoint",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "amenity.bar",
+    "shop.hairdresser",
+    "amenity.bank",
+    "leisure.sports_centre",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "shop.newsagent": 1,
+    "tourism.viewpoint": 1,
+    "highway.bus_stop": 7,
+    "amenity.cafe": 2,
+    "amenity.restaurant": 2,
+    "amenity.bar": 5,
+    "shop.hairdresser": 1,
+    "amenity.bank": 1,
+    "leisure.sports_centre": 1,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 2,
+    "shop.beauty": 1
+  },
+  "poi_count": 26,
+  "pois": [
+    {
+      "name": "Camomile Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5158325,
+      "lon": -0.0821223,
+      "osm_id": 469765563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wormwood Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5161855,
+      "lon": -0.082672,
+      "osm_id": 469765565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Threadneedle Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5141329,
+      "lon": -0.0838965,
+      "osm_id": 469774062,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Great Winchester Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5156242,
+      "lon": -0.0842733,
+      "osm_id": 469776974,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Great Winchester Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5153073,
+      "lon": -0.0844124,
+      "osm_id": 469777003,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Broad Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5142602,
+      "lon": -0.0852149,
+      "osm_id": 469777165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HSBC UK",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 51.516236,
+      "lon": -0.0839612,
+      "osm_id": 475396920,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bannatyne's Health Club",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5148938,
+      "lon": -0.0841972,
+      "osm_id": 2389890389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Piazza Italiana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5144903,
+      "lon": -0.0840663,
+      "osm_id": 2793904913,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger & Lobster",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5143246,
+      "lon": -0.085187,
+      "osm_id": 2793904914,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5151685,
+      "lon": -0.0828534,
+      "osm_id": 3018116498,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "City Social",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.515105,
+      "lon": -0.0840846,
+      "osm_id": 3114630761,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "New York Laser Clinic",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5150097,
+      "lon": -0.0826476,
+      "osm_id": 3239698988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Balls Brothers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5156651,
+      "lon": -0.0852995,
+      "osm_id": 3320744028,
+      "osm_type": "node",
+      "address": "Austin Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "Forever Us Hair Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5145695,
+      "lon": -0.0847068,
+      "osm_id": 4453344988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Camomile Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5154649,
+      "lon": -0.0822292,
+      "osm_id": 4827019219,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vertigo 42, Champagne Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5150814,
+      "lon": -0.083811,
+      "osm_id": 4935127421,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Arcadia",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5155378,
+      "lon": -0.0824562,
+      "osm_id": 5130278264,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Sweetie Plus",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": 51.5150588,
+      "lon": -0.0843613,
+      "osm_id": 5165768021,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Vital Ingredient",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5152958,
+      "lon": -0.0834861,
+      "osm_id": 5165768022,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Paul in Tower 42",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5151388,
+      "lon": -0.0842029,
+      "osm_id": 5165768121,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hampshire Trust Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5152923,
+      "lon": -0.0828795,
+      "osm_id": 5537425023,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadleaf",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5151143,
+      "lon": -0.0833648,
+      "osm_id": 5565387243,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Horizon 22",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 51.514367,
+      "lon": -0.083149,
+      "osm_id": 11262672466,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Blend",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5142714,
+      "lon": -0.0826372,
+      "osm_id": 11414857733,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Andrea Adam's Court",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5146708,
+      "lon": -0.0845643,
+      "osm_id": 11692082702,
+      "osm_type": "node",
+      "address": "Adams Court",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 45,
+    "removed_count": 19,
     "model": "gemini-2.5-flash"
   }
 }

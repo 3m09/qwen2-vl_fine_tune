@@ -1,0 +1,689 @@
+{
+  "image": "dataset/images/539.png",
+  "center_lat": 41.005630630630634,
+  "center_lon": 28.979399038568786,
+  "bbox": [
+    28.977906804832728,
+    41.00450450450451,
+    28.98089127230485,
+    41.006756756756765
+  ],
+  "unique_categories": [
+    "tourism.hostel",
+    "tourism.guest_house",
+    "amenity.drinking_water",
+    "amenity.cafe",
+    "shop.convenience",
+    "tourism.museum",
+    "shop.gift",
+    "amenity.restaurant",
+    "shop.jewelry",
+    "shop.clothes",
+    "shop.carpet",
+    "shop.travel_agency",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "tourism.apartment"
+  ],
+  "poi_count_per_category": {
+    "tourism.hostel": 2,
+    "tourism.guest_house": 3,
+    "amenity.drinking_water": 1,
+    "amenity.cafe": 3,
+    "shop.convenience": 2,
+    "tourism.museum": 1,
+    "shop.gift": 2,
+    "amenity.restaurant": 14,
+    "shop.jewelry": 1,
+    "shop.clothes": 2,
+    "shop.carpet": 3,
+    "shop.travel_agency": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 15,
+    "tourism.apartment": 1
+  },
+  "poi_count": 53,
+  "pois": [
+    {
+      "name": "Basaran Mini Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.005123,
+      "lon": 28.9787961,
+      "osm_id": 566635087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hayat Cafe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0047902,
+      "lon": 28.9791698,
+      "osm_id": 566635090,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bonjour Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 41.0048066,
+      "lon": 28.9800416,
+      "osm_id": 1248641823,
+      "osm_type": "node",
+      "address": "Amiral Tafdil Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Bahaus Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 41.005081,
+      "lon": 28.9802166,
+      "osm_id": 1248902356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Acra Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0046865,
+      "lon": 28.9802381,
+      "osm_id": 1249920994,
+      "osm_type": "node",
+      "address": "Amiral Tafdil Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Nobel Hostel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0049321,
+      "lon": 28.9790616,
+      "osm_id": 1325246139,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rose Art Souvenir",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.006045,
+      "lon": 28.9800296,
+      "osm_id": 1325246157,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dervi\u015f Cafe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.006557,
+      "lon": 28.978369,
+      "osm_id": 1914160120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Ahmet Palace",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0045657,
+      "lon": 28.9780948,
+      "osm_id": 2524535697,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Seven Hills Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0063716,
+      "lon": 28.9797148,
+      "osm_id": 3090853853,
+      "osm_type": "node",
+      "address": "Tevkifhane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Avrasya Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 41.0059483,
+      "lon": 28.9796207,
+      "osm_id": 3243465419,
+      "osm_type": "node",
+      "address": "Seyit Hasan Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Hal\u0131 M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0056817,
+      "lon": 28.9786693,
+      "osm_id": 3373094254,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bal\u0131k\u00e7\u0131 Sabahattin",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0047012,
+      "lon": 28.980572,
+      "osm_id": 4159236194,
+      "osm_type": "node",
+      "address": "\u015eehit Hasan Kuyu Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "My room",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0048066,
+      "lon": 28.9805687,
+      "osm_id": 4457620690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Me\u015fale Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0055904,
+      "lon": 28.9786469,
+      "osm_id": 4577117092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kirk\u0131t rugs",
+      "category": [
+        "shop.carpet"
+      ],
+      "lat": 41.0046621,
+      "lon": 28.9798361,
+      "osm_id": 5113620627,
+      "osm_type": "node",
+      "address": "Mimar Mehmet A\u011fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Balikci Sabahattin",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0045062,
+      "lon": 28.9806059,
+      "osm_id": 5113620630,
+      "osm_type": "node",
+      "address": "Cankurtattan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "The Cozy Garden",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0047653,
+      "lon": 28.9796859,
+      "osm_id": 5113620631,
+      "osm_type": "node",
+      "address": "Mimar Mehmet A\u011fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 41.0058502,
+      "lon": 28.9808057,
+      "osm_id": 5113620635,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Zeugma",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0054191,
+      "lon": 28.9802532,
+      "osm_id": 5113620636,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Turquo\u0131se cafe resturant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0055881,
+      "lon": 28.9801459,
+      "osm_id": 5113620643,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ocean's 7 cafe & resturant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0051368,
+      "lon": 28.9798965,
+      "osm_id": 5113620645,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Byzantium Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055274,
+      "lon": 28.9804141,
+      "osm_id": 5113620650,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Garden resturant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0056863,
+      "lon": 28.9802907,
+      "osm_id": 5113620655,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Senatus Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0057936,
+      "lon": 28.9804289,
+      "osm_id": 5113620659,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eiva Cafe & Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0061326,
+      "lon": 28.9808634,
+      "osm_id": 5113620661,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "MEVLANA BAZAAR",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0050249,
+      "lon": 28.9797543,
+      "osm_id": 5113620663,
+      "osm_type": "node",
+      "address": "Akb\u0131y\u0131k Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul Kahvehanesi",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0062117,
+      "lon": 28.9786629,
+      "osm_id": 5113620673,
+      "osm_type": "node",
+      "address": "Kabasakal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ad\u0131l Birsen",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0064534,
+      "lon": 28.9795625,
+      "osm_id": 5113623080,
+      "osm_type": "node",
+      "address": "Tevkifhane sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Med Cezir Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0065445,
+      "lon": 28.9794284,
+      "osm_id": 5113623081,
+      "osm_type": "node",
+      "address": "Tevkifhane sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Urartu carpets",
+      "category": [
+        "shop.carpet"
+      ],
+      "lat": 41.0057349,
+      "lon": 28.9790154,
+      "osm_id": 5113623088,
+      "osm_type": "node",
+      "address": "Utanga\u00e7 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Kiosk Fashion",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0062429,
+      "lon": 28.9795437,
+      "osm_id": 5113623092,
+      "osm_type": "node",
+      "address": "Utanga\u00e7 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0065618,
+      "lon": 28.9802407,
+      "osm_id": 5113623097,
+      "osm_type": "node",
+      "address": "Kutlug\u00fcn Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ready travel",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0061336,
+      "lon": 28.9795974,
+      "osm_id": 5113623099,
+      "osm_type": "node",
+      "address": "Utanga\u00e7 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Cem Sultan Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055446,
+      "lon": 28.9794257,
+      "osm_id": 5113623103,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Rose Art",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0060587,
+      "lon": 28.9800453,
+      "osm_id": 5113623110,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Palatium Cafe & Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0060223,
+      "lon": 28.9802438,
+      "osm_id": 5113623111,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Aytek rug store",
+      "category": [
+        "shop.carpet"
+      ],
+      "lat": 41.0058644,
+      "lon": 28.9798066,
+      "osm_id": 5113623112,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Terace Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 41.0059089,
+      "lon": 28.9800614,
+      "osm_id": 5113623113,
+      "osm_type": "node",
+      "address": "Kutlugun sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Big apple hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0052271,
+      "lon": 28.9802246,
+      "osm_id": 5113623120,
+      "osm_type": "node",
+      "address": "Bayram f\u0131rn\u0131 sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Bahaus hostel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0051007,
+      "lon": 28.9802422,
+      "osm_id": 5113624622,
+      "osm_type": "node",
+      "address": "Bayram f\u0131rn\u0131 sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Amiral palace hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0049256,
+      "lon": 28.9805494,
+      "osm_id": 5113624624,
+      "osm_type": "node",
+      "address": "Bayram f\u0131rn\u0131 sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Seven Dreams Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0061275,
+      "lon": 28.9792943,
+      "osm_id": 5151427257,
+      "osm_type": "node",
+      "address": "Seyit Hasan Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Nak\u015f\u0131dil Valide Sultan \u00c7e\u015fmesi",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 41.0061601,
+      "lon": 28.980277,
+      "osm_id": 5478771669,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nobel hostel",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": 41.0047278,
+      "lon": 28.9795345,
+      "osm_id": 5840112085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Berk Guesthouse - Grandma's House",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0062401,
+      "lon": 28.9805895,
+      "osm_id": 5851116635,
+      "osm_type": "node",
+      "address": "Kutlug\u00fcn Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Turgut Kebab Pide",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0046672,
+      "lon": 28.9791415,
+      "osm_id": 6510541085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Divella Bistro Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.006432,
+      "lon": 28.9808176,
+      "osm_id": 7014934107,
+      "osm_type": "node",
+      "address": "Adliye Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Rasital",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0053641,
+      "lon": 28.979866,
+      "osm_id": 10178410602,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eato",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.005334,
+      "lon": 28.9801629,
+      "osm_id": 10178410603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130nci Teras Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0046477,
+      "lon": 28.9794481,
+      "osm_id": 10178438645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elif Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0053745,
+      "lon": 28.9784143,
+      "osm_id": 10178438668,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cheap Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0048822,
+      "lon": 28.9796028,
+      "osm_id": 11966787081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 128,
+    "removed_count": 75,
+    "model": "gemini-2.5-flash"
+  }
+}

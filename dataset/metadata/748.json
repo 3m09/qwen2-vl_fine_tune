@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/748.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.94198255511566,
+  "bbox": [
+    -73.94347018190756,
+    40.8,
+    -73.94049492832374,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "amenity.community_centre",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 2,
+    "amenity.community_centre": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Saint Paul's School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8001661,
+      "lon": -73.9414844,
+      "osm_id": 2714216811,
+      "osm_type": "node",
+      "address": "East 118th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Community Board Eleven of Manhattan",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8003138,
+      "lon": -73.9428344,
+      "osm_id": 4922133816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lexington Avenue & East 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8002156,
+      "lon": -73.9405625,
+      "osm_id": 5972692294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Luz Que Sale De La Obscuridad",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8004112,
+      "lon": -73.9427836,
+      "osm_id": 7620321361,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Ivoire",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8013289,
+      "lon": -73.9423745,
+      "osm_id": 9081448356,
+      "osm_type": "node",
+      "address": "East 119th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Good Good",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8012553,
+      "lon": -73.9421334,
+      "osm_id": 13207644501,
+      "osm_type": "node",
+      "address": "Park Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 118 St & Park Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.800548,
+      "lon": -73.9419982,
+      "osm_id": 13241265912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

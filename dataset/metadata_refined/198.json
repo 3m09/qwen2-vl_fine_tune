@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/198.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.50712134143612,
+  "bbox": [
+    121.5058043151718,
+    31.234504504504503,
+    121.50843836770044,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u4e2d\u56fd\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2346165,
+      "lon": 121.5081384,
+      "osm_id": 8859447794,
+      "osm_type": "node",
+      "address": "\u4e1c\u660c\u8def",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

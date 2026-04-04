@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/718.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.2737114784711,
+  "bbox": [
+    55.27246698154666,
+    25.192252252252253,
+    55.27495597539554,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.supermarket": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Spinneys",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 25.1924486,
+      "lon": 55.2728664,
+      "osm_id": 5472602721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

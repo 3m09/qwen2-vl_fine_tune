@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/270.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.64411332724593,
+  "bbox": [
+    -46.645341955054995,
+    -23.57,
+    -46.64288469943687,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.artwork",
+    "amenity.place_of_worship",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.artwork": 1,
+    "amenity.place_of_worship": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Santa Catarina de Siena",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": -23.569737,
+      "lon": -46.6452495,
+      "osm_id": 5137272521,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "M\u00e3e Universo",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": -23.5684631,
+      "lon": -46.6439117,
+      "osm_id": 5420801322,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Camafeu Gourmet Cafeteria",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5685932,
+      "lon": -46.6432718,
+      "osm_id": 6463706721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Treze De Maio, 1855",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5698225,
+      "lon": -46.6438305,
+      "osm_id": 8378420025,
+      "osm_type": "node",
+      "address": "Rua Treze de Maio",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

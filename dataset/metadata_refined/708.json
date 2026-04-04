@@ -1,0 +1,101 @@
+{
+  "image": "dataset/images/708.png",
+  "center_lat": 25.19112612612613,
+  "center_lon": 55.27122236956904,
+  "bbox": [
+    55.26997789565523,
+    25.19,
+    55.272466843482846,
+    25.192252252252253
+  ],
+  "unique_categories": [
+    "tourism.gallery",
+    "shop.supermarket",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.gallery": 1,
+    "shop.supermarket": 1,
+    "amenity.restaurant": 4
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Circle K",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 25.1909368,
+      "lon": 55.2721471,
+      "osm_id": 3841322457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mizu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1910992,
+      "lon": 55.2718638,
+      "osm_id": 4141337484,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Benelli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.191886,
+      "lon": 55.2719151,
+      "osm_id": 4911651276,
+      "osm_type": "node",
+      "address": "Shaikh Mohammed bin Rashid Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0645\u0637\u0639\u0645 \u0644\u064a\u0644\u0649 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1913449,
+      "lon": 55.2715881,
+      "osm_id": 5983504786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leila",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.191218,
+      "lon": 55.271624,
+      "osm_id": 8024801639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mondoir Art Gallery",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 25.1917092,
+      "lon": 55.2708558,
+      "osm_id": 10692506305,
+      "osm_type": "node",
+      "address": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u062f \u0628\u0646 \u0631\u0627\u0634\u062f",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "image": "dataset/images/747.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.94495780869947,
+  "bbox": [
+    -73.94644543549137,
+    40.8,
+    -73.94347018190756,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "shop.tyres",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "amenity.clinic",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.telephone",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "shop.tyres": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 4,
+    "amenity.clinic": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2,
+    "amenity.telephone": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8014498,
+      "lon": -73.943959,
+      "osm_id": 2714226125,
+      "osm_type": "node",
+      "address": "Madison Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "East 116th Street & Madison Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8002111,
+      "lon": -73.9451437,
+      "osm_id": 5262946670,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 116th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8006637,
+      "lon": -73.9461842,
+      "osm_id": 5263686457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Empire Corner 2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8004366,
+      "lon": -73.9463914,
+      "osm_id": 5719018954,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "El San Juan Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8010858,
+      "lon": -73.9459088,
+      "osm_id": 6296848317,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Madison Avenue & East 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8001649,
+      "lon": -73.9446187,
+      "osm_id": 6379095120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 118th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8018257,
+      "lon": -73.9457696,
+      "osm_id": 6899386346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Family Health Center Of Harlem",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8018746,
+      "lon": -73.9436715,
+      "osm_id": 7620039830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Link NYC",
+      "category": [
+        "amenity.telephone",
+        "tourism.information"
+      ],
+      "lat": 40.8001364,
+      "lon": -73.9449612,
+      "osm_id": 7620039837,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jireh Tire",
+      "category": [
+        "shop.tyres"
+      ],
+      "lat": 40.8003264,
+      "lon": -73.9461018,
+      "osm_id": 10969584164,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 118 St & Madison Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.801486,
+      "lon": -73.9442445,
+      "osm_id": 13241261621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

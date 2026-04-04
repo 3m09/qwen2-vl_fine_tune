@@ -1,0 +1,607 @@
+{
+  "image": "dataset/images/399.png",
+  "center_lat": 22.278378378378378,
+  "center_lon": 114.18312223296716,
+  "bbox": [
+    114.1819052733373,
+    22.27725225225225,
+    114.18433919259701,
+    22.2795045045045
+  ],
+  "unique_categories": [
+    "shop.bakery",
+    "shop.convenience",
+    "shop.outdoor",
+    "shop.chemist",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.massage",
+    "railway.subway_entrance",
+    "shop.optician",
+    "shop.bed",
+    "shop.supermarket",
+    "shop.electronics",
+    "shop.cosmetics",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.jewelry",
+    "shop.clothes",
+    "shop.shoes",
+    "leisure.amusement_arcade",
+    "shop.car",
+    "tourism.hotel",
+    "shop.camera"
+  ],
+  "poi_count_per_category": {
+    "shop.bakery": 1,
+    "shop.convenience": 5,
+    "shop.outdoor": 1,
+    "shop.chemist": 1,
+    "amenity.restaurant": 6,
+    "amenity.fast_food": 1,
+    "shop.massage": 1,
+    "railway.subway_entrance": 1,
+    "shop.optician": 1,
+    "shop.bed": 1,
+    "shop.supermarket": 1,
+    "shop.electronics": 1,
+    "shop.cosmetics": 2,
+    "highway.bus_stop": 1,
+    "amenity.cafe": 3,
+    "shop.jewelry": 3,
+    "shop.clothes": 9,
+    "shop.shoes": 2,
+    "leisure.amusement_arcade": 1,
+    "shop.car": 1,
+    "tourism.hotel": 1,
+    "shop.camera": 1
+  },
+  "poi_count": 45,
+  "pois": [
+    {
+      "name": "\u512a\u54c1360 Best Mart 360",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2789365,
+      "lon": 114.1835302,
+      "osm_id": 1268481134,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2784108,
+      "lon": 114.182918,
+      "osm_id": 2399979825,
+      "osm_type": "node",
+      "address": "\u52ff\u5730\u81e3\u8857 Matheson Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6642\u4ee3\u5ee3\u5834 Times Square",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2783753,
+      "lon": 114.1824142,
+      "osm_id": 2556799120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5229\u821e\u81fa\u5ee3\u5834 Lee Theatre Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2788016,
+      "lon": 114.1832493,
+      "osm_id": 2957737062,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "mi-tu",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2791932,
+      "lon": 114.1842082,
+      "osm_id": 2957738251,
+      "osm_type": "node",
+      "address": "\u767d\u6c99\u9053 Pak Sha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c0a\u8cb4\u8996\u529b Eyeni",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2783929,
+      "lon": 114.1837487,
+      "osm_id": 2957738255,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Leica",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 22.2789866,
+      "lon": 114.1841248,
+      "osm_id": 2957738332,
+      "osm_type": "node",
+      "address": "\u767d\u6c99\u9053 Pak Sha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Giordano Ladies",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2790507,
+      "lon": 114.1842882,
+      "osm_id": 2957738364,
+      "osm_type": "node",
+      "address": "\u767d\u6c99\u9053 Pak Sha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9054\u6fe0\u4ed4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2791853,
+      "lon": 114.1823152,
+      "osm_id": 2979415882,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brilliant. Mlle",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2792236,
+      "lon": 114.1832718,
+      "osm_id": 3665646256,
+      "osm_type": "node",
+      "address": "\u7f85\u7d20\u8857 Russell Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2773756,
+      "lon": 114.1826154,
+      "osm_id": 4153131203,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apple Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2781807,
+      "lon": 114.184121,
+      "osm_id": 4204295389,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Irori",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.277673,
+      "lon": 114.182196,
+      "osm_id": 4265843189,
+      "osm_type": "node",
+      "address": "\u8000\u83ef\u8857 Yiu Wa Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fleur de Sel",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2788035,
+      "lon": 114.1835686,
+      "osm_id": 4485063790,
+      "osm_type": "node",
+      "address": "\u5bcc\u660e\u8857 Foo Ming Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Onitsuka Tiger",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2776306,
+      "lon": 114.1830563,
+      "osm_id": 4603170491,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Gourmet",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2778443,
+      "lon": 114.1831902,
+      "osm_id": 4778574237,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Esprit",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2778752,
+      "lon": 114.1833588,
+      "osm_id": 4778618358,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Jikka",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.277857,
+      "lon": 114.1842286,
+      "osm_id": 4859975325,
+      "osm_type": "node",
+      "address": "\u5e0c\u614e\u9053 Hysan Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u73cd\u6676\u5f69",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2788401,
+      "lon": 114.1832856,
+      "osm_id": 4860056193,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fila",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2777686,
+      "lon": 114.183318,
+      "osm_id": 4860342499,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ASICS",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2774836,
+      "lon": 114.1828572,
+      "osm_id": 4860342503,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7761\u5c0d\u9ede DPM",
+      "category": [
+        "shop.bed"
+      ],
+      "lat": 22.277551,
+      "lon": 114.1841302,
+      "osm_id": 4860723631,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mercedes-Benz",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.277619,
+      "lon": 114.183499,
+      "osm_id": 4860723634,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ProTek",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 22.2774597,
+      "lon": 114.1832151,
+      "osm_id": 4860723636,
+      "osm_type": "node",
+      "address": "\u79ae\u9813\u9053 Leighton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mozy",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2786958,
+      "lon": 114.1842148,
+      "osm_id": 4860773014,
+      "osm_type": "node",
+      "address": "\u862d\u82b3\u9053 Lan Fong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.278594,
+      "lon": 114.1839914,
+      "osm_id": 4860773017,
+      "osm_type": "node",
+      "address": "\u862d\u82b3\u9053 Lan Fong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Scala",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2786391,
+      "lon": 114.1838421,
+      "osm_id": 4860774421,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cotton On",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2781566,
+      "lon": 114.1832467,
+      "osm_id": 4860774431,
+      "osm_type": "node",
+      "address": "\u970e\u6771\u8857 Sharp Street East",
+      "road_geometry": null
+    },
+    {
+      "name": "Sasa",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2779352,
+      "lon": 114.1832691,
+      "osm_id": 4860774432,
+      "osm_type": "node",
+      "address": "\u970e\u6771\u8857 Sharp Street East",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2785355,
+      "lon": 114.1837031,
+      "osm_id": 4860805298,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2784957,
+      "lon": 114.1837219,
+      "osm_id": 4860805300,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Crystal Link",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2786366,
+      "lon": 114.1836064,
+      "osm_id": 4860805304,
+      "osm_type": "node",
+      "address": "\u5bcc\u660e\u8857 Foo Ming Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Corridor",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2788631,
+      "lon": 114.1821521,
+      "osm_id": 4929114421,
+      "osm_type": "node",
+      "address": "\u7f85\u7d20\u8857 Russell Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2787271,
+      "lon": 114.1820358,
+      "osm_id": 5330329421,
+      "osm_type": "node",
+      "address": "\u7f85\u7d20\u8857 Russell Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2793995,
+      "lon": 114.1839065,
+      "osm_id": 6417820288,
+      "osm_type": "node",
+      "address": "\u5553\u8d85\u9053 Kai Chiu Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lamb",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2790954,
+      "lon": 114.1836441,
+      "osm_id": 6417820292,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bakehouse",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2794487,
+      "lon": 114.1840381,
+      "osm_id": 6417820293,
+      "osm_type": "node",
+      "address": "\u5553\u8d85\u9053 Kai Chiu Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u842c\u5be7 Mannings",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2789374,
+      "lon": 114.1839748,
+      "osm_id": 6417820294,
+      "osm_type": "node",
+      "address": "\u767d\u6c99\u9053 Pak Sha Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2793776,
+      "lon": 114.1842956,
+      "osm_id": 6830775769,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6355\u843d\u4e16\u754c UFO Catcher World",
+      "category": [
+        "leisure.amusement_arcade"
+      ],
+      "lat": 22.2793373,
+      "lon": 114.1830714,
+      "osm_id": 7019206309,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6cf0\u4eab\u6a02 Thai Enjoy",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 22.2785335,
+      "lon": 114.1834543,
+      "osm_id": 7046708085,
+      "osm_type": "node",
+      "address": "\u5bcc\u660e\u8857 Foo Ming Street",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2778459,
+      "lon": 114.1826862,
+      "osm_id": 9902966419,
+      "osm_type": "node",
+      "address": "\u52ff\u5730\u81e3\u8857 Matheson Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Milksha",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2794734,
+      "lon": 114.1833028,
+      "osm_id": 10004348277,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8607\u5be7 Suning",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 22.2782131,
+      "lon": 114.1820089,
+      "osm_id": 11084828886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alto",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2787583,
+      "lon": 114.1819852,
+      "osm_id": 12302201004,
+      "osm_type": "node",
+      "address": "\u767b\u9f8d\u8857 Tang Lung Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 165,
+    "removed_count": 120,
+    "model": "gemini-2.5-flash"
+  }
+}

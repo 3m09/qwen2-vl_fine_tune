@@ -1,135 +1,217 @@
 {
   "image": "dataset/images/64.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.95090498404848,
+  "center_lat": 48.858378378378376,
+  "center_lon": 2.3367116010089437,
   "bbox": [
-    -73.95239271180458,
-    40.80450450450451,
-    -73.94941725629236,
-    40.80675675675676
+    2.335,
+    48.85725225225225,
+    2.338423202017888,
+    48.85950450450451
   ],
   "unique_categories": [
-    "amenity.restaurant",
+    "shop.books",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
     "highway.bus_stop",
-    "shop.deli",
-    "tourism.hotel",
-    "amenity.school"
+    "amenity.library",
+    "amenity.cafe",
+    "shop.antiques",
+    "tourism.viewpoint",
+    "shop.art",
+    "shop.clothes"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 3,
-    "highway.bus_stop": 3,
-    "shop.deli": 1,
-    "tourism.hotel": 1,
-    "amenity.school": 1
+    "shop.books": 1,
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 1,
+    "highway.bus_stop": 1,
+    "amenity.library": 1,
+    "amenity.cafe": 1,
+    "shop.antiques": 1,
+    "tourism.viewpoint": 1,
+    "shop.art": 5,
+    "shop.clothes": 2
   },
-  "poi_count": 9,
+  "poi_count": 15,
   "pois": [
     {
-      "name": "Junior High School 81",
+      "name": "Caf\u00e9 des Beaux-Arts",
       "category": [
-        "amenity.school"
+        "amenity.cafe"
       ],
-      "lat": 40.8059341,
-      "lon": -73.9518045,
-      "osm_id": 357567590,
+      "lat": 48.8576139,
+      "lon": 2.335411,
+      "osm_id": 777174257,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr Boulevard & West 121st Street",
+      "name": "Institut de France",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8576071,
+      "lon": 2.3358845,
+      "osm_id": 782578990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont des Arts - Quai de Conti",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.806608,
-      "lon": -73.9498303,
-      "osm_id": 5187017437,
+      "lat": 48.8576017,
+      "lon": 2.3376895,
+      "osm_id": 2043615219,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Apollo Hotel",
+      "name": "La R\u00e9publique",
       "category": [
-        "tourism.hotel"
+        "tourism.artwork"
       ],
-      "lat": 40.8065824,
-      "lon": -73.9497363,
-      "osm_id": 5187017438,
-      "osm_type": "node",
-      "address": "Adam Clayton Powell Jr. Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Paris Blues",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8064034,
-      "lon": -73.9498758,
-      "osm_id": 5266906129,
-      "osm_type": "node",
-      "address": "Adam Clayton Powell Jr Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard & West 119th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8053104,
-      "lon": -73.9507936,
-      "osm_id": 5274260981,
+      "lat": 48.8577563,
+      "lon": 2.3359273,
+      "osm_id": 4537529275,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr. Boulevard & West 120th Street",
+      "name": "Pont des Arts",
       "category": [
-        "highway.bus_stop"
+        "tourism.viewpoint"
       ],
-      "lat": 40.8056023,
-      "lon": -73.9510208,
-      "osm_id": 5274263869,
+      "lat": 48.8585951,
+      "lon": 2.3376989,
+      "osm_id": 4551075167,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Ali Deli Grocery",
+      "name": "Biblioth\u00e8que Mazarine",
       "category": [
-        "shop.deli"
+        "amenity.library"
       ],
-      "lat": 40.8064436,
-      "lon": -73.9498479,
-      "osm_id": 8333828582,
+      "lat": 48.8572708,
+      "lon": 2.3373594,
+      "osm_id": 7885176674,
+      "osm_type": "node",
+      "address": "Quai de Conti",
+      "road_geometry": null
+    },
+    {
+      "name": "Charraudeau",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8572825,
+      "lon": 2.3352162,
+      "osm_id": 10788557452,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Knew King Wok",
+      "name": "Dries van Noten",
       "category": [
-        "amenity.restaurant"
+        "shop.clothes"
       ],
-      "lat": 40.8064714,
-      "lon": -73.9498101,
-      "osm_id": 8333828583,
+      "lat": 48.8576519,
+      "lon": 2.3352191,
+      "osm_id": 11478717257,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Minton's Playhouse",
+      "name": "Dries Van Noten",
       "category": [
-        "amenity.restaurant"
+        "shop.clothes"
       ],
-      "lat": 40.8047396,
-      "lon": -73.9523755,
-      "osm_id": 9482649821,
+      "lat": 48.8576073,
+      "lon": 2.3355546,
+      "osm_id": 11478717259,
       "osm_type": "node",
-      "address": "West 118th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Immortels",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.85754,
+      "lon": 2.3365784,
+      "osm_id": 11737207372,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Bettina",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8573642,
+      "lon": 2.3350667,
+      "osm_id": 11907452789,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anne-Sophie Duval",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8575649,
+      "lon": 2.3357931,
+      "osm_id": 11907452791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "T. Delage",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8573642,
+      "lon": 2.3352575,
+      "osm_id": 11907452792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arenthon",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.857526,
+      "lon": 2.3360441,
+      "osm_id": 11907452802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charraudeau",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8572947,
+      "lon": 2.3350293,
+      "osm_id": 11907452805,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

@@ -1,0 +1,459 @@
+{
+  "image": "dataset/images/591.png",
+  "center_lat": 41.01689189189191,
+  "center_lon": 28.9704474216309,
+  "bbox": [
+    28.968954932826488,
+    41.015765765765785,
+    28.971939910435317,
+    41.01801801801804
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.butcher",
+    "amenity.post_office",
+    "amenity.fast_food",
+    "shop.hardware",
+    "shop.hairdresser",
+    "shop.optician",
+    "amenity.bank",
+    "shop.cosmetics",
+    "highway.bus_stop",
+    "shop.florist",
+    "shop.beauty",
+    "shop.perfumery",
+    "shop.greengrocer",
+    "shop.gift",
+    "shop.mobile_phone",
+    "tourism.artwork",
+    "shop.copyshop"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 5,
+    "shop.butcher": 1,
+    "amenity.post_office": 2,
+    "amenity.fast_food": 2,
+    "shop.hardware": 1,
+    "shop.hairdresser": 1,
+    "shop.optician": 1,
+    "amenity.bank": 1,
+    "shop.cosmetics": 1,
+    "highway.bus_stop": 1,
+    "shop.florist": 1,
+    "shop.beauty": 1,
+    "shop.perfumery": 2,
+    "shop.greengrocer": 2,
+    "shop.gift": 2,
+    "shop.mobile_phone": 3,
+    "tourism.artwork": 1,
+    "shop.copyshop": 2
+  },
+  "poi_count": 33,
+  "pois": [
+    {
+      "name": "Hamdi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0171629,
+      "lon": 28.9698993,
+      "osm_id": 262402714,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.017128,
+      "lon": 28.9703862,
+      "osm_id": 3461609137,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc B\u00f6rek\u00e7isi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0179756,
+      "lon": 28.9690402,
+      "osm_id": 5111212298,
+      "osm_type": "node",
+      "address": "Kalcin sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Resturant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0163849,
+      "lon": 28.9716125,
+      "osm_id": 5111212310,
+      "osm_type": "node",
+      "address": "Bankacilar sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "2K Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0168128,
+      "lon": 28.9704318,
+      "osm_id": 5188756121,
+      "osm_type": "node",
+      "address": "Tahmis Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Y\u0131lmazlar G\u0131da",
+      "category": [
+        "shop.greengrocer"
+      ],
+      "lat": 41.0161913,
+      "lon": 28.9689883,
+      "osm_id": 5244795879,
+      "osm_type": "node",
+      "address": "Tahtakale Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kozmar Kozmetik",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 41.0161328,
+      "lon": 28.9692644,
+      "osm_id": 5244795885,
+      "osm_type": "node",
+      "address": "Tahtakale Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ata Parfumeri",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0158574,
+      "lon": 28.969352,
+      "osm_id": 5244795889,
+      "osm_type": "node",
+      "address": "Tahtakale Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Mio Pasaj\u0131",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0158766,
+      "lon": 28.9696263,
+      "osm_id": 5244795891,
+      "osm_type": "node",
+      "address": "Tahtakale Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Matiate",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.016717,
+      "lon": 28.9694587,
+      "osm_id": 5244795912,
+      "osm_type": "node",
+      "address": "C\u00f6mertt\u00fcrk Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "S\u00fcrat Kargo",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 41.016586,
+      "lon": 28.9692896,
+      "osm_id": 5244795916,
+      "osm_type": "node",
+      "address": "F\u0131nd\u0131k\u00e7\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Emek Kuaf\u00f6r",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0165379,
+      "lon": 28.9692535,
+      "osm_id": 5244795917,
+      "osm_type": "node",
+      "address": "F\u0131nd\u0131k\u00e7\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Karmen G\u00f6zl\u00fck",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 41.0164566,
+      "lon": 28.9691616,
+      "osm_id": 5244795918,
+      "osm_type": "node",
+      "address": "F\u0131nd\u0131k\u00e7\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Ucuzluk Pazar\u0131 Kirtasiye",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 41.0171658,
+      "lon": 28.9690627,
+      "osm_id": 5244796164,
+      "osm_type": "node",
+      "address": "Has\u0131rc\u0131lar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Seref Gida",
+      "category": [
+        "shop.greengrocer"
+      ],
+      "lat": 41.0169513,
+      "lon": 28.9694738,
+      "osm_id": 5244796170,
+      "osm_type": "node",
+      "address": "Has\u0131rc\u0131lar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Halkbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0168893,
+      "lon": 28.9696063,
+      "osm_id": 5244796172,
+      "osm_type": "node",
+      "address": "Has\u0131rc\u0131lar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Samtel",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.016681,
+      "lon": 28.9700714,
+      "osm_id": 5244796176,
+      "osm_type": "node",
+      "address": "Has\u0131rc\u0131lar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Furkan Kirtasiye",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 41.0163509,
+      "lon": 28.9702394,
+      "osm_id": 5244796181,
+      "osm_type": "node",
+      "address": "Tahmis Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "At\u0131lgan Hediyelik E\u015fya",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0162581,
+      "lon": 28.9703005,
+      "osm_id": 5244796185,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Me\u015fhur Miss D\u00f6ner",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0161462,
+      "lon": 28.970226,
+      "osm_id": 5244796186,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Huzur \u00c7i\u00e7ek",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 41.0158725,
+      "lon": 28.9700002,
+      "osm_id": 5244796190,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Ta\u015f D\u00fcnyas\u0131 Aksesuar",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 41.0161823,
+      "lon": 28.9697436,
+      "osm_id": 5244798421,
+      "osm_type": "node",
+      "address": "F\u0131nd\u0131k\u00e7\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Erkal \u0130leti\u015fim Hizmetleri",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0160511,
+      "lon": 28.969934,
+      "osm_id": 5244798423,
+      "osm_type": "node",
+      "address": "F\u0131nd\u0131k\u00e7\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "PTT",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 41.0168654,
+      "lon": 28.9703518,
+      "osm_id": 5482975729,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bursapazari",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 41.0172565,
+      "lon": 28.969757,
+      "osm_id": 5482975730,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lezzet-i Sark",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0170784,
+      "lon": 28.969287,
+      "osm_id": 7036816785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moda Accessoires",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0159711,
+      "lon": 28.9702112,
+      "osm_id": 7109322586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anas Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0174531,
+      "lon": 28.9694554,
+      "osm_id": 9801964473,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kahvalt\u0131 D\u00fcnyas\u0131",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0167468,
+      "lon": 28.9706183,
+      "osm_id": 9833781317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cankurtaran Qida",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0161057,
+      "lon": 28.9712915,
+      "osm_id": 9950496921,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cankurtaran gida",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 41.0165771,
+      "lon": 28.9708117,
+      "osm_id": 9950497019,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc M\u0131s\u0131r \u00c7ar\u015f\u0131s\u0131",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0177584,
+      "lon": 28.9701933,
+      "osm_id": 11514147495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Istanbul",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 41.0176843,
+      "lon": 28.9705587,
+      "osm_id": 11812060145,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 95,
+    "removed_count": 62,
+    "model": "gemini-2.5-flash"
+  }
+}

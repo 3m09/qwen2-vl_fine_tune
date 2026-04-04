@@ -1,0 +1,113 @@
+{
+  "image": "dataset/images/1107.png",
+  "center_lat": 40.834909909909946,
+  "center_lon": -73.94492977046875,
+  "bbox": [
+    -73.94641815505068,
+    40.83378378378382,
+    -73.94344138588683,
+    40.83603603603608
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 2,
+    "highway.bus_stop": 3,
+    "amenity.fast_food": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "TD Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8343881,
+      "lon": -73.944313,
+      "osm_id": 2796746872,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8357173,
+      "lon": -73.944001,
+      "osm_id": 2796759877,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8352848,
+      "lon": -73.9443185,
+      "osm_id": 2796929069,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th St",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8342348,
+      "lon": -73.9445158,
+      "osm_id": 3627498348,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of America",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8346748,
+      "lon": -73.9441017,
+      "osm_id": 3627524353,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & 157th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8342548,
+      "lon": -73.9449674,
+      "osm_id": 3627528693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 159th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8354928,
+      "lon": -73.9436085,
+      "osm_id": 8369975414,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 27,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,65 +1,75 @@
 {
   "image": "dataset/images/125.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98363332830112,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.83095261668657,
   "bbox": [
-    -73.98512120754647,
-    40.81126126126127,
-    -73.98214544905576,
-    40.81351351351353
+    72.82976209334926,
+    18.93126126126126,
+    72.83214314002389,
+    18.93351351351351
   ],
   "unique_categories": [
-    "shop.clothes",
-    "shop.supermarket",
-    "amenity.cafe"
+    "amenity.cafe",
+    "highway.bus_stop"
   ],
   "poi_count_per_category": {
-    "shop.clothes": 1,
-    "shop.supermarket": 1,
-    "amenity.cafe": 1
+    "amenity.cafe": 1,
+    "highway.bus_stop": 3
   },
-  "poi_count": 3,
+  "poi_count": 4,
   "pois": [
     {
-      "name": "Starbucks",
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.933307,
+      "lon": 72.831377,
+      "osm_id": 2166748624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9334787,
+      "lon": 72.8318533,
+      "osm_id": 9739433173,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9316139,
+      "lon": 72.8313625,
+      "osm_id": 9739433174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nandan Coffee",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8130952,
-      "lon": -73.9843469,
-      "osm_id": 1950344608,
-      "osm_type": "node",
-      "address": "River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Acme",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8117548,
-      "lon": -73.9844592,
-      "osm_id": 8168414833,
-      "osm_type": "node",
-      "address": "River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Old Navy",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8113623,
-      "lon": -73.9834194,
-      "osm_id": 9181495786,
+      "lat": 18.9317064,
+      "lon": 72.8319248,
+      "osm_id": 12848348712,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 3,
-    "removed_count": 0,
+    "original_poi_count": 14,
+    "removed_count": 10,
     "model": "gemini-2.5-flash"
   }
 }

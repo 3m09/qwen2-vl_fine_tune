@@ -1,0 +1,133 @@
+{
+  "image": "dataset/images/706.png",
+  "center_lat": 25.19112612612613,
+  "center_lon": 55.26624447391381,
+  "bbox": [
+    55.265,
+    25.19,
+    55.267488947827616,
+    25.192252252252253
+  ],
+  "unique_categories": [
+    "shop.cosmetics",
+    "leisure.pitch",
+    "amenity.ice_cream",
+    "amenity.restaurant",
+    "shop.mobile_phone",
+    "amenity.dentist",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.cosmetics": 1,
+    "leisure.pitch": 1,
+    "amenity.ice_cream": 1,
+    "amenity.restaurant": 2,
+    "shop.mobile_phone": 1,
+    "amenity.dentist": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Bay Avenue Skatepark",
+      "category": [
+        "leisure.pitch"
+      ],
+      "lat": 25.1912717,
+      "lon": 55.2674448,
+      "osm_id": 4039658483,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taqado Bussiness bay",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.190766,
+      "lon": 55.2657226,
+      "osm_id": 4339655689,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 25.1906009,
+      "lon": 55.2663627,
+      "osm_id": 6828568985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Phone To Go",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 25.1903737,
+      "lon": 55.266114,
+      "osm_id": 7146228404,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mehr Mah Beauty",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 25.190117,
+      "lon": 55.2657902,
+      "osm_id": 9047304491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Ivory",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 25.1921462,
+      "lon": 55.2662676,
+      "osm_id": 11012454837,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Barbar Business Bay",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1910358,
+      "lon": 55.2666672,
+      "osm_id": 12526661501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "V Perfumes",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 25.1909763,
+      "lon": 55.2659136,
+      "osm_id": 12606782456,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

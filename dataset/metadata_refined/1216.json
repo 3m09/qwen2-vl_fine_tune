@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1216.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.97767043802135,
+  "bbox": [
+    -73.97915907548659,
+    40.8450450450451,
+    -73.9761818005561,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "bb.q Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8453636,
+      "lon": -73.9785636,
+      "osm_id": 8168395026,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

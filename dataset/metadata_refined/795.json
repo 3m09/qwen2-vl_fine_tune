@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/795.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.94495407302405,
+  "bbox": [
+    -73.94644180078015,
+    40.80450450450451,
+    -73.94346634526794,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Mount Morris Ascension Presbyterian Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.805,
+      "lon": -73.9458333,
+      "osm_id": 357621056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Commandment Keepers Ethiopian Hebrew Congregation",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8061111,
+      "lon": -73.945,
+      "osm_id": 357621059,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

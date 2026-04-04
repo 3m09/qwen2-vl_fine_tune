@@ -1,15 +1,122 @@
 {
   "image": "dataset/images/119.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.93007204906921,
+  "center_lat": 18.930135135135135,
+  "center_lon": 72.8333335510104,
   "bbox": [
-    -73.93155987781242,
-    40.80900900900902,
-    -73.928584220326,
-    40.81126126126127
+    72.83214304372319,
+    18.929009009009008,
+    72.83452405829759,
+    18.93126126126126
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.post_office",
+    "amenity.bank",
+    "amenity.cafe",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.post_office": 1,
+    "amenity.bank": 3,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 3
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Ankur",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9306421,
+      "lon": 72.8323368,
+      "osm_id": 683777920,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9305587,
+      "lon": 72.8341517,
+      "osm_id": 2168597681,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "State Bank of India",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9310858,
+      "lon": 72.834342,
+      "osm_id": 2168597698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canara Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9290532,
+      "lon": 72.8337851,
+      "osm_id": 3366416124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "cafe chilkory",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9308151,
+      "lon": 72.8330445,
+      "osm_id": 5331030222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gateway Taproom",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9290226,
+      "lon": 72.8343431,
+      "osm_id": 11542372406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Stock Exchange",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 18.9303206,
+      "lon": 72.8328194,
+      "osm_id": 11609359595,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boojee Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9307448,
+      "lon": 72.833874,
+      "osm_id": 13464335862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

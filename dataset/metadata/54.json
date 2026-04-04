@@ -1,15 +1,609 @@
 {
   "image": "dataset/images/54.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.98065953917062,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.08733251177881088,
   "bbox": [
-    -73.98214726692672,
-    40.80450450450451,
-    -73.9791718114145,
-    40.80675675675676
+    -0.08914215295326647,
+    51.51626126126128,
+    -0.08552287060435529,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "shop.tailor",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "shop.optician",
+    "shop.hairdresser",
+    "amenity.bicycle_rental",
+    "railway.subway_entrance",
+    "amenity.atm",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.coffee",
+    "shop.copyshop",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "leisure.fitness_centre",
+    "shop.clothes",
+    "amenity.pub",
+    "amenity.doctors",
+    "shop.beauty",
+    "amenity.fountain",
+    "amenity.bar",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.tailor": 1,
+    "amenity.restaurant": 2,
+    "amenity.cafe": 6,
+    "railway.stop": 2,
+    "railway.station": 2,
+    "shop.optician": 1,
+    "shop.hairdresser": 1,
+    "amenity.bicycle_rental": 1,
+    "railway.subway_entrance": 2,
+    "amenity.atm": 1,
+    "shop.convenience": 1,
+    "highway.bus_stop": 1,
+    "shop.coffee": 1,
+    "shop.copyshop": 1,
+    "amenity.dentist": 5,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 2,
+    "leisure.fitness_centre": 2,
+    "shop.clothes": 2,
+    "amenity.pub": 1,
+    "amenity.doctors": 5,
+    "shop.beauty": 1,
+    "amenity.fountain": 2,
+    "amenity.bar": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 45,
+  "pois": [
+    {
+      "name": "Moorgate Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5177863,
+      "lon": -0.0884081,
+      "osm_id": 469760425,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Finsbury Circus",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5171294,
+      "lon": -0.0866602,
+      "osm_id": 883627406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Keats at the Globe",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5178081,
+      "lon": -0.0886538,
+      "osm_id": 1150003215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate (west side)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5184769,
+      "lon": -0.0882457,
+      "osm_id": 1288249464,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hawes and Curtis",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5167705,
+      "lon": -0.0862938,
+      "osm_id": 1669495358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5177539,
+      "lon": -0.087972,
+      "osm_id": 2156956840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chilango",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.516799,
+      "lon": -0.0864441,
+      "osm_id": 2554608346,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Manon",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5166023,
+      "lon": -0.0878151,
+      "osm_id": 2642895015,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "One Moorgate Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5163838,
+      "lon": -0.0878586,
+      "osm_id": 2642895027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate (east side)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5184049,
+      "lon": -0.0879601,
+      "osm_id": 3027323674,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "My Vital Metrics",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5173811,
+      "lon": -0.0874896,
+      "osm_id": 3320743087,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "NatWest",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 51.5182857,
+      "lon": -0.0880298,
+      "osm_id": 3474170573,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Copperfield",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 51.517174,
+      "lon": -0.08892,
+      "osm_id": 4501839131,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Suited & Booted",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5170108,
+      "lon": -0.0889586,
+      "osm_id": 4501844425,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bagelmania",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5172116,
+      "lon": -0.0873822,
+      "osm_id": 4513208342,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Light Centre Moorgate",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5174713,
+      "lon": -0.088064,
+      "osm_id": 5238500310,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5182516,
+      "lon": -0.0890625,
+      "osm_id": 5702714876,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Post Office (take away)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5171058,
+      "lon": -0.0882479,
+      "osm_id": 5817850003,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "PureGym",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5170257,
+      "lon": -0.0881139,
+      "osm_id": 7797133132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rosslyn",
+      "category": [
+        "amenity.cafe",
+        "shop.coffee"
+      ],
+      "lat": 51.5176866,
+      "lon": -0.0889736,
+      "osm_id": 9990988898,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "David Clulow",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5172033,
+      "lon": -0.0889078,
+      "osm_id": 10729772235,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cleveland Clinic Moorgate Outpatient Centre",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5168387,
+      "lon": -0.0890488,
+      "osm_id": 10729772236,
+      "osm_type": "node",
+      "address": "Moorgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate Print by Atlantis Print",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 51.5177586,
+      "lon": -0.0886949,
+      "osm_id": 12204802384,
+      "osm_type": "node",
+      "address": "Moorgate",
+      "road_geometry": null
+    },
+    {
+      "name": "4 Convenience",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5177532,
+      "lon": -0.0889395,
+      "osm_id": 12250086710,
+      "osm_type": "node",
+      "address": "Moorfields",
+      "road_geometry": null
+    },
+    {
+      "name": "Caffe d'Arte",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5178545,
+      "lon": -0.0888747,
+      "osm_id": 12250086711,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Cutting Space",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5178448,
+      "lon": -0.0888392,
+      "osm_id": 12250086712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Andreea Nails",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.517834,
+      "lon": -0.0888477,
+      "osm_id": 12250086713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lloyds Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5171471,
+      "lon": -0.0885927,
+      "osm_id": 12250086714,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5176474,
+      "lon": -0.0864414,
+      "osm_id": 12286269903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.518512,
+      "lon": -0.0878924,
+      "osm_id": 12288848442,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Finsbury Fountain",
+      "category": [
+        "amenity.fountain"
+      ],
+      "lat": 51.517915,
+      "lon": -0.0871405,
+      "osm_id": 12324058445,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moorgate Fountain",
+      "category": [
+        "amenity.fountain"
+      ],
+      "lat": 51.5181599,
+      "lon": -0.08879,
+      "osm_id": 12324058446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Clays",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5167337,
+      "lon": -0.0890871,
+      "osm_id": 12816615429,
+      "osm_type": "node",
+      "address": "Moorgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Nomad Health Technologies",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5168263,
+      "lon": -0.086404,
+      "osm_id": 12857308538,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Forma Smile",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5168273,
+      "lon": -0.0864361,
+      "osm_id": 12857308539,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "City Dental Studio",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5168177,
+      "lon": -0.0864136,
+      "osm_id": 12857308540,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "ODL Dental Clinic",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5179221,
+      "lon": -0.08763,
+      "osm_id": 12857308541,
+      "osm_type": "node",
+      "address": "Finsbury Circus",
+      "road_geometry": null
+    },
+    {
+      "name": "Finsbury Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5167399,
+      "lon": -0.0863062,
+      "osm_id": 12857659627,
+      "osm_type": "node",
+      "address": "Throgmorton Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Bellcourt Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.516738,
+      "lon": -0.0860094,
+      "osm_id": 12857659630,
+      "osm_type": "node",
+      "address": "Throgmorton Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "One5 Health City",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.51634,
+      "lon": -0.0888949,
+      "osm_id": 12858003961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadgate Spine & Joint Clinic",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5168479,
+      "lon": -0.0864241,
+      "osm_id": 12867023556,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Medical Prime",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5168441,
+      "lon": -0.0863978,
+      "osm_id": 12867023557,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "H3 Care",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5167219,
+      "lon": -0.0863181,
+      "osm_id": 12947063346,
+      "osm_type": "node",
+      "address": "Throgmorton Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5168859,
+      "lon": -0.0868006,
+      "osm_id": 12962155287,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    },
+    {
+      "name": "Forbes and Hamilton Coffee House",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5170957,
+      "lon": -0.0881642,
+      "osm_id": 13546456301,
+      "osm_type": "node",
+      "address": "London Wall",
+      "road_geometry": null
+    }
+  ]
 }

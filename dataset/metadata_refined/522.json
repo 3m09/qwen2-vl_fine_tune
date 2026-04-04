@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/522.png",
+  "center_lat": 41.00337837837838,
+  "center_lon": 28.961492182739768,
+  "bbox": [
+    28.96,
+    41.002252252252255,
+    28.96298436547954,
+    41.00450450450451
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "railway.station",
+    "amenity.bicycle_rental"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 2,
+    "railway.station": 1,
+    "amenity.bicycle_rental": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Istasyon park hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0037286,
+      "lon": 28.9620343,
+      "osm_id": 5492935521,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kumkap\u0131 \u0130sbike \u0130stasyonu",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 41.0027795,
+      "lon": 28.9611307,
+      "osm_id": 8946621252,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Istanbul Sydney hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0042159,
+      "lon": 28.9623822,
+      "osm_id": 9946577218,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kumkap\u0131",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 41.0033651,
+      "lon": 28.9629002,
+      "osm_id": 12660718808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

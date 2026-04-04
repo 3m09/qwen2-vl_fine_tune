@@ -1,167 +1,181 @@
 {
   "image": "dataset/images/60.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.96280680609733,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3435576200166826,
   "bbox": [
-    -73.96429453385343,
-    40.80450450450451,
-    -73.96131907834122,
-    40.80675675675676
+    2.341846096013346,
+    48.855,
+    2.345269144020019,
+    48.85725225225225
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "amenity.place_of_worship",
-    "tourism.artwork",
+    "shop.shoes",
+    "shop.art",
+    "amenity.police",
     "amenity.restaurant",
-    "leisure.garden",
-    "amenity.cafe"
+    "shop.wine",
+    "tourism.artwork",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 3,
-    "amenity.place_of_worship": 1,
-    "tourism.artwork": 1,
+    "shop.shoes": 1,
+    "shop.art": 1,
+    "amenity.police": 1,
     "amenity.restaurant": 2,
-    "leisure.garden": 1,
-    "amenity.cafe": 3
+    "shop.wine": 1,
+    "tourism.artwork": 5,
+    "tourism.information": 1
   },
-  "poi_count": 11,
+  "poi_count": 12,
   "pois": [
     {
-      "name": "Niko Coffee",
+      "name": "Police judiciaire - Brigade criminelle - Brigade des stup\u00e9fiants",
       "category": [
-        "amenity.cafe"
+        "amenity.police"
       ],
-      "lat": 40.8052757,
-      "lon": -73.9624308,
-      "osm_id": 835414667,
+      "lat": 48.8553731,
+      "lon": 2.3435125,
+      "osm_id": 676727512,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Seventh Church of Christ Scientist",
+      "name": "Le Caveau du Palais",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.restaurant"
       ],
-      "lat": 40.80467,
-      "lon": -73.9642871,
-      "osm_id": 2707990712,
+      "lat": 48.8565275,
+      "lon": 2.3420348,
+      "osm_id": 676748255,
       "osm_type": "node",
-      "address": "West 112th Street",
+      "address": "Place Dauphine",
       "road_geometry": null
     },
     {
-      "name": "Alexander Hamilton",
+      "name": "La Rose de France",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8568716,
+      "lon": 2.3421327,
+      "osm_id": 676748299,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Equit\u00e9",
       "category": [
         "tourism.artwork"
       ],
-      "lat": 40.8067133,
-      "lon": -73.9617763,
-      "osm_id": 3846182257,
+      "lat": 48.8561477,
+      "lon": 2.3433101,
+      "osm_id": 2556891778,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Amsterdam Avenue & West 114th Street",
+      "name": "La Protection",
       "category": [
-        "highway.bus_stop"
+        "tourism.artwork"
       ],
-      "lat": 40.8053088,
-      "lon": -73.9622981,
-      "osm_id": 5552653067,
+      "lat": 48.8562493,
+      "lon": 2.3433854,
+      "osm_id": 2556891835,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Amsterdam Avenue & West 114th Street",
+      "name": "La Prudence",
       "category": [
-        "highway.bus_stop"
+        "tourism.artwork"
       ],
-      "lat": 40.8056979,
-      "lon": -73.9617392,
-      "osm_id": 5552653324,
+      "lat": 48.8564406,
+      "lon": 2.3435433,
+      "osm_id": 2556891942,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Strokos Deli",
+      "name": "Quai des Orf\u00e8vres",
       "category": [
-        "amenity.restaurant"
+        "tourism.information"
       ],
-      "lat": 40.805466,
-      "lon": -73.9622848,
-      "osm_id": 5686427721,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Caf\u00e9 East",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8066955,
-      "lon": -73.9638287,
-      "osm_id": 5924114805,
+      "lat": 48.8554474,
+      "lon": 2.3430239,
+      "osm_id": 5073643644,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Blue Java",
+      "name": "Napa",
       "category": [
-        "amenity.cafe"
+        "shop.wine"
       ],
-      "lat": 40.8065269,
-      "lon": -73.9631276,
-      "osm_id": 5924114808,
+      "lat": 48.8568123,
+      "lon": 2.34246,
+      "osm_id": 10052538121,
+      "osm_type": "node",
+      "address": "Place Dauphine",
+      "road_geometry": null
+    },
+    {
+      "name": "Paire & fils",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 48.8570202,
+      "lon": 2.3418555,
+      "osm_id": 12156189245,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Symposium",
+      "name": "Design Festa Gallery",
       "category": [
-        "amenity.restaurant"
+        "shop.art"
       ],
-      "lat": 40.8055157,
-      "lon": -73.9642686,
-      "osm_id": 7003610135,
-      "osm_type": "node",
-      "address": "West 113th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 116th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8065968,
-      "lon": -73.9613655,
-      "osm_id": 7004340247,
+      "lat": 48.8569578,
+      "lon": 2.3423869,
+      "osm_id": 12156189250,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "113th St Playgarden",
+      "name": "Lion",
       "category": [
-        "leisure.garden"
+        "tourism.artwork"
       ],
-      "lat": 40.8050648,
-      "lon": -73.9633996,
-      "osm_id": 11596393293,
+      "lat": 48.8562688,
+      "lon": 2.3432973,
+      "osm_id": 13038980892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lion",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8563763,
+      "lon": 2.3433829,
+      "osm_id": 13038980893,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 12,
-    "removed_count": 1,
+    "original_poi_count": 19,
+    "removed_count": 7,
     "model": "gemini-2.5-flash"
   }
 }

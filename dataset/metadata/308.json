@@ -1,0 +1,698 @@
+{
+  "image": "dataset/images/308.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.66131443252558,
+  "bbox": [
+    -46.66254295501705,
+    -23.558738738738743,
+    -46.660085910034105,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "shop.mobile_phone",
+    "shop.supermarket",
+    "shop.optician",
+    "amenity.police",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "amenity.college",
+    "highway.bus_stop",
+    "amenity.university",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "shop.stationery",
+    "shop.clothes",
+    "amenity.parking",
+    "shop.nutrition_supplements",
+    "amenity.theatre",
+    "amenity.post_office",
+    "amenity.taxi",
+    "amenity.pharmacy",
+    "shop.bakery",
+    "shop.newsagent",
+    "amenity.bank",
+    "shop.shoes",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.cafe": 2,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "shop.mobile_phone": 1,
+    "shop.supermarket": 1,
+    "shop.optician": 1,
+    "amenity.police": 1,
+    "railway.subway_entrance": 6,
+    "shop.convenience": 2,
+    "amenity.college": 1,
+    "highway.bus_stop": 1,
+    "amenity.university": 2,
+    "amenity.fast_food": 3,
+    "amenity.clinic": 1,
+    "shop.stationery": 1,
+    "shop.clothes": 3,
+    "amenity.parking": 2,
+    "shop.nutrition_supplements": 1,
+    "amenity.theatre": 1,
+    "amenity.post_office": 2,
+    "amenity.taxi": 1,
+    "amenity.pharmacy": 6,
+    "shop.bakery": 1,
+    "shop.newsagent": 2,
+    "amenity.bank": 2,
+    "shop.shoes": 3,
+    "shop.mall": 1
+  },
+  "poi_count": 52,
+  "pois": [
+    {
+      "name": "Consola\u00e7\u00e3o",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": -23.5577354,
+      "lon": -46.6604929,
+      "osm_id": 605663530,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Consola\u00e7\u00e3o",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": -23.5578719,
+      "lon": -46.6605929,
+      "osm_id": 2757587882,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Correios",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": -23.5586167,
+      "lon": -46.661532,
+      "osm_id": 2862747293,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Banco do Brasil",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5581552,
+      "lon": -46.6605151,
+      "osm_id": 2862747297,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Droga Raia",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5566214,
+      "lon": -46.6604206,
+      "osm_id": 3046163092,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Kalunga",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": -23.5565923,
+      "lon": -46.662283,
+      "osm_id": 3220605737,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5578762,
+      "lon": -46.6601803,
+      "osm_id": 3511236618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5581143,
+      "lon": -46.6604548,
+      "osm_id": 3511236619,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5576709,
+      "lon": -46.6609756,
+      "osm_id": 4128350707,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Metro Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5574413,
+      "lon": -46.6607549,
+      "osm_id": 4128350708,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banco do Brasil",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5570182,
+      "lon": -46.6610016,
+      "osm_id": 4128370691,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Estapar",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5573765,
+      "lon": -46.6607168,
+      "osm_id": 4128370693,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5576364,
+      "lon": -46.6604181,
+      "osm_id": 4128370694,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Riachuelo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5573937,
+      "lon": -46.661381,
+      "osm_id": 4128370892,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Look Lanches",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5575097,
+      "lon": -46.6605668,
+      "osm_id": 4128370893,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5580459,
+      "lon": -46.6605712,
+      "osm_id": 4128372408,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Posto Policial",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": -23.5582087,
+      "lon": -46.6604377,
+      "osm_id": 4128372409,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "America",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5572686,
+      "lon": -46.661524,
+      "osm_id": 4128376190,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Gocoffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5575987,
+      "lon": -46.6611506,
+      "osm_id": 4128376191,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Consola\u00e7\u00e3o",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5578223,
+      "lon": -46.6602852,
+      "osm_id": 4128376202,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Bruno",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.557594,
+      "lon": -46.6605497,
+      "osm_id": 4128411490,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Faculdade Mundial",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": -23.5576702,
+      "lon": -46.6603799,
+      "osm_id": 4128411689,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Bella Paulista",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5569212,
+      "lon": -46.6618303,
+      "osm_id": 4881860688,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "DHL",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": -23.5569849,
+      "lon": -46.6623542,
+      "osm_id": 4881860691,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5570485,
+      "lon": -46.6624207,
+      "osm_id": 4881860692,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Dam\u00e1sio",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": -23.557779,
+      "lon": -46.662412,
+      "osm_id": 4881860697,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Bandeira Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5576502,
+      "lon": -46.6615241,
+      "osm_id": 4881860701,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Hering",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.557773,
+      "lon": -46.6609494,
+      "osm_id": 4894055681,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi S\u00e3o Paulo",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5581646,
+      "lon": -46.6618234,
+      "osm_id": 4894055689,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Delboni",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5586951,
+      "lon": -46.6609649,
+      "osm_id": 4894055700,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista Mall",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5573954,
+      "lon": -46.6606974,
+      "osm_id": 4913151149,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5566563,
+      "lon": -46.6613922,
+      "osm_id": 4913452727,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Emp\u00f3rio Santa Rita",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5568753,
+      "lon": -46.6607135,
+      "osm_id": 4913452743,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Consola\u00e7\u00e3o",
+      "category": [
+        "railway.station"
+      ],
+      "lat": -23.557818,
+      "lon": -46.6605373,
+      "osm_id": 5159984416,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Paulista, 2319",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5571309,
+      "lon": -46.6616814,
+      "osm_id": 5630625076,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Ibmec",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": -23.5576939,
+      "lon": -46.6623084,
+      "osm_id": 6571248692,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Teatro Renaissance",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": -23.5586488,
+      "lon": -46.6618805,
+      "osm_id": 10076338228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria S\u00e3o Paulo",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5568624,
+      "lon": -46.6620922,
+      "osm_id": 11287507929,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Melissa",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5576372,
+      "lon": -46.6611115,
+      "osm_id": 11638405012,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria S\u00e3o Paulo",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5566845,
+      "lon": -46.6613614,
+      "osm_id": 11879245187,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ultrafarma",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5584715,
+      "lon": -46.6604295,
+      "osm_id": 11885011657,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vivo",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": -23.5585268,
+      "lon": -46.6604921,
+      "osm_id": 11885052923,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Bauducco",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.558256,
+      "lon": -46.6604887,
+      "osm_id": 11907841780,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria S\u00e3o Paulo",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5585047,
+      "lon": -46.6601017,
+      "osm_id": 11964628192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New balance",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5584232,
+      "lon": -46.6601862,
+      "osm_id": 12688783561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "We Protein",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5587318,
+      "lon": -46.660519,
+      "osm_id": 13131453153,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nutra Fit",
+      "category": [
+        "shop.nutrition_supplements"
+      ],
+      "lat": -23.558722,
+      "lon": -46.660494,
+      "osm_id": 13131453154,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Benjamin",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5587039,
+      "lon": -46.6604761,
+      "osm_id": 13131453155,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vila Romana",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5586941,
+      "lon": -46.6604493,
+      "osm_id": 13131453156,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jo\u00e1 \u00d3tica",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5586285,
+      "lon": -46.660392,
+      "osm_id": 13131453157,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Balance",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5586761,
+      "lon": -46.6603455,
+      "osm_id": 13131453158,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria S\u00e3o Paulo",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5587138,
+      "lon": -46.6603205,
+      "osm_id": 13131453159,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/984.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.95386791289815,
+  "bbox": [
+    -73.95535604474014,
+    40.82252252252255,
+    -73.95237978105615,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8226457,
+      "lon": -73.9535595,
+      "osm_id": 2603955362,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Walburgas Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8242574,
+      "lon": -73.9545118,
+      "osm_id": 2797443153,
+      "osm_type": "node",
+      "address": "Riverside Drive",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8228242,
+      "lon": -73.9528799,
+      "osm_id": 6261885579,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 140th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8231676,
+      "lon": -73.9530945,
+      "osm_id": 6261892685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Lonchera",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8227762,
+      "lon": -73.953819,
+      "osm_id": 11847603619,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 140 St & Riverside Dr",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8240061,
+      "lon": -73.95474,
+      "osm_id": 13226770335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/985.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.95089164921416,
+  "bbox": [
+    -73.95237978105615,
+    40.82252252252255,
+    -73.94940351737216,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "tourism.guest_house",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.fast_food": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Katerine Deli Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.823133,
+      "lon": -73.9501667,
+      "osm_id": 2603955349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Texas Chicken & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8246975,
+      "lon": -73.9513921,
+      "osm_id": 2768338990,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Tanto Dulce Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8233712,
+      "lon": -73.9523695,
+      "osm_id": 3452345664,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Geisha Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8240742,
+      "lon": -73.9518105,
+      "osm_id": 3452345665,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Lotus Accomodation",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 40.824119,
+      "lon": -73.9511893,
+      "osm_id": 4592135690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 141st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8240151,
+      "lon": -73.9520216,
+      "osm_id": 6261888319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rokc",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8235362,
+      "lon": -73.9522214,
+      "osm_id": 12210077044,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wingstop",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8232571,
+      "lon": -73.9522616,
+      "osm_id": 12277592536,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 12,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,903 @@
+{
+  "image": "dataset/images/355.png",
+  "center_lat": 1.3058828828828832,
+  "center_lon": 103.83288492726831,
+  "bbox": [
+    103.83175850908712,
+    1.304756756756757,
+    103.8340113454495,
+    1.3070090090090094
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.gift",
+    "amenity.cafe",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "amenity.ice_cream",
+    "railway.subway_entrance",
+    "shop.laundry",
+    "amenity.cinema",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.beverages",
+    "shop.clothes",
+    "shop.massage",
+    "amenity.parking",
+    "amenity.parking_entrance",
+    "shop.fashion_accessories",
+    "shop.chemist",
+    "amenity.food_court",
+    "shop.watches",
+    "shop.beauty",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.bakery",
+    "amenity.bank",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 13,
+    "shop.gift": 1,
+    "amenity.cafe": 12,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 3,
+    "amenity.ice_cream": 3,
+    "railway.subway_entrance": 2,
+    "shop.laundry": 1,
+    "amenity.cinema": 1,
+    "tourism.gallery": 1,
+    "amenity.fast_food": 3,
+    "tourism.hotel": 3,
+    "shop.beverages": 1,
+    "shop.clothes": 4,
+    "shop.massage": 2,
+    "amenity.parking": 1,
+    "amenity.parking_entrance": 2,
+    "shop.fashion_accessories": 1,
+    "shop.chemist": 1,
+    "amenity.food_court": 2,
+    "shop.watches": 3,
+    "shop.beauty": 4,
+    "amenity.pharmacy": 1,
+    "shop.cosmetics": 1,
+    "shop.bakery": 2,
+    "amenity.bank": 1,
+    "shop.jewelry": 2
+  },
+  "poi_count": 69,
+  "pois": [
+    {
+      "name": "Shaw Theatres Lido",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 1.3057891,
+      "lon": 103.8317959,
+      "osm_id": 595078879,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucky Plaza",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 1.3047869,
+      "lon": 103.8336232,
+      "osm_id": 595110585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tang Plaza",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 1.3052425,
+      "lon": 103.8336985,
+      "osm_id": 595110664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3064544,
+      "lon": 103.8324156,
+      "osm_id": 1275482845,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Shaw Centre",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 1.3063617,
+      "lon": 103.8319612,
+      "osm_id": 1834268996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NTUC Fairprice",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3059351,
+      "lon": 103.8328831,
+      "osm_id": 1932258472,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard (NSL)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3055434,
+      "lon": 103.8324342,
+      "osm_id": 2402426999,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ayam Penyet Ria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3048342,
+      "lon": 103.8337543,
+      "osm_id": 3668842266,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "crossroads cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3053756,
+      "lon": 103.8325055,
+      "osm_id": 4299433492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard (NSL)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3047655,
+      "lon": 103.8326068,
+      "osm_id": 4299627405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Hyatt Singapore",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3063453,
+      "lon": 103.8332833,
+      "osm_id": 4302906020,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Royal Plaza",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3068445,
+      "lon": 103.8323698,
+      "osm_id": 4302906070,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Singapore Marriott Tang Plaza Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.305109,
+      "lon": 103.8328767,
+      "osm_id": 4302906089,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Wild Honey",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3059837,
+      "lon": 103.832884,
+      "osm_id": 4503730545,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Coffee Academics",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3059,
+      "lon": 103.8328705,
+      "osm_id": 4524477741,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3055802,
+      "lon": 103.8332238,
+      "osm_id": 4729415690,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Polo Ralph Lauren",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3060782,
+      "lon": 103.832122,
+      "osm_id": 4738869423,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Laneige",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3049358,
+      "lon": 103.8325794,
+      "osm_id": 4749080348,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3059181,
+      "lon": 103.8320152,
+      "osm_id": 4869134414,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Straits Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3064248,
+      "lon": 103.8334719,
+      "osm_id": 5562399723,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Food Republic",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3061766,
+      "lon": 103.8319464,
+      "osm_id": 6517461957,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3050699,
+      "lon": 103.8329998,
+      "osm_id": 6790333027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Kaya Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3069997,
+      "lon": 103.8338134,
+      "osm_id": 6815289708,
+      "osm_type": "node",
+      "address": "14 Scotts Road, Far East Plaza",
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Kaya Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.304962,
+      "lon": 103.8327246,
+      "osm_id": 6815583662,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ippudo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3061106,
+      "lon": 103.8318689,
+      "osm_id": 8475617382,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Saladstop!",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3050507,
+      "lon": 103.8327073,
+      "osm_id": 9331475280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Hour Glass",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3054618,
+      "lon": 103.8325301,
+      "osm_id": 9331475281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Youth Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.305236,
+      "lon": 103.8324306,
+      "osm_id": 9331475282,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Conutink",
+      "category": [
+        "amenity.ice_cream",
+        "shop.beverages"
+      ],
+      "lat": 1.3049552,
+      "lon": 103.8325237,
+      "osm_id": 9331475283,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boost",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3055596,
+      "lon": 103.8323944,
+      "osm_id": 9331475285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tangs Market",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3052319,
+      "lon": 103.8327888,
+      "osm_id": 9331475286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3048966,
+      "lon": 103.8325447,
+      "osm_id": 9331475287,
+      "osm_type": "node",
+      "address": "Orchard Promenade",
+      "road_geometry": null
+    },
+    {
+      "name": "Closet",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3057248,
+      "lon": 103.8328921,
+      "osm_id": 9331507341,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Fat Duck",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3058004,
+      "lon": 103.8328394,
+      "osm_id": 9331507342,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shout",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 1.3057775,
+      "lon": 103.8328918,
+      "osm_id": 9331507343,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3058537,
+      "lon": 103.8328184,
+      "osm_id": 9331507344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Toast Box",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.305848,
+      "lon": 103.8329272,
+      "osm_id": 9331507345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mirage Aesthetic",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3059485,
+      "lon": 103.8329433,
+      "osm_id": 9331507346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Du Sol Beauty",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3057275,
+      "lon": 103.8327542,
+      "osm_id": 9331507347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Larry Jewelry",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3057514,
+      "lon": 103.8328337,
+      "osm_id": 9331507348,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiong Bahru Bakery",
+      "category": [
+        "amenity.cafe",
+        "shop.bakery"
+      ],
+      "lat": 1.3058885,
+      "lon": 103.8329435,
+      "osm_id": 9331507349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maison Kayser",
+      "category": [
+        "amenity.cafe",
+        "shop.bakery"
+      ],
+      "lat": 1.3059047,
+      "lon": 103.832796,
+      "osm_id": 9331507351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Skin Inc",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3059055,
+      "lon": 103.8327753,
+      "osm_id": 9331507352,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bullarum",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 1.3058086,
+      "lon": 103.8327851,
+      "osm_id": 9331507353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trixilini",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3057548,
+      "lon": 103.8329575,
+      "osm_id": 9331507354,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guardian",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.305803,
+      "lon": 103.8327398,
+      "osm_id": 9331507355,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Musee Platinum",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.305745,
+      "lon": 103.8327126,
+      "osm_id": 9331507356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oatberry Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.305797,
+      "lon": 103.832922,
+      "osm_id": 9331507357,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kimistry",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3058477,
+      "lon": 103.8327424,
+      "osm_id": 9331507358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cinq Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3059509,
+      "lon": 103.8328036,
+      "osm_id": 9331507359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vivienne Westwood Anglomania",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3058215,
+      "lon": 103.8328787,
+      "osm_id": 9331507360,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pressto",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 1.3057992,
+      "lon": 103.8328804,
+      "osm_id": 9331507361,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eggslut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3057395,
+      "lon": 103.8326962,
+      "osm_id": 9331507362,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Christian Louboutin",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 1.3058015,
+      "lon": 103.832723,
+      "osm_id": 9331507363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Isabella Aesthetics",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3058753,
+      "lon": 103.8327645,
+      "osm_id": 9331507364,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paradise Teochew Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3058554,
+      "lon": 103.8329553,
+      "osm_id": 9331507365,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Biseryu by Deli\u2019s kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3069054,
+      "lon": 103.833284,
+      "osm_id": 9671017234,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Watsons",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 1.306852,
+      "lon": 103.8334501,
+      "osm_id": 9864032993,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobody Healthcare",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 1.3070089,
+      "lon": 103.8336459,
+      "osm_id": 9883543434,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Foot Court Reflexology",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 1.3069933,
+      "lon": 103.8336355,
+      "osm_id": 9883543435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nanbantei \u5357\u86ee\u4ead",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3069683,
+      "lon": 103.8336261,
+      "osm_id": 9883543436,
+      "osm_type": "node",
+      "address": "Far East Plaza",
+      "road_geometry": null
+    },
+    {
+      "name": "Ah Yat Kitchen \u963f\u4e00\u53a8\u574a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.306833,
+      "lon": 103.8335146,
+      "osm_id": 9883543437,
+      "osm_type": "node",
+      "address": "Far East Plaza",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe de Muse",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3061433,
+      "lon": 103.8321582,
+      "osm_id": 10301654011,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "TCC",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3055924,
+      "lon": 103.8318882,
+      "osm_id": 10303927709,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aburi En",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3057988,
+      "lon": 103.831926,
+      "osm_id": 11663229536,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Watch Hunt",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.306957,
+      "lon": 103.8337088,
+      "osm_id": 11663229545,
+      "osm_type": "node",
+      "address": "14 Scotts Road, Far East Plaza",
+      "road_geometry": null
+    },
+    {
+      "name": "Gelatissimo",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 1.3057002,
+      "lon": 103.8318578,
+      "osm_id": 11663229547,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Seoul Bunsik",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3068585,
+      "lon": 103.8332013,
+      "osm_id": 11724980053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ice Lab",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 1.3069226,
+      "lon": 103.8332277,
+      "osm_id": 11724980055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

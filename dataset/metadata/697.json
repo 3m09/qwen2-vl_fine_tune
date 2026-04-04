@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/697.png",
+  "center_lat": 19.439639639639637,
+  "center_lon": -99.14380580369355,
+  "bbox": [
+    -99.145,
+    19.43851351351351,
+    -99.1426116073871,
+    19.44076576576576
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "tourism.hostel",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "tourism.hostel": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Banjercito",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4393128,
+      "lon": -99.1439261,
+      "osm_id": 1677245993,
+      "osm_type": "node",
+      "address": "Avenida Paseo de la Reforma Norte",
+      "road_geometry": null
+    },
+    {
+      "name": "Glorieta Violeta",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.43966,
+      "lon": -99.1439155,
+      "osm_id": 6106994165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Valerio Trujano",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4393783,
+      "lon": -99.1442333,
+      "osm_id": 6426919641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cleobas",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4402473,
+      "lon": -99.1447242,
+      "osm_id": 9246961117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CASA MX alameda",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4401377,
+      "lon": -99.1447465,
+      "osm_id": 9664761917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bang Bang Pizzas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4398045,
+      "lon": -99.1448637,
+      "osm_id": 10582908505,
+      "osm_type": "node",
+      "address": "Calle Soto",
+      "road_geometry": null
+    },
+    {
+      "name": "Parcifal",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4387752,
+      "lon": -99.1433269,
+      "osm_id": 13142311226,
+      "osm_type": "node",
+      "address": "Calle Valerio Trujano",
+      "road_geometry": null
+    }
+  ]
+}

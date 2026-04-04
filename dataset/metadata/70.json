@@ -1,43 +1,103 @@
 {
   "image": "dataset/images/70.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.9330522509752,
+  "center_lat": 48.86063063063063,
+  "center_lon": 2.336711678024126,
   "bbox": [
-    -73.9345399787313,
-    40.80450450450451,
-    -73.93156452321908,
-    40.80675675675676
+    2.335,
+    48.85950450450451,
+    2.338423356048252,
+    48.86175675675676
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
-    "amenity.school"
+    "tourism.artwork",
+    "amenity.cafe"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
-    "amenity.school": 1
+    "tourism.artwork": 5,
+    "amenity.cafe": 2
   },
-  "poi_count": 2,
+  "poi_count": 7,
   "pois": [
     {
-      "name": "King's Academy",
+      "name": "Le Caf\u00e9 Marly",
       "category": [
-        "amenity.school"
+        "amenity.cafe"
       ],
-      "lat": 40.805,
-      "lon": -73.9344444,
-      "osm_id": 357621448,
+      "lat": 48.8616428,
+      "lon": 2.3359304,
+      "osm_id": 247455918,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Travail manuel",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.860185,
+      "lon": 2.3366597,
+      "osm_id": 11263923669,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - E 128 St & 3 Ave",
+      "name": "L'Art",
       "category": [
-        "amenity.bicycle_rental"
+        "tourism.artwork"
       ],
-      "lat": 40.8056428,
-      "lon": -73.9340607,
-      "osm_id": 13243849259,
+      "lat": 48.8602432,
+      "lon": 2.3364265,
+      "osm_id": 11263923670,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Sculpture et la Peinture",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8602095,
+      "lon": 2.3365417,
+      "osm_id": 11263923671,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cariatides",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8602209,
+      "lon": 2.3364986,
+      "osm_id": 11263923672,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cariatides",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8602008,
+      "lon": 2.3365902,
+      "osm_id": 11263923673,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8613349,
+      "lon": 2.3358204,
+      "osm_id": 11586192760,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

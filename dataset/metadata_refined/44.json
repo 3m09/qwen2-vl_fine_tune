@@ -1,49 +1,389 @@
 {
   "image": "dataset/images/44.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.93900523188313,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.09819044830151691,
   "bbox": [
-    -73.94049290915427,
-    40.80225225225225,
-    -73.93751755461199,
-    40.80450450450451
+    -0.1,
+    51.51400900900902,
+    -0.0963808966030338,
+    51.51626126126128
   ],
   "unique_categories": [
-    "amenity.fast_food"
+    "amenity.pharmacy",
+    "amenity.pub",
+    "highway.bus_stop",
+    "shop.bakery",
+    "shop.convenience",
+    "shop.outdoor",
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.restaurant",
+    "railway.subway_entrance",
+    "shop.clothes",
+    "tourism.artwork",
+    "railway.stop",
+    "amenity.fast_food",
+    "railway.station"
   ],
   "poi_count_per_category": {
-    "amenity.fast_food": 2
+    "amenity.pharmacy": 1,
+    "amenity.pub": 1,
+    "highway.bus_stop": 3,
+    "shop.bakery": 1,
+    "shop.convenience": 2,
+    "shop.outdoor": 1,
+    "amenity.cafe": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 2,
+    "railway.subway_entrance": 3,
+    "shop.clothes": 1,
+    "tourism.artwork": 5,
+    "railway.stop": 2,
+    "amenity.fast_food": 3,
+    "railway.station": 1
   },
-  "poi_count": 2,
+  "poi_count": 28,
   "pois": [
     {
-      "name": "Popeyes",
+      "name": "The Saint",
       "category": [
-        "amenity.fast_food"
+        "amenity.bar"
       ],
-      "lat": 40.8044651,
-      "lon": -73.9380441,
-      "osm_id": 3661038129,
+      "lat": 51.5150736,
+      "lon": -0.0997325,
+      "osm_id": 21693791,
       "osm_type": "node",
-      "address": "East 125 Street",
+      "address": "Rose Steet",
       "road_geometry": null
     },
     {
-      "name": "Dallas Chicken & Biscuits",
+      "name": "Superdrug",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 51.5145339,
+      "lon": -0.0981903,
+      "osm_id": 255396266,
+      "osm_type": "node",
+      "address": "St. Paul's Churchyard",
+      "road_geometry": null
+    },
+    {
+      "name": "The Paternoster",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5150683,
+      "lon": -0.0983225,
+      "osm_id": 316763478,
+      "osm_type": "node",
+      "address": "Queens Head Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5152356,
+      "lon": -0.0984732,
+      "osm_id": 441966148,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5150449,
+      "lon": -0.0978521,
+      "osm_id": 469761241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.515543,
+      "lon": -0.0970327,
+      "osm_id": 469761242,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Go Outdoors Express",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 51.5141942,
+      "lon": -0.0997143,
+      "osm_id": 488443291,
+      "osm_type": "node",
+      "address": "Saint Paul's Church Yard",
+      "road_geometry": null
+    },
+    {
+      "name": "Paternoster Chop House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5145763,
+      "lon": -0.0996723,
+      "osm_id": 1163954998,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Shepherd and Sheep",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146457,
+      "lon": -0.0989129,
+      "osm_id": 1163955043,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Cross",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5142318,
+      "lon": -0.0976987,
+      "osm_id": 1163955070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5155459,
+      "lon": -0.0991304,
+      "osm_id": 1637578467,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5149482,
+      "lon": -0.0976011,
+      "osm_id": 1649365732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Haz St Paul's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5151325,
+      "lon": -0.0965337,
+      "osm_id": 1830558949,
+      "osm_type": "node",
+      "address": "Foster Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Joy",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5145632,
+      "lon": -0.0979581,
+      "osm_id": 2288601864,
+      "osm_type": "node",
+      "address": "Paternoster Row",
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5154842,
+      "lon": -0.0991571,
+      "osm_id": 2761481019,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paul",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5142527,
+      "lon": -0.0993329,
+      "osm_id": 3340683302,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Tesco Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.515233,
+      "lon": -0.0970086,
+      "osm_id": 3356875069,
+      "osm_type": "node",
+      "address": "St. Martin's Le Grand",
+      "road_geometry": null
+    },
+    {
+      "name": "Co-op Food",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5147619,
+      "lon": -0.0973304,
+      "osm_id": 3356884658,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8035481,
-      "lon": -73.9378506,
-      "osm_id": 5972697822,
+      "lat": 51.5147687,
+      "lon": -0.0978044,
+      "osm_id": 4231921521,
       "osm_type": "node",
-      "address": "Lexington Avenue",
+      "address": "Paternoster Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Birley",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5146786,
+      "lon": -0.0998232,
+      "osm_id": 4260079401,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "John Wesley",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5142402,
+      "lon": -0.0985689,
+      "osm_id": 4686831452,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "artistic bench",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146885,
+      "lon": -0.0966928,
+      "osm_id": 5353112531,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5149144,
+      "lon": -0.0975883,
+      "osm_id": 5475675298,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5149649,
+      "lon": -0.0970955,
+      "osm_id": 5475684862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5150872,
+      "lon": -0.0971399,
+      "osm_id": 5475684864,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coco di Mama",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5151179,
+      "lon": -0.0970201,
+      "osm_id": 6875761530,
+      "osm_type": "node",
+      "address": "St. Martin's Le Grand",
+      "road_geometry": null
+    },
+    {
+      "name": "Christ's Hospital",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5157372,
+      "lon": -0.0988741,
+      "osm_id": 11795229277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "pilpel",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5149593,
+      "lon": -0.0986129,
+      "osm_id": 12167960781,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 11,
-    "removed_count": 9,
+    "original_poi_count": 44,
+    "removed_count": 16,
     "model": "gemini-2.5-flash"
   }
 }

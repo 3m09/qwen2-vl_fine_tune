@@ -1,20 +1,231 @@
 {
   "image": "dataset/images/37.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.95983271367913,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.09819053776584584,
   "bbox": [
-    -73.96132039095028,
-    40.80225225225225,
-    -73.95834503640799,
-    40.80450450450451
+    -0.1,
+    51.51175675675677,
+    -0.09638107553169169,
+    51.51400900900902
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.drinking_water",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.gift",
+    "amenity.restaurant",
+    "amenity.bar",
+    "tourism.artwork",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.drinking_water": 1,
+    "highway.bus_stop": 5,
+    "amenity.cafe": 1,
+    "shop.gift": 1,
+    "amenity.restaurant": 2,
+    "amenity.bar": 1,
+    "tourism.artwork": 3,
+    "amenity.fast_food": 2
+  },
+  "poi_count": 16,
+  "pois": [
+    {
+      "name": "The Young Lovers",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5132586,
+      "lon": -0.0971481,
+      "osm_id": 441958984,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Churchyard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5130352,
+      "lon": -0.0974829,
+      "osm_id": 469777024,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5131894,
+      "lon": -0.0975055,
+      "osm_id": 469781398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5133193,
+      "lon": -0.0995833,
+      "osm_id": 469781401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Millennium Bridge",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5120528,
+      "lon": -0.0992195,
+      "osm_id": 469788640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Millennium Bridge",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5118786,
+      "lon": -0.0979594,
+      "osm_id": 469788642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miyama",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5125041,
+      "lon": -0.0988759,
+      "osm_id": 616343331,
+      "osm_type": "node",
+      "address": "Godliman Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.512034,
+      "lon": -0.0975136,
+      "osm_id": 877660350,
+      "osm_type": "node",
+      "address": "Queen Victoria Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Carter Lane Gardens",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 51.513,
+      "lon": -0.0984049,
+      "osm_id": 1504407633,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Thomas Becket",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5135327,
+      "lon": -0.0975317,
+      "osm_id": 3095361515,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mangio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5124464,
+      "lon": -0.098566,
+      "osm_id": 4618362930,
+      "osm_type": "node",
+      "address": "Knightrider Street",
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Cathedral Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.513747,
+      "lon": -0.099231,
+      "osm_id": 5043775734,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Soho Coffee Co.",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5132371,
+      "lon": -0.0996441,
+      "osm_id": 5231189089,
+      "osm_type": "node",
+      "address": "St Paul's Churchyard",
+      "road_geometry": null
+    },
+    {
+      "name": "Nusa Kitchen",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120475,
+      "lon": -0.0978098,
+      "osm_id": 10311362231,
+      "osm_type": "node",
+      "address": "Queen Victoria Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mirrored Scultpure",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5133961,
+      "lon": -0.0975414,
+      "osm_id": 10978789127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sabines Rooftop Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.512645,
+      "lon": -0.0993163,
+      "osm_id": 11674123843,
+      "osm_type": "node",
+      "address": "Godliman Street",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 1,
+    "original_poi_count": 23,
+    "removed_count": 7,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,15 +1,208 @@
 {
   "image": "dataset/images/130.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.9687545358476,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.82619053938971,
   "bbox": [
-    -73.97024241509294,
-    40.81126126126127,
-    -73.96726665660223,
-    40.81351351351353
+    72.825,
+    18.93351351351351,
+    72.82738107877941,
+    18.935765765765762
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "shop.watches",
+    "amenity.restaurant",
+    "amenity.clinic",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "shop.copyshop",
+    "railway.stop",
+    "railway.station",
+    "amenity.fast_food",
+    "amenity.post_office",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.watches": 1,
+    "amenity.restaurant": 1,
+    "amenity.clinic": 1,
+    "shop.cosmetics": 1,
+    "amenity.cafe": 2,
+    "shop.copyshop": 1,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "amenity.fast_food": 1,
+    "amenity.post_office": 1,
+    "amenity.bank": 2
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9343947,
+      "lon": 72.8272055,
+      "osm_id": 621948374,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9344117,
+      "lon": 72.8273215,
+      "osm_id": 1236335056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.9354797,
+      "lon": 72.8271741,
+      "osm_id": 4260136290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9339114,
+      "lon": 72.8270249,
+      "osm_id": 12551327203,
+      "osm_type": "node",
+      "address": "Scarsdale Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Bharat",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9335365,
+      "lon": 72.8270869,
+      "osm_id": 13470129566,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chaayos",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9337897,
+      "lon": 72.8270459,
+      "osm_id": 13470129567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate Post Ofice",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 18.9339976,
+      "lon": 72.8264896,
+      "osm_id": 13470129568,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mira Physiotherapy Center",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 18.9340636,
+      "lon": 72.8260061,
+      "osm_id": 13470129569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "State Bank of India",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9342947,
+      "lon": 72.8261018,
+      "osm_id": 13470129571,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Foo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9335144,
+      "lon": 72.8258143,
+      "osm_id": 13470129573,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Globe Stationery & Xerox",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 18.933607,
+      "lon": 72.8258226,
+      "osm_id": 13470129574,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Union Bank of India",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9335607,
+      "lon": 72.8254236,
+      "osm_id": 13470129575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Omega",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 18.9335371,
+      "lon": 72.8256481,
+      "osm_id": 13470129576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Forest Essentials Luxurious Ayurveda",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 18.9335432,
+      "lon": 72.8255686,
+      "osm_id": 13470129577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

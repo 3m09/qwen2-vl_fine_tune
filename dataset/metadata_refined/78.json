@@ -1,20 +1,591 @@
 {
   "image": "dataset/images/78.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.98065888279163,
+  "center_lat": 48.862882882882886,
+  "center_lon": 2.3435587752444205,
   "bbox": [
-    -73.98214666103843,
-    40.80675675675676,
-    -73.97917110454483,
-    40.80900900900902
+    2.3418470201955364,
+    48.86175675675676,
+    2.3452705302933046,
+    48.86400900900902
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.restaurant",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "leisure.escape_game",
+    "shop.furniture",
+    "shop.hairdresser",
+    "railway.subway_entrance",
+    "amenity.bank",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.jewelry",
+    "amenity.bar",
+    "shop.clothes",
+    "leisure.sports_centre",
+    "amenity.library",
+    "amenity.bicycle_rental",
+    "shop.ticket",
+    "tourism.artwork",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 11,
+    "tourism.gallery": 1,
+    "amenity.fast_food": 5,
+    "leisure.escape_game": 1,
+    "shop.furniture": 1,
+    "shop.hairdresser": 1,
+    "railway.subway_entrance": 2,
+    "amenity.bank": 1,
+    "shop.cosmetics": 1,
+    "amenity.cafe": 3,
+    "highway.bus_stop": 2,
+    "shop.jewelry": 1,
+    "amenity.bar": 2,
+    "shop.clothes": 5,
+    "leisure.sports_centre": 1,
+    "amenity.library": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.ticket": 1,
+    "tourism.artwork": 1,
+    "tourism.information": 2
+  },
+  "poi_count": 44,
+  "pois": [
+    {
+      "name": "Uno",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8618492,
+      "lon": 2.3434997,
+      "osm_id": 247439841,
+      "osm_type": "node",
+      "address": "Rue Berger",
+      "road_geometry": null
+    },
+    {
+      "name": "Piscine Suzanne Berlioux",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 48.8626842,
+      "lon": 2.3440139,
+      "osm_id": 283352094,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loup",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8639344,
+      "lon": 2.342597,
+      "osm_id": 678855681,
+      "osm_type": "node",
+      "address": "Rue du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Nelson's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8636804,
+      "lon": 2.343122,
+      "osm_id": 678855682,
+      "osm_type": "node",
+      "address": "Rue Coquilli\u00e8re",
+      "road_geometry": null
+    },
+    {
+      "name": "CIC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 48.8634071,
+      "lon": 2.3418915,
+      "osm_id": 681459532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Biblioth\u00e8que du cin\u00e9ma Fran\u00e7ois-Truffaut",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 48.8624222,
+      "lon": 2.3447374,
+      "osm_id": 1028573132,
+      "osm_type": "node",
+      "address": "Rue du Cin\u00e9ma",
+      "road_geometry": null
+    },
+    {
+      "name": "Starcow",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8618996,
+      "lon": 2.3432872,
+      "osm_id": 1094366310,
+      "osm_type": "node",
+      "address": "Rue Berger",
+      "road_geometry": null
+    },
+    {
+      "name": "Au Pied de Cochon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8634885,
+      "lon": 2.3437958,
+      "osm_id": 1678050141,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9glise Saint-Eustache",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8633043,
+      "lon": 2.34445,
+      "osm_id": 1843639320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8632961,
+      "lon": 2.3438914,
+      "osm_id": 1843639322,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agn\u00e8s B.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8634721,
+      "lon": 2.3441007,
+      "osm_id": 3205835631,
+      "osm_type": "node",
+      "address": "Rue du Jour",
+      "road_geometry": null
+    },
+    {
+      "name": "17rdujour",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8637323,
+      "lon": 2.3445942,
+      "osm_id": 3205841272,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agn\u00e8s B.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8637283,
+      "lon": 2.3447604,
+      "osm_id": 3205841772,
+      "osm_type": "node",
+      "address": "Rue du Jour",
+      "road_geometry": null
+    },
+    {
+      "name": "Central Park",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8635246,
+      "lon": 2.3442004,
+      "osm_id": 3205895201,
+      "osm_type": "node",
+      "address": "Rue du Jour",
+      "road_geometry": null
+    },
+    {
+      "name": "Bigo",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.861827,
+      "lon": 2.3436366,
+      "osm_id": 3672097792,
+      "osm_type": "node",
+      "address": "Rue Berger",
+      "road_geometry": null
+    },
+    {
+      "name": "Pink Ko\u00ef",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8635476,
+      "lon": 2.3436112,
+      "osm_id": 4205665889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Poppy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.863589,
+      "lon": 2.3434727,
+      "osm_id": 4205665891,
+      "osm_type": "node",
+      "address": "Rue Coquilli\u00e8re",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.862302,
+      "lon": 2.3438921,
+      "osm_id": 4246088133,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Madame Sarfati Comedy Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8621814,
+      "lon": 2.3420488,
+      "osm_id": 4950703376,
+      "osm_type": "node",
+      "address": "Rue Berger",
+      "road_geometry": null
+    },
+    {
+      "name": "Geberit",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8623962,
+      "lon": 2.3423373,
+      "osm_id": 4950713515,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8620121,
+      "lon": 2.3425949,
+      "osm_id": 4950713517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yamato Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8638091,
+      "lon": 2.3432464,
+      "osm_id": 4950713552,
+      "osm_type": "node",
+      "address": "Rue Jean-Jacques Rousseau",
+      "road_geometry": null
+    },
+    {
+      "name": "Baltard au Louvre",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8633952,
+      "lon": 2.342871,
+      "osm_id": 4950713553,
+      "osm_type": "node",
+      "address": "Rue Coquilli\u00e8re",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8623184,
+      "lon": 2.3444522,
+      "osm_id": 5223289716,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lock Academy",
+      "category": [
+        "leisure.escape_game"
+      ],
+      "lat": 48.8639198,
+      "lon": 2.3420486,
+      "osm_id": 5782045420,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porte du Louvre",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8623439,
+      "lon": 2.343435,
+      "osm_id": 5914444314,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bourse de Commerce",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8632886,
+      "lon": 2.3419371,
+      "osm_id": 5979563844,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bourse de Commerce",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8632881,
+      "lon": 2.3421427,
+      "osm_id": 5979563848,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles - Saint-Eustache",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8635063,
+      "lon": 2.3426393,
+      "osm_id": 6801503714,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pinault Collection",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 48.8628049,
+      "lon": 2.3421087,
+      "osm_id": 8580043701,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yves Rocher",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 48.8620471,
+      "lon": 2.3448249,
+      "osm_id": 9003484217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porte du Louvre",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8624196,
+      "lon": 2.3439389,
+      "osm_id": 9545578222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agn\u00e8s B.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8638348,
+      "lon": 2.3450139,
+      "osm_id": 9573127117,
+      "osm_type": "node",
+      "address": "Rue du Jour",
+      "road_geometry": null
+    },
+    {
+      "name": "Showroom du Marais",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8636229,
+      "lon": 2.3420458,
+      "osm_id": 9626447345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Didact",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.8636419,
+      "lon": 2.3446128,
+      "osm_id": 10089952631,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8621874,
+      "lon": 2.3445407,
+      "osm_id": 10602123497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Berliner",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8622815,
+      "lon": 2.3435354,
+      "osm_id": 10676987728,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tzantza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8639364,
+      "lon": 2.3434786,
+      "osm_id": 10729374307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pomme de Pain",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8622735,
+      "lon": 2.3447313,
+      "osm_id": 10769144683,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jennyfer",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8621768,
+      "lon": 2.3439797,
+      "osm_id": 10815027838,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Poke House",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.862432,
+      "lon": 2.343816,
+      "osm_id": 10815030177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Idee di pietra",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8629781,
+      "lon": 2.3422263,
+      "osm_id": 11102224211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IRASSHAi",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8625425,
+      "lon": 2.3418555,
+      "osm_id": 11186895723,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Irasshai",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8625645,
+      "lon": 2.3421426,
+      "osm_id": 11514087810,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 90,
+    "removed_count": 46,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,15 +1,543 @@
 {
   "image": "dataset/images/32.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.97470948639057,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.09095313609266625,
   "bbox": [
-    -73.97619716366171,
-    40.80225225225225,
-    -73.97322180911942,
-    40.80450450450451
+    -0.09276250887413301,
+    51.50950450450451,
+    -0.08914376331119951,
+    51.51175675675677
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.fire_station",
+    "amenity.cafe",
+    "railway.stop",
+    "amenity.courthouse",
+    "railway.station",
+    "shop.ticket",
+    "tourism.information",
+    "amenity.passenger_information",
+    "railway.subway_entrance",
+    "highway.bus_stop",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "leisure.fitness_centre",
+    "amenity.pub",
+    "tourism.artwork",
+    "amenity.parking",
+    "amenity.doctors",
+    "amenity.nightclub",
+    "amenity.pharmacy",
+    "shop.newsagent"
+  ],
+  "poi_count_per_category": {
+    "amenity.fire_station": 1,
+    "amenity.cafe": 1,
+    "railway.stop": 9,
+    "amenity.courthouse": 1,
+    "railway.station": 2,
+    "shop.ticket": 1,
+    "tourism.information": 3,
+    "amenity.passenger_information": 3,
+    "railway.subway_entrance": 1,
+    "highway.bus_stop": 1,
+    "amenity.dentist": 3,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1,
+    "leisure.fitness_centre": 4,
+    "amenity.pub": 3,
+    "tourism.artwork": 1,
+    "amenity.parking": 1,
+    "amenity.doctors": 3,
+    "amenity.nightclub": 1,
+    "amenity.pharmacy": 1,
+    "shop.newsagent": 1
+  },
+  "poi_count": 40,
+  "pois": [
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5114806,
+      "lon": -0.0903013,
+      "osm_id": 64772416,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5104006,
+      "lon": -0.090147,
+      "osm_id": 469765319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dowgate Fire Station",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 51.510035,
+      "lon": -0.0901008,
+      "osm_id": 473261115,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boots",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 51.511254,
+      "lon": -0.089658,
+      "osm_id": 622062081,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Cannick Tapps",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5116546,
+      "lon": -0.0897347,
+      "osm_id": 702773347,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5109523,
+      "lon": -0.0902558,
+      "osm_id": 1272252453,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5109111,
+      "lon": -0.090795,
+      "osm_id": 1272828363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5109585,
+      "lon": -0.0902919,
+      "osm_id": 1272828368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5108863,
+      "lon": -0.0906256,
+      "osm_id": 1272828370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5109794,
+      "lon": -0.090404,
+      "osm_id": 1272828376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5109856,
+      "lon": -0.0904399,
+      "osm_id": 1272828378,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5108941,
+      "lon": -0.0906647,
+      "osm_id": 1272828403,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nuffield Health Fitness & Wellbeing",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5096752,
+      "lon": -0.0914835,
+      "osm_id": 1713257252,
+      "osm_type": "node",
+      "address": "Cousin Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5115065,
+      "lon": -0.0903017,
+      "osm_id": 1725360051,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "F45 Training",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5105644,
+      "lon": -0.0925666,
+      "osm_id": 1763582361,
+      "osm_type": "node",
+      "address": "Upper Thames Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Steel Yard",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 51.510124,
+      "lon": -0.0903711,
+      "osm_id": 1779091997,
+      "osm_type": "node",
+      "address": "All Hallows Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Vintry (Thames Exchange)",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 51.5101991,
+      "lon": -0.0926904,
+      "osm_id": 1990694632,
+      "osm_type": "node",
+      "address": "Bell Wharf Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5113607,
+      "lon": -0.0906107,
+      "osm_id": 2389868966,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City of London Coroners Court",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": 51.5104016,
+      "lon": -0.09182,
+      "osm_id": 3130435824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Virgin Active",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5117478,
+      "lon": -0.0903972,
+      "osm_id": 3596425484,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5113812,
+      "lon": -0.0903632,
+      "osm_id": 3637449659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Cannon Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5106685,
+      "lon": -0.0906046,
+      "osm_id": 3637449660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "WHSmith",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": 51.5111163,
+      "lon": -0.0898996,
+      "osm_id": 5141625721,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Sir John Hawkshaw",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.510926,
+      "lon": -0.0899801,
+      "osm_id": 5141625722,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gymbox",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5104221,
+      "lon": -0.0897478,
+      "osm_id": 5909919562,
+      "osm_type": "node",
+      "address": "Suffolk Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Nero Express",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5112014,
+      "lon": -0.0905085,
+      "osm_id": 7539722515,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "LIFFE Trader",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5106638,
+      "lon": -0.0912379,
+      "osm_id": 9794786833,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tossed",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5116025,
+      "lon": -0.0896573,
+      "osm_id": 10729721860,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Departures board",
+      "category": [
+        "amenity.passenger_information",
+        "tourism.information"
+      ],
+      "lat": 51.5111618,
+      "lon": -0.0900961,
+      "osm_id": 11866295818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Departures board",
+      "category": [
+        "amenity.passenger_information",
+        "tourism.information"
+      ],
+      "lat": 51.5110829,
+      "lon": -0.0904629,
+      "osm_id": 11866295819,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Departures board",
+      "category": [
+        "amenity.passenger_information",
+        "tourism.information"
+      ],
+      "lat": 51.5112569,
+      "lon": -0.0904354,
+      "osm_id": 11866295820,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tickets",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 51.5111096,
+      "lon": -0.0905447,
+      "osm_id": 11866295821,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Bolter",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5117408,
+      "lon": -0.0926706,
+      "osm_id": 12534156761,
+      "osm_type": "node",
+      "address": "Queen Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Health Now",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5109809,
+      "lon": -0.0927245,
+      "osm_id": 12866448583,
+      "osm_type": "node",
+      "address": "Queen Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Smile Tailor",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5116345,
+      "lon": -0.0926814,
+      "osm_id": 12866592640,
+      "osm_type": "node",
+      "address": "Queen Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Andreea Medical",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.51168,
+      "lon": -0.0926757,
+      "osm_id": 12866592641,
+      "osm_type": "node",
+      "address": "Queen Street",
+      "road_geometry": null
+    },
+    {
+      "name": "German Dental Clinic",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5116043,
+      "lon": -0.0922657,
+      "osm_id": 12866592642,
+      "osm_type": "node",
+      "address": "College Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Derma Revive Skin Clinic",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5116166,
+      "lon": -0.0923099,
+      "osm_id": 12866592643,
+      "osm_type": "node",
+      "address": "College Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Canon Street Dental Centre",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.511259,
+      "lon": -0.091097,
+      "osm_id": 12866592644,
+      "osm_type": "node",
+      "address": "Dowgate Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Nuffield Health",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5096835,
+      "lon": -0.0914348,
+      "osm_id": 12866592645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

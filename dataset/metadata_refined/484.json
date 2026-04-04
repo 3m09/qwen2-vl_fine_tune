@@ -1,0 +1,167 @@
+{
+  "image": "dataset/images/484.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.1758225143731,
+  "bbox": [
+    114.17460539788286,
+    22.29527027027026,
+    114.17703963086333,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.hairdresser",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 4,
+    "shop.convenience": 2,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 2,
+    "shop.hairdresser": 1,
+    "tourism.artwork": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "N1 Coffee and Co.",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.297138,
+      "lon": 114.1747807,
+      "osm_id": 3771427619,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.297195,
+      "lon": 114.175266,
+      "osm_id": 3914318608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u674e\u5c0f\u9f8d\u9285\u50cf Bruce Lee Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2955486,
+      "lon": 114.1763957,
+      "osm_id": 4623637241,
+      "osm_type": "node",
+      "address": "Avenue of Stars, Tsim Sha Tsui",
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenirs City",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2970693,
+      "lon": 114.1753264,
+      "osm_id": 4848354395,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "N1 Coffee & Co",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2970886,
+      "lon": 114.1748428,
+      "osm_id": 5182609990,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2973804,
+      "lon": 114.176413,
+      "osm_id": 5225836321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2957195,
+      "lon": 114.1755282,
+      "osm_id": 6375239085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2954622,
+      "lon": 114.1762782,
+      "osm_id": 6546838585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sangeetha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.296641,
+      "lon": 114.1766395,
+      "osm_id": 6778574617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Woodlands",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2966633,
+      "lon": 114.1762921,
+      "osm_id": 6778574618,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Colour Group",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2969098,
+      "lon": 114.1752218,
+      "osm_id": 12578278586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 38,
+    "removed_count": 27,
+    "model": "gemini-2.5-flash"
+  }
+}

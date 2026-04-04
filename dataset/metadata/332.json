@@ -1,0 +1,88 @@
+{
+  "image": "dataset/images/332.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.84189622745289,
+  "bbox": [
+    103.84076981228937,
+    1.298,
+    103.84302264261642,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "shop.furniture",
+    "highway.bus_stop",
+    "shop.wine",
+    "shop.kitchen",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "shop.furniture": 1,
+    "highway.bus_stop": 1,
+    "shop.wine": 1,
+    "shop.kitchen": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Winsland House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.2998521,
+      "lon": 103.8409327,
+      "osm_id": 410471124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.2992102,
+      "lon": 103.8428739,
+      "osm_id": 4745724673,
+      "osm_type": "node",
+      "address": "Penang Road",
+      "road_geometry": null
+    },
+    {
+      "name": "SIP",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 1.2995673,
+      "lon": 103.8416934,
+      "osm_id": 12073952532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DePadova",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 1.2995133,
+      "lon": 103.8420655,
+      "osm_id": 12178462295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arclinea Singapore",
+      "category": [
+        "shop.kitchen"
+      ],
+      "lat": 1.2996877,
+      "lon": 103.8412975,
+      "osm_id": 13169575813,
+      "osm_type": "node",
+      "address": "Penang Road",
+      "road_geometry": null
+    }
+  ]
+}

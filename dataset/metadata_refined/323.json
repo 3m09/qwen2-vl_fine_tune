@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/323.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.64657247846272,
+  "bbox": [
+    -46.64780097989854,
+    -23.55648648648649,
+    -46.645343977026904,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Pizzar\u00eda Brasil",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5543731,
+      "lon": -46.6459393,
+      "osm_id": 5268991339,
+      "osm_type": "node",
+      "address": "Rua Jo\u00e3o Pasalaqua",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

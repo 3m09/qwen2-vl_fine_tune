@@ -1,15 +1,82 @@
 {
   "image": "dataset/images/175.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.97768029599766,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.4992187443497,
   "bbox": [
-    -73.97916827626447,
-    40.81576576576578,
-    -73.97619231573083,
-    40.81801801801804
+    121.49790178087117,
+    31.23,
+    121.50053570782823,
+    31.232252252252252
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.ferry_terminal"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.ferry_terminal": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 31.2319107,
+      "lon": 121.4986053,
+      "osm_id": 530695728,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 31.2317168,
+      "lon": 121.4988431,
+      "osm_id": 8496653324,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2321352,
+      "lon": 121.500438,
+      "osm_id": 10302192421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2321605,
+      "lon": 121.5005144,
+      "osm_id": 10302192422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.232235,
+      "lon": 121.4997755,
+      "osm_id": 12027874170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

@@ -1,20 +1,63 @@
 {
   "image": "dataset/images/24.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.99851232272886,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.09457214997874339,
   "bbox": [
-    -74.0,
-    40.80225225225225,
-    -73.99702464545771,
-    40.80450450450451
+    -0.09638143331916225,
+    51.50725225225226,
+    -0.0927628666383245,
+    51.50950450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.fast_food",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5081984,
+      "lon": -0.096,
+      "osm_id": 296491141,
+      "osm_type": "node",
+      "address": "New Globe Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.508029,
+      "lon": -0.095034,
+      "osm_id": 10814720916,
+      "osm_type": "node",
+      "address": "Southwark Bridge Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Crosby & Hope",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5073347,
+      "lon": -0.0960008,
+      "osm_id": 11189252856,
+      "osm_type": "node",
+      "address": "Bear Gardens",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 7,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

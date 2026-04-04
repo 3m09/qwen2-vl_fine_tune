@@ -1,77 +1,20 @@
 {
   "image": "dataset/images/186.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.94494473012755,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.50185295382688,
   "bbox": [
-    -73.94643271039436,
-    40.81576576576578,
-    -73.94345674986072,
-    40.81801801801804
+    121.50053595895723,
+    31.232252252252252,
+    121.50316994869654,
+    31.234504504504503
   ],
-  "unique_categories": [
-    "amenity.restaurant",
-    "highway.bus_stop",
-    "amenity.place_of_worship"
-  ],
-  "poi_count_per_category": {
-    "amenity.restaurant": 2,
-    "highway.bus_stop": 1,
-    "amenity.place_of_worship": 1
-  },
-  "poi_count": 4,
-  "pois": [
-    {
-      "name": "Temple Healing from Heaven",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8170549,
-      "lon": -73.9463663,
-      "osm_id": 2767720025,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Frederick Douglass Boulevard & West 135th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8167133,
-      "lon": -73.9462575,
-      "osm_id": 3545220719,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Baraka Buffet",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8168869,
-      "lon": -73.9460483,
-      "osm_id": 3545220721,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Abyssinia",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8160376,
-      "lon": -73.9458914,
-      "osm_id": 6511867025,
-      "osm_type": "node",
-      "address": "West 135th Street",
-      "road_geometry": null
-    }
-  ],
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": [],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 2,
+    "original_poi_count": 0,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

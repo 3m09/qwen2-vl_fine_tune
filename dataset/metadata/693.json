@@ -1,0 +1,140 @@
+{
+  "image": "dataset/images/693.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.13186402284994,
+  "bbox": [
+    -99.13305820259086,
+    19.436261261261258,
+    -99.13066984310903,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "tourism.museum",
+    "tourism.hostel",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 2,
+    "tourism.museum": 1,
+    "tourism.hostel": 2,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Hostel Amigo Suites Downtown",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4366015,
+      "lon": -99.1328413,
+      "osm_id": 1576952054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici San Ildefonso / Rep\u00fablica de Argentina",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4364799,
+      "lon": -99.1313026,
+      "osm_id": 2812623127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Argentina",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4374058,
+      "lon": -99.1312958,
+      "osm_id": 4154582992,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Argentina",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4373786,
+      "lon": -99.1316277,
+      "osm_id": 4154582993,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salon Espa\u00f1a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4364423,
+      "lon": -99.1317094,
+      "osm_id": 4474361389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Torteria Tlaquepaque",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4366192,
+      "lon": -99.1314726,
+      "osm_id": 5622791625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cantina Salon Espa\u00f1a",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 19.4366304,
+      "lon": -99.1315107,
+      "osm_id": 5622801825,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hostel Amigo Suites",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4367982,
+      "lon": -99.1328385,
+      "osm_id": 12077440969,
+      "osm_type": "node",
+      "address": "Calle Luis Gonz\u00e1lez Obreg\u00f3n",
+      "road_geometry": null
+    },
+    {
+      "name": "Museum of Murals",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 19.436962,
+      "lon": -99.1316145,
+      "osm_id": 13538873814,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Argentina",
+      "road_geometry": null
+    }
+  ]
+}

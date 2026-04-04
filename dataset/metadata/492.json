@@ -1,0 +1,600 @@
+{
+  "image": "dataset/images/492.png",
+  "center_lat": 22.29864864864864,
+  "center_lon": 114.16851995276363,
+  "bbox": [
+    114.16730281665454,
+    22.297522522522513,
+    114.16973708887272,
+    22.299774774774765
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.supermarket",
+    "amenity.ice_cream",
+    "amenity.ticket_validator",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "leisure.garden",
+    "shop.clothes",
+    "shop.mall",
+    "tourism.artwork",
+    "shop.fashion_accessories",
+    "shop.chemist",
+    "amenity.food_court",
+    "shop.bag",
+    "shop.beauty",
+    "shop.electronics",
+    "shop.cosmetics",
+    "amenity.bank",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 1,
+    "amenity.restaurant": 3,
+    "amenity.cafe": 3,
+    "shop.supermarket": 1,
+    "amenity.ice_cream": 1,
+    "amenity.ticket_validator": 1,
+    "highway.bus_stop": 2,
+    "amenity.fast_food": 2,
+    "leisure.garden": 1,
+    "shop.clothes": 9,
+    "shop.mall": 1,
+    "tourism.artwork": 1,
+    "shop.fashion_accessories": 1,
+    "shop.chemist": 3,
+    "amenity.food_court": 1,
+    "shop.bag": 2,
+    "shop.beauty": 1,
+    "shop.electronics": 1,
+    "shop.cosmetics": 2,
+    "amenity.bank": 4,
+    "shop.jewelry": 4
+  },
+  "poi_count": 45,
+  "pois": [
+    {
+      "name": "\u5143\u6c17\u5bff\u53f8 Genki Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.297853,
+      "lon": 114.16926,
+      "osm_id": 1957087390,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apple Store",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 22.299201,
+      "lon": 114.1687185,
+      "osm_id": 2719226767,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2995478,
+      "lon": 114.1682043,
+      "osm_id": 4115973049,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e2f\u9435\u7279\u60e0\u7ad9 MTR Fare Saver",
+      "category": [
+        "amenity.ticket_validator"
+      ],
+      "lat": 22.2994732,
+      "lon": 114.1679835,
+      "osm_id": 4115973055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6eff\u8a18\u751c\u54c1 Honeymoon Dessert",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2982936,
+      "lon": 114.1683792,
+      "osm_id": 4274910489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5eda\u623f Chinese Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2995232,
+      "lon": 114.168647,
+      "osm_id": 4315443789,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u81fa\u7063\u571f\u5730\u9280\u884c Land Bank of Taiwan",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2995292,
+      "lon": 114.1681006,
+      "osm_id": 4534091193,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Unibuy",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2995404,
+      "lon": 114.1686182,
+      "osm_id": 4848128230,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u53f0\u7063\u725b\u8089\u9eb5 Taiwan Beef Noodle",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2995611,
+      "lon": 114.1686386,
+      "osm_id": 4848128231,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "JaneClare",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2993865,
+      "lon": 114.1686527,
+      "osm_id": 4848128232,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5609\u7f8e Kamei",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2990011,
+      "lon": 114.1687384,
+      "osm_id": 4848128235,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e23\u6253\u9280\u884c Standard Chartered",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2988942,
+      "lon": 114.1687628,
+      "osm_id": 4848128236,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Salad",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2984316,
+      "lon": 114.168864,
+      "osm_id": 4848128243,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u9280\u884c\uff08\u9999\u6e2f\uff09 Bank of China (Hong Kong)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2982185,
+      "lon": 114.1689365,
+      "osm_id": 4848128246,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u827e\u5361\u7f8e\u7f8e\u5bb9 Alchemy",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 22.2982339,
+      "lon": 114.1689637,
+      "osm_id": 4848128247,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Giorgio Armani",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2995694,
+      "lon": 114.1683167,
+      "osm_id": 4848185524,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Emporio Armani",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2991275,
+      "lon": 114.1684149,
+      "osm_id": 4848185525,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2983264,
+      "lon": 114.1685931,
+      "osm_id": 4848185527,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Destiny Ship Watch Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2983424,
+      "lon": 114.1688836,
+      "osm_id": 4848264297,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Longchamp",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 22.2976844,
+      "lon": 114.1690577,
+      "osm_id": 4848264300,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Munsingwear",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2980577,
+      "lon": 114.1686727,
+      "osm_id": 4848291196,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ferragamo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2977095,
+      "lon": 114.1687303,
+      "osm_id": 4848291203,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Herm\u00e8s",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2986741,
+      "lon": 114.1685158,
+      "osm_id": 4848291204,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f Chow Tai Fook",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2978941,
+      "lon": 114.1691761,
+      "osm_id": 4850175018,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u98df\u4ee3 Food Republic",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 22.2975357,
+      "lon": 114.1693679,
+      "osm_id": 4850175020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "TFS Outlet",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2984711,
+      "lon": 114.1688551,
+      "osm_id": 5477101428,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6e2f\u4e2d\u5fc3 Silvercord",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.29763,
+      "lon": 114.168977,
+      "osm_id": 5921018874,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ee3\u6771\u9053 Canton Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2983118,
+      "lon": 114.1688374,
+      "osm_id": 5929301136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dalloyau",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 22.2978954,
+      "lon": 114.1682975,
+      "osm_id": 6178389686,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e2f\u57ce Kong City",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2983949,
+      "lon": 114.1688716,
+      "osm_id": 6371599588,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5bb6\u6a02 Caf\u00e9 de Coral",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2989861,
+      "lon": 114.1681261,
+      "osm_id": 6824463594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Space Invader",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2979807,
+      "lon": 114.168772,
+      "osm_id": 7234365485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u300c\u751f\u547d\u00b7\u611b\u300d\u82b1\u5712 Garden of Life",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": 22.2987611,
+      "lon": 114.1697159,
+      "osm_id": 10008397255,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ee3\u6771\u634c\u62fe CANTONYAMA",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2985351,
+      "lon": 114.1689238,
+      "osm_id": 10132630756,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fb7\u570b\u71b1\u72d7 Hot Dog Link",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.29852,
+      "lon": 114.1688934,
+      "osm_id": 10132662123,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8336\u5320 Chashou",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2985482,
+      "lon": 114.1688626,
+      "osm_id": 10132764286,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9577\u6d32\u89d2\u916a Cheung Chau Corner",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2985698,
+      "lon": 114.1689044,
+      "osm_id": 10132803459,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Top 2 Fashion",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2979017,
+      "lon": 114.1693389,
+      "osm_id": 10875906435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Van Cleef & Arpels",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2978753,
+      "lon": 114.1686934,
+      "osm_id": 10875906443,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miu Miu",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2977924,
+      "lon": 114.1687118,
+      "osm_id": 10875906444,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moncler",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2984599,
+      "lon": 114.1685634,
+      "osm_id": 10875906446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Piaget",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2981651,
+      "lon": 114.1686289,
+      "osm_id": 10875906447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2989461,
+      "lon": 114.168751,
+      "osm_id": 11473150631,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f8d\u8c50Mall",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2987843,
+      "lon": 114.1687876,
+      "osm_id": 11473150633,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "City super-\u6d77\u6e2f\u57ce\u3000City'super-Harbour City",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.29847,
+      "lon": 114.16796,
+      "osm_id": 11757639370,
+      "osm_type": "node",
+      "address": "\u6d77\u6e2f\u57ce\u6e2f\u5a01\u5546\u5834",
+      "road_geometry": null
+    }
+  ]
+}

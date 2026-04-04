@@ -1,0 +1,235 @@
+{
+  "image": "dataset/images/683.png",
+  "center_lat": 19.435135135135134,
+  "center_lon": -99.13425253140088,
+  "bbox": [
+    -99.13544669457856,
+    19.434009009009007,
+    -99.1330583682232,
+    19.436261261261258
+  ],
+  "unique_categories": [
+    "tourism.hostel",
+    "shop.bakery",
+    "shop.convenience",
+    "shop.photo",
+    "amenity.restaurant",
+    "amenity.bicycle_rental",
+    "shop.books",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.hostel": 3,
+    "shop.bakery": 1,
+    "shop.convenience": 2,
+    "shop.photo": 1,
+    "amenity.restaurant": 2,
+    "amenity.bicycle_rental": 1,
+    "shop.books": 2,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 1
+  },
+  "poi_count": 16,
+  "pois": [
+    {
+      "name": "Hostel Mundo Joven Catedral",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.435202,
+      "lon": -99.133603,
+      "osm_id": 2388736553,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Guatemala",
+      "road_geometry": null
+    },
+    {
+      "name": "Mexico City Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4356304,
+      "lon": -99.1335944,
+      "osm_id": 2409358344,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Brasil",
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici Rep\u00fablica de Guatemala / Monte de Piedad",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4350085,
+      "lon": -99.1336808,
+      "osm_id": 2812622953,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Mercader de Libros",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4359795,
+      "lon": -99.1344659,
+      "osm_id": 4216786881,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Bibliofilia",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4361254,
+      "lon": -99.1341973,
+      "osm_id": 4216786886,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Hostal Historico",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4358286,
+      "lon": -99.1338962,
+      "osm_id": 4291904590,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Vasconia",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 19.4352074,
+      "lon": -99.1351083,
+      "osm_id": 4396992794,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canela y Oro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.435269,
+      "lon": -99.1343603,
+      "osm_id": 4888396022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4354315,
+      "lon": -99.135377,
+      "osm_id": 4888396023,
+      "osm_type": "node",
+      "address": "Calle Tacuba",
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4355136,
+      "lon": -99.1337564,
+      "osm_id": 5623510923,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Brasil",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4361017,
+      "lon": -99.1338624,
+      "osm_id": 5623518251,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pr\u00f3spero Mar\u00eda Alarc\u00f3n y S\u00e1nchez de la Barquera",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4345629,
+      "lon": -99.1333835,
+      "osm_id": 9049361315,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4353023,
+      "lon": -99.1348429,
+      "osm_id": 9652997920,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mi \u00c1lbum",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 19.4357659,
+      "lon": -99.1337156,
+      "osm_id": 9851624095,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Brasil",
+      "road_geometry": null
+    },
+    {
+      "name": "Bisquets Obreg\u00f3n",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4350886,
+      "lon": -99.1344148,
+      "osm_id": 10978448654,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Catedral",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4357717,
+      "lon": -99.1330672,
+      "osm_id": 11926923384,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 36,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,15 +1,632 @@
 {
   "image": "dataset/images/4.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.98661135887285,
+  "center_lat": 35.65737837837838,
+  "center_lon": 139.6973859521766,
   "bbox": [
-    -73.98809898566475,
-    40.8,
-    -73.98512373208094,
-    40.80225225225225
+    139.696,
+    35.65625225225226,
+    139.69877190435324,
+    35.65850450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.repair",
+    "shop.bicycle",
+    "tourism.information",
+    "shop.tea",
+    "amenity.ice_cream",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "shop.sports",
+    "shop.alcohol",
+    "railway.train_station_entrance",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "amenity.bus_station",
+    "shop.variety_store",
+    "amenity.post_office",
+    "amenity.pharmacy",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 17,
+    "amenity.cafe": 2,
+    "shop.repair": 1,
+    "shop.bicycle": 1,
+    "tourism.information": 1,
+    "shop.tea": 1,
+    "amenity.ice_cream": 1,
+    "amenity.bicycle_rental": 2,
+    "shop.convenience": 3,
+    "shop.sports": 1,
+    "shop.alcohol": 1,
+    "railway.train_station_entrance": 1,
+    "amenity.fast_food": 3,
+    "tourism.hotel": 1,
+    "amenity.bus_station": 1,
+    "shop.variety_store": 1,
+    "amenity.post_office": 1,
+    "amenity.pharmacy": 2,
+    "amenity.bar": 7
+  },
+  "poi_count": 48,
+  "pois": [
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6576385,
+      "lon": 139.6960803,
+      "osm_id": 1400932707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "K's BAR",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.657733,
+      "lon": 139.6964676,
+      "osm_id": 1400942731,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u9053\u7384\u5742\u90f5\u4fbf\u5c40",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 35.657211,
+      "lon": 139.69619,
+      "osm_id": 1420789226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ac\u30b9\u30c8",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6576728,
+      "lon": 139.6960942,
+      "osm_id": 1721953818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30a8\u30af\u30bb\u30eb\u30b7\u30aa\u30fc\u30eb \u30ab\u30d5\u30a7",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6576973,
+      "lon": 139.6974816,
+      "osm_id": 1926694823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Y's\u30ed\u30fc\u30c9",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 35.6581504,
+      "lon": 139.6969464,
+      "osm_id": 2041460012,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3059\u305a\u3089\u3093\u85ac\u5c40",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 35.657289,
+      "lon": 139.6967401,
+      "osm_id": 2142640094,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u308f\u305f\u307f\u3093\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6574075,
+      "lon": 139.6964247,
+      "osm_id": 2142640095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Happy Pancake",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6572982,
+      "lon": 139.6964947,
+      "osm_id": 2142640096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ca\u30c1\u30e5\u30e9\u30eb\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6575608,
+      "lon": 139.6972291,
+      "osm_id": 2142640097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u677e\u5c4b",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6573845,
+      "lon": 139.6963982,
+      "osm_id": 2142640122,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83ef\u6cf0\u8336\u8358",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6572625,
+      "lon": 139.6965375,
+      "osm_id": 2142640123,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u30d5\u30e9\u30a4\u30c9\u30c1\u30ad\u30f3",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6584392,
+      "lon": 139.6967689,
+      "osm_id": 2142655429,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d1\u30af\u68ee",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6581679,
+      "lon": 139.6965328,
+      "osm_id": 2142655430,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u53cb\u597d\u85ac\u5c40",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 35.6583517,
+      "lon": 139.6966995,
+      "osm_id": 2142655433,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9903\u5b50\u306e\u738b\u5c06",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.657916,
+      "lon": 139.696684,
+      "osm_id": 2142655434,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30de\u30fc\u30af\u30b7\u30c6\u30a3",
+      "category": [
+        "amenity.bus_station"
+      ],
+      "lat": 35.658258,
+      "lon": 139.6986396,
+      "osm_id": 2619511165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ea\u30f3\u30ac\u30fc\u30cf\u30c3\u30c8",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6583949,
+      "lon": 139.6967306,
+      "osm_id": 3147361980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u56fd\u8336\u5c02\u9580\u5e97 \u83ef\u6cf0\u8336\u8358",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 35.6572707,
+      "lon": 139.6965106,
+      "osm_id": 3505183575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "nossa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6572518,
+      "lon": 139.6977478,
+      "osm_id": 3529923253,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JBS Shibuya",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6570374,
+      "lon": 139.6967402,
+      "osm_id": 4341890792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30d1\u30bd\u30b3\u30f3\u4fee\u7406\u5de5\u5834",
+      "category": [
+        "shop.repair"
+      ],
+      "lat": 35.6580981,
+      "lon": 139.6969512,
+      "osm_id": 4394341135,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi-no-Midori",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6579262,
+      "lon": 139.6981552,
+      "osm_id": 4605178894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5143\u7956\u3046\u306a\u9421",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6584509,
+      "lon": 139.6984379,
+      "osm_id": 4721888665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306f\u3084\u3057",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6573278,
+      "lon": 139.6980214,
+      "osm_id": 5158209121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30ec\u30c3\u30b7\u30e5\u30cd\u30b9\u30d0\u30fc\u30ac\u30fc",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6582301,
+      "lon": 139.6965681,
+      "osm_id": 5493235337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6578999,
+      "lon": 139.6962932,
+      "osm_id": 5493235338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shugar Market",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 35.6584901,
+      "lon": 139.6984908,
+      "osm_id": 5535629247,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "capsule hotel et sauna",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 35.6572812,
+      "lon": 139.6962098,
+      "osm_id": 5745319923,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Han no Daidokoro Kadochika",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6578769,
+      "lon": 139.6970281,
+      "osm_id": 5745319924,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "T. T. KOKUSAI \u30b9\u30dd\u30fc\u30c4",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 35.6570968,
+      "lon": 139.6979655,
+      "osm_id": 5978785571,
+      "osm_type": "node",
+      "address": "\u9053\u7384\u5742",
+      "road_geometry": null
+    },
+    {
+      "name": "La mama Shibuya",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6571504,
+      "lon": 139.6979358,
+      "osm_id": 5978799819,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dogenzaka Mammoth Tsukemen Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6581118,
+      "lon": 139.696883,
+      "osm_id": 6346504085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ab\u30ec\u30fc\u5c4b \u30d1\u30af\u30d1\u30af\u3082\u308a\u3082\u308a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6581404,
+      "lon": 139.6965135,
+      "osm_id": 6483340985,
+      "osm_type": "node",
+      "address": "\u30d3\u30b8\u30cd\u30b9\u30f4\u30a3\u30c3\u30d7\u6e0b\u8c37\u9053\u7384\u5742",
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ab\u30ea\u30fc \u30ab\u30a4\u30e9\u30b9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6572006,
+      "lon": 139.6963001,
+      "osm_id": 6483341185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dogenzaka mammoth Tsukemen Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.658053,
+      "lon": 139.6968568,
+      "osm_id": 6512866787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b3\u30fc\u30eb\u30c9\u30fb\u30b9\u30c8\u30fc\u30f3\u30fb\u30af\u30ea\u30fc\u30de\u30ea\u30fc/\u30ef\u30c3\u30d5\u30eb\u30ba",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 35.6579817,
+      "lon": 139.6983335,
+      "osm_id": 7464544785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u533a\u89b3\u5149\u5354\u4f1a",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6578637,
+      "lon": 139.6973,
+      "osm_id": 8415255170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u897f\u53e3",
+      "category": [
+        "railway.train_station_entrance"
+      ],
+      "lat": 35.6583469,
+      "lon": 139.6985539,
+      "osm_id": 9963589073,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bf\u30ea\u30fc\u30ba\u30b3\u30fc\u30d2\u30fc",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6565364,
+      "lon": 139.696817,
+      "osm_id": 10113431276,
+      "osm_type": "node",
+      "address": "\u7389\u5ddd\u901a\u308a",
+      "road_geometry": null
+    },
+    {
+      "name": "\u30c0\u30a4\u30bd\u30fc",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 35.6579048,
+      "lon": 139.6979874,
+      "osm_id": 10803979205,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d1\u30ce\u30e9\u30de",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6572324,
+      "lon": 139.6969584,
+      "osm_id": 11059350732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u9053\u7384\u5742\u6771\u6025\u30d3\u30eb",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.65718,
+      "lon": 139.698687,
+      "osm_id": 11436145575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30de\u30fc\u30af\u30b7\u30c6\u30a3",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.657682,
+      "lon": 139.697165,
+      "osm_id": 11436145750,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ishi-usubiki Nihachi Soba Sobashiki Shibuya Mark City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6584613,
+      "lon": 139.6981571,
+      "osm_id": 12861896310,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LAUREL TOKYO",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6568765,
+      "lon": 139.696933,
+      "osm_id": 13329498889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LAUREL TOKYO",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6569493,
+      "lon": 139.6968958,
+      "osm_id": 13368517778,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LAUREL TOKYO",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.656937,
+      "lon": 139.6969029,
+      "osm_id": 13533688102,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

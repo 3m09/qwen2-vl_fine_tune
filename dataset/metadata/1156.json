@@ -1,0 +1,180 @@
+{
+  "image": "dataset/images/1156.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.94194905699636,
+  "bbox": [
+    -73.9434375427144,
+    40.83828828828833,
+    -73.94046057127832,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "railway.stop",
+    "amenity.bank",
+    "amenity.fast_food",
+    "amenity.dentist",
+    "amenity.restaurant",
+    "tourism.museum",
+    "amenity.atm"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "highway.bus_stop": 1,
+    "railway.stop": 1,
+    "amenity.bank": 1,
+    "amenity.fast_food": 3,
+    "amenity.dentist": 1,
+    "amenity.restaurant": 1,
+    "tourism.museum": 1,
+    "amenity.atm": 1
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "168th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8399736,
+      "lon": -73.9406678,
+      "osm_id": 592003449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 40.8391754,
+      "lon": -73.9407572,
+      "osm_id": 2348621723,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8384169,
+      "lon": -73.9413368,
+      "osm_id": 4394707998,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 165th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8394298,
+      "lon": -73.9407479,
+      "osm_id": 5750222366,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wendy's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8391748,
+      "lon": -73.9415213,
+      "osm_id": 5750222459,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dennis N. Morea, DDS",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8398505,
+      "lon": -73.9427763,
+      "osm_id": 5750222596,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Dallas BBQ",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8395821,
+      "lon": -73.9404606,
+      "osm_id": 5750222852,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.839164,
+      "lon": -73.9408147,
+      "osm_id": 8307408827,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 40.8393577,
+      "lon": -73.9406753,
+      "osm_id": 8307408828,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Taco Bell",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8386507,
+      "lon": -73.941176,
+      "osm_id": 11963527190,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 165 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8391433,
+      "lon": -73.9414215,
+      "osm_id": 13146073756,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 165 St & Fort Washington Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8400235,
+      "lon": -73.942894,
+      "osm_id": 13146130469,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

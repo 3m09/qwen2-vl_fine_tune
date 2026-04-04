@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/872.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.93006967546842,
+  "bbox": [
+    -73.93155755471376,
+    40.81126126126127,
+    -73.92858179622306,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "railway.stop",
+    "railway.station",
+    "railway.signal_box"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "highway.bus_stop": 2,
+    "railway.stop": 1,
+    "railway.station": 1,
+    "railway.signal_box": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "138th Street\u2013Grand Concourse",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8127783,
+      "lon": -73.930243,
+      "osm_id": 5104151864,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "138th Street\u2013Grand Concourse",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8131324,
+      "lon": -73.929968,
+      "osm_id": 5921006942,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Concourse & East 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.813493,
+      "lon": -73.9302947,
+      "osm_id": 6224283290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Concourse & East 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.813475,
+      "lon": -73.9294953,
+      "osm_id": 6224283292,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CP 4",
+      "category": [
+        "railway.signal_box"
+      ],
+      "lat": 40.8119715,
+      "lon": -73.9309809,
+      "osm_id": 10844862221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 138 St & Grand Concourse",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8132292,
+      "lon": -73.9305975,
+      "osm_id": 13243922889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 138 St & Park Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8126405,
+      "lon": -73.9292342,
+      "osm_id": 13243930522,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

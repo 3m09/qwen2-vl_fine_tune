@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/236.png",
+  "center_lat": 31.244639639639637,
+  "center_lon": 121.50185436690448,
+  "bbox": [
+    121.5005372150262,
+    31.24351351351351,
+    121.50317151878275,
+    31.24576576576576
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u62db\u5546\u94f6\u884c\u4e0a\u6d77\u5e02\u5206\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2446955,
+      "lon": 121.5009377,
+      "osm_id": 3735693583,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2444113,
+      "lon": 121.5012038,
+      "osm_id": 8927287684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6cf0\u4e1c\u8def\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2446591,
+      "lon": 121.5029338,
+      "osm_id": 9927379669,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

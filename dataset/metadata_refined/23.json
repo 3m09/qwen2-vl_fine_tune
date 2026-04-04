@@ -1,49 +1,93 @@
 {
   "image": "dataset/images/23.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9300815407804,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.09819071665958114,
   "bbox": [
-    -73.9315691675723,
-    40.8,
-    -73.9285939139885,
-    40.80225225225225
+    -0.1,
+    51.50725225225226,
+    -0.09638143331916225,
+    51.50950450450451
   ],
   "unique_categories": [
-    "highway.bus_stop"
+    "amenity.ferry_terminal",
+    "amenity.cafe",
+    "shop.gift",
+    "amenity.bicycle_rental",
+    "tourism.attraction"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 2
+    "amenity.ferry_terminal": 1,
+    "amenity.cafe": 1,
+    "shop.gift": 1,
+    "amenity.bicycle_rental": 1,
+    "tourism.attraction": 1
   },
-  "poi_count": 2,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "1st Avenue & East 125th Street",
+      "name": "Bankside Pier",
       "category": [
-        "highway.bus_stop"
+        "amenity.ferry_terminal"
       ],
-      "lat": 40.8012781,
-      "lon": -73.9314077,
-      "osm_id": 5309511834,
+      "lat": 51.5087709,
+      "lon": -0.0967972,
+      "osm_id": 734575014,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 1st Avenue",
+      "name": "New Globe Walk",
       "category": [
-        "highway.bus_stop"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8017863,
-      "lon": -73.9315054,
-      "osm_id": 5309511835,
+      "lat": 51.5074778,
+      "lon": -0.0964056,
+      "osm_id": 835264541,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tate Edit",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.507839,
+      "lon": -0.0995974,
+      "osm_id": 4880465177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Globe Theatre Tour",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.508247,
+      "lon": -0.0975305,
+      "osm_id": 5713648051,
+      "osm_type": "node",
+      "address": "Bankside",
+      "road_geometry": null
+    },
+    {
+      "name": "Members Bar",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5077062,
+      "lon": -0.0994332,
+      "osm_id": 9190363817,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 0,
+    "original_poi_count": 9,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

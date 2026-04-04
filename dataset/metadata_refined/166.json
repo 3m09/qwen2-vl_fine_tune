@@ -1,20 +1,65 @@
 {
   "image": "dataset/images/166.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93304316110489,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.82857185905725,
   "bbox": [
-    -73.93453109085812,
-    40.81351351351353,
-    -73.93155523135167,
-    40.81576576576578
+    72.8273812393715,
+    18.944774774774768,
+    72.829762478743,
+    18.94702702702702
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.post_office",
+    "shop.optician"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.post_office": 1,
+    "shop.optician": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Sharada",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9461969,
+      "lon": 72.8274147,
+      "osm_id": 245654709,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kalbadevi Post Office 400002",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 18.9450359,
+      "lon": 72.8284002,
+      "osm_id": 605221733,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ocean Eyewear Pvt Ltd. / Supreme Optics",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 18.9467143,
+      "lon": 72.828779,
+      "osm_id": 9879398060,
+      "osm_type": "node",
+      "address": "Kalbadevi Road",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 5,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

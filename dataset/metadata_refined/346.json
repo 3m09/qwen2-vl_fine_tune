@@ -1,0 +1,675 @@
+{
+  "image": "dataset/images/346.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83288492021487,
+  "bbox": [
+    103.83175850304131,
+    1.3025045045045047,
+    103.83401133738842,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "shop.bag",
+    "shop.bakery",
+    "shop.convenience",
+    "amenity.restaurant",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "tourism.apartment",
+    "railway.subway_entrance",
+    "amenity.bank",
+    "shop.electronics",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "shop.jewelry",
+    "shop.clothes",
+    "shop.watches",
+    "shop.shoes",
+    "shop.gift",
+    "amenity.parking",
+    "amenity.food_court",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.bag": 1,
+    "shop.bakery": 2,
+    "shop.convenience": 2,
+    "amenity.restaurant": 5,
+    "tourism.gallery": 1,
+    "amenity.fast_food": 4,
+    "tourism.apartment": 1,
+    "railway.subway_entrance": 2,
+    "amenity.bank": 4,
+    "shop.electronics": 1,
+    "shop.cosmetics": 1,
+    "amenity.cafe": 6,
+    "shop.jewelry": 2,
+    "shop.clothes": 6,
+    "shop.watches": 6,
+    "shop.shoes": 2,
+    "shop.gift": 1,
+    "amenity.parking": 1,
+    "amenity.food_court": 1,
+    "shop.department_store": 2
+  },
+  "poi_count": 51,
+  "pois": [
+    {
+      "name": "ION",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 1.3037689,
+      "lon": 103.8318419,
+      "osm_id": 518296088,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3045417,
+      "lon": 103.8335522,
+      "osm_id": 1829455634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tangs",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3047546,
+      "lon": 103.8330692,
+      "osm_id": 1839604020,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Food Republic",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3040224,
+      "lon": 103.8329388,
+      "osm_id": 2402565628,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OCBC Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3036201,
+      "lon": 103.8335715,
+      "osm_id": 3009713262,
+      "osm_type": "node",
+      "address": "Orchard Road Wisma Atria",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard (NSL) Exit A",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3045536,
+      "lon": 103.8323208,
+      "osm_id": 3689726162,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dior",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3043723,
+      "lon": 103.8322853,
+      "osm_id": 4748985334,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tiffany & Co",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3043808,
+      "lon": 103.8321447,
+      "osm_id": 4748985335,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3043402,
+      "lon": 103.8324381,
+      "osm_id": 4748985336,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Prada",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3042427,
+      "lon": 103.8325926,
+      "osm_id": 4748985337,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sony",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3037484,
+      "lon": 103.8335479,
+      "osm_id": 4748985342,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Blancpain",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3039067,
+      "lon": 103.8332474,
+      "osm_id": 4748997994,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Coach",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 1.3041262,
+      "lon": 103.8328319,
+      "osm_id": 4748997995,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cartier",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3043824,
+      "lon": 103.8319787,
+      "osm_id": 4748997997,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Far East Fine Arts",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 1.3043296,
+      "lon": 103.8338619,
+      "osm_id": 5689927922,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3038293,
+      "lon": 103.8330336,
+      "osm_id": 5756690250,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucky Plaza",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": 1.3040934,
+      "lon": 103.8338894,
+      "osm_id": 5829299785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiong Bahru Bakery",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3045581,
+      "lon": 103.8332472,
+      "osm_id": 6164092288,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3036548,
+      "lon": 103.8332851,
+      "osm_id": 6704742871,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pandora",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3038406,
+      "lon": 103.8317876,
+      "osm_id": 6712042583,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles & Keith",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3039532,
+      "lon": 103.831793,
+      "osm_id": 6715717411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles & Keith",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3037486,
+      "lon": 103.8331751,
+      "osm_id": 6723422648,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LiHO",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3034288,
+      "lon": 103.8334528,
+      "osm_id": 6743527286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CASIO",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3039274,
+      "lon": 103.8322657,
+      "osm_id": 6784617533,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cortina",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3040566,
+      "lon": 103.8319031,
+      "osm_id": 6787636273,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City Chain",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3039088,
+      "lon": 103.8319061,
+      "osm_id": 6787760625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3038582,
+      "lon": 103.8331314,
+      "osm_id": 6790330966,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Hour Glass",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3040605,
+      "lon": 103.832216,
+      "osm_id": 6790376793,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Toast Box",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3039308,
+      "lon": 103.8317692,
+      "osm_id": 6816469304,
+      "osm_type": "node",
+      "address": "2 Orchard Turn, ION Orchard",
+      "road_geometry": null
+    },
+    {
+      "name": "Toast Box",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3036104,
+      "lon": 103.8331556,
+      "osm_id": 6816894317,
+      "osm_type": "node",
+      "address": "435 Orchard Road, Wisma Atria",
+      "road_geometry": null
+    },
+    {
+      "name": "Pizza Hut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3045571,
+      "lon": 103.833788,
+      "osm_id": 6981846722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BDO Remit",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3042541,
+      "lon": 103.8338767,
+      "osm_id": 7025433387,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3041442,
+      "lon": 103.8323083,
+      "osm_id": 7129649710,
+      "osm_type": "node",
+      "address": "Orchard Turn",
+      "road_geometry": null
+    },
+    {
+      "name": "OCBC Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.304485,
+      "lon": 103.8320373,
+      "osm_id": 7129655642,
+      "osm_type": "node",
+      "address": "Orchard Turn",
+      "road_geometry": null
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3042007,
+      "lon": 103.8318627,
+      "osm_id": 7353764015,
+      "osm_type": "node",
+      "address": "Orchard Turn",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard (NSL) Exit D",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3040446,
+      "lon": 103.8325873,
+      "osm_id": 7678689375,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DBS",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3030888,
+      "lon": 103.8338736,
+      "osm_id": 8182543271,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7121\u5370\u826f\u54c1",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3042778,
+      "lon": 103.8321679,
+      "osm_id": 8192613840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jollibee",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.304523,
+      "lon": 103.8339916,
+      "osm_id": 8260836841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emperor Watch And Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3039349,
+      "lon": 103.8329724,
+      "osm_id": 8566355848,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fun Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3039057,
+      "lon": 103.832805,
+      "osm_id": 8566355850,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wonderland Savour",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3037514,
+      "lon": 103.8329411,
+      "osm_id": 8566355851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Longines",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3036899,
+      "lon": 103.8336384,
+      "osm_id": 8566429037,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Famous Amos",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.3036402,
+      "lon": 103.8334667,
+      "osm_id": 8631740082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Opera Gallery",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 1.3035296,
+      "lon": 103.8324563,
+      "osm_id": 9050950001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lavender",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.3038463,
+      "lon": 103.8320533,
+      "osm_id": 9322489771,
+      "osm_type": "node",
+      "address": "Orchard Turn ION Orchard",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3038238,
+      "lon": 103.8328079,
+      "osm_id": 9331402603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gading Indonesian Street Food",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3044801,
+      "lon": 103.8338605,
+      "osm_id": 9671017334,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paradise Teochew Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3030047,
+      "lon": 103.833876,
+      "osm_id": 9891652070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3036487,
+      "lon": 103.8321927,
+      "osm_id": 11323077054,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bebek Goreng Pak Ngdut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3047491,
+      "lon": 103.8338135,
+      "osm_id": 12206907457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 104,
+    "removed_count": 53,
+    "model": "gemini-2.5-flash"
+  }
+}

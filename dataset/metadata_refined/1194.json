@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1194.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.97171684933507,
+  "bbox": [
+    -73.97320543621217,
+    40.84279279279284,
+    -73.97022826245797,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "TD Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8436289,
+      "lon": -73.9724145,
+      "osm_id": 9973575717,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,15 +1,361 @@
 {
   "image": "dataset/images/98.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.99256085628396,
+  "center_lat": 18.92337837837838,
+  "center_lon": 72.83333321405335,
   "bbox": [
-    -73.99404868502717,
-    40.80900900900902,
-    -73.99107302754075,
-    40.81126126126127
+    72.83214275490288,
+    18.922252252252253,
+    72.83452367320383,
+    18.924504504504505
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.ice_cream",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "shop.gift",
+    "highway.bus_stop",
+    "amenity.pharmacy",
+    "amenity.cafe",
+    "amenity.fuel",
+    "shop.confectionery",
+    "shop.kiosk",
+    "amenity.fast_food",
+    "amenity.ferry_terminal",
+    "amenity.bar",
+    "amenity.hospital",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 7,
+    "shop.gift": 1,
+    "highway.bus_stop": 1,
+    "amenity.pharmacy": 1,
+    "amenity.cafe": 4,
+    "amenity.fuel": 1,
+    "shop.confectionery": 1,
+    "shop.kiosk": 1,
+    "amenity.fast_food": 3,
+    "amenity.ferry_terminal": 1,
+    "amenity.bar": 1,
+    "amenity.hospital": 1,
+    "tourism.hotel": 2
+  },
+  "poi_count": 26,
+  "pois": [
+    {
+      "name": "Bademiya Seekh Kebab Stall",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9231497,
+      "lon": 72.8325111,
+      "osm_id": 488208617,
+      "osm_type": "node",
+      "address": "Tullock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Mondegar",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9240421,
+      "lon": 72.8321786,
+      "osm_id": 669259659,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Indigo Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9239059,
+      "lon": 72.8332921,
+      "osm_id": 683779184,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sheetal Medical & General Stores",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 18.9228307,
+      "lon": 72.832167,
+      "osm_id": 870448041,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gateway of India - Mandwa Rewas Ferry Terminal",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 18.9229191,
+      "lon": 72.8345228,
+      "osm_id": 870449150,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carlton Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9224055,
+      "lon": 72.8326985,
+      "osm_id": 961369363,
+      "osm_type": "node",
+      "address": "Boman Behram Road (Mere Weather Road)",
+      "road_geometry": null
+    },
+    {
+      "name": "Bharat Petroleum",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 18.9243367,
+      "lon": 72.8328758,
+      "osm_id": 3306535083,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Mosh\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9238699,
+      "lon": 72.8333287,
+      "osm_id": 4099677900,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Table",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9241821,
+      "lon": 72.8330843,
+      "osm_id": 4099677901,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Pain Quotidien",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9240286,
+      "lon": 72.8335791,
+      "osm_id": 4099677902,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9239309,
+      "lon": 72.8335563,
+      "osm_id": 4099677903,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cottage Industries Emporium",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 18.9243867,
+      "lon": 72.8332216,
+      "osm_id": 4099698903,
+      "osm_type": "node",
+      "address": "Chhatrapati Shivaji Maharaj Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9242153,
+      "lon": 72.8327681,
+      "osm_id": 4841690923,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "category": [
+        "amenity.ice_cream",
+        "shop.confectionery"
+      ],
+      "lat": 18.923976,
+      "lon": 72.8323789,
+      "osm_id": 4841690927,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u092c\u0917\u0926\u093e\u0926\u0940 \u0930\u0947\u0938\u094d\u091f\u094b\u0930\u0947\u0902\u091f",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9229102,
+      "lon": 72.8324423,
+      "osm_id": 5209844942,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ling's Pavilion",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9236808,
+      "lon": 72.8324278,
+      "osm_id": 5300321221,
+      "osm_type": "node",
+      "address": "Mahakavi Bhushan Road (Lansdowne Road)",
+      "road_geometry": null
+    },
+    {
+      "name": "Effingut",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 18.9242209,
+      "lon": 72.8332106,
+      "osm_id": 5856668585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dr Shyama Prasad Mukherjee Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9244583,
+      "lon": 72.8321616,
+      "osm_id": 6221014285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shivaji Maharaj Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9228448,
+      "lon": 72.8338591,
+      "osm_id": 6869946311,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Abode Bombay",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9237234,
+      "lon": 72.8326873,
+      "osm_id": 7137339285,
+      "osm_type": "node",
+      "address": "Mahakavi Bhushan Road (Lansdowne Road)",
+      "road_geometry": null
+    },
+    {
+      "name": "Kalajot Hospital",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 18.923038,
+      "lon": 72.832811,
+      "osm_id": 7664032193,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9240823,
+      "lon": 72.8322655,
+      "osm_id": 11407167469,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Subko Mini at Abode Bombay",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9237378,
+      "lon": 72.8327082,
+      "osm_id": 11542420692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u091c\u093f\u092f\u093e - \u0913\u0930\u093f\u090f\u0928\u094d\u091f\u0932 \u0915\u093f\u091a\u0928",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9239527,
+      "lon": 72.832473,
+      "osm_id": 12672424001,
+      "osm_type": "node",
+      "address": "Mahakavi Bhushan Road (Lansdowne Road)",
+      "road_geometry": null
+    },
+    {
+      "name": "Kiosk",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 18.9227633,
+      "lon": 72.8322683,
+      "osm_id": 13097736519,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9241045,
+      "lon": 72.8335096,
+      "osm_id": 13381207144,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

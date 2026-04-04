@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/968.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.9300601783732,
+  "bbox": [
+    -73.9315482596844,
+    40.82027027027029,
+    -73.92857209706199,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "amenity.bicycle_rental",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Food Bazaar",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8220705,
+      "lon": -73.9302848,
+      "osm_id": 7212968106,
+      "osm_type": "node",
+      "address": "Exterior Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Best Buy",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 40.8218724,
+      "lon": -73.9295459,
+      "osm_id": 11756775037,
+      "osm_type": "node",
+      "address": "Exterior Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - River Ave & E 151 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8222312,
+      "lon": -73.9289224,
+      "osm_id": 13243922888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

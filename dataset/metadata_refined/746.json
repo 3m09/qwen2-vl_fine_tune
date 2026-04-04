@@ -1,0 +1,148 @@
+{
+  "image": "dataset/images/746.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.94793306228328,
+  "bbox": [
+    -73.94942068907518,
+    40.8,
+    -73.94644543549137,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.marketplace",
+    "highway.bus_stop",
+    "amenity.post_office",
+    "shop.copyshop",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.marketplace": 1,
+    "highway.bus_stop": 3,
+    "amenity.post_office": 1,
+    "shop.copyshop": 1,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "West 116th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8006658,
+      "lon": -73.9467235,
+      "osm_id": 5263688076,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8003573,
+      "lon": -73.9468327,
+      "osm_id": 5263688559,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm Shabazz Harlem Market",
+      "category": [
+        "amenity.marketplace"
+      ],
+      "lat": 40.801468,
+      "lon": -73.9488612,
+      "osm_id": 5263688560,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 116th Street & Malcolm X Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8016707,
+      "lon": -73.9490743,
+      "osm_id": 5263688858,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CVS Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8020588,
+      "lon": -73.9492663,
+      "osm_id": 6957709100,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The UPS Store",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 40.8018484,
+      "lon": -73.9488107,
+      "osm_id": 6957709107,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.801767,
+      "lon": -73.9486604,
+      "osm_id": 6957709110,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Physical Therapy of Harlem",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8007532,
+      "lon": -73.9471583,
+      "osm_id": 9553068940,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Doree Nails and Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8011293,
+      "lon": -73.9480206,
+      "osm_id": 9553068951,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 15,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

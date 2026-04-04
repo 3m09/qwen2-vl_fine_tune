@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/281.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.66131424297751,
+  "bbox": [
+    -46.662542828651674,
+    -23.565495495495497,
+    -46.66008565730335,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "amenity.clinic",
+    "amenity.taxi"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1,
+    "amenity.taxi": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Ponto de Taxi 1366",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5650187,
+      "lon": -46.6615136,
+      "osm_id": 4158597162,
+      "osm_type": "node",
+      "address": "Rua Jos\u00e9 Maria Lisboa",
+      "road_geometry": null
+    },
+    {
+      "name": "Cimerman Medicina Diagn\u00f3stica",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5645376,
+      "lon": -46.6617614,
+      "osm_id": 4284000590,
+      "osm_type": "node",
+      "address": "Rua Jos\u00e9 Maria Lisboa",
+      "road_geometry": null
+    }
+  ]
+}

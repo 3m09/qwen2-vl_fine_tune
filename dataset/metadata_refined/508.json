@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/508.png",
+  "center_lat": 22.300900900900892,
+  "center_lon": 114.18069164741779,
+  "bbox": [
+    114.17947449168733,
+    22.299774774774765,
+    114.18190880314825,
+    22.302027027027016
+  ],
+  "unique_categories": [
+    "amenity.fire_station",
+    "amenity.post_office",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.fire_station": 1,
+    "amenity.post_office": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u5c16\u6771\u6d88\u9632\u5c40 Tsim Tung Fire Station",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 22.3004426,
+      "lon": 114.1800318,
+      "osm_id": 927570104,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fbt Visa agency",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 22.3009447,
+      "lon": 114.179684,
+      "osm_id": 4278754192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9152\u5e97\u53ca\u65c5\u904a\u696d\u7ba1\u7406\u5b78\u9662 School of Hotel and Tourism Management",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 22.3008684,
+      "lon": 114.1798664,
+      "osm_id": 4844660329,
+      "osm_type": "node",
+      "address": "\u5eb7\u838a\u9053 Hong Chong Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

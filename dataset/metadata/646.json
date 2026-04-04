@@ -1,0 +1,126 @@
+{
+  "image": "dataset/images/646.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.1366413213654,
+  "bbox": [
+    -99.1378354183132,
+    19.425,
+    -99.1354472244176,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "amenity.restaurant",
+    "tourism.hostel",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.bicycle_rental": 2,
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "tourism.hostel": 1,
+    "amenity.bar": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Balagan",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4271085,
+      "lon": -99.1362527,
+      "osm_id": 2782636326,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4261621,
+      "lon": -99.1374304,
+      "osm_id": 4987387321,
+      "osm_type": "node",
+      "address": "Jos\u00e9 Mar\u00eda Izazaga",
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici San Jer\u00f3nimo / Isabel la Cat\u00f3lica",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4270554,
+      "lon": -99.1371309,
+      "osm_id": 5064918785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici Nezahualc\u00f3yotl / Isabel la Cat\u00f3lica",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4252479,
+      "lon": -99.1372295,
+      "osm_id": 5067278851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hostal Ciudad de M\u00e9xico",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4261792,
+      "lon": -99.1376261,
+      "osm_id": 6051087990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Deposito",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4271658,
+      "lon": -99.1371316,
+      "osm_id": 6315284703,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hosteria La Bota",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 19.4271415,
+      "lon": -99.1370692,
+      "osm_id": 7080977785,
+      "osm_type": "node",
+      "address": "Peatonal San Jer\u00f3nimo",
+      "road_geometry": null
+    },
+    {
+      "name": "Divino Chilaquil",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4257219,
+      "lon": -99.1373435,
+      "osm_id": 13395377701,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

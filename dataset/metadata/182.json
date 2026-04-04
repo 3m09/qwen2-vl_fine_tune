@@ -1,149 +1,29 @@
 {
   "image": "dataset/images/182.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.95684857226213,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.49131699486965,
   "bbox": [
-    -73.95833655252895,
-    40.81576576576578,
-    -73.9553605919953,
-    40.81801801801804
+    121.49,
+    31.232252252252252,
+    121.4926339897393,
+    31.234504504504503
   ],
   "unique_categories": [
-    "amenity.school",
-    "amenity.fast_food",
-    "leisure.sports_centre",
-    "amenity.restaurant",
-    "amenity.research_institute",
-    "amenity.bicycle_rental",
-    "railway.stop"
+    "highway.bus_stop"
   ],
   "poi_count_per_category": {
-    "amenity.school": 1,
-    "amenity.fast_food": 4,
-    "leisure.sports_centre": 1,
-    "amenity.restaurant": 1,
-    "amenity.research_institute": 1,
-    "amenity.bicycle_rental": 1,
-    "railway.stop": 1
+    "highway.bus_stop": 1
   },
-  "poi_count": 10,
+  "poi_count": 1,
   "pois": [
     {
-      "name": "Renaissance Leadership Academy (M286)",
+      "name": "\u4e2d\u5c71\u4e1c\u4e8c\u8def\u65b0\u5f00\u6cb3\u8def",
       "category": [
-        "amenity.school"
+        "highway.bus_stop"
       ],
-      "lat": 40.8159758,
-      "lon": -73.955665,
-      "osm_id": 357621403,
-      "osm_type": "node",
-      "address": "West 129th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.816139,
-      "lon": -73.9579218,
-      "osm_id": 4254162538,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Olivia - Spanish Tapas",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8169614,
-      "lon": -73.9578631,
-      "osm_id": 9646952138,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "The Botanist",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8168,
-      "lon": -73.9579462,
-      "osm_id": 9646952139,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Shai Hummusiya",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8168315,
-      "lon": -73.9579315,
-      "osm_id": 9646952140,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Benny Casanova's",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8168842,
-      "lon": -73.9578926,
-      "osm_id": 9646952141,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Butterfunk BIscuit Co.",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8168589,
-      "lon": -73.9579113,
-      "osm_id": 9646952142,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Steep Rock",
-      "category": [
-        "leisure.sports_centre"
-      ],
-      "lat": 40.8166213,
-      "lon": -73.9581389,
-      "osm_id": 9692914589,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Mortimer B. Zuckerman Mind Brain Behavior Institute",
-      "category": [
-        "amenity.research_institute"
-      ],
-      "lat": 40.8168862,
-      "lon": -73.9582108,
-      "osm_id": 12093529216,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Broadway & W 131 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8175565,
-      "lon": -73.9571594,
-      "osm_id": 13226785426,
+      "lat": 31.2324641,
+      "lon": 121.4904268,
+      "osm_id": 9806678544,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

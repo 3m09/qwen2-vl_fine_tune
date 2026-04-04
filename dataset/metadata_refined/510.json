@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/510.png",
+  "center_lat": 22.300900900900892,
+  "center_lon": 114.18556027033962,
+  "bbox": [
+    114.18434311460916,
+    22.299774774774765,
+    114.18677742607008,
+    22.302027027027016
+  ],
+  "unique_categories": [
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u6d77\u7063\u8ed2\u6d77\u666f\u9152\u5e97 Harbourfront Horizon All-Suite",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.3002646,
+      "lon": 114.1849665,
+      "osm_id": 7972838688,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

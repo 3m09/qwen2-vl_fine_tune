@@ -1,37 +1,65 @@
 {
   "image": "dataset/images/143.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93006967546842,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.84047722077678,
   "bbox": [
-    -73.93155755471376,
-    40.81126126126127,
-    -73.92858179622306,
-    40.81351351351353
+    72.83928666533241,
+    18.935765765765762,
+    72.84166777622114,
+    18.938018018018013
   ],
   "unique_categories": [
-    "railway.signal_box"
+    "amenity.hospital",
+    "highway.bus_stop",
+    "amenity.fuel"
   ],
   "poi_count_per_category": {
-    "railway.signal_box": 1
+    "amenity.hospital": 1,
+    "highway.bus_stop": 1,
+    "amenity.fuel": 1
   },
-  "poi_count": 1,
+  "poi_count": 3,
   "pois": [
     {
-      "name": "CP 4",
+      "name": "Bharat Petroleum",
       "category": [
-        "railway.signal_box"
+        "amenity.fuel"
       ],
-      "lat": 40.8119715,
-      "lon": -73.9309809,
-      "osm_id": 10844862221,
+      "lat": 18.9367891,
+      "lon": 72.8396991,
+      "osm_id": 666064621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Reliance Health Ventures Limited Hospital",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 18.9368113,
+      "lon": 72.8403416,
+      "osm_id": 7664032233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Indira Dock",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9378729,
+      "lon": 72.8393903,
+      "osm_id": 9769880936,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 7,
-    "removed_count": 6,
+    "original_poi_count": 4,
+    "removed_count": 1,
     "model": "gemini-2.5-flash"
   }
 }

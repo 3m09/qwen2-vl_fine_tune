@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/294.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.651485789282894,
+  "bbox": [
+    -46.65271435389354,
+    -23.563243243243246,
+    -46.65025722467225,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Osklen",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5630543,
+      "lon": -46.6526837,
+      "osm_id": 12913138502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Schutz",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5631678,
+      "lon": -46.652551,
+      "osm_id": 12913138504,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

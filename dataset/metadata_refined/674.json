@@ -1,0 +1,211 @@
+{
+  "image": "dataset/images/674.png",
+  "center_lat": 19.432882882882883,
+  "center_lon": -99.13425268044921,
+  "bbox": [
+    -99.13544682706596,
+    19.431756756756755,
+    -99.13305853383245,
+    19.434009009009007
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "amenity.bar",
+    "shop.optician",
+    "shop.clothes",
+    "amenity.post_office",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 2,
+    "amenity.bar": 1,
+    "shop.optician": 1,
+    "shop.clothes": 2,
+    "amenity.post_office": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 2
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "DHL",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 19.4333451,
+      "lon": -99.1348861,
+      "osm_id": 4156712495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Go Mart",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4330426,
+      "lon": -99.1342877,
+      "osm_id": 4156712496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4319154,
+      "lon": -99.1349765,
+      "osm_id": 4156712497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Best Western Hotel Majestic",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4329416,
+      "lon": -99.134342,
+      "osm_id": 4250177934,
+      "osm_type": "node",
+      "address": "Calle Francisco I. Madero",
+      "road_geometry": null
+    },
+    {
+      "name": "Sombreros Tard\u00e1n",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4324327,
+      "lon": -99.1344137,
+      "osm_id": 4307784192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centro Joyero",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 19.4331387,
+      "lon": -99.1347573,
+      "osm_id": 4345288590,
+      "osm_type": "node",
+      "address": "Calle Francisco I. Madero",
+      "road_geometry": null
+    },
+    {
+      "name": "Stradivarius",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.433074,
+      "lon": -99.1348955,
+      "osm_id": 5153791321,
+      "osm_type": "node",
+      "address": "Calle Francisco I. Madero",
+      "road_geometry": null
+    },
+    {
+      "name": "India Town",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4318972,
+      "lon": -99.1348321,
+      "osm_id": 5543981221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Balc\u00f3n del Z\u00f3calo",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4338757,
+      "lon": -99.1345995,
+      "osm_id": 5623518540,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4337221,
+      "lon": -99.1342809,
+      "osm_id": 6266754085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Balc\u00f3n del Z\u00f3calo",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4338636,
+      "lon": -99.1342446,
+      "osm_id": 6935391086,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Opticas Kauffman",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 19.4332008,
+      "lon": -99.1353312,
+      "osm_id": 7140066544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vips",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4318795,
+      "lon": -99.1347231,
+      "osm_id": 8663618918,
+      "osm_type": "node",
+      "address": "16 de Septiembre",
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4328134,
+      "lon": -99.135374,
+      "osm_id": 8663619717,
+      "osm_type": "node",
+      "address": "Calle Palma",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 28,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

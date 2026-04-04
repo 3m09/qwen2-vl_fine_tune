@@ -1,0 +1,88 @@
+{
+  "image": "dataset/images/198.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.50712134143612,
+  "bbox": [
+    121.5058043151718,
+    31.234504504504503,
+    121.50843836770044,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "leisure.sauna",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 1,
+    "leisure.sauna": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u53e4\u90fd\u6885\u6309\u6469\u8db3\u9053",
+      "category": [
+        "leisure.sauna"
+      ],
+      "lat": 31.235334,
+      "lon": 121.5079713,
+      "osm_id": 4441893298,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.234505,
+      "lon": 121.5068217,
+      "osm_id": 6036237787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u56fd\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2346165,
+      "lon": 121.5081384,
+      "osm_id": 8859447794,
+      "osm_type": "node",
+      "address": "\u4e1c\u660c\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e16\u7eaa\u5927\u9053\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2365591,
+      "lon": 121.5065675,
+      "osm_id": 9107842807,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5434\u8302\u5174\u672c\u5e2e\u9762(\u4e1c\u660c\u8def\u5e97)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.234613,
+      "lon": 121.5070193,
+      "osm_id": 10220959762,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

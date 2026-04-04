@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1062.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.93600381084363,
+  "bbox": [
+    -73.93749209431239,
+    40.82927927927931,
+    -73.93451552737488,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "railway.station": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "155th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8303452,
+      "lon": -73.9367102,
+      "osm_id": 2013618449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

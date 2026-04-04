@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/643.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.1438059030522,
+  "bbox": [
+    -99.145,
+    19.425,
+    -99.1426118061044,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "shop.ticket",
+    "railway.stop",
+    "shop.convenience",
+    "railway.subway_entrance"
+  ],
+  "poi_count_per_category": {
+    "shop.ticket": 1,
+    "railway.stop": 2,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "La goma",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 19.4259945,
+      "lon": -99.1445176,
+      "osm_id": 8774009817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4251707,
+      "lon": -99.1431881,
+      "osm_id": 10173865402,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.426921,
+      "lon": -99.1433856,
+      "osm_id": 12657126260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4271114,
+      "lon": -99.1433636,
+      "osm_id": 12657130313,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4267303,
+      "lon": -99.1432651,
+      "osm_id": 12657130314,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.4269635,
+      "lon": -99.1433804,
+      "osm_id": 13037068477,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

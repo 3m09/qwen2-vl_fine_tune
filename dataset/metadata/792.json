@@ -1,0 +1,414 @@
+{
+  "image": "dataset/images/792.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.95388043956069,
+  "bbox": [
+    -73.95536816731679,
+    40.80450450450451,
+    -73.95239271180458,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.meditation_centre",
+    "shop.shipping",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.bakery",
+    "amenity.cafe",
+    "leisure.fitness_centre",
+    "shop.laundry",
+    "railway.stop",
+    "amenity.bank",
+    "amenity.clinic",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.hardware",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "amenity.pharmacy"
+  ],
+  "poi_count_per_category": {
+    "amenity.meditation_centre": 1,
+    "shop.shipping": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "shop.bakery": 2,
+    "amenity.cafe": 2,
+    "leisure.fitness_centre": 1,
+    "shop.laundry": 1,
+    "railway.stop": 1,
+    "amenity.bank": 1,
+    "amenity.clinic": 1,
+    "amenity.fast_food": 3,
+    "amenity.restaurant": 9,
+    "shop.hardware": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "amenity.pharmacy": 1
+  },
+  "poi_count": 30,
+  "pois": [
+    {
+      "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8051864,
+      "lon": -73.9536189,
+      "osm_id": 357642771,
+      "osm_type": "node",
+      "address": "West 118th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.80593,
+      "lon": -73.9545289,
+      "osm_id": 1666603088,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8063138,
+      "lon": -73.9542239,
+      "osm_id": 1666605529,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lidl",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8061134,
+      "lon": -73.9543707,
+      "osm_id": 1667353975,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lee Lee's Baked Goods",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8056378,
+      "lon": -73.9538775,
+      "osm_id": 1667402828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Levain Bakery",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8049414,
+      "lon": -73.955275,
+      "osm_id": 1667407048,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8048764,
+      "lon": -73.955334,
+      "osm_id": 1667407727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cedric",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8061352,
+      "lon": -73.9530327,
+      "osm_id": 1667418892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Billie's Black Bar & Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8062286,
+      "lon": -73.9532312,
+      "osm_id": 1667419712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rite Aid",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8051525,
+      "lon": -73.9545347,
+      "osm_id": 1667420596,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Kennedy Chicken & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8046013,
+      "lon": -73.954985,
+      "osm_id": 2762553956,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "United Hardware",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8046483,
+      "lon": -73.9549514,
+      "osm_id": 2762553960,
+      "osm_type": "node",
+      "address": "8th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "BIXI Harlem",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8048187,
+      "lon": -73.9548295,
+      "osm_id": 2762553969,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Mindful Harlem",
+      "category": [
+        "amenity.meditation_centre"
+      ],
+      "lat": 40.8066189,
+      "lon": -73.9543158,
+      "osm_id": 2767404509,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8046686,
+      "lon": -73.9550738,
+      "osm_id": 5972708843,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "116th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8056517,
+      "lon": -73.954386,
+      "osm_id": 6427120645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vinateria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8065375,
+      "lon": -73.9540554,
+      "osm_id": 7125397465,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Cecil",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8047922,
+      "lon": -73.9525262,
+      "osm_id": 7125417491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baby Girls Bubbles Cleaners",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8064359,
+      "lon": -73.953656,
+      "osm_id": 7125417492,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Moca Bar & Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.806371,
+      "lon": -73.9536786,
+      "osm_id": 7125417493,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agaveria La Diagonal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8060758,
+      "lon": -73.9530327,
+      "osm_id": 7290190311,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The UPS Store",
+      "category": [
+        "shop.shipping"
+      ],
+      "lat": 40.8065868,
+      "lon": -73.9535339,
+      "osm_id": 8014564674,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ganache Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8066718,
+      "lon": -73.9539564,
+      "osm_id": 10195939473,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Pilates",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8059923,
+      "lon": -73.9547674,
+      "osm_id": 12401145040,
+      "osm_type": "node",
+      "address": "West 118th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Splash Juicery",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8045591,
+      "lon": -73.9550152,
+      "osm_id": 12414103707,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lido",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.80492,
+      "lon": -73.954757,
+      "osm_id": 12414899829,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Peking Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8047726,
+      "lon": -73.9548625,
+      "osm_id": 12414899830,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "2166 Discount Store",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8047268,
+      "lon": -73.9548953,
+      "osm_id": 12414899831,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Senegal Hair Braiding",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8048688,
+      "lon": -73.9547937,
+      "osm_id": 12414899832,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Frederick Douglass Blvd & W 117 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8051568,
+      "lon": -73.9546468,
+      "osm_id": 13226773040,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

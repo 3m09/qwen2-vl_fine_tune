@@ -1,20 +1,65 @@
 {
   "image": "dataset/images/191.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.93006492745931,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.51502290252343,
   "bbox": [
-    -73.93155290772613,
-    40.81576576576578,
-    -73.92857694719248,
-    40.81801801801804
+    121.51370590765377,
+    31.232252252252252,
+    121.51633989739308,
+    31.234504504504503
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.bank",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.bank": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u4e2d\u56fd\u5149\u5927\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2331795,
+      "lon": 121.5156649,
+      "osm_id": 8841080803,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5b63\u9152\u5e97",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 31.2327662,
+      "lon": 121.5147772,
+      "osm_id": 8841144071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8fbe\u7f8e\u4e50\u6bd4\u8428",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2330392,
+      "lon": 121.5149116,
+      "osm_id": 8953971286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 2,
+    "original_poi_count": 3,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

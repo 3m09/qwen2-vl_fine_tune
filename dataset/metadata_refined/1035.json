@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/1035.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.94493538193149,
+  "bbox": [
+    -73.94642361485225,
+    40.82702702702706,
+    -73.94344714901071,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "amenity.theatre",
+    "highway.bus_stop",
+    "amenity.police",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 1,
+    "amenity.theatre": 1,
+    "highway.bus_stop": 1,
+    "amenity.police": 1,
+    "amenity.restaurant": 3
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "NYPD 30 PCT",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 40.8286111,
+      "lon": -73.9438889,
+      "osm_id": 368051762,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dance Theatre of Harlem",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8288889,
+      "lon": -73.9436111,
+      "osm_id": 368052774,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shoeganza",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 40.8277566,
+      "lon": -73.946018,
+      "osm_id": 2603955360,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 149th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8276086,
+      "lon": -73.9457294,
+      "osm_id": 5281925325,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Savory Fried Chicken & Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8284252,
+      "lon": -73.9455705,
+      "osm_id": 8333828558,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wimpy's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8287,
+      "lon": -73.9454264,
+      "osm_id": 8333828559,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Savory",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8292395,
+      "lon": -73.9450264,
+      "osm_id": 8333828560,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

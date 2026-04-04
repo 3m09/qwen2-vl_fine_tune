@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/696.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.12469894440446,
+  "bbox": [
+    -99.12589312414538,
+    19.436261261261258,
+    -99.12350476466355,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.convenience": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Mixcalco",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4363873,
+      "lon": -99.1235238,
+      "osm_id": 4154583089,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mixcalco",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4363629,
+      "lon": -99.1241048,
+      "osm_id": 4154583189,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bodega Aurrera Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4371421,
+      "lon": -99.1236015,
+      "osm_id": 10692392933,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

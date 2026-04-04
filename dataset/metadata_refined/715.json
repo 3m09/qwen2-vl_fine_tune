@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/715.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.26624449692444,
+  "bbox": [
+    55.265,
+    25.192252252252253,
+    55.267488993848886,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Paramount Tower",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 25.1931886,
+      "lon": 55.2652064,
+      "osm_id": 12180395173,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

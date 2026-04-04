@@ -1,0 +1,136 @@
+{
+  "image": "dataset/images/1011.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.9449372519949,
+  "bbox": [
+    -73.94642543437342,
+    40.8247747747748,
+    -73.94344906961639,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.fast_food",
+    "shop.hairdresser",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.convenience": 1,
+    "amenity.fast_food": 4,
+    "shop.hairdresser": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Childs Memorial Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8266667,
+      "lon": -73.9461111,
+      "osm_id": 357616314,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Candy Corp.",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8254971,
+      "lon": -73.9439194,
+      "osm_id": 2768143145,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Devin's Fish & Chips",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8257343,
+      "lon": -73.9437791,
+      "osm_id": 2768143200,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Golden Empire",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8261292,
+      "lon": -73.943478,
+      "osm_id": 2768143206,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 147th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8255617,
+      "lon": -73.9435272,
+      "osm_id": 5281914816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 148th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8257158,
+      "lon": -73.9436696,
+      "osm_id": 5281915344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Natural Hair Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8258262,
+      "lon": -73.9437141,
+      "osm_id": 8778724409,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Texas Star",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8255982,
+      "lon": -73.9438453,
+      "osm_id": 10598256241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Branson Got Juice!",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8255623,
+      "lon": -73.9438716,
+      "osm_id": 10598256242,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

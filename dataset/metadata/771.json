@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/771.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.9449559409677,
+  "bbox": [
+    -73.94644361823885,
+    40.80225225225225,
+    -73.94346826369656,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.place_of_worship",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.place_of_worship": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Bethel Gospel Assembly",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8026303,
+      "lon": -73.9446473,
+      "osm_id": 1979669267,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Mount Morris Park West & West 121st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8043093,
+      "lon": -73.9460265,
+      "osm_id": 5269085064,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8030297,
+      "lon": -73.9448907,
+      "osm_id": 5984081380,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Mt Morris Park W & W 120 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8040867,
+      "lon": -73.945905,
+      "osm_id": 8736432175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

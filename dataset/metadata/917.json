@@ -1,0 +1,128 @@
+{
+  "image": "dataset/images/917.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.93899280906025,
+  "bbox": [
+    -73.94048078932707,
+    40.81576576576578,
+    -73.93750482879342,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.car",
+    "shop.supermarket",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 1,
+    "shop.car": 1,
+    "shop.supermarket": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Junior High School 139",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8176007,
+      "lon": -73.9401375,
+      "osm_id": 357567265,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esam Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8174709,
+      "lon": -73.9387241,
+      "osm_id": 2767778130,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Right Way City",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8179115,
+      "lon": -73.9384039,
+      "osm_id": 2767778168,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.815826,
+      "lon": -73.9393735,
+      "osm_id": 5274258292,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Car Dealer NY",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 40.8168971,
+      "lon": -73.9401414,
+      "osm_id": 6822486482,
+      "osm_type": "node",
+      "address": "West 139th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Key Food",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8170044,
+      "lon": -73.9383736,
+      "osm_id": 10570594107,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "El Valle Seafood Restaurant ",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8169403,
+      "lon": -73.9384196,
+      "osm_id": 10969577294,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lenox Ave & W 140 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8172439,
+      "lon": -73.9387621,
+      "osm_id": 13243877783,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

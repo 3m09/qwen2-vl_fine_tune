@@ -1,55 +1,1791 @@
 {
   "image": "dataset/images/58.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.96875771712176,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3367115240033365,
   "bbox": [
-    -73.97024544487786,
-    40.80450450450451,
-    -73.96726998936565,
-    40.80675675675676
+    2.335,
+    48.855,
+    2.338423048006673,
+    48.85725225225225
   ],
   "unique_categories": [
-    "leisure.playground"
+    "shop.books",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "amenity.kindergarten",
+    "tourism.information",
+    "shop.kitchenware",
+    "shop.art",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "amenity.college",
+    "shop.interior_decoration",
+    "shop.antiques",
+    "tourism.hotel",
+    "shop.clothes",
+    "tourism.artwork",
+    "shop.craft",
+    "shop.furniture",
+    "shop.watches",
+    "shop.popup",
+    "shop.video",
+    "amenity.bar",
+    "amenity.social_facility",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "leisure.playground": 3
+    "shop.books": 6,
+    "amenity.restaurant": 4,
+    "amenity.cafe": 2,
+    "amenity.kindergarten": 1,
+    "tourism.information": 2,
+    "shop.kitchenware": 1,
+    "shop.art": 95,
+    "amenity.bicycle_rental": 1,
+    "shop.convenience": 1,
+    "amenity.college": 1,
+    "shop.interior_decoration": 1,
+    "shop.antiques": 7,
+    "tourism.hotel": 4,
+    "shop.clothes": 1,
+    "tourism.artwork": 2,
+    "shop.craft": 1,
+    "shop.furniture": 6,
+    "shop.watches": 2,
+    "shop.popup": 1,
+    "shop.video": 1,
+    "amenity.bar": 1,
+    "amenity.social_facility": 1,
+    "shop.jewelry": 2
   },
-  "poi_count": 3,
+  "poi_count": 144,
   "pois": [
     {
-      "name": "Tot Lot 112",
+      "name": "L'H\u00f4tel",
       "category": [
-        "leisure.playground"
+        "tourism.hotel"
       ],
-      "lat": 40.8064948,
-      "lon": -73.9679338,
-      "osm_id": 6929263892,
+      "lat": 48.8563424,
+      "lon": 2.3352399,
+      "osm_id": 251733871,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tot Lot 112",
+      "name": "La Palette",
       "category": [
-        "leisure.playground"
+        "amenity.cafe"
       ],
-      "lat": 40.8062674,
-      "lon": -73.9680398,
-      "osm_id": 6929263893,
+      "lat": 48.8553805,
+      "lon": 2.3368914,
+      "osm_id": 1823138916,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Tot Lot 110",
+      "name": "Galerie Lara Vincy",
       "category": [
-        "leisure.playground"
+        "shop.art"
       ],
-      "lat": 40.8052035,
-      "lon": -73.9686339,
-      "osm_id": 6929263894,
+      "lat": 48.8551989,
+      "lon": 2.3368869,
+      "osm_id": 2876194909,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alain Marcelpoil",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555673,
+      "lon": 2.3366527,
+      "osm_id": 3138571447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Prince de Conti",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8556889,
+      "lon": 2.3384129,
+      "osm_id": 4360374397,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "V\u00e9nus des Arts",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8553087,
+      "lon": 2.3370177,
+      "osm_id": 4546850480,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Henri Lagriffoul",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.855851,
+      "lon": 2.3375858,
+      "osm_id": 4840666615,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Arnoux",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554308,
+      "lon": 2.3382226,
+      "osm_id": 4986702150,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loevenbruck",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553771,
+      "lon": 2.3373631,
+      "osm_id": 4986702151,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Balto",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8553897,
+      "lon": 2.3378192,
+      "osm_id": 4986720699,
+      "osm_type": "node",
+      "address": "Rue Mazarine",
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Majestic",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554811,
+      "lon": 2.3383065,
+      "osm_id": 4986721615,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00e9rodote",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8553743,
+      "lon": 2.3381031,
+      "osm_id": 4986721616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le bistrot Mazarin",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8553707,
+      "lon": 2.3375997,
+      "osm_id": 4986721618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pr\u00e8s de Seine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8564101,
+      "lon": 2.3367139,
+      "osm_id": 5001825454,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Librairie des Alpes",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8571903,
+      "lon": 2.3363909,
+      "osm_id": 5001825767,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wilde's Lounge",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8562359,
+      "lon": 2.3352091,
+      "osm_id": 5029919421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Tour de Nesle",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8571943,
+      "lon": 2.3379771,
+      "osm_id": 5158494030,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carolina",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.857012,
+      "lon": 2.33667,
+      "osm_id": 5355026411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Got",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556552,
+      "lon": 2.3368271,
+      "osm_id": 5653502947,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jacques Callot - Mazarine",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8552486,
+      "lon": 2.3375564,
+      "osm_id": 5655931519,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Traits Noirs",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552019,
+      "lon": 2.3372385,
+      "osm_id": 6956493385,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Minotaure",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856369,
+      "lon": 2.3367176,
+      "osm_id": 9217277912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aub\u00e9pine",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.855615,
+      "lon": 2.3368294,
+      "osm_id": 9773853170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cave La Tonnelle",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 48.8557242,
+      "lon": 2.3366236,
+      "osm_id": 9773853176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arbane",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8556526,
+      "lon": 2.3383471,
+      "osm_id": 9887690196,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mill\u00e9sime",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8550828,
+      "lon": 2.3350249,
+      "osm_id": 9916014835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Cin\u00e9ma Club",
+      "category": [
+        "shop.video"
+      ],
+      "lat": 48.8561484,
+      "lon": 2.3373314,
+      "osm_id": 10131474329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie De Vos",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.85696,
+      "lon": 2.3350358,
+      "osm_id": 10788530938,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lumas",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.85503,
+      "lon": 2.3366771,
+      "osm_id": 11146253754,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pascal Lansberg",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552356,
+      "lon": 2.3366993,
+      "osm_id": 11869621976,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Claudine Legrand",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8551289,
+      "lon": 2.3368962,
+      "osm_id": 11869621978,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Christian Deydier",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8555075,
+      "lon": 2.3366648,
+      "osm_id": 11869621979,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zidoun & Bossuyt",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550525,
+      "lon": 2.3369025,
+      "osm_id": 11869621980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Didier Guedj",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554386,
+      "lon": 2.3366725,
+      "osm_id": 11869621981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Got",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554637,
+      "lon": 2.3366701,
+      "osm_id": 11869621982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Natalie Seroussi",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553144,
+      "lon": 2.3366856,
+      "osm_id": 11869621986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Matthieu Richard",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553971,
+      "lon": 2.3366799,
+      "osm_id": 11869621987,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Prot\u00e9e",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8551727,
+      "lon": 2.3367105,
+      "osm_id": 11869621989,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Galerie Parisienne",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556414,
+      "lon": 2.3366373,
+      "osm_id": 11869621990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Norki",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8571034,
+      "lon": 2.3363946,
+      "osm_id": 11876805052,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roger-Viollet",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8570183,
+      "lon": 2.336405,
+      "osm_id": 11876805053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Meubles et Lumi\u00e8res",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8559491,
+      "lon": 2.3367775,
+      "osm_id": 11904528560,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zlotowski",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8559099,
+      "lon": 2.3366032,
+      "osm_id": 11904528561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Applicat-Prazan",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8561247,
+      "lon": 2.3365312,
+      "osm_id": 11904528562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558403,
+      "lon": 2.336793,
+      "osm_id": 11904528564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Yeux Fertiles",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856229,
+      "lon": 2.3367399,
+      "osm_id": 11904528565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uraeus",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557664,
+      "lon": 2.3366254,
+      "osm_id": 11904528566,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yann Ferrandin",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8558008,
+      "lon": 2.3367981,
+      "osm_id": 11904528567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Beautiful Watch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8561302,
+      "lon": 2.3367545,
+      "osm_id": 11904528568,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bacquart",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8561742,
+      "lon": 2.3367474,
+      "osm_id": 11904563069,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jousse",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8560715,
+      "lon": 2.3365387,
+      "osm_id": 11904563070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Berthet-Aittouares",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563548,
+      "lon": 2.336494,
+      "osm_id": 11904563071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ange Basso",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558187,
+      "lon": 2.3366149,
+      "osm_id": 11904563073,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Doria",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562096,
+      "lon": 2.3365166,
+      "osm_id": 11904563074,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Downtown",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8559701,
+      "lon": 2.336549,
+      "osm_id": 11904563075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5 Octobre",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8560213,
+      "lon": 2.3367674,
+      "osm_id": 11904563078,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Berthet-Aittouares",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8560732,
+      "lon": 2.3367627,
+      "osm_id": 11904563079,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Michel Giraud",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8557079,
+      "lon": 2.3368202,
+      "osm_id": 11904563080,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ratton",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8558943,
+      "lon": 2.3367868,
+      "osm_id": 11904563081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9tienne de Causans",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562888,
+      "lon": 2.3367308,
+      "osm_id": 11904563082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555531,
+      "lon": 2.3368326,
+      "osm_id": 11904563084,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vallois",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557631,
+      "lon": 2.3368107,
+      "osm_id": 11904563085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Grand Coloriage",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8565214,
+      "lon": 2.3366969,
+      "osm_id": 11907452781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "EAP Pr\u00e9paSeine - InfoSeine",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 48.8567911,
+      "lon": 2.3364639,
+      "osm_id": 11907452782,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pascal Cuisinier",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8567882,
+      "lon": 2.3366675,
+      "osm_id": 11907452786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jacques Lacoste",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8565908,
+      "lon": 2.3364672,
+      "osm_id": 11907452787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alexandre Biaggi",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8564809,
+      "lon": 2.3364831,
+      "osm_id": 11907452790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chastel-Mar\u00e9chal",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8572157,
+      "lon": 2.3351736,
+      "osm_id": 11907452794,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hawa",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8566693,
+      "lon": 2.3366754,
+      "osm_id": 11907452795,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mathivet",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8572423,
+      "lon": 2.3350011,
+      "osm_id": 11907452798,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C&B Lecomte",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8565773,
+      "lon": 2.336688,
+      "osm_id": 11907452800,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Artrium",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8572494,
+      "lon": 2.3363763,
+      "osm_id": 11907452801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie de l'Institut",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856719,
+      "lon": 2.3364494,
+      "osm_id": 11907452804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles Zana",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8567151,
+      "lon": 2.3366739,
+      "osm_id": 11907452806,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Olivier Nouvellet",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564857,
+      "lon": 2.3367036,
+      "osm_id": 11907452807,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anne Julien",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564271,
+      "lon": 2.3364916,
+      "osm_id": 11907452808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dagoma-Harty",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8566296,
+      "lon": 2.336681,
+      "osm_id": 11907452809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kiyama",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563985,
+      "lon": 2.3361187,
+      "osm_id": 11917892620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Il Vicolo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8557914,
+      "lon": 2.3374653,
+      "osm_id": 11917892622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9ric Grangeon",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8564263,
+      "lon": 2.3372111,
+      "osm_id": 11917892623,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Minotaure",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563672,
+      "lon": 2.3363805,
+      "osm_id": 11917892624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crosby Studios",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564534,
+      "lon": 2.3354938,
+      "osm_id": 11917892625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Forest Divonne",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856491,
+      "lon": 2.3350936,
+      "osm_id": 11917892627,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alzueta",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856443,
+      "lon": 2.3356047,
+      "osm_id": 11917892628,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loeve & Co",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563639,
+      "lon": 2.3350343,
+      "osm_id": 11917892629,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mazarine Variations",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562523,
+      "lon": 2.3372897,
+      "osm_id": 11917892631,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Comparative",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564725,
+      "lon": 2.3353011,
+      "osm_id": 11917892632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monbrison",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8563862,
+      "lon": 2.3362257,
+      "osm_id": 11917892633,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Olivier Castellano",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558512,
+      "lon": 2.3374103,
+      "osm_id": 11917892634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arnaud Lefebvre",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564606,
+      "lon": 2.3354289,
+      "osm_id": 11917892635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mad\u00e9",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8560392,
+      "lon": 2.3373774,
+      "osm_id": 11917892636,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Magdeleine",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564802,
+      "lon": 2.3352109,
+      "osm_id": 11917892637,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JSC Modern Art Gallery",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562635,
+      "lon": 2.3360941,
+      "osm_id": 11917892639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bayart",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563262,
+      "lon": 2.3354136,
+      "osm_id": 11917892640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Galerie du CROUS de Paris",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8563332,
+      "lon": 2.3353534,
+      "osm_id": 11917892641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Entwistle",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8562781,
+      "lon": 2.3359728,
+      "osm_id": 11917892642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Claude Bernard",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562979,
+      "lon": 2.3357447,
+      "osm_id": 11917892643,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esquisse",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 48.8562439,
+      "lon": 2.3362664,
+      "osm_id": 11917892645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loft",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8564088,
+      "lon": 2.3360038,
+      "osm_id": 11917892646,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Patrice Trigano",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.856419,
+      "lon": 2.3358822,
+      "osm_id": 11917892647,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Raymond Dreyfus",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8562545,
+      "lon": 2.3361799,
+      "osm_id": 11917892648,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Portfolio",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8551048,
+      "lon": 2.3377457,
+      "osm_id": 11918835838,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Romain Morandi",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554295,
+      "lon": 2.3379294,
+      "osm_id": 11918835839,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edifor",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555302,
+      "lon": 2.338406,
+      "osm_id": 11918835841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OA Fine Art",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550834,
+      "lon": 2.3379321,
+      "osm_id": 11918835844,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mazlo",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8553335,
+      "lon": 2.3380337,
+      "osm_id": 11918835845,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vellutini",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552423,
+      "lon": 2.3378696,
+      "osm_id": 11918835847,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Larroque",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855124,
+      "lon": 2.3379156,
+      "osm_id": 11918835849,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Espace 4",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557239,
+      "lon": 2.3376738,
+      "osm_id": 11918835850,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Corrado Bortone",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555202,
+      "lon": 2.3377613,
+      "osm_id": 11918835851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maxime Flatry",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855293,
+      "lon": 2.3379557,
+      "osm_id": 11918835853,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hamid Khellafi",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554728,
+      "lon": 2.3376068,
+      "osm_id": 11918835854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jacques Barr\u00e8re",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556872,
+      "lon": 2.3375246,
+      "osm_id": 11918835855,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Garbelli",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554744,
+      "lon": 2.3377773,
+      "osm_id": 11918835858,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L\u00e9lia Mordoch",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550518,
+      "lon": 2.3377632,
+      "osm_id": 11918835862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kal\u00e9idoscope",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855042,
+      "lon": 2.3379476,
+      "osm_id": 11918835863,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gimpel & M\u00fcller",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556197,
+      "lon": 2.3382875,
+      "osm_id": 11937604605,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Argiles",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.85546,
+      "lon": 2.3379885,
+      "osm_id": 11937604612,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Couteron",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8555048,
+      "lon": 2.3380691,
+      "osm_id": 11937604625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Montres Mania",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8551381,
+      "lon": 2.3367177,
+      "osm_id": 11937604636,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bernard Jordan",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555645,
+      "lon": 2.3381868,
+      "osm_id": 11937604638,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Incognito Artclub",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554844,
+      "lon": 2.3380369,
+      "osm_id": 11937604648,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arsenic Galerie",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855528,
+      "lon": 2.338119,
+      "osm_id": 11937604653,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Faits Maison",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8551764,
+      "lon": 2.3351198,
+      "osm_id": 12809512625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Xavier Eeckhout",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553773,
+      "lon": 2.3372598,
+      "osm_id": 12865069116,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Toit du Monde",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557671,
+      "lon": 2.3361764,
+      "osm_id": 12865069117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agn\u00e8s Aittouares",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552015,
+      "lon": 2.3371754,
+      "osm_id": 12865069118,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lee",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855701,
+      "lon": 2.3360591,
+      "osm_id": 12865069119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R\u00e9sidence Visconti",
+      "category": [
+        "amenity.social_facility"
+      ],
+      "lat": 48.8557068,
+      "lon": 2.3357363,
+      "osm_id": 12865069120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cyril Guernieri",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855714,
+      "lon": 2.3359345,
+      "osm_id": 12865069121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Atelier Visconti",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855747,
+      "lon": 2.3363659,
+      "osm_id": 12865069122,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Voyageurs & Curieux",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855739,
+      "lon": 2.3364388,
+      "osm_id": 12865069123,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jean-Pierre Dutel",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8553766,
+      "lon": 2.336999,
+      "osm_id": 12865069124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popup 5",
+      "category": [
+        "shop.popup"
+      ],
+      "lat": 48.8552055,
+      "lon": 2.3369834,
+      "osm_id": 12865069125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bernard Dulon",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553767,
+      "lon": 2.3371919,
+      "osm_id": 12865069126,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9ric Hertault",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556802,
+      "lon": 2.3362791,
+      "osm_id": 12865069127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie GNG",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556727,
+      "lon": 2.3363568,
+      "osm_id": 12865069128,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mingei",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556918,
+      "lon": 2.3361634,
+      "osm_id": 12865069130,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Visconti",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 48.8557298,
+      "lon": 2.3355324,
+      "osm_id": 12865069131,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "S\u00e9verin Maly",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552019,
+      "lon": 2.3373557,
+      "osm_id": 12865069132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boquet",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558789,
+      "lon": 2.3351435,
+      "osm_id": 12865069133,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Michel Bouvier",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8558265,
+      "lon": 2.3356333,
+      "osm_id": 12865069134,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loevenbruck",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8553784,
+      "lon": 2.3370798,
+      "osm_id": 12865069135,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KAMA-ASA",
+      "category": [
+        "shop.kitchenware"
+      ],
+      "lat": 48.8550032,
+      "lon": 2.33607,
+      "osm_id": 13130593176,
+      "osm_type": "node",
+      "address": "Rue Jacob",
       "road_geometry": null
     }
   ]

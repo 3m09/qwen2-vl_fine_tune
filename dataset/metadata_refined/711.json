@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/711.png",
+  "center_lat": 25.19112612612613,
+  "center_lon": 55.278689213051884,
+  "bbox": [
+    55.277444739138076,
+    25.19,
+    55.27993368696569,
+    25.192252252252253
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Nezesaussie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1910881,
+      "lon": 55.2776242,
+      "osm_id": 1285758027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Al Baba Sweets",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1919399,
+      "lon": 55.2792549,
+      "osm_id": 6433795603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

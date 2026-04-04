@@ -1,20 +1,249 @@
 {
-  "image": "g_dataset/images/2.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.99256186604048,
+  "image": "dataset/images/2.png",
+  "center_lat": 35.65512612612613,
+  "center_lon": 139.70292956546737,
   "bbox": [
-    -73.99404949283237,
-    40.8,
-    -73.99107423924856,
-    40.80225225225225
+    139.70154365237389,
+    35.654,
+    139.70431547856083,
+    35.65625225225226
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.college",
+    "amenity.place_of_worship",
+    "leisure.garden",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.clothes",
+    "amenity.dentist",
+    "shop.massage",
+    "amenity.clinic",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.college": 3,
+    "amenity.place_of_worship": 2,
+    "leisure.garden": 2,
+    "amenity.cafe": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 2,
+    "shop.clothes": 1,
+    "amenity.dentist": 1,
+    "shop.massage": 1,
+    "amenity.clinic": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 17,
+  "pois": [
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6559993,
+      "lon": 139.7042969,
+      "osm_id": 701831694,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6e0b\u8c37\u6559\u4f1a",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.655244,
+      "lon": 139.7024509,
+      "osm_id": 742560879,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5e78\u798f\u306e\u79d1\u5b66\u6e0b\u8c37\u7cbe\u820e",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6543427,
+      "lon": 139.7042379,
+      "osm_id": 742561029,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30df\u30cb\u30b9\u30c8\u30c3\u30d7",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6542915,
+      "lon": 139.7029891,
+      "osm_id": 742561064,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65e5\u672c\u30c7\u30b6\u30a4\u30ca\u30fc\u5b66\u9662",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 35.6545673,
+      "lon": 139.7040501,
+      "osm_id": 760366329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9752\u5c71\u88fd\u56f3\u5c02\u9580\u5b66\u6821",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 35.6549148,
+      "lon": 139.7037254,
+      "osm_id": 760366345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u73c8\u7432\u7814\u7a76\u6240",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6554827,
+      "lon": 139.7038045,
+      "osm_id": 1815438763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u533b\u6b6f\u5c02\u9580\u5b66\u6821 \u30e1\u30eb\u30ea\u30c3\u30af\u30b9\u5b66\u5712",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 35.6541379,
+      "lon": 139.7033513,
+      "osm_id": 3528208791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u685c\u4e18\u6b6f\u79d1\u30af\u30ea\u30cb\u30c3\u30af",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 35.6541617,
+      "lon": 139.7027996,
+      "osm_id": 3528208792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ethosens",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 35.6542829,
+      "lon": 139.7034716,
+      "osm_id": 6996856081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6176\u53cb\u6574\u5f62\u5916\u79d1\u6e0b\u8c37",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 35.6557876,
+      "lon": 139.7038496,
+      "osm_id": 8401621448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u304b\u3064\u304a\u98df\u5802",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.654087,
+      "lon": 139.702118,
+      "osm_id": 9829521551,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frenchman Shibuya Sakura Stage",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6561261,
+      "lon": 139.7028446,
+      "osm_id": 12452359667,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306f\u3050\u304f\u307fSTAGE",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": 35.6552997,
+      "lon": 139.7020903,
+      "osm_id": 12981434955,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u685c\u4e18\u306e\u68ee",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": 35.6554919,
+      "lon": 139.7029738,
+      "osm_id": 12981434960,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Junka DRY HEAD SPA",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 35.6549397,
+      "lon": 139.7027406,
+      "osm_id": 12981434973,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nail Salon Pucci",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 35.6559558,
+      "lon": 139.7019498,
+      "osm_id": 12981434974,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 30,
+    "removed_count": 13,
     "model": "gemini-2.5-flash"
   }
 }

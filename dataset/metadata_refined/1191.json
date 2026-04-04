@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1191.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.98064837059768,
+  "bbox": [
+    -73.98213695747478,
+    40.84279279279284,
+    -73.97915978372058,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "amenity.police"
+  ],
+  "poi_count_per_category": {
+    "amenity.police": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Fort Lee Police",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 40.8443092,
+      "lon": -73.9813227,
+      "osm_id": 2270766964,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

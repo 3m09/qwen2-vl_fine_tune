@@ -1,0 +1,530 @@
+{
+  "image": "dataset/images/276.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.651485325856676,
+  "bbox": [
+    -46.65271393259698,
+    -23.56774774774775,
+    -46.65025671911638,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.mobile_phone",
+    "shop.hairdresser",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.sports",
+    "amenity.cinema",
+    "amenity.fast_food",
+    "amenity.hospital",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "amenity.parking",
+    "amenity.studio",
+    "shop.beauty",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.newsagent",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.shoes",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 3,
+    "amenity.cafe": 3,
+    "shop.mobile_phone": 2,
+    "shop.hairdresser": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.sports": 1,
+    "amenity.cinema": 1,
+    "amenity.fast_food": 3,
+    "amenity.hospital": 1,
+    "shop.clothes": 1,
+    "amenity.bureau_de_change": 1,
+    "amenity.parking": 2,
+    "amenity.studio": 1,
+    "shop.beauty": 1,
+    "amenity.pharmacy": 2,
+    "shop.cosmetics": 1,
+    "shop.newsagent": 3,
+    "amenity.bar": 5,
+    "amenity.bank": 3,
+    "shop.shoes": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 39,
+  "pois": [
+    {
+      "name": "New Hair",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5674189,
+      "lon": -46.6516403,
+      "osm_id": 1059492740,
+      "osm_type": "node",
+      "address": "Al. Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5662154,
+      "lon": -46.6525925,
+      "osm_id": 1059504594,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Ita\u00fa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5668781,
+      "lon": -46.6521933,
+      "osm_id": 1059504617,
+      "osm_type": "node",
+      "address": "Al. Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Pier Paulista",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5666506,
+      "lon": -46.6512405,
+      "osm_id": 1747564182,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Top Center Shopping",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5658304,
+      "lon": -46.6508381,
+      "osm_id": 1747574209,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Black Dog",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.56674,
+      "lon": -46.6516575,
+      "osm_id": 1748655746,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Creme",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.566354,
+      "lon": -46.6508719,
+      "osm_id": 2637736270,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Asterix",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.566686,
+      "lon": -46.6512751,
+      "osm_id": 2637738149,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Reserva Cultural",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": -23.5656325,
+      "lon": -46.6510871,
+      "osm_id": 2637738326,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bistro Reserva",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5655754,
+      "lon": -46.6511596,
+      "osm_id": 2972400179,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bradesco",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5663282,
+      "lon": -46.6502612,
+      "osm_id": 4128777763,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Gazeta",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5657291,
+      "lon": -46.6510785,
+      "osm_id": 4128787421,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "CNS Cal\u00e7ados",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5664757,
+      "lon": -46.6507262,
+      "osm_id": 4128787424,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Via Lins",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5665215,
+      "lon": -46.6506713,
+      "osm_id": 4128788447,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Droga Raia",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5664017,
+      "lon": -46.6508148,
+      "osm_id": 4128788904,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Top Center",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5661802,
+      "lon": -46.6505498,
+      "osm_id": 4128789600,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Hospital Total Cor",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": -23.5676418,
+      "lon": -46.6509728,
+      "osm_id": 4899871487,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Rascal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5671378,
+      "lon": -46.6515762,
+      "osm_id": 4899871493,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Sicredi",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5657371,
+      "lon": -46.6516268,
+      "osm_id": 4945785817,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Brasil Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5665536,
+      "lon": -46.6513893,
+      "osm_id": 4945788521,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Venice Hair",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5669623,
+      "lon": -46.6517742,
+      "osm_id": 4945788524,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Pronto Formula Manipula\u00e7\u00e3o",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5667767,
+      "lon": -46.6520021,
+      "osm_id": 4945788526,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Netpark",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5662957,
+      "lon": -46.6524557,
+      "osm_id": 4945788528,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Eu Tu Eles Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5667243,
+      "lon": -46.6516414,
+      "osm_id": 4945788534,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Jovem Banca (Banca do Junior)",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5668255,
+      "lon": -46.6514113,
+      "osm_id": 4947353935,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Eugenio Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5664582,
+      "lon": -46.6510527,
+      "osm_id": 4947353938,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Prainha Paulista",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5666085,
+      "lon": -46.6511995,
+      "osm_id": 4947353944,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "La Barbara Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5667162,
+      "lon": -46.6513045,
+      "osm_id": 4947353945,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "TIM",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": -23.5666221,
+      "lon": -46.6505965,
+      "osm_id": 4947353949,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Claro",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": -23.566693,
+      "lon": -46.6505112,
+      "osm_id": 4947353951,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.566083,
+      "lon": -46.6505201,
+      "osm_id": 4964023947,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "McCaf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5659557,
+      "lon": -46.6504623,
+      "osm_id": 4964023964,
+      "osm_type": "node",
+      "address": "Alameda Joaquim Eug\u00eanio de Lima",
+      "road_geometry": null
+    },
+    {
+      "name": "Decathlon",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": -23.5657066,
+      "lon": -46.6509967,
+      "osm_id": 5885277485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5656939,
+      "lon": -46.6508683,
+      "osm_id": 7302280885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista 778",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5662497,
+      "lon": -46.6504364,
+      "osm_id": 11135381332,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Natura",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5665292,
+      "lon": -46.6506395,
+      "osm_id": 11293599773,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Paulista, 901",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5658262,
+      "lon": -46.6514756,
+      "osm_id": 12246706765,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Jovem Pan",
+      "category": [
+        "amenity.studio"
+      ],
+      "lat": -23.5664928,
+      "lon": -46.650896,
+      "osm_id": 12258572545,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "DayCambio",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": -23.5656258,
+      "lon": -46.6505551,
+      "osm_id": 13278113901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

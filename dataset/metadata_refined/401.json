@@ -1,0 +1,161 @@
+{
+  "image": "dataset/images/401.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.1612169792286,
+  "bbox": [
+    114.16,
+    22.2795045045045,
+    114.16243395845721,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "railway.subway_entrance",
+    "railway.tram_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 7,
+    "railway.subway_entrance": 3,
+    "railway.tram_stop": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2801078,
+      "lon": 114.1607035,
+      "osm_id": 2496629565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2801135,
+      "lon": 114.160696,
+      "osm_id": 2496629567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2801605,
+      "lon": 114.1606409,
+      "osm_id": 2496629569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u5229\u9053 Murray Road",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2797752,
+      "lon": 114.1617302,
+      "osm_id": 2496629601,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u50cf\u5ee3\u5834 Statue Square",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2814885,
+      "lon": 114.1601402,
+      "osm_id": 2496629618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u50cf\u5ee3\u5834 Statue Square",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2814989,
+      "lon": 114.1601012,
+      "osm_id": 2496629620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2810502,
+      "lon": 114.1608887,
+      "osm_id": 2555337840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2812628,
+      "lon": 114.1609732,
+      "osm_id": 2555632176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u82b1\u5712 Chater Garden",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2812671,
+      "lon": 114.1604814,
+      "osm_id": 2555632177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u50cf\u5ee3\u5834 Statue Square",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2814522,
+      "lon": 114.1602777,
+      "osm_id": 7942512563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u906e\u6253\u9053 Chater Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.281493,
+      "lon": 114.1601235,
+      "osm_id": 8219641353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

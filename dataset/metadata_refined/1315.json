@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1315.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.96873436262109,
+  "bbox": [
+    -73.97022320249627,
+    40.85405405405412,
+    -73.9672455227459,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "shop.chemist",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "shop.chemist": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Walgreens",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.8562256,
+      "lon": -73.9681739,
+      "osm_id": 8514846281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kura Sushi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8557109,
+      "lon": -73.9675799,
+      "osm_id": 8697676632,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

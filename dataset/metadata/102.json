@@ -1,45 +1,71 @@
 {
   "image": "dataset/images/102.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.98065822633829,
+  "center_lat": 18.925630630630632,
+  "center_lon": 72.82619047519378,
   "bbox": [
-    -73.9821460550815,
-    40.80900900900902,
-    -73.97917039759508,
-    40.81126126126127
+    72.825,
+    18.924504504504505,
+    72.82738095038756,
+    18.926756756756756
   ],
   "unique_categories": [
-    "shop.party",
-    "shop.department_store"
+    "amenity.conference_centre",
+    "railway.stop",
+    "railway.station"
   ],
   "poi_count_per_category": {
-    "shop.party": 1,
-    "shop.department_store": 1
+    "amenity.conference_centre": 1,
+    "railway.stop": 2,
+    "railway.station": 1
   },
-  "poi_count": 2,
+  "poi_count": 4,
   "pois": [
     {
-      "name": "Marshalls",
+      "name": "Y B Chavan Centre",
       "category": [
-        "shop.department_store"
+        "amenity.conference_centre"
       ],
-      "lat": 40.8110682,
-      "lon": -73.9821122,
-      "osm_id": 8530362502,
+      "lat": 18.925121,
+      "lon": 72.8265694,
+      "osm_id": 4302149990,
+      "osm_type": "node",
+      "address": "General Jagannath Bhosle Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Vidhan Bhavan",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9248087,
+      "lon": 72.8255503,
+      "osm_id": 5221297488,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Party City",
+      "name": "Vidhan Bhavan",
       "category": [
-        "shop.party"
+        "railway.stop"
       ],
-      "lat": 40.8112331,
-      "lon": -73.9819845,
-      "osm_id": 9181495787,
+      "lat": 18.9247609,
+      "lon": 72.8254166,
+      "osm_id": 5777542385,
       "osm_type": "node",
-      "address": "River Road",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vidhan Bhavan",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.9247813,
+      "lon": 72.8254934,
+      "osm_id": 13207029318,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/845.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.93899902152846,
+  "bbox": [
+    -73.94048685027167,
+    40.80900900900902,
+    -73.93751119278525,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.bicycle_rental",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "OurtBox Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8105082,
+      "lon": -73.9395267,
+      "osm_id": 4953971785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 130th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8094367,
+      "lon": -73.940178,
+      "osm_id": 5235611138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8106577,
+      "lon": -73.9393045,
+      "osm_id": 5235612357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - 5 Ave & W 131 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8101531,
+      "lon": -73.9397223,
+      "osm_id": 13243984886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

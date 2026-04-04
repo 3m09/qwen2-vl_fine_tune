@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/529.png",
+  "center_lat": 41.00337837837838,
+  "center_lon": 28.982382741096533,
+  "bbox": [
+    28.980890558356766,
+    41.002252252252255,
+    28.983874923836304,
+    41.00450450450451
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.townhall",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.townhall": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Kalyon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0032004,
+      "lon": 28.9809106,
+      "osm_id": 4343584752,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cankurtaran Mahalle Muhtarl\u0131\u011f\u0131",
+      "category": [
+        "amenity.townhall"
+      ],
+      "lat": 41.0040456,
+      "lon": 28.9820351,
+      "osm_id": 5113620589,
+      "osm_type": "node",
+      "address": "\u015ead\u0131rvan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Akb\u0131y\u0131k",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.004446,
+      "lon": 28.983104,
+      "osm_id": 11514193944,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

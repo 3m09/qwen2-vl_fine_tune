@@ -1,107 +1,155 @@
 {
   "image": "dataset/images/16.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9509083158671,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.09819080608899147,
   "bbox": [
-    -73.952395942659,
-    40.8,
-    -73.94942068907518,
-    40.80225225225225
+    -0.1,
+    51.505,
+    -0.09638161217798295,
+    51.50725225225226
   ],
   "unique_categories": [
-    "shop.hairdresser",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.bar",
     "amenity.bicycle_rental",
-    "amenity.pharmacy",
-    "shop.supermarket",
-    "amenity.restaurant",
-    "amenity.clinic"
+    "leisure.sports_centre",
+    "tourism.artwork"
   ],
   "poi_count_per_category": {
-    "shop.hairdresser": 1,
+    "amenity.cafe": 4,
+    "highway.bus_stop": 2,
+    "amenity.bar": 1,
     "amenity.bicycle_rental": 1,
-    "amenity.pharmacy": 1,
-    "shop.supermarket": 1,
-    "amenity.restaurant": 1,
-    "amenity.clinic": 1
+    "leisure.sports_centre": 1,
+    "tourism.artwork": 1
   },
-  "poi_count": 6,
+  "poi_count": 10,
   "pois": [
     {
-      "name": "Citi Bike - Lenox Ave & W 115 St",
+      "name": "Lavington Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5053624,
+      "lon": -0.0988059,
+      "osm_id": 469773775,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lavington Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5053651,
+      "lon": -0.0980908,
+      "osm_id": 469773776,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Refinery",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5060174,
+      "lon": -0.0995696,
+      "osm_id": 1662606928,
+      "osm_type": "node",
+      "address": "Southwark Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tate Modern",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8011308,
-      "lon": -73.9501098,
-      "osm_id": 6680630122,
+      "lat": 51.5067046,
+      "lon": -0.0987005,
+      "osm_id": 4335940089,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Los 3 Charros",
+      "name": "Boiler And Company",
       "category": [
-        "amenity.restaurant"
+        "amenity.cafe"
       ],
-      "lat": 40.8001097,
-      "lon": -73.9513997,
-      "osm_id": 9459167484,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Your Modern Barber Salon",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8020781,
-      "lon": -73.9502363,
-      "osm_id": 9553068943,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem RX",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8020016,
-      "lon": -73.9500536,
-      "osm_id": 9553068950,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Fine Fare Supermarket",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8017203,
-      "lon": -73.9495714,
-      "osm_id": 10969587472,
+      "lat": 51.5062358,
+      "lon": -0.0995086,
+      "osm_id": 7579085325,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Community Healthcare Network",
+      "name": "Bankside Coffee",
       "category": [
-        "amenity.clinic"
+        "amenity.cafe"
       ],
-      "lat": 40.8011884,
-      "lon": -73.9495007,
-      "osm_id": 11033496966,
+      "lat": 51.5064039,
+      "lon": -0.0997688,
+      "osm_id": 9550715317,
       "osm_type": "node",
-      "address": "West 115th Street",
+      "address": "Sumner Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Font Borough",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5071808,
+      "lon": -0.0971764,
+      "osm_id": 11042290163,
+      "osm_type": "node",
+      "address": "Park Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Reach",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5065785,
+      "lon": -0.0986041,
+      "osm_id": 11263417816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nine Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5052607,
+      "lon": -0.098579,
+      "osm_id": 12082875769,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uncommon",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5067546,
+      "lon": -0.0976847,
+      "osm_id": 12219090244,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 13,
-    "removed_count": 7,
+    "original_poi_count": 16,
+    "removed_count": 6,
     "model": "gemini-2.5-flash"
   }
 }

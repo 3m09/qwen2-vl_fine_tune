@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/330.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.83739056679879,
+  "bbox": [
+    103.83626415163526,
+    1.298,
+    103.83851698196231,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "shop.bakery",
+    "amenity.restaurant",
+    "railway.subway_entrance",
+    "leisure.sports_centre",
+    "amenity.food_court"
+  ],
+  "poi_count_per_category": {
+    "shop.bakery": 1,
+    "amenity.restaurant": 3,
+    "railway.subway_entrance": 1,
+    "leisure.sports_centre": 1,
+    "amenity.food_court": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Somerset (NSL) Exit A",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3001135,
+      "lon": 103.838419,
+      "osm_id": 665020335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Muve",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 1.2982127,
+      "lon": 103.8379334,
+      "osm_id": 4911838149,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eat",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.300089,
+      "lon": 103.8370717,
+      "osm_id": 8192613833,
+      "osm_type": "node",
+      "address": "Somerset Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Imperial Treasure Steamboat",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3000586,
+      "lon": 103.8372241,
+      "osm_id": 9722348703,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kei Kaisendon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3001528,
+      "lon": 103.8373859,
+      "osm_id": 9722353369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Han\u2019s",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3001236,
+      "lon": 103.8377822,
+      "osm_id": 9722357427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "So Good Bakery",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.2999653,
+      "lon": 103.8373899,
+      "osm_id": 12083096406,
+      "osm_type": "node",
+      "address": "Somerset Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

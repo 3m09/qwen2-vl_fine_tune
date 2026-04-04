@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/663.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.13902934970933,
+  "bbox": [
+    -99.14022347976747,
+    19.429504504504504,
+    -99.13783521965121,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.sports",
+    "amenity.bank",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 2,
+    "shop.sports": 1,
+    "amenity.bank": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Caf\u00e9 Emir",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4305623,
+      "lon": -99.1380405,
+      "osm_id": 3649569754,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "El Huequito",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4300772,
+      "lon": -99.1387451,
+      "osm_id": 4533079389,
+      "osm_type": "node",
+      "address": "Bolivar",
+      "road_geometry": null
+    },
+    {
+      "name": "Banorte",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4314402,
+      "lon": -99.1382692,
+      "osm_id": 5842139801,
+      "osm_type": "node",
+      "address": "Venustiano Carranza",
+      "road_geometry": null
+    },
+    {
+      "name": "Mart\u00ed",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 19.4315779,
+      "lon": -99.1387731,
+      "osm_id": 6332252045,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Casa de To\u00f1o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4303064,
+      "lon": -99.1387629,
+      "osm_id": 6357514929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Casa de To\u00f1o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4303139,
+      "lon": -99.1387783,
+      "osm_id": 6960857588,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4314875,
+      "lon": -99.1380641,
+      "osm_id": 9212053417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Go Mart",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4308582,
+      "lon": -99.1397325,
+      "osm_id": 11017027600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 20,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

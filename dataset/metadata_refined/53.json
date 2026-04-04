@@ -1,20 +1,143 @@
 {
   "image": "dataset/images/53.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.98363499468283,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.09095179412772206,
   "bbox": [
-    -73.98512272243893,
-    40.80450450450451,
-    -73.98214726692672,
-    40.80675675675676
+    -0.09276143530217765,
+    51.51626126126128,
+    -0.08914215295326647,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.bank",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "leisure.sports_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.bar": 1,
+    "amenity.bank": 1,
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 4,
+    "leisure.sports_centre": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Fore Street",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5177954,
+      "lon": -0.0900262,
+      "osm_id": 973101833,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pure Ride",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5183566,
+      "lon": -0.0907248,
+      "osm_id": 3936798451,
+      "osm_type": "node",
+      "address": "Fore Street Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Davy's at Woolgate Bar and Brasserie",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5164211,
+      "lon": -0.0911334,
+      "osm_id": 4500393142,
+      "osm_type": "node",
+      "address": "Basinghall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ritual",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5163676,
+      "lon": -0.0899412,
+      "osm_id": 5040168506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pain Quotidien",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5180789,
+      "lon": -0.0904525,
+      "osm_id": 5041453021,
+      "osm_type": "node",
+      "address": "Fore Street Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Metro Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5177398,
+      "lon": -0.0893825,
+      "osm_id": 6158536941,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Minotaur",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5179155,
+      "lon": -0.0918706,
+      "osm_id": 11009048267,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beyond Tomorrow",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5163947,
+      "lon": -0.0921508,
+      "osm_id": 11300375885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Salters' Hall Gates",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5180871,
+      "lon": -0.0918558,
+      "osm_id": 12463427301,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 18,
+    "removed_count": 9,
     "model": "gemini-2.5-flash"
   }
 }

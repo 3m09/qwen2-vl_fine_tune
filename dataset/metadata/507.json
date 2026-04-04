@@ -1,0 +1,893 @@
+{
+  "image": "dataset/images/507.png",
+  "center_lat": 22.300900900900892,
+  "center_lon": 114.17825733595687,
+  "bbox": [
+    114.17704018022641,
+    22.299774774774765,
+    114.17947449168733,
+    22.302027027027016
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.camera",
+    "shop.lottery",
+    "amenity.cafe",
+    "shop.toys",
+    "shop.mobile_phone",
+    "shop.optician",
+    "shop.watch",
+    "amenity.atm",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.travel_agency",
+    "amenity.fast_food",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "amenity.parking",
+    "shop.pastry",
+    "amenity.library",
+    "amenity.pharmacy",
+    "shop.bakery",
+    "shop.herbalist",
+    "amenity.bank",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 20,
+    "shop.camera": 1,
+    "shop.lottery": 1,
+    "amenity.cafe": 3,
+    "shop.toys": 1,
+    "shop.mobile_phone": 1,
+    "shop.optician": 1,
+    "shop.watch": 1,
+    "amenity.atm": 1,
+    "shop.convenience": 2,
+    "highway.bus_stop": 7,
+    "shop.travel_agency": 1,
+    "amenity.fast_food": 6,
+    "shop.clothes": 3,
+    "amenity.bureau_de_change": 5,
+    "amenity.parking": 1,
+    "shop.pastry": 1,
+    "amenity.library": 1,
+    "amenity.pharmacy": 7,
+    "shop.bakery": 1,
+    "shop.herbalist": 1,
+    "amenity.bank": 3,
+    "shop.mall": 1
+  },
+  "poi_count": 69,
+  "pois": [
+    {
+      "name": "\u5eb7\u5b8f\u5ee3\u5834 Concordia Plaza",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.3018783,
+      "lon": 114.1788706,
+      "osm_id": 1189560081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u516c\u5171\u5716\u66f8\u9928 Tsim Sha Tsui Public Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 22.301597,
+      "lon": 114.1785303,
+      "osm_id": 1697823539,
+      "osm_type": "node",
+      "address": "\u79d1\u5b78\u9928\u9053 Science Museum Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.300782,
+      "lon": 114.178432,
+      "osm_id": 2411776363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e90\u8208\u627e\u63db\u516c\u53f8 Yuen Hing Foreign Exchange",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.3007532,
+      "lon": 114.1786993,
+      "osm_id": 2411879063,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u56cd",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 22.3007272,
+      "lon": 114.1786648,
+      "osm_id": 2411879093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6bd4\u683c\u62ab\u8428",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3007005,
+      "lon": 114.1786314,
+      "osm_id": 2411879109,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.3005488,
+      "lon": 114.1784411,
+      "osm_id": 2411881753,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f0e\u8a18\u7c89\u9eb5\u4e16\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3005234,
+      "lon": 114.1784092,
+      "osm_id": 2411881754,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5abd\u54aa\u96de\u86cb\u4ed4",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.3002984,
+      "lon": 114.1781227,
+      "osm_id": 2411883054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4e9e\u9280\u884c BEA",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.300319,
+      "lon": 114.1778719,
+      "osm_id": 2411884464,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4e9e\u9280\u884c BEA",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 22.3002838,
+      "lon": 114.1778266,
+      "osm_id": 2411884466,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5065\u5eb7\u4e16\u7d00",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.3001096,
+      "lon": 114.1776022,
+      "osm_id": 2411988961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8aa0\u53cb\u627e\u63db Sing Yau Exchange",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.3005344,
+      "lon": 114.1777496,
+      "osm_id": 2411988965,
+      "osm_type": "node",
+      "address": "\u52a0\u9023\u5a01\u8001\u9053 Granville Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u514d\u7a05\u85e5\u574a",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.3001478,
+      "lon": 114.1776514,
+      "osm_id": 2411988968,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.3000043,
+      "lon": 114.1774667,
+      "osm_id": 2411988970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u85dd\u9054\u6578\u78bc\u5668\u6750\u516c\u53f8 Artex Digital Equipment Co.",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 22.3001844,
+      "lon": 114.1776986,
+      "osm_id": 2411988973,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5eb7\u7199\u514d\u7a05\u85e5\u5e97",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.3000648,
+      "lon": 114.1775445,
+      "osm_id": 2411988975,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u80a5\u4ed4\u8a18\u9eb5\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3004079,
+      "lon": 114.1779864,
+      "osm_id": 2411988977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a02\u5929\u51b0\u5ba4 Lok Tin Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3005735,
+      "lon": 114.1781808,
+      "osm_id": 2411988979,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e23\u6253\u9280\u884c Standard Chartered",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2999971,
+      "lon": 114.1781563,
+      "osm_id": 2412002494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6587\u83ef\u4e2d\u5fc3 New Mandarin Plaza",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.3003917,
+      "lon": 114.1784652,
+      "osm_id": 2412741684,
+      "osm_type": "node",
+      "address": "Science Museum Road",
+      "road_geometry": null
+    },
+    {
+      "name": "city chain",
+      "category": [
+        "shop.watch"
+      ],
+      "lat": 22.3001979,
+      "lon": 114.1779843,
+      "osm_id": 2412741685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8c50\u660e\u82d1\u7c89\u9eb5\u71d2\u81d8\u8336\u9910\u5ef3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3000621,
+      "lon": 114.1780959,
+      "osm_id": 2412741686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e90\u8a18\u9910\u5ef3 Yuen Kee Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3001365,
+      "lon": 114.1780354,
+      "osm_id": 2412741687,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u773c\u93e188 Optical 88",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.3002225,
+      "lon": 114.1780206,
+      "osm_id": 2412741688,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5510\u8a18\u5305\u9ede Tong Kee Bao Dim",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.3004982,
+      "lon": 114.1783776,
+      "osm_id": 2441044896,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5143\u6c17\u5bff\u53f8 Genki Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3009634,
+      "lon": 114.1786507,
+      "osm_id": 2441044897,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u532f\u9054\u627e\u63db Golden Forex",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.3006284,
+      "lon": 114.178541,
+      "osm_id": 2441044898,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u5929\u5802 Hoi Tin Tong",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.3008596,
+      "lon": 114.1785255,
+      "osm_id": 2441044899,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5341\u516b\u5ea7\u72d7\u4ed4\u7c89",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3003613,
+      "lon": 114.1782059,
+      "osm_id": 2441044900,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e2f\u6f6e\u6a13 Kong Chiu Lau",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3008313,
+      "lon": 114.1784915,
+      "osm_id": 2441044901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9806\u901a\u627e\u63db",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.3005805,
+      "lon": 114.1784808,
+      "osm_id": 2441044902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u975a\u975a\u9eb5\u5de5\u623f Leng Leng Che Chai Noodle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.3003927,
+      "lon": 114.1782453,
+      "osm_id": 2441044903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maple",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.3005648,
+      "lon": 114.1777858,
+      "osm_id": 2441044904,
+      "osm_type": "node",
+      "address": "\u52a0\u9023\u5a01\u8001\u9053 Granville Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Oia Oia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.3006718,
+      "lon": 114.1782992,
+      "osm_id": 2441044905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u5f8b\u8cd3\u822a\u7a7a Philippine Airlines",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 22.3002353,
+      "lon": 114.1777642,
+      "osm_id": 2441044906,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7d05\u6a39\u6797 Red Forrest",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3007118,
+      "lon": 114.1783475,
+      "osm_id": 2441044907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6fb3\u9580\u5927\u5229\u4f86\u8a18 Tai Lei Loi Kei",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.3006069,
+      "lon": 114.1785139,
+      "osm_id": 2441044908,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u990a\u548c\u5802\u6dbc\u8336\u9928 Yeung Wo Tong",
+      "category": [
+        "shop.herbalist"
+      ],
+      "lat": 22.3006471,
+      "lon": 114.1785644,
+      "osm_id": 2441044909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516c\u548c\u8373\u54c1\u4e16\u5bb6",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.3008856,
+      "lon": 114.1785568,
+      "osm_id": 2441045198,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8881\u8a18\u96f2\u9903 Yuen Kee Dumpling",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3003283,
+      "lon": 114.1781649,
+      "osm_id": 2441045199,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u990a\u751f\u85e5\u574a",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.3006777,
+      "lon": 114.1786028,
+      "osm_id": 2441045200,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Clawsome",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 22.3004304,
+      "lon": 114.1782926,
+      "osm_id": 2441045201,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bcc\u58eb\u5c7155 Fujiyama 55",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2999087,
+      "lon": 114.1782824,
+      "osm_id": 2441266971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8c50\u8a18\u627e\u63db\u5e97 Fung Kee Foreign Exchange",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.3002626,
+      "lon": 114.1785469,
+      "osm_id": 2441266972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u8336\u9910\u5ef3 Hong Kong Tea Time",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3004256,
+      "lon": 114.1787408,
+      "osm_id": 2441266974,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jockey Club",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": 22.3002135,
+      "lon": 114.1784726,
+      "osm_id": 2441266975,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u51fa\u53e3\u5916\u8cbf\u6642\u88dd\u5e97 Market Outlet",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2999841,
+      "lon": 114.1783767,
+      "osm_id": 2441266979,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Open Oyster",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2997997,
+      "lon": 114.1787469,
+      "osm_id": 2441266983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u9bae\u7ad9 Seafood Station",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3002904,
+      "lon": 114.178589,
+      "osm_id": 2441266988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fe1\u548c\u4fbf\u5229\u5e97",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.3000606,
+      "lon": 114.178486,
+      "osm_id": 2441267017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u6e2f\u85e5\u696d\u6709\u9650\u516c\u53f8",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2998415,
+      "lon": 114.1787107,
+      "osm_id": 2441267022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u71d5\u7aa9\u838a",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2999501,
+      "lon": 114.1783303,
+      "osm_id": 2441267023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u514d\u7a05\u85e5\u884c",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.299953,
+      "lon": 114.1785913,
+      "osm_id": 2441267025,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5f69\u6676\u8ed2 V Cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3008581,
+      "lon": 114.1782075,
+      "osm_id": 4106955390,
+      "osm_type": "node",
+      "address": "\u52a0\u9023\u5a01\u8001\u9053 Granville Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u65af\u5766\u5821\u7279\u5feb",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3003064,
+      "lon": 114.1783833,
+      "osm_id": 4199931853,
+      "osm_type": "node",
+      "address": "\u65b0\u6587\u83ef\u4e2d\u5fc31\u6a13115-120\u865f\u92ea",
+      "road_geometry": null
+    },
+    {
+      "name": "\u52c1\u56de\u5473",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.3004608,
+      "lon": 114.1783311,
+      "osm_id": 4199966730,
+      "osm_type": "node",
+      "address": "\u79d1\u5b78\u9928\u905314\u865f\u65b0\u6587\u83ef\u4e2d\u5fc3\u5546\u5834\u5730\u4e0b21B\u865f\u92ea",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.3006706,
+      "lon": 114.1787319,
+      "osm_id": 5194112523,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "D\u00e9lifrance",
+      "category": [
+        "amenity.restaurant",
+        "shop.bakery"
+      ],
+      "lat": 22.3001325,
+      "lon": 114.1780739,
+      "osm_id": 6785143514,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crystal Restaurant Dim Sum",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.3007902,
+      "lon": 114.1783333,
+      "osm_id": 6815896101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3018342,
+      "lon": 114.1786531,
+      "osm_id": 11050395601,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3018483,
+      "lon": 114.1785837,
+      "osm_id": 11050395602,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3018629,
+      "lon": 114.1785252,
+      "osm_id": 11050395603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3018742,
+      "lon": 114.1784713,
+      "osm_id": 11050395604,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3018857,
+      "lon": 114.1784249,
+      "osm_id": 11050396905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771\u7e3d\u7ad9 Tsim Sha Tsui East Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3019912,
+      "lon": 114.1782815,
+      "osm_id": 11050396906,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u6771 Tsim Sha Tsui East",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3020135,
+      "lon": 114.1782074,
+      "osm_id": 11050396907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5143\u6717\u5408\u9686\u6f6e\u5dde\u9eb5",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.300279,
+      "lon": 114.1780937,
+      "osm_id": 13282621366,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5feb\u6d3b Fairwood",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.300227,
+      "lon": 114.1780689,
+      "osm_id": 13318772460,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

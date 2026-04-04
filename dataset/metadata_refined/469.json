@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/469.png",
+  "center_lat": 22.294144144144138,
+  "center_lon": 114.16608548436948,
+  "bbox": [
+    114.16486838749557,
+    22.29301801801801,
+    114.16730258124336,
+    22.29527027027026
+  ],
+  "unique_categories": [
+    "shop.toys"
+  ],
+  "poi_count_per_category": {
+    "shop.toys": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u73a9\u5177\u53cd\u6597\u57ce Toys\u201cR\u201dUs",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 22.2949806,
+      "lon": 114.1669386,
+      "osm_id": 5225965021,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

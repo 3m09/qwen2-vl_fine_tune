@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/872.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.93006967546842,
+  "bbox": [
+    -73.93155755471376,
+    40.81126126126127,
+    -73.92858179622306,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "railway.signal_box"
+  ],
+  "poi_count_per_category": {
+    "railway.signal_box": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "CP 4",
+      "category": [
+        "railway.signal_box"
+      ],
+      "lat": 40.8119715,
+      "lon": -73.9309809,
+      "osm_id": 10844862221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,91 +1,147 @@
 {
   "image": "dataset/images/65.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.94792952853626,
+  "center_lat": 48.858378378378376,
+  "center_lon": 2.3401348030268316,
   "bbox": [
-    -73.94941725629236,
-    40.80450450450451,
-    -73.94644180078015,
-    40.80675675675676
+    2.338423202017888,
+    48.85725225225225,
+    2.341846404035776,
+    48.85950450450451
   ],
   "unique_categories": [
+    "amenity.hospital",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.gift",
     "amenity.restaurant",
-    "shop.clothes",
-    "shop.deli",
-    "tourism.hotel"
+    "shop.antiques",
+    "amenity.fast_food",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 2,
-    "shop.clothes": 1,
-    "shop.deli": 1,
-    "tourism.hotel": 1
+    "amenity.hospital": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "shop.gift": 2,
+    "amenity.restaurant": 1,
+    "shop.antiques": 1,
+    "amenity.fast_food": 1,
+    "tourism.information": 1
   },
-  "poi_count": 5,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "Efuru Guest House",
+      "name": "Pont des Arts",
       "category": [
-        "tourism.hotel"
+        "highway.bus_stop"
       ],
-      "lat": 40.8047139,
-      "lon": -73.9485671,
-      "osm_id": 4213565912,
+      "lat": 48.8590803,
+      "lon": 2.3385053,
+      "osm_id": 2039206117,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Harlem Haberdashery",
+      "name": "Art auction",
       "category": [
-        "shop.clothes"
+        "shop.antiques"
       ],
-      "lat": 40.8061428,
-      "lon": -73.9470016,
-      "osm_id": 5186870455,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "121 Lenox Gourmet Deli",
-      "category": [
-        "shop.deli"
-      ],
-      "lat": 40.8052132,
-      "lon": -73.9476498,
-      "osm_id": 5266905082,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "BLVD Bistro",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8058627,
-      "lon": -73.9472248,
-      "osm_id": 5266905521,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Sottocasa Pizzeria",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.805587,
-      "lon": -73.9475248,
-      "osm_id": 7048004285,
+      "lat": 48.8593762,
+      "lon": 2.3403098,
+      "osm_id": 3396586045,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 des Arts",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.859096,
+      "lon": 2.3402013,
+      "osm_id": 3396587307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenir",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8589001,
+      "lon": 2.3411332,
+      "osm_id": 5014754680,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cadeaux - Souvenirs",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.85904,
+      "lon": 2.3404495,
+      "osm_id": 5014845609,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Luncha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.858872,
+      "lon": 2.3413443,
+      "osm_id": 5014845611,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coffee Cr\u00eapes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8589549,
+      "lon": 2.3408275,
+      "osm_id": 5014847508,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Square du Vert-Galant",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8572551,
+      "lon": 2.3406945,
+      "osm_id": 8493135684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Clinique du Louvre",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 48.8592105,
+      "lon": 2.3411286,
+      "osm_id": 10594499020,
+      "osm_type": "node",
+      "address": "Rue des Pr\u00eatres Saint-Germain l'Auxerrois",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 11,
-    "removed_count": 6,
+    "original_poi_count": 23,
+    "removed_count": 14,
     "model": "gemini-2.5-flash"
   }
 }

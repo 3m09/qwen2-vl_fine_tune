@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/349.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83964342325618,
+  "bbox": [
+    103.83851700608263,
+    1.3025045045045047,
+    103.84076984042973,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "ACC EduHub",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 1.3027978,
+      "lon": 103.8403767,
+      "osm_id": 521081225,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gerry's Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.302835,
+      "lon": 103.8405848,
+      "osm_id": 2022346771,
+      "osm_type": "node",
+      "address": "Cuppage Road",
+      "road_geometry": null
+    }
+  ]
+}

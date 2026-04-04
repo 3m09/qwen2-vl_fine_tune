@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/295.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.6490286600616,
+  "bbox": [
+    -46.65025722467225,
+    -23.563243243243246,
+    -46.64780009545096,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "amenity.clinic",
+    "shop.hairdresser",
+    "amenity.community_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1,
+    "shop.hairdresser": 1,
+    "amenity.community_centre": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Salao de festas",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": -23.5612309,
+      "lon": -46.6479011,
+      "osm_id": 745720901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Posto de Sa\u00fade Bela Vista e Jardins - UBS Nossa Senhora do Brasil",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5628052,
+      "lon": -46.6491895,
+      "osm_id": 7771601411,
+      "osm_type": "node",
+      "address": "Rua Almirante Marques de Le\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Studio Hairstyle",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5629387,
+      "lon": -46.6498672,
+      "osm_id": 9393230495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/375.png",
+  "center_lat": 1.310387387387388,
+  "center_lon": 103.8373906222184,
+  "bbox": [
+    103.83626420201672,
+    1.3092612612612617,
+    103.83851704242007,
+    1.311513513513514
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.hotel",
+    "amenity.language_school"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.hotel": 1,
+    "amenity.language_school": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Environment Building",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.3113317,
+      "lon": 103.8368695,
+      "osm_id": 410473810,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MOE Language Centre (Newton)",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": 1.3097274,
+      "lon": 103.8374915,
+      "osm_id": 7668133343,
+      "osm_type": "node",
+      "address": "Cairnhill Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Scotts Residences",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.309891,
+      "lon": 103.838502,
+      "osm_id": 7668133344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

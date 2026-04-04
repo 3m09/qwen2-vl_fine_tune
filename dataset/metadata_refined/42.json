@@ -1,65 +1,285 @@
 {
   "image": "dataset/images/42.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.9449559409677,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.08009591542430425,
   "bbox": [
-    -73.94644361823885,
-    40.80225225225225,
-    -73.94346826369656,
-    40.80450450450451
+    -0.08190537765845841,
+    51.51175675675677,
+    -0.0782864531901501,
+    51.51400900900902
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
+    "tourism.viewpoint",
+    "amenity.pub",
     "highway.bus_stop",
-    "amenity.place_of_worship"
+    "amenity.cafe",
+    "shop.jewelry",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.clothes",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "amenity.clinic"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
-    "highway.bus_stop": 1,
-    "amenity.place_of_worship": 1
+    "tourism.viewpoint": 1,
+    "amenity.pub": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 2,
+    "shop.jewelry": 1,
+    "amenity.bar": 4,
+    "amenity.restaurant": 1,
+    "shop.clothes": 1,
+    "tourism.artwork": 2,
+    "amenity.fast_food": 4,
+    "amenity.clinic": 1
   },
-  "poi_count": 3,
+  "poi_count": 20,
   "pois": [
     {
-      "name": "Bethel Gospel Assembly",
+      "name": "The Old Tea Warehouse",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.pub"
       ],
-      "lat": 40.8026303,
-      "lon": -73.9446473,
-      "osm_id": 1979669267,
+      "lat": 51.5135527,
+      "lon": -0.0788734,
+      "osm_id": 366073061,
       "osm_type": "node",
-      "address": "5th Avenue",
+      "address": "Creechurch Lane",
       "road_geometry": null
     },
     {
-      "name": "5th Avenue & 120th Street",
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5127792,
+      "lon": -0.0812491,
+      "osm_id": 369121150,
+      "osm_type": "node",
+      "address": "Fenchurch Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "St Katharine Cree",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8030297,
-      "lon": -73.9448907,
-      "osm_id": 5984081380,
+      "lat": 51.5133225,
+      "lon": -0.0787288,
+      "osm_id": 469781745,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Mt Morris Park W & W 120 St",
+      "name": "St Katharine Cree",
       "category": [
-        "amenity.bicycle_rental"
+        "highway.bus_stop"
       ],
-      "lat": 40.8040867,
-      "lon": -73.945905,
-      "osm_id": 8736432175,
+      "lat": 51.51326,
+      "lon": -0.0791636,
+      "osm_id": 469781746,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leonard Jay",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5117973,
+      "lon": -0.0816305,
+      "osm_id": 471488495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Moniker",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5128153,
+      "lon": -0.080977,
+      "osm_id": 471488497,
+      "osm_type": "node",
+      "address": "Fenchurch Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.512073,
+      "lon": -0.079772,
+      "osm_id": 668820028,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.511976,
+      "lon": -0.079927,
+      "osm_id": 668820569,
+      "osm_type": "node",
+      "address": "London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Homerton Sexual Health",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5134007,
+      "lon": -0.078508,
+      "osm_id": 1590654935,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The President's Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.513588,
+      "lon": -0.0808689,
+      "osm_id": 2945792753,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Arcadia",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5129093,
+      "lon": -0.0818619,
+      "osm_id": 4402633263,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Breakfast & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5135255,
+      "lon": -0.080487,
+      "osm_id": 4430905424,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Swingers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5139678,
+      "lon": -0.0804156,
+      "osm_id": 4430908427,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "LEON",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5118356,
+      "lon": -0.07981,
+      "osm_id": 4718553524,
+      "osm_type": "node",
+      "address": "London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Garden at 120",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 51.5121424,
+      "lon": -0.0807811,
+      "osm_id": 6284793459,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Roundhouse",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5131898,
+      "lon": -0.0815428,
+      "osm_id": 6383045939,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mappin & Webb",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5121554,
+      "lon": -0.0803774,
+      "osm_id": 6885994817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Red Lion Coffee Co",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5131203,
+      "lon": -0.0812487,
+      "osm_id": 8835654826,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "14 Hills",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5122603,
+      "lon": -0.0808248,
+      "osm_id": 10937152564,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Spirit Of Man",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5131679,
+      "lon": -0.0789271,
+      "osm_id": 11298000169,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 4,
-    "removed_count": 1,
+    "original_poi_count": 37,
+    "removed_count": 17,
     "model": "gemini-2.5-flash"
   }
 }

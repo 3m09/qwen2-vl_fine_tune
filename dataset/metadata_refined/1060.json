@@ -1,0 +1,169 @@
+{
+  "image": "dataset/images/1060.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.94195694471864,
+  "bbox": [
+    -73.9434452281874,
+    40.82927927927931,
+    -73.9404686612499,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "tourism.guest_house",
+    "highway.bus_stop",
+    "tourism.museum",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 1,
+    "highway.bus_stop": 2,
+    "tourism.museum": 1,
+    "railway.subway_entrance": 4,
+    "amenity.restaurant": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8309549,
+      "lon": -73.9411038,
+      "osm_id": 2796691174,
+      "osm_type": "node",
+      "address": "West 155th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Ave & 155th St At Sw Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8307739,
+      "lon": -73.9415861,
+      "osm_id": 3584443406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Ave & 155th St At Sw Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.830868,
+      "lon": -73.941641,
+      "osm_id": 3584443407,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Ave & 155th St at NW Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8311269,
+      "lon": -73.9415677,
+      "osm_id": 3627498345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Ave & 155th Street at NW Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8311497,
+      "lon": -73.941456,
+      "osm_id": 3627498346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 153rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8296479,
+      "lon": -73.9417548,
+      "osm_id": 5281918106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Nicholas Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 40.8306967,
+      "lon": -73.9416361,
+      "osm_id": 5296021049,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "West 155th Street & Edgecomb Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8307055,
+      "lon": -73.940717,
+      "osm_id": 5296023394,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Children's Museum of Art and Story Telling",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 40.8304543,
+      "lon": -73.941171,
+      "osm_id": 5296084264,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 40.8304584,
+      "lon": -73.9418599,
+      "osm_id": 5696677693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Freedom Deli 2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8311981,
+      "lon": -73.9410187,
+      "osm_id": 8333828557,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

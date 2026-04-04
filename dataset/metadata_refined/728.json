@@ -1,0 +1,139 @@
+{
+  "image": "dataset/images/728.png",
+  "center_lat": 25.19563063063063,
+  "center_lon": 55.27620067944064,
+  "bbox": [
+    55.27495615950279,
+    25.194504504504504,
+    55.27744519937849,
+    25.196756756756756
+  ],
+  "unique_categories": [
+    "shop.perfumery",
+    "amenity.food_court",
+    "amenity.fast_food",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "shop.perfumery": 1,
+    "amenity.food_court": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 6
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Margaux",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.194741,
+      "lon": 55.2760063,
+      "osm_id": 838297997,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Rivington Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1950784,
+      "lon": 55.2763253,
+      "osm_id": 1412984505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karma Kaf\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.195062,
+      "lon": 55.277071,
+      "osm_id": 2459782014,
+      "osm_type": "node",
+      "address": "Souk Al Bahar",
+      "road_geometry": null
+    },
+    {
+      "name": "Karam Beirut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1967106,
+      "lon": 55.2770049,
+      "osm_id": 4530683096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Abd El Wahab Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1951263,
+      "lon": 55.2767958,
+      "osm_id": 5445758825,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zahr el Laymoun",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1949753,
+      "lon": 55.2772128,
+      "osm_id": 5445776321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Masti",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 25.1949214,
+      "lon": 55.2759722,
+      "osm_id": 11065038405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Time Out Market",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 25.1950025,
+      "lon": 55.2764103,
+      "osm_id": 12551503901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ramasat",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 25.194951,
+      "lon": 55.2769619,
+      "osm_id": 12917344902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 14,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "image": "dataset/images/548.png",
+  "center_lat": 41.00788288288289,
+  "center_lon": 28.973430562643305,
+  "bbox": [
+    28.97193827790516,
+    41.006756756756765,
+    28.97492284738145,
+    41.00900900900902
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "amenity.cafe",
+    "shop.furniture",
+    "tourism.museum",
+    "shop.convenience",
+    "shop.gift",
+    "amenity.restaurant",
+    "shop.antiques",
+    "shop.bakery",
+    "shop.travel_agency",
+    "shop.mobile_phone",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "amenity.clinic",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "amenity.cafe": 2,
+    "shop.furniture": 1,
+    "tourism.museum": 2,
+    "shop.convenience": 1,
+    "shop.gift": 2,
+    "amenity.restaurant": 8,
+    "shop.antiques": 1,
+    "shop.bakery": 1,
+    "shop.travel_agency": 4,
+    "shop.mobile_phone": 1,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 11,
+    "amenity.clinic": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 38,
+  "pois": [
+    {
+      "name": "Hotel Arcadia Blue",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0068739,
+      "lon": 28.9736116,
+      "osm_id": 1937914694,
+      "osm_type": "node",
+      "address": "\u0130mran \u00d6ktem Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Binbirdirek Sarn\u0131c\u0131",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.007606,
+      "lon": 28.9744173,
+      "osm_id": 2472730735,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esthetic Hair Turkey",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 41.00849,
+      "lon": 28.9735918,
+      "osm_id": 5108843514,
+      "osm_type": "node",
+      "address": "Bab-\u0131 Ali Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Arife Sultan Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0086176,
+      "lon": 28.9737274,
+      "osm_id": 5108843516,
+      "osm_type": "node",
+      "address": "\u00c7atal\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Saray",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0086327,
+      "lon": 28.9742594,
+      "osm_id": 5108843519,
+      "osm_type": "node",
+      "address": "Hoca R\u00fcstem Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Anatolian House Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0084673,
+      "lon": 28.9738788,
+      "osm_id": 5108843722,
+      "osm_type": "node",
+      "address": "Hoca R\u00fcstem Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Faros Restaurant Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0083542,
+      "lon": 28.9737342,
+      "osm_id": 5108843727,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ali Usta",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.008288,
+      "lon": 28.9741204,
+      "osm_id": 5108843730,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldem Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0087492,
+      "lon": 28.974712,
+      "osm_id": 5108843735,
+      "osm_type": "node",
+      "address": "\u00c7atal\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Kartal Elektrik",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0084739,
+      "lon": 28.9748022,
+      "osm_id": 5108843744,
+      "osm_type": "node",
+      "address": "Bi\u00e7ki Yudru Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00d6z \u015eahinler Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0082415,
+      "lon": 28.9747121,
+      "osm_id": 5108843751,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vialand Office Sultan Ahmad",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0083409,
+      "lon": 28.974899,
+      "osm_id": 5108843756,
+      "osm_type": "node",
+      "address": "Hac\u0131 Tahsin Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Turkey Travel Centre",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0087629,
+      "lon": 28.9743704,
+      "osm_id": 5108844431,
+      "osm_type": "node",
+      "address": "\u00c7atal\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Subrosa Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0088693,
+      "lon": 28.974125,
+      "osm_id": 5108844433,
+      "osm_type": "node",
+      "address": "Ba\u015f Musahip Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Station Hostel 34",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0089442,
+      "lon": 28.9741237,
+      "osm_id": 5108844434,
+      "osm_type": "node",
+      "address": "Ba\u015f Musahip Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "New Asian Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0087857,
+      "lon": 28.9736805,
+      "osm_id": 5108844452,
+      "osm_type": "node",
+      "address": "Bab Ali Caddesi ve \u00c7atal\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ramos Gift Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0081185,
+      "lon": 28.9739217,
+      "osm_id": 5110198322,
+      "osm_type": "node",
+      "address": "Divan yolu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0082428,
+      "lon": 28.972303,
+      "osm_id": 5113487667,
+      "osm_type": "node",
+      "address": "T\u00fcbedar Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Loti",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0081937,
+      "lon": 28.9729709,
+      "osm_id": 5113487668,
+      "osm_type": "node",
+      "address": "Divanyolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sude",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 41.0072748,
+      "lon": 28.9734629,
+      "osm_id": 5113500250,
+      "osm_type": "node",
+      "address": "Binbirderek meydan\u0131 sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Gloden Horn Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0072219,
+      "lon": 28.9737575,
+      "osm_id": 5113500252,
+      "osm_type": "node",
+      "address": "Binbirderek meydan\u0131 sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Route",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0070526,
+      "lon": 28.9732796,
+      "osm_id": 5113500267,
+      "osm_type": "node",
+      "address": "Klodfarer caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Tepe hal\u0131",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0071343,
+      "lon": 28.9732796,
+      "osm_id": 5113500268,
+      "osm_type": "node",
+      "address": "Klodfarer caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel hal\u0131",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0075207,
+      "lon": 28.9731859,
+      "osm_id": 5113500270,
+      "osm_type": "node",
+      "address": "Klod Farer Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Travel Tips Turkey",
+      "category": [
+        "shop.travel_agency",
+        "tourism.information"
+      ],
+      "lat": 41.0078444,
+      "lon": 28.9735074,
+      "osm_id": 5113500272,
+      "osm_type": "node",
+      "address": "Klod Farer Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Rast hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0080261,
+      "lon": 28.9733645,
+      "osm_id": 5113500274,
+      "osm_type": "node",
+      "address": "Klodfarer caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Antea hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0073523,
+      "lon": 28.9727544,
+      "osm_id": 5113500277,
+      "osm_type": "node",
+      "address": "Piyer loti caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Mina Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0070197,
+      "lon": 28.9727638,
+      "osm_id": 5113500279,
+      "osm_type": "node",
+      "address": "Dostluk yurdu sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ortaklar Kebab Lahmacun",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0072732,
+      "lon": 28.9722043,
+      "osm_id": 5193225922,
+      "osm_type": "node",
+      "address": "Peykhane Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrkiye Gazeteciler Cemiyeti Bas\u0131n M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0085619,
+      "lon": 28.9722162,
+      "osm_id": 5244807623,
+      "osm_type": "node",
+      "address": "Boyac\u0131 Ahmet Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Cozy Pub & Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0082598,
+      "lon": 28.9743634,
+      "osm_id": 5372736551,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrk ocagi",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0087811,
+      "lon": 28.9733422,
+      "osm_id": 5489388021,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Turgay Usta Baklava & B\u00f6rek",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0069789,
+      "lon": 28.9720835,
+      "osm_id": 9205015917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Turkcell",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0081026,
+      "lon": 28.9734266,
+      "osm_id": 9950497118,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet Olimpic Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0068379,
+      "lon": 28.9723575,
+      "osm_id": 10178438629,
+      "osm_type": "node",
+      "address": "Peykhane Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Lotus Gift Shop & Souvenir",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0070231,
+      "lon": 28.9723805,
+      "osm_id": 10178438630,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mevlana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0073837,
+      "lon": 28.9721872,
+      "osm_id": 10738474298,
+      "osm_type": "node",
+      "address": "Boyac\u0131 Ahmet Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "OMNISCIENT",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 41.0074299,
+      "lon": 28.9726092,
+      "osm_id": 11812158194,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 113,
+    "removed_count": 75,
+    "model": "gemini-2.5-flash"
+  }
+}

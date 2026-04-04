@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/294.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.651485789282894,
+  "bbox": [
+    -46.65271435389354,
+    -23.563243243243246,
+    -46.65025722467225,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "amenity.taxi",
+    "shop.cosmetics",
+    "shop.clothes",
+    "shop.shoes",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "amenity.taxi": 2,
+    "shop.cosmetics": 1,
+    "shop.clothes": 1,
+    "shop.shoes": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Docas Carga e Descarga",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5632231,
+      "lon": -46.6524045,
+      "osm_id": 4945044206,
+      "osm_type": "node",
+      "address": "Rua S\u00e3o Carlos do Pinhal",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Shopping Cidade S\u00e3o Paulo",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5619125,
+      "lon": -46.652212,
+      "osm_id": 10886806450,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Paulista Flat",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5632315,
+      "lon": -46.6505477,
+      "osm_id": 10886806467,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Adcos",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5631401,
+      "lon": -46.652674,
+      "osm_id": 12913123281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Osklen",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5630543,
+      "lon": -46.6526837,
+      "osm_id": 12913138502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Schutz",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5631678,
+      "lon": -46.652551,
+      "osm_id": 12913138504,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

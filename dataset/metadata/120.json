@@ -1,15 +1,84 @@
 {
   "image": "dataset/images/120.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.99851212075465,
+  "center_lat": 18.930135135135135,
+  "center_lon": 72.8357145655848,
   "bbox": [
-    -74.0,
-    40.81126126126127,
-    -73.9970242415093,
-    40.81351351351353
+    72.83452405829759,
+    18.929009009009008,
+    72.83690507287199,
+    18.93126126126126
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bank",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.bank": 2,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Jimmy Boy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9308083,
+      "lon": 72.8350511,
+      "osm_id": 1704905149,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Allahabad Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9312413,
+      "lon": 72.8354289,
+      "osm_id": 2168597659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "State Bank of India",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9310454,
+      "lon": 72.8346779,
+      "osm_id": 2168597692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Customs House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.929703,
+      "lon": 72.8349026,
+      "osm_id": 9741195095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Customs House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.92998,
+      "lon": 72.8349137,
+      "osm_id": 9741195096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

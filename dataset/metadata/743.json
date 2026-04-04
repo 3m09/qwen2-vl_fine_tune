@@ -1,0 +1,293 @@
+{
+  "image": "dataset/images/743.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.95685882303472,
+  "bbox": [
+    -73.95834644982662,
+    40.8,
+    -73.95537119624281,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.bar",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.cafe",
+    "shop.chemist",
+    "railway.stop",
+    "amenity.bank",
+    "railway.station",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.telephone",
+    "shop.alcohol",
+    "shop.dry_cleaning",
+    "shop.hairdresser",
+    "tourism.information",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.bar": 1,
+    "highway.bus_stop": 2,
+    "shop.convenience": 3,
+    "amenity.cafe": 1,
+    "shop.chemist": 1,
+    "railway.stop": 1,
+    "amenity.bank": 1,
+    "railway.station": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2,
+    "amenity.telephone": 1,
+    "shop.alcohol": 1,
+    "shop.dry_cleaning": 1,
+    "shop.hairdresser": 1,
+    "tourism.information": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 20,
+  "pois": [
+    {
+      "name": "Public School M241 STEM Institute of Manhattan",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8017647,
+      "lon": -73.9554286,
+      "osm_id": 357648583,
+      "osm_type": "node",
+      "address": "West 113th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citizens Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.801814,
+      "lon": -73.9575077,
+      "osm_id": 2259025504,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Fred's Munchies",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8018884,
+      "lon": -73.956978,
+      "osm_id": 2762470553,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "MCMB Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8020484,
+      "lon": -73.957343,
+      "osm_id": 2762470554,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 111th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.801373,
+      "lon": -73.9574845,
+      "osm_id": 3273383622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Central Park North & Central Park West",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8003184,
+      "lon": -73.9575451,
+      "osm_id": 5269109026,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway\u2013110th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8005967,
+      "lon": -73.9581718,
+      "osm_id": 5300353893,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Wine & Liquor",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8012146,
+      "lon": -73.9579622,
+      "osm_id": 5978792513,
+      "osm_type": "node",
+      "address": "Cathederal Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dragon One",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8020768,
+      "lon": -73.956844,
+      "osm_id": 6426473697,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Drug Shoppe Pharmacy",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.8019974,
+      "lon": -73.9568844,
+      "osm_id": 6426473698,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway\u2013110th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.801106,
+      "lon": -73.957715,
+      "osm_id": 6427120636,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "67 Orange Street",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8022415,
+      "lon": -73.9567108,
+      "osm_id": 7125399099,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Link NYC",
+      "category": [
+        "amenity.telephone",
+        "tourism.information"
+      ],
+      "lat": 40.8019452,
+      "lon": -73.9570629,
+      "osm_id": 7125399101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Purple Waves",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8008299,
+      "lon": -73.9575911,
+      "osm_id": 11517472730,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Park View Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8014683,
+      "lon": -73.9577702,
+      "osm_id": 11833767803,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Frederick Douglass Blvd & W 112 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8016932,
+      "lon": -73.957173,
+      "osm_id": 11971474971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dragon Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8019513,
+      "lon": -73.9569308,
+      "osm_id": 12014383329,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Pelando & Rapeando Barber Shop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8016597,
+      "lon": -73.9576249,
+      "osm_id": 12035353841,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Park View Mart",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8017134,
+      "lon": -73.9575841,
+      "osm_id": 12035353843,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Root Juicery",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8020929,
+      "lon": -73.9573085,
+      "osm_id": 12036720750,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    }
+  ]
+}

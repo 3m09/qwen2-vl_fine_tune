@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/993.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.99851181762148,
+  "bbox": [
+    -74.0,
+    40.8247747747748,
+    -73.99702363524297,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "shop.florist",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "shop.florist": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Wedded Events",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 40.8249867,
+      "lon": -73.9973511,
+      "osm_id": 9575405718,
+      "osm_type": "node",
+      "address": "Bergen Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Alberto Sanchez Couture",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8248801,
+      "lon": -73.9973894,
+      "osm_id": 9575405719,
+      "osm_type": "node",
+      "address": "Bergen Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/246.png",
+  "center_lat": 37.49637837837838,
+  "center_lon": 127.02341936067342,
+  "bbox": [
+    127.022,
+    37.49525225225226,
+    127.02483872134684,
+    37.49750450450451
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "highway.bus_stop",
+    "amenity.post_office",
+    "amenity.*"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "highway.bus_stop": 1,
+    "amenity.post_office": 1,
+    "amenity.*": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\ub86f\ub370\uce60\uc131",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4966562,
+      "lon": 127.0239846,
+      "osm_id": 357854833,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc11c\uc6b8\uc9c4\ud765\uc544\ud30c\ud2b8\uc6b0\ud3b8\ucde8\uae09\uad6d",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 37.4970122,
+      "lon": 127.0234936,
+      "osm_id": 2102466158,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc2e0\ud55c\uc740\ud589",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 37.4970336,
+      "lon": 127.0238882,
+      "osm_id": 3112604696,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "bacs lounge",
+      "category": [
+        "amenity.*"
+      ],
+      "lat": 37.4975,
+      "lon": 127.024528,
+      "osm_id": 12076553170,
+      "osm_type": "node",
+      "address": "\uc11c\ucd08\ub300\ub85c",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/271.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.663771393259694,
+  "bbox": [
+    -46.665,
+    -23.56774774774775,
+    -46.662542786519396,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "AMMA",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5658198,
+      "lon": -46.664124,
+      "osm_id": 4131789673,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

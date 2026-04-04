@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1228.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.9419431388555,
+  "bbox": [
+    -73.94343177632075,
+    40.8450450450451,
+    -73.94045450139026,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "3000 A.D. Diffusion Piece",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8471692,
+      "lon": -73.9420363,
+      "osm_id": 2270245977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/226.png",
+  "center_lat": 31.242387387387385,
+  "center_lon": 121.50185408422537,
+  "bbox": [
+    121.50053696375589,
+    31.241261261261258,
+    121.50317120469487,
+    31.24351351351351
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "amenity.cafe": 3,
+    "shop.convenience": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "\u4e2d\u56fd\u94f6\u884cATM",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 31.2421396,
+      "lon": 121.502633,
+      "osm_id": 3735686414,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e24\u6d77\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2432737,
+      "lon": 121.5018629,
+      "osm_id": 3735690858,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2433412,
+      "lon": 121.5029198,
+      "osm_id": 5319496521,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2421739,
+      "lon": 121.5031019,
+      "osm_id": 8927437077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.243162,
+      "lon": 121.5021113,
+      "osm_id": 8927437219,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f57\u68ee",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2420371,
+      "lon": 121.5029773,
+      "osm_id": 8927437220,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

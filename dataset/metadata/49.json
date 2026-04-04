@@ -1,15 +1,571 @@
 {
   "image": "dataset/images/49.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.99553681673169,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.08009493131668585,
   "bbox": [
-    -73.99702454448779,
-    40.80450450450451,
-    -73.99404908897557,
-    40.80675675675676
+    -0.08190448301516896,
+    51.51400900900902,
+    -0.07828537961820276,
+    51.51626126126128
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.bicycle_rental",
+    "shop.hairdresser",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.clinic",
+    "amenity.cafe",
+    "amenity.bench",
+    "shop.tobacco",
+    "leisure.sports_centre",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "shop.newsagent",
+    "amenity.bar",
+    "amenity.post_office",
+    "amenity.bank",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.hairdresser": 1,
+    "tourism.artwork": 5,
+    "amenity.restaurant": 4,
+    "highway.bus_stop": 3,
+    "amenity.clinic": 1,
+    "amenity.cafe": 5,
+    "amenity.bench": 1,
+    "shop.tobacco": 1,
+    "leisure.sports_centre": 3,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 8,
+    "shop.newsagent": 1,
+    "amenity.bar": 5,
+    "amenity.post_office": 1,
+    "amenity.bank": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 43,
+  "pois": [
+    {
+      "name": "The Sterling Bar & Kitchen",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.51452,
+      "lon": -0.0800751,
+      "osm_id": 369119280,
+      "osm_type": "node",
+      "address": "St. Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Dom's Subs",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5149936,
+      "lon": -0.0790085,
+      "osm_id": 369119282,
+      "osm_type": "node",
+      "address": "Bevis Marks",
+      "road_geometry": null
+    },
+    {
+      "name": "Chaplins Deli",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5147588,
+      "lon": -0.0790785,
+      "osm_id": 369119283,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5146603,
+      "lon": -0.081032,
+      "osm_id": 369119285,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Slug and Lettuce",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5147902,
+      "lon": -0.0809501,
+      "osm_id": 369119286,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5150989,
+      "lon": -0.0806039,
+      "osm_id": 369119292,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Balls Brothers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5149918,
+      "lon": -0.0803276,
+      "osm_id": 377500818,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "All Bar One",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5158403,
+      "lon": -0.0792759,
+      "osm_id": 429346224,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "Bishopsgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5159113,
+      "lon": -0.0811656,
+      "osm_id": 469765562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Duke's Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5145853,
+      "lon": -0.0785882,
+      "osm_id": 469767991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Houndsditch",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5160329,
+      "lon": -0.0797087,
+      "osm_id": 469772121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tossed",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5157615,
+      "lon": -0.0798184,
+      "osm_id": 650341168,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5147054,
+      "lon": -0.0810101,
+      "osm_id": 670101887,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5152475,
+      "lon": -0.0799419,
+      "osm_id": 708866092,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "St. Mary Axe",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5141777,
+      "lon": -0.0806085,
+      "osm_id": 835264545,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi Samba",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5161459,
+      "lon": -0.0812372,
+      "osm_id": 2928885430,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Duck & Waffle",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5162092,
+      "lon": -0.0810446,
+      "osm_id": 2928885431,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Bangkok Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5149462,
+      "lon": -0.0807769,
+      "osm_id": 2934288544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bupa Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5151499,
+      "lon": -0.0801122,
+      "osm_id": 2934288545,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Haz Wine & Dine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.515691,
+      "lon": -0.0790092,
+      "osm_id": 2935431092,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "1Rebel",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5155349,
+      "lon": -0.0799354,
+      "osm_id": 3164383488,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "Fuzzy's Grub",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5152016,
+      "lon": -0.0786963,
+      "osm_id": 3215682615,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "DX Delivered Exactly",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 51.515162,
+      "lon": -0.0785957,
+      "osm_id": 3242848841,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "The Alchemist",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5151185,
+      "lon": -0.0796499,
+      "osm_id": 3292939264,
+      "osm_type": "node",
+      "address": "Bevis Marks",
+      "road_geometry": null
+    },
+    {
+      "name": "Notes",
+      "category": [
+        "amenity.cafe",
+        "shop.newsagent"
+      ],
+      "lat": 51.5145912,
+      "lon": -0.0805473,
+      "osm_id": 3708230630,
+      "osm_type": "node",
+      "address": "St. Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "No1 Fitness",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.515173,
+      "lon": -0.0797979,
+      "osm_id": 3906391799,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burlington Bertie",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 51.5148891,
+      "lon": -0.0788573,
+      "osm_id": 3997516207,
+      "osm_type": "node",
+      "address": "Bevis Marks",
+      "road_geometry": null
+    },
+    {
+      "name": "Walter And Monty",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5147329,
+      "lon": -0.079595,
+      "osm_id": 4097312126,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Wall Walk 7",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5147706,
+      "lon": -0.0789616,
+      "osm_id": 4534108994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bolatti",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5157398,
+      "lon": -0.0789346,
+      "osm_id": 4781014848,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Your Lips Moved Across My Face",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146505,
+      "lon": -0.0795628,
+      "osm_id": 5767987398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "summer moon - Ugo Rondinone",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5145228,
+      "lon": -0.08157,
+      "osm_id": 5767987414,
+      "osm_type": "node",
+      "address": "Undershaft",
+      "road_geometry": null
+    },
+    {
+      "name": "Sari Garden",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5144175,
+      "lon": -0.0787391,
+      "osm_id": 5768339779,
+      "osm_type": "node",
+      "address": "Heneage Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "City Benchmark",
+      "category": [
+        "amenity.bench"
+      ],
+      "lat": 51.5142252,
+      "lon": -0.0784392,
+      "osm_id": 5768339780,
+      "osm_type": "node",
+      "address": "Creechurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Fly",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5140289,
+      "lon": -0.0785507,
+      "osm_id": 6130091905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banh Mi City",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5150251,
+      "lon": -0.0784368,
+      "osm_id": 6362537682,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "Site of the Fall - study of the renaissance garden: Action 180: At 9:15 am Sunday 28 May 1967",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5147476,
+      "lon": -0.0797058,
+      "osm_id": 6567387138,
+      "osm_type": "node",
+      "address": "Bury Court",
+      "road_geometry": null
+    },
+    {
+      "name": "The Garden of Floating Words",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.51559,
+      "lon": -0.0796908,
+      "osm_id": 6706981581,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "WatchHouse",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5154365,
+      "lon": -0.0790879,
+      "osm_id": 8832692378,
+      "osm_type": "node",
+      "address": "St Mary Axe",
+      "road_geometry": null
+    },
+    {
+      "name": "WatchHouse",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5152313,
+      "lon": -0.0804181,
+      "osm_id": 9167509661,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Searcys at The Gherkin",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5144865,
+      "lon": -0.0803865,
+      "osm_id": 11944450170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fazenda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5155458,
+      "lon": -0.0804749,
+      "osm_id": 12142316546,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "I Straker Consultants",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5157134,
+      "lon": -0.0799359,
+      "osm_id": 12866448576,
+      "osm_type": "node",
+      "address": "Saint Mary Axe",
+      "road_geometry": null
+    }
+  ]
 }

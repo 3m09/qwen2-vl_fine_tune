@@ -1,65 +1,103 @@
 {
   "image": "dataset/images/133.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.95982726037548,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.83333377572794,
   "bbox": [
-    -73.96131513962082,
-    40.81126126126127,
-    -73.95833938113012,
-    40.81351351351353
+    72.83214323633823,
+    18.93351351351351,
+    72.83452431511763,
+    18.935765765765762
   ],
   "unique_categories": [
-    "shop.laundry",
-    "shop.bakery",
-    "highway.bus_stop"
+    "tourism.hotel",
+    "shop.hairdresser",
+    "amenity.bank",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "shop.laundry": 1,
-    "shop.bakery": 1,
-    "highway.bus_stop": 1
+    "tourism.hotel": 2,
+    "shop.hairdresser": 1,
+    "amenity.bank": 1,
+    "amenity.restaurant": 2
   },
-  "poi_count": 3,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "Broadway & West 122nd Street",
+      "name": "Ideal Corner",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8120348,
-      "lon": -73.960741,
-      "osm_id": 4284112689,
+      "lat": 18.9349624,
+      "lon": 72.8342167,
+      "osm_id": 662488869,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Chokolat Bakery & Tea",
+      "name": "Lalit Refreshments",
       "category": [
-        "shop.bakery"
+        "amenity.restaurant"
       ],
-      "lat": 40.8130156,
-      "lon": -73.9605656,
-      "osm_id": 9509315844,
+      "lat": 18.9348434,
+      "lon": 72.8337446,
+      "osm_id": 1286193467,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Columbia Cleaners",
+      "name": "Fort Hairdresser",
       "category": [
-        "shop.laundry"
+        "shop.hairdresser"
       ],
-      "lat": 40.8113267,
-      "lon": -73.9611465,
-      "osm_id": 11772947998,
+      "lat": 18.9349748,
+      "lon": 72.8333911,
+      "osm_id": 1286194537,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Residency",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9349748,
+      "lon": 72.8332409,
+      "osm_id": 1286194734,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Residency",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9352854,
+      "lon": 72.8330618,
+      "osm_id": 1643105794,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Rajasthan",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9336784,
+      "lon": 72.8328438,
+      "osm_id": 2168853713,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 5,
-    "removed_count": 2,
+    "original_poi_count": 24,
+    "removed_count": 18,
     "model": "gemini-2.5-flash"
   }
 }

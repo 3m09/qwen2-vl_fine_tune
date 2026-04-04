@@ -1,0 +1,136 @@
+{
+  "image": "dataset/images/306.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.644114759654244,
+  "bbox": [
+    -46.645343303203994,
+    -23.560990990990994,
+    -46.64288621610449,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.lottery",
+    "tourism.hostel",
+    "amenity.nightclub"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 3,
+    "shop.lottery": 1,
+    "tourism.hostel": 1,
+    "amenity.nightclub": 3
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Nosso Ranchinho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5601285,
+      "lon": -46.6429489,
+      "osm_id": 3698987686,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Barbosa",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.5605075,
+      "lon": -46.6450631,
+      "osm_id": 6357370285,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Brig. Lu\u00eds Ant\u00f4nio, 1289",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5605441,
+      "lon": -46.6433462,
+      "osm_id": 8001685450,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Rui Barbosa, 611",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5608749,
+      "lon": -46.6451011,
+      "osm_id": 8378420118,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Conselheiro Ramalho",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5608464,
+      "lon": -46.6438194,
+      "osm_id": 8809382763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Lot\u00e9rica",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5602307,
+      "lon": -46.6430186,
+      "osm_id": 9907102732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Madame Underground Club",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.5595857,
+      "lon": -46.6440728,
+      "osm_id": 11617289795,
+      "osm_type": "node",
+      "address": "Rua Conselheiro Ramalho",
+      "road_geometry": null
+    },
+    {
+      "name": "Hobi Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": -23.5607752,
+      "lon": -46.6450997,
+      "osm_id": 13510392501,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    },
+    {
+      "name": "Funilaria",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.5605229,
+      "lon": -46.6453071,
+      "osm_id": 13516739401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

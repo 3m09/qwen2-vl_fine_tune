@@ -1,20 +1,37 @@
 {
   "image": "dataset/images/167.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93006730159844,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.83095309842875,
   "bbox": [
-    -73.93155523135167,
-    40.81351351351353,
-    -73.92857937184522,
-    40.81576576576578
+    72.829762478743,
+    18.944774774774768,
+    72.83214371811451,
+    18.94702702702702
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.police"
+  ],
+  "poi_count_per_category": {
+    "amenity.police": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Lokmanya Tilak Road Police Station",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 18.9453708,
+      "lon": 72.8303315,
+      "osm_id": 605221901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 2,
+    "original_poi_count": 1,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/1032.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.95386477945611,
+  "bbox": [
+    -73.95535301237688,
+    40.82702702702706,
+    -73.95237654653533,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "amenity.drinking_water",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "amenity.drinking_water": 1,
+    "tourism.artwork": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Riverbank State Park",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 40.8273768,
+      "lon": -73.9549815,
+      "osm_id": 765239335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Our Gates",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8282249,
+      "lon": -73.9535762,
+      "osm_id": 11910527210,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Portrait of t.",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.828091,
+      "lon": -73.954035,
+      "osm_id": 11910527211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

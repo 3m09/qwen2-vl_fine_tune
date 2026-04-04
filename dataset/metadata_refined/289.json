@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/289.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.66377143538935,
+  "bbox": [
+    -46.665,
+    -23.563243243243246,
+    -46.66254287077871,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.mall",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.mall": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Galeria Am\u00e9rica",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5612929,
+      "lon": -46.6634283,
+      "osm_id": 4995170425,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Augusta, 2212",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5611774,
+      "lon": -46.6635214,
+      "osm_id": 5635696752,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5616656,
+      "lon": -46.6640552,
+      "osm_id": 5636228956,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Augusta, 2293",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5619425,
+      "lon": -46.6641196,
+      "osm_id": 5648011292,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

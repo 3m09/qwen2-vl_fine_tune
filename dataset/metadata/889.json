@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/889.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.95089831814359,
+  "bbox": [
+    -73.95238624789681,
+    40.81351351351353,
+    -73.94941038839036,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.college",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.college": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "CUNY Advanced Science Research Center",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 40.8156286,
+      "lon": -73.9502282,
+      "osm_id": 5033161921,
+      "osm_type": "node",
+      "address": "Saint Nicholas Terrace",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 130th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8140619,
+      "lon": -73.9495226,
+      "osm_id": 5402622131,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

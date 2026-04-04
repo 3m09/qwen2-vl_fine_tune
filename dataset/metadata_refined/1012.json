@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/1012.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.94196088723787,
+  "bbox": [
+    -73.94344906961639,
+    40.8247747747748,
+    -73.94047270485936,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "leisure.playground",
+    "shop.laundry",
+    "amenity.clinic",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "leisure.playground": 1,
+    "shop.laundry": 1,
+    "amenity.clinic": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "ZipCare",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8255747,
+      "lon": -73.9433066,
+      "osm_id": 2768125214,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Super Plan Laundromat",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8258128,
+      "lon": -73.943228,
+      "osm_id": 2768125221,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Tsion Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8262841,
+      "lon": -73.9434171,
+      "osm_id": 5296101437,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Playground One Forty Nine CIL",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8257002,
+      "lon": -73.9413954,
+      "osm_id": 9461192295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 9,
+    "model": "gemini-2.5-flash"
+  }
+}

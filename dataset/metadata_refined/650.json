@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/650.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.12708854578301,
+  "bbox": [
+    -99.12828264273081,
+    19.425,
+    -99.12589444883521,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.gift",
+    "shop.stationery"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.convenience": 2,
+    "shop.gift": 2,
+    "shop.stationery": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Merced",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.425589,
+      "lon": -99.1259846,
+      "osm_id": 4208306191,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Abarrotes Charly",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4272085,
+      "lon": -99.1275933,
+      "osm_id": 5509017096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Novedades Rebe",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 19.4272285,
+      "lon": -99.1279659,
+      "osm_id": 5509017241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Novedades Fernanda",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 19.4269206,
+      "lon": -99.1276083,
+      "osm_id": 5509017266,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papelerias",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4268526,
+      "lon": -99.128153,
+      "osm_id": 5509017427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "atea",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4257549,
+      "lon": -99.1279267,
+      "osm_id": 7193729585,
+      "osm_type": "node",
+      "address": "Calle Topacio",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

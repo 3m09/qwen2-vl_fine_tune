@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/684.png",
+  "center_lat": 19.435135135135134,
+  "center_lon": -99.13186420504552,
+  "bbox": [
+    -99.1330583682232,
+    19.434009009009007,
+    -99.13067004186784,
+    19.436261261261258
+  ],
+  "unique_categories": [
+    "amenity.theatre",
+    "shop.photo",
+    "tourism.museum",
+    "amenity.restaurant",
+    "shop.ticket",
+    "shop.books"
+  ],
+  "poi_count_per_category": {
+    "amenity.theatre": 1,
+    "shop.photo": 1,
+    "tourism.museum": 1,
+    "amenity.restaurant": 2,
+    "shop.ticket": 1,
+    "shop.books": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "El Mayor",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4357703,
+      "lon": -99.1314225,
+      "osm_id": 4166517292,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Argentina",
+      "road_geometry": null
+    },
+    {
+      "name": "Educal",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4356373,
+      "lon": -99.132027,
+      "osm_id": 4218646377,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Archivo de la Fotograf\u00eda",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 19.4350046,
+      "lon": -99.1321427,
+      "osm_id": 5675720122,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Guatemala",
+      "road_geometry": null
+    },
+    {
+      "name": "Vyorsa",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 19.4359514,
+      "lon": -99.1327153,
+      "osm_id": 11926899475,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Librer\u00eda del Abogado",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4356895,
+      "lon": -99.1324383,
+      "osm_id": 11926922874,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Anfiteatro Sim\u00f3n Bol\u00edvar",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 19.4358528,
+      "lon": -99.1310882,
+      "osm_id": 12411455818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Casa De Las Sirenas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.435075,
+      "lon": -99.1322801,
+      "osm_id": 13076911403,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Guatemala",
+      "road_geometry": null
+    },
+    {
+      "name": "Entrada a Museo del Templo Mayor",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 19.4343218,
+      "lon": -99.1317692,
+      "osm_id": 13086077184,
+      "osm_type": "node",
+      "address": "Seminario",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 22,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

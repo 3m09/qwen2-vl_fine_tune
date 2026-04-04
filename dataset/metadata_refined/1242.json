@@ -1,0 +1,197 @@
+{
+  "image": "dataset/images/1242.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.97171492687674,
+  "bbox": [
+    -73.97320361493585,
+    40.84729729729735,
+    -73.97022623881762,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.doityourself",
+    "shop.hairdresser",
+    "amenity.restaurant",
+    "shop.sports",
+    "shop.florist",
+    "amenity.veterinary"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "amenity.cafe": 2,
+    "shop.convenience": 1,
+    "shop.doityourself": 1,
+    "shop.hairdresser": 2,
+    "amenity.restaurant": 3,
+    "shop.sports": 1,
+    "shop.florist": 1,
+    "amenity.veterinary": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Number 1 Elementary School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8493182,
+      "lon": -73.9717168,
+      "osm_id": 357729531,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Lee Animal Clinic",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": 40.8484768,
+      "lon": -73.9703951,
+      "osm_id": 2269620643,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Berceli Kitchen and Home Design",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 40.8483632,
+      "lon": -73.970422,
+      "osm_id": 2269630207,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Koa Koa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8490918,
+      "lon": -73.9709284,
+      "osm_id": 2269633321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Supercuts",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8492054,
+      "lon": -73.9709015,
+      "osm_id": 2269634818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8492957,
+      "lon": -73.9708541,
+      "osm_id": 2269635701,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8494284,
+      "lon": -73.9707835,
+      "osm_id": 2269643036,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8478211,
+      "lon": -73.9705632,
+      "osm_id": 10628137668,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Soup Dumpling Plus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8475202,
+      "lon": -73.9706087,
+      "osm_id": 11938509358,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Jumong Pocha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8476084,
+      "lon": -73.9702929,
+      "osm_id": 12597075712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "J Golf",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 40.8476516,
+      "lon": -73.9705589,
+      "osm_id": 12597075715,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kaie Head Spa",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8474397,
+      "lon": -73.9704494,
+      "osm_id": 12597075717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Peonia Atelier",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 40.8475298,
+      "lon": -73.9703481,
+      "osm_id": 12597075721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 24,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

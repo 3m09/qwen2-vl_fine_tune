@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/1036.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.94195891608994,
+  "bbox": [
+    -73.94344714901071,
+    40.82702702702706,
+    -73.94047068316917,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Saint John's Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8288889,
+      "lon": -73.9433333,
+      "osm_id": 357620994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 150th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8274861,
+      "lon": -73.9428563,
+      "osm_id": 5281916121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 153rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8292788,
+      "lon": -73.9421151,
+      "osm_id": 5281917476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

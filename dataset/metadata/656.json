@@ -1,0 +1,684 @@
+{
+  "image": "dataset/images/656.png",
+  "center_lat": 19.42837837837838,
+  "center_lon": -99.13425297848364,
+  "bbox": [
+    -99.13544709198545,
+    19.427252252252252,
+    -99.13305886498182,
+    19.429504504504504
+  ],
+  "unique_categories": [
+    "shop.tailor",
+    "shop.yes",
+    "tourism.museum",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "tourism.hostel",
+    "amenity.toilets",
+    "amenity.ice_cream",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "amenity.hospital",
+    "shop.stationery",
+    "shop.clothes",
+    "shop.erotic",
+    "shop.beauty",
+    "amenity.pharmacy",
+    "shop.fabric",
+    "amenity.bar",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "shop.tailor": 2,
+    "shop.yes": 2,
+    "tourism.museum": 1,
+    "amenity.restaurant": 11,
+    "amenity.cafe": 3,
+    "tourism.hostel": 2,
+    "amenity.toilets": 1,
+    "amenity.ice_cream": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.convenience": 2,
+    "highway.bus_stop": 1,
+    "amenity.fast_food": 2,
+    "amenity.hospital": 1,
+    "shop.stationery": 1,
+    "shop.clothes": 9,
+    "shop.erotic": 1,
+    "shop.beauty": 2,
+    "amenity.pharmacy": 5,
+    "shop.fabric": 1,
+    "amenity.bar": 2,
+    "shop.shoes": 1
+  },
+  "poi_count": 52,
+  "pois": [
+    {
+      "name": "Museo Casa de la Memoria Ind\u00f3mita",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 19.4277059,
+      "lon": -99.1347999,
+      "osm_id": 4511105864,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Torter\u00eda y Taquer\u00eda",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4282893,
+      "lon": -99.1348351,
+      "osm_id": 4678288890,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici 20 de Noviembre / Mesones",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4285086,
+      "lon": -99.13384,
+      "osm_id": 5062716886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacia Par\u00eds",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4293127,
+      "lon": -99.1349024,
+      "osm_id": 5452303926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bertico Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4277498,
+      "lon": -99.1351419,
+      "osm_id": 5509017038,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurant Sazon Oaxaque\u00f1o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4274949,
+      "lon": -99.1331564,
+      "osm_id": 5509017042,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacias Similares",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4275661,
+      "lon": -99.1352218,
+      "osm_id": 5509017050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Sirenita Mariscos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.42747,
+      "lon": -99.1344179,
+      "osm_id": 5509017052,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pollos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4277016,
+      "lon": -99.1347664,
+      "osm_id": 5509017063,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nutrisa",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 19.4274104,
+      "lon": -99.1339193,
+      "osm_id": 5509017065,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4275544,
+      "lon": -99.1351241,
+      "osm_id": 5509017077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Plaza 20",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.427457,
+      "lon": -99.134309,
+      "osm_id": 5509017079,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Barra Blanca Pulqueria",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4275106,
+      "lon": -99.133279,
+      "osm_id": 5509017082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Palacio Del Bebe",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4273548,
+      "lon": -99.1334538,
+      "osm_id": 5509017094,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ava",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4275566,
+      "lon": -99.1336373,
+      "osm_id": 5509017106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Los Canallas",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4277609,
+      "lon": -99.135228,
+      "osm_id": 5509017118,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mini Bodegas Plaza",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4274629,
+      "lon": -99.1343581,
+      "osm_id": 5509017120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dise\u00f1os Candrya",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 19.4273305,
+      "lon": -99.1332511,
+      "osm_id": 5509017223,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salon Mezquite",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 19.4277687,
+      "lon": -99.1352891,
+      "osm_id": 5509017232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tacos El Guero",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4275099,
+      "lon": -99.1346508,
+      "osm_id": 5509017234,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lupita",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4273613,
+      "lon": -99.1335083,
+      "osm_id": 5509017236,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liz minelli",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4275871,
+      "lon": -99.1338747,
+      "osm_id": 5509017249,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Larva",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.42731,
+      "lon": -99.1330795,
+      "osm_id": 5509017252,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante El Reloj",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4276586,
+      "lon": -99.1344313,
+      "osm_id": 5509017261,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arcana Moda",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4273402,
+      "lon": -99.1333319,
+      "osm_id": 5509017264,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Puebla",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4275838,
+      "lon": -99.1353701,
+      "osm_id": 5509017273,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ba\u00f1os",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 19.427368,
+      "lon": -99.1335642,
+      "osm_id": 5509017277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Mercantil",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 19.427719,
+      "lon": -99.1349019,
+      "osm_id": 5509017286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Janine",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.427626,
+      "lon": -99.1341777,
+      "osm_id": 5509017288,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kefre",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4274832,
+      "lon": -99.133065,
+      "osm_id": 5509017291,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Condoner\u00eda Diversex",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": 19.4276642,
+      "lon": -99.1344752,
+      "osm_id": 5509017299,
+      "osm_type": "node",
+      "address": "Calle Regina",
+      "road_geometry": null
+    },
+    {
+      "name": "Mark Taylor Uniforms",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 19.4273477,
+      "lon": -99.1333946,
+      "osm_id": 5509017301,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pizzeria Malasa\u00f1a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.427589,
+      "lon": -99.135413,
+      "osm_id": 5509017310,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hilos Perfectos",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 19.4275123,
+      "lon": -99.134772,
+      "osm_id": 5509017311,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papeleria SEP",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4273767,
+      "lon": -99.1336374,
+      "osm_id": 5509017313,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gom",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4275385,
+      "lon": -99.134991,
+      "osm_id": 5509017423,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nina Ferre",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4274472,
+      "lon": -99.1342272,
+      "osm_id": 5509017425,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Treze",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4273186,
+      "lon": -99.1331516,
+      "osm_id": 5509017428,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Estetica",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 19.427672,
+      "lon": -99.1345356,
+      "osm_id": 5509017436,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taqueria Regina",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4276945,
+      "lon": -99.1347108,
+      "osm_id": 5509017446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pasaje Capital",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 19.4273863,
+      "lon": -99.1337173,
+      "osm_id": 5509017448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Burra Blanca",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4275021,
+      "lon": -99.1332127,
+      "osm_id": 5840035311,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elkar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4277195,
+      "lon": -99.1349402,
+      "osm_id": 6366212885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salvaje Tentaci\u00f3n",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 19.4294546,
+      "lon": -99.1346481,
+      "osm_id": 7212417236,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fonda mi lupita",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4282631,
+      "lon": -99.1330845,
+      "osm_id": 7362949285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elkar Pollo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4291319,
+      "lon": -99.1349159,
+      "osm_id": 8840581917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hostal Regina",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4277509,
+      "lon": -99.1351814,
+      "osm_id": 9769522721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacias Especializadas",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4294818,
+      "lon": -99.1348681,
+      "osm_id": 10030547692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hospital de Jesus",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 19.4288082,
+      "lon": -99.1336905,
+      "osm_id": 10823121866,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apapacho Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4287426,
+      "lon": -99.1349627,
+      "osm_id": 12467358801,
+      "osm_type": "node",
+      "address": "Calle 5 de Febrero",
+      "road_geometry": null
+    },
+    {
+      "name": "20 de noviembre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4293794,
+      "lon": -99.1342378,
+      "osm_id": 13537499098,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacia Nosarco",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4292806,
+      "lon": -99.1347002,
+      "osm_id": 13539319177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

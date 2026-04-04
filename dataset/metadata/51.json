@@ -1,191 +1,257 @@
 {
   "image": "dataset/images/51.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.98958590570726,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.09819035882554442,
   "bbox": [
-    -73.99107363346336,
-    40.80450450450451,
-    -73.98809817795114,
-    40.80675675675676
+    -0.1,
+    51.51626126126128,
+    -0.09638071765108883,
+    51.51851351351353
   ],
   "unique_categories": [
-    "shop.optician",
-    "shop.shoes",
-    "shop.mobile_phone",
-    "shop.massage",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.parking",
+    "amenity.cafe",
+    "shop.bicycle",
+    "tourism.information",
+    "amenity.fast_food",
+    "amenity.clinic",
     "leisure.fitness_centre",
-    "shop.hairdresser",
-    "shop.beauty",
-    "shop.cosmetics",
-    "shop.clothes"
+    "railway.disused"
   ],
   "poi_count_per_category": {
-    "shop.optician": 1,
-    "shop.shoes": 1,
-    "shop.mobile_phone": 1,
-    "shop.massage": 1,
-    "leisure.fitness_centre": 1,
-    "shop.hairdresser": 1,
-    "shop.beauty": 2,
-    "shop.cosmetics": 1,
-    "shop.clothes": 4
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 3,
+    "amenity.parking": 1,
+    "amenity.cafe": 2,
+    "shop.bicycle": 1,
+    "tourism.information": 1,
+    "amenity.fast_food": 2,
+    "amenity.clinic": 1,
+    "leisure.fitness_centre": 2,
+    "railway.disused": 2
   },
-  "poi_count": 13,
+  "poi_count": 18,
   "pois": [
     {
-      "name": "Victoria's Secret",
+      "name": "King Edward Street / St Paul's Station",
       "category": [
-        "shop.clothes"
+        "highway.bus_stop"
       ],
-      "lat": 40.8064516,
-      "lon": -73.988838,
-      "osm_id": 3486847406,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Tilton Fitness",
-      "category": [
-        "leisure.fitness_centre"
-      ],
-      "lat": 40.8064466,
-      "lon": -73.9896298,
-      "osm_id": 5285124121,
-      "osm_type": "node",
-      "address": "City Place",
-      "road_geometry": null
-    },
-    {
-      "name": "Bath & Body Works",
-      "category": [
-        "shop.cosmetics"
-      ],
-      "lat": 40.8063757,
-      "lon": -73.988646,
-      "osm_id": 5285140421,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Express",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8065844,
-      "lon": -73.9881756,
-      "osm_id": 5285140423,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Loft",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8066484,
-      "lon": -73.9883369,
-      "osm_id": 5285151121,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Verizon",
-      "category": [
-        "shop.mobile_phone"
-      ],
-      "lat": 40.8067379,
-      "lon": -73.9885622,
-      "osm_id": 5285151122,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "LensCrafters",
-      "category": [
-        "shop.optician"
-      ],
-      "lat": 40.8062169,
-      "lon": -73.9882441,
-      "osm_id": 5286405423,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "JJ Eyelashes",
-      "category": [
-        "shop.beauty"
-      ],
-      "lat": 40.8067375,
-      "lon": -73.9895616,
-      "osm_id": 5286416021,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Metromix",
-      "category": [
-        "shop.shoes"
-      ],
-      "lat": 40.8063442,
-      "lon": -73.9885663,
-      "osm_id": 5286419721,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Cookie Cutters Haircuts For Kids",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.806261,
-      "lon": -73.9883557,
-      "osm_id": 5286420821,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Chico's",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8061811,
-      "lon": -73.9881534,
-      "osm_id": 5286432221,
-      "osm_type": "node",
-      "address": "The Promenade",
-      "road_geometry": null
-    },
-    {
-      "name": "Hand & Stone Massage and Facial Spa",
-      "category": [
-        "shop.massage"
-      ],
-      "lat": 40.806363,
-      "lon": -73.9896,
-      "osm_id": 5330496623,
+      "lat": 51.5165565,
+      "lon": -0.0986455,
+      "osm_id": 469773003,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Victoria's Secret Beauty",
+      "name": "Pret A Manger",
       "category": [
-        "shop.beauty"
+        "amenity.fast_food"
       ],
-      "lat": 40.806492,
-      "lon": -73.9889402,
-      "osm_id": 9861373210,
+      "lat": 51.5171828,
+      "lon": -0.0970164,
+      "osm_id": 640163796,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": "Aldersgate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "King Edward Building",
+      "category": [
+        "railway.disused"
+      ],
+      "lat": 51.5163582,
+      "lon": -0.0996007,
+      "osm_id": 1595168844,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King Edward Street",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5163245,
+      "lon": -0.0984754,
+      "osm_id": 1664365106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Postman's Park",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5168384,
+      "lon": -0.0970417,
+      "osm_id": 1813618226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Barts",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5179036,
+      "lon": -0.0995562,
+      "osm_id": 1816705112,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rowland Hill",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.516279,
+      "lon": -0.098733,
+      "osm_id": 1816959439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CitiPark London Barbican",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 51.518448,
+      "lon": -0.0973908,
+      "osm_id": 2135411292,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Giant",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 51.5173272,
+      "lon": -0.0973819,
+      "osm_id": 3455347503,
+      "osm_type": "node",
+      "address": "Aldersgate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Britain",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5176305,
+      "lon": -0.0980261,
+      "osm_id": 3625307789,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Virgin Active",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5178552,
+      "lon": -0.0974636,
+      "osm_id": 3998968424,
+      "osm_type": "node",
+      "address": "Aldersgate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "PureGym",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5172018,
+      "lon": -0.0983287,
+      "osm_id": 4369519196,
+      "osm_type": "node",
+      "address": "Little Britain",
+      "road_geometry": null
+    },
+    {
+      "name": "Museum of London",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.518369,
+      "lon": -0.0968434,
+      "osm_id": 4826448084,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King Edward Building",
+      "category": [
+        "railway.disused"
+      ],
+      "lat": 51.5163717,
+      "lon": -0.0995997,
+      "osm_id": 5381418001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Giddy Up Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5173587,
+      "lon": -0.0974004,
+      "osm_id": 6977910185,
+      "osm_type": "node",
+      "address": "Aldersgate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Half Cup",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5181206,
+      "lon": -0.0986307,
+      "osm_id": 10180595617,
+      "osm_type": "node",
+      "address": "Bartholomew Close",
+      "road_geometry": null
+    },
+    {
+      "name": "Sandwich Sandwich",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5164431,
+      "lon": -0.0967367,
+      "osm_id": 12783780143,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moorfields @ Barts",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5172114,
+      "lon": -0.099456,
+      "osm_id": 12867023552,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

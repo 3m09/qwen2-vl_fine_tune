@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/648.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.1318649335742,
+  "bbox": [
+    -99.133059030522,
+    19.425,
+    -99.13067083662641,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "railway.subway_entrance",
+    "shop.mobile_phone",
+    "railway.stop",
+    "amenity.library"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "railway.subway_entrance": 3,
+    "shop.mobile_phone": 1,
+    "railway.stop": 1,
+    "amenity.library": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.4259131,
+      "lon": -99.1329481,
+      "osm_id": 1155680867,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.426446,
+      "lon": -99.1325338,
+      "osm_id": 5167827031,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4255843,
+      "lon": -99.1328781,
+      "osm_id": 5167845577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4255122,
+      "lon": -99.1327478,
+      "osm_id": 5167845578,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Biblioteca P\u00fablica Rub\u00e9n Dar\u00edo",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 19.4271284,
+      "lon": -99.1315529,
+      "osm_id": 5509017060,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Telcel",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 19.4267958,
+      "lon": -99.1330325,
+      "osm_id": 8033273685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4254731,
+      "lon": -99.1326677,
+      "osm_id": 11016646627,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 14,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

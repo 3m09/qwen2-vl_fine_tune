@@ -1,0 +1,418 @@
+{
+  "image": "dataset/images/317.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.661314495692544,
+  "bbox": [
+    -46.66254299712836,
+    -23.55648648648649,
+    -46.660085994256725,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.lottery",
+    "shop.chocolate",
+    "railway.stop",
+    "railway.station",
+    "shop.lighting",
+    "amenity.police",
+    "amenity.language_school",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.confectionery",
+    "amenity.cinema",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "amenity.parking",
+    "amenity.parcel_locker",
+    "amenity.pharmacy",
+    "shop.department_store",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 3,
+    "shop.lottery": 1,
+    "shop.chocolate": 2,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "shop.lighting": 4,
+    "amenity.police": 1,
+    "amenity.language_school": 1,
+    "railway.subway_entrance": 2,
+    "shop.convenience": 1,
+    "highway.bus_stop": 1,
+    "shop.confectionery": 1,
+    "amenity.cinema": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 1,
+    "amenity.parking": 1,
+    "amenity.parcel_locker": 1,
+    "amenity.pharmacy": 1,
+    "shop.department_store": 2,
+    "amenity.bank": 2
+  },
+  "poi_count": 30,
+  "pois": [
+    {
+      "name": "Paulista - Pernambucanas",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": -23.5552211,
+      "lon": -46.6623125,
+      "osm_id": 656072831,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista - Pernambucanas",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": -23.5552778,
+      "lon": -46.6622703,
+      "osm_id": 2751703411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogasil",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5563052,
+      "lon": -46.6619012,
+      "osm_id": 3621336530,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "REAG Belas Artes",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": -23.5555765,
+      "lon": -46.6624806,
+      "osm_id": 3653382446,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Casas Pernambucanas",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": -23.555397,
+      "lon": -46.6622716,
+      "osm_id": 4912963723,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Paulista",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5552209,
+      "lon": -46.6620835,
+      "osm_id": 4912963725,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Corregedoria da Policia Civil",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": -23.5550693,
+      "lon": -46.6618038,
+      "osm_id": 4912963727,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Ilumatel Ilumina\u00e7\u00e3o & Materiais Eletricos",
+      "category": [
+        "shop.lighting"
+      ],
+      "lat": -23.5542385,
+      "lon": -46.6608935,
+      "osm_id": 4912963730,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Ipel Ilumina",
+      "category": [
+        "shop.lighting"
+      ],
+      "lat": -23.5545448,
+      "lon": -46.6612682,
+      "osm_id": 4912963741,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Ita\u00fa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5547335,
+      "lon": -46.6614394,
+      "osm_id": 4912963745,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Cacau Show",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": -23.5548216,
+      "lon": -46.6615708,
+      "osm_id": 4912963747,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Ibis Budget",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5548991,
+      "lon": -46.6616718,
+      "osm_id": 4912963748,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Chocolates Brasil Cacau",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": -23.5562803,
+      "lon": -46.6619328,
+      "osm_id": 4912963752,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Restajurante Jabuticaba",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5555251,
+      "lon": -46.6610675,
+      "osm_id": 4912963767,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Bela Cintra, 955",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5556225,
+      "lon": -46.6608077,
+      "osm_id": 4913452732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Estapar",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5557268,
+      "lon": -46.6605303,
+      "osm_id": 4913452736,
+      "osm_type": "node",
+      "address": "Rua Lu\u00eds Coelho",
+      "road_geometry": null
+    },
+    {
+      "name": "Esta\u00e7\u00e3o Consola\u00e7\u00e3o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5543076,
+      "lon": -46.6603649,
+      "osm_id": 4990243751,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Belas Artes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5551145,
+      "lon": -46.6625116,
+      "osm_id": 4995327828,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Caixa Econ\u00f4mica Federal",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5550362,
+      "lon": -46.662431,
+      "osm_id": 4995327830,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Paulista",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5549109,
+      "lon": -46.6622527,
+      "osm_id": 4995327833,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Sui\u00e7a e Marilan - Loja de Fabrica",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": -23.554832,
+      "lon": -46.6621565,
+      "osm_id": 4995327835,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Santa Sorte",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5544927,
+      "lon": -46.6617426,
+      "osm_id": 4995327844,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista - Pernambucanas",
+      "category": [
+        "railway.station"
+      ],
+      "lat": -23.5552461,
+      "lon": -46.6622682,
+      "osm_id": 5148131318,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Segredo de Minas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.555414,
+      "lon": -46.660552,
+      "osm_id": 6557948386,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Correio Locker Metro Paulista",
+      "category": [
+        "amenity.parcel_locker"
+      ],
+      "lat": -23.5552524,
+      "lon": -46.6619485,
+      "osm_id": 9928825686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5543753,
+      "lon": -46.6610132,
+      "osm_id": 11423628479,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wise up",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": -23.5549678,
+      "lon": -46.662342,
+      "osm_id": 11773739376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Siga bem",
+      "category": [
+        "shop.lighting"
+      ],
+      "lat": -23.5544474,
+      "lon": -46.6616986,
+      "osm_id": 11960989337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Della lamp",
+      "category": [
+        "shop.lighting"
+      ],
+      "lat": -23.5543151,
+      "lon": -46.6615367,
+      "osm_id": 11961018773,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pernambucanas",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": -23.5553515,
+      "lon": -46.6621951,
+      "osm_id": 12913138519,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

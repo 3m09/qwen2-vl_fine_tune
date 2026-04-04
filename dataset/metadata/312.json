@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/312.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.65148625259379,
+  "bbox": [
+    -46.652714775085265,
+    -23.558738738738743,
+    -46.65025773010232,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "tourism.hostel",
+    "amenity.arts_centre",
+    "amenity.theatre"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "tourism.hostel": 1,
+    "amenity.arts_centre": 1,
+    "amenity.theatre": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Teatro Raul Cortez",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": -23.5580213,
+      "lon": -46.6522785,
+      "osm_id": 1939916141,
+      "osm_type": "node",
+      "address": "Rua Doutor Pl\u00ednio Barreto",
+      "road_geometry": null
+    },
+    {
+      "name": "Mama Brasil",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": -23.5579031,
+      "lon": -46.650462,
+      "osm_id": 4484677290,
+      "osm_type": "node",
+      "address": "Rua Itapeva",
+      "road_geometry": null
+    },
+    {
+      "name": "Centro de Pesquisa e Forma\u00e7\u00e3o SESC",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": -23.5579865,
+      "lon": -46.6521019,
+      "osm_id": 6960270949,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SESC 14 Bis",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": -23.5578571,
+      "lon": -46.6520135,
+      "osm_id": 12899618247,
+      "osm_type": "node",
+      "address": "Rua Doutor Pl\u00ednio Barreto",
+      "road_geometry": null
+    }
+  ]
+}

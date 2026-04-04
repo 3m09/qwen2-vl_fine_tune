@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/471.png",
+  "center_lat": 22.294144144144138,
+  "center_lon": 114.17095387186505,
+  "bbox": [
+    114.16973677499115,
+    22.29301801801801,
+    114.17217096873894,
+    22.29527027027026
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "highway.bus_stop",
+    "tourism.museum",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 2,
+    "highway.bus_stop": 2,
+    "tourism.museum": 1,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "\u9999\u6e2f\u6587\u5316\u4e2d\u5fc3 Hong Kong Cultural Centre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2945183,
+      "lon": 114.1712537,
+      "osm_id": 1949213215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2938213,
+      "lon": 114.1707642,
+      "osm_id": 1951950517,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u7058 Shanghai Tang",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2947384,
+      "lon": 114.1702737,
+      "osm_id": 4848128223,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mall Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2948811,
+      "lon": 114.1708582,
+      "osm_id": 4848178732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiffany & Company",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2948841,
+      "lon": 114.1720901,
+      "osm_id": 4848354391,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Alchemist Cafe Lemna \u7267\u7f8a\u5c11\u5e74\u5496\u5561\u9928Lemna",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2937056,
+      "lon": 114.1710194,
+      "osm_id": 5370133809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u6587\u5316\u4e2d\u5fc3 Hong Kong Cultural Centre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2945191,
+      "lon": 114.1712678,
+      "osm_id": 7054435546,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u85dd\u8853\u9928 Hong Kong Museum of Art",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 22.2935305,
+      "lon": 114.1720306,
+      "osm_id": 10578103641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 14,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

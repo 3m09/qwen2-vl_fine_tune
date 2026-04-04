@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/924.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.98958378449696,
+  "bbox": [
+    -73.9910718152831,
+    40.81801801801804,
+    -73.98809575371081,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Good Shepherd Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8192507,
+      "lon": -73.9886094,
+      "osm_id": 357743028,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sabor a Campo Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8201869,
+      "lon": -73.9888376,
+      "osm_id": 12648316745,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/348.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83739058890907,
+  "bbox": [
+    103.83626417173552,
+    1.3025045045045047,
+    103.83851700608263,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "shop.electronics",
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 2,
+    "shop.electronics": 1,
+    "tourism.hotel": 1,
+    "shop.clothes": 1,
+    "shop.jewelry": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Holiday Inn Express (Orchard Road)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.303228,
+      "lon": 103.8366804,
+      "osm_id": 4302905960,
+      "osm_type": "node",
+      "address": "Bideford Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Off White",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3026731,
+      "lon": 103.8367458,
+      "osm_id": 4749093825,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.302748,
+      "lon": 103.8368198,
+      "osm_id": 4869134405,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Apple",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3028177,
+      "lon": 103.8364774,
+      "osm_id": 4872168521,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Swarovski",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3025378,
+      "lon": 103.8374929,
+      "osm_id": 6810958781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Wealth Hub",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3026858,
+      "lon": 103.8368416,
+      "osm_id": 8420594114,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    }
+  ]
+}

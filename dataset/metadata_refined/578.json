@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/578.png",
+  "center_lat": 41.014639639639654,
+  "center_lon": 28.96447731333747,
+  "bbox": [
+    28.962984875558313,
+    41.01351351351353,
+    28.965969751116624,
+    41.015765765765785
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.furniture",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.furniture": 2,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u00c7i\u00e7ek z\u00fcccaciye",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0153496,
+      "lon": 28.9659109,
+      "osm_id": 5113486787,
+      "osm_type": "node",
+      "address": "Siyavu\u015f pa\u015fa caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Oguz",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0151643,
+      "lon": 28.9658904,
+      "osm_id": 5113486790,
+      "osm_type": "node",
+      "address": "Siyavu\u015f pa\u015fa caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ali Baba Kanaat Lokantas\u0131",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0152465,
+      "lon": 28.9634641,
+      "osm_id": 5581334622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kuru Fasulyeci S\u00fcleyman",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0154426,
+      "lon": 28.9632486,
+      "osm_id": 6939657816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 15,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

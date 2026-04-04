@@ -1,397 +1,567 @@
 {
   "image": "dataset/images/39.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.95388200459456,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.0909526888292292,
   "bbox": [
-    -73.9553696818657,
-    40.80225225225225,
-    -73.95239432732342,
-    40.80450450450451
+    -0.09276215106338337,
+    51.51175675675677,
+    -0.08914322659507505,
+    51.51400900900902
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "shop.clothes",
-    "shop.travel_agency",
-    "amenity.school",
-    "amenity.post_office",
-    "amenity.social_facility",
-    "amenity.dentist",
-    "shop.alcohol",
-    "shop.gift",
-    "amenity.cafe",
-    "shop.laundry",
-    "amenity.pharmacy",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "amenity.atm",
+    "amenity.loading_dock",
     "amenity.restaurant",
     "highway.bus_stop",
-    "shop.beauty",
-    "shop.pet",
+    "shop.hardware",
+    "amenity.cafe",
+    "railway.stop",
     "railway.station",
-    "shop.bakery",
-    "shop.party",
-    "amenity.bicycle_rental",
-    "shop.butcher",
-    "amenity.place_of_worship",
-    "shop.convenience"
+    "amenity.fast_food",
+    "tourism.information",
+    "shop.optician",
+    "amenity.clinic",
+    "shop.shoes",
+    "shop.clothes",
+    "leisure.miniature_golf",
+    "shop.dry_cleaning"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "shop.clothes": 1,
-    "shop.travel_agency": 1,
-    "amenity.school": 1,
-    "amenity.post_office": 1,
-    "amenity.social_facility": 2,
-    "amenity.dentist": 1,
-    "shop.alcohol": 1,
-    "shop.gift": 1,
+    "railway.subway_entrance": 5,
+    "shop.convenience": 2,
+    "amenity.atm": 1,
+    "amenity.loading_dock": 1,
+    "amenity.restaurant": 11,
+    "highway.bus_stop": 6,
+    "shop.hardware": 1,
     "amenity.cafe": 1,
-    "shop.laundry": 1,
-    "amenity.pharmacy": 1,
-    "amenity.restaurant": 3,
-    "highway.bus_stop": 3,
-    "shop.beauty": 1,
-    "shop.pet": 1,
+    "railway.stop": 2,
     "railway.station": 1,
-    "shop.bakery": 1,
-    "shop.party": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.butcher": 1,
-    "amenity.place_of_worship": 1,
-    "shop.convenience": 1
+    "amenity.fast_food": 4,
+    "tourism.information": 2,
+    "shop.optician": 1,
+    "amenity.clinic": 1,
+    "shop.shoes": 1,
+    "shop.clothes": 1,
+    "leisure.miniature_golf": 1,
+    "shop.dry_cleaning": 1
   },
-  "poi_count": 28,
+  "poi_count": 43,
   "pois": [
     {
-      "name": "Public School 10",
+      "name": "Coq d'Argent",
       "category": [
-        "amenity.school"
+        "amenity.restaurant"
       ],
-      "lat": 40.8041719,
-      "lon": -73.9533334,
-      "osm_id": 357578315,
+      "lat": 51.513355,
+      "lon": -0.0908549,
+      "osm_id": 295975928,
       "osm_type": "node",
-      "address": null,
+      "address": "Poultry",
       "road_geometry": null
     },
     {
-      "name": "First Corinthian Baptist Church",
+      "name": "Robert Dyas",
       "category": [
-        "amenity.place_of_worship"
+        "shop.hardware"
       ],
-      "lat": 40.8031995,
-      "lon": -73.9531159,
-      "osm_id": 357621012,
+      "lat": 51.5133665,
+      "lon": -0.0925606,
+      "osm_id": 296610106,
       "osm_type": "node",
-      "address": "Adam Clayton Powell Jr. Boulevard",
+      "address": "Queen Street",
       "road_geometry": null
     },
     {
-      "name": "Community Kitchen and Pantry",
-      "category": [
-        "amenity.social_facility"
-      ],
-      "lat": 40.804032,
-      "lon": -73.9549316,
-      "osm_id": 357622057,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "116th Street",
-      "category": [
-        "railway.station"
-      ],
-      "lat": 40.8044723,
-      "lon": -73.9553299,
-      "osm_id": 2013622922,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Make My Cake",
-      "category": [
-        "shop.bakery"
-      ],
-      "lat": 40.8035548,
-      "lon": -73.9528936,
-      "osm_id": 2340474679,
-      "osm_type": "node",
-      "address": "St. Nicholas Aveneu",
-      "road_geometry": null
-    },
-    {
-      "name": "C-Town",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8037936,
-      "lon": -73.9543191,
-      "osm_id": 2762513256,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "West 116th Street & Adam Clayton Powell Jr. Boulevard",
+      "name": "Bank Station / Poultry",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8035353,
-      "lon": -73.953043,
-      "osm_id": 5263689898,
+      "lat": 51.513755,
+      "lon": -0.0916123,
+      "osm_id": 469771225,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 116th Street & Frederick Douglass Boulevard",
+      "name": "Poultry / Bank Station",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8044388,
-      "lon": -73.9551281,
-      "osm_id": 5263698195,
+      "lat": 51.5135647,
+      "lon": -0.0910865,
+      "osm_id": 469771226,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr Boulevard & West 116th Street",
+      "name": "Bank Station / Princes Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8035113,
-      "lon": -73.952546,
-      "osm_id": 5296105283,
+      "lat": 51.5140077,
+      "lon": -0.0892554,
+      "osm_id": 469777309,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "USPS Morningside Station",
+      "name": "Cannon Street Station",
       "category": [
-        "amenity.post_office"
+        "highway.bus_stop"
       ],
-      "lat": 40.8037054,
-      "lon": -73.9541422,
-      "osm_id": 5972713587,
+      "lat": 51.511843,
+      "lon": -0.0911173,
+      "osm_id": 469781057,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "BO's Bagels",
+      "name": "Bank Station / Queen Victoria Street",
       "category": [
-        "amenity.cafe"
+        "highway.bus_stop"
       ],
-      "lat": 40.8041731,
-      "lon": -73.9541227,
-      "osm_id": 9543863717,
+      "lat": 51.5129246,
+      "lon": -0.0911482,
+      "osm_id": 469781251,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Bhakti 2154 Mini Mart",
+      "name": "Bank Station / Queen Victoria Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5128795,
+      "lon": -0.0917463,
+      "osm_id": 469781252,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tesco Express",
       "category": [
         "shop.convenience"
       ],
-      "lat": 40.804484,
-      "lon": -73.9550689,
-      "osm_id": 9553068942,
+      "lat": 51.5135459,
+      "lon": -0.0915278,
+      "osm_id": 560717334,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": "Cheapside",
       "road_geometry": null
     },
     {
-      "name": "The Winery",
+      "name": "Bank station, Exit G",
       "category": [
-        "shop.alcohol"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8043897,
-      "lon": -73.954836,
-      "osm_id": 9553068944,
+      "lat": 51.51344,
+      "lon": -0.0902804,
+      "osm_id": 560717337,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Safari",
+      "name": "Starbucks",
       "category": [
-        "amenity.restaurant"
+        "amenity.cafe"
       ],
-      "lat": 40.8038486,
-      "lon": -73.9535718,
-      "osm_id": 9553068946,
+      "lat": 51.5126035,
+      "lon": -0.090075,
+      "osm_id": 702796635,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": "Walbrook",
       "road_geometry": null
     },
     {
-      "name": "La Savane",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8041288,
-      "lon": -73.9542537,
-      "osm_id": 9553134899,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Pikine",
+      "name": "Bibimbap",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8041913,
-      "lon": -73.9543835,
-      "osm_id": 9553153273,
+      "lat": 51.51201,
+      "lon": -0.08915,
+      "osm_id": 871981135,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Ecogreen Pharmacy",
+      "name": "Bank",
       "category": [
-        "amenity.pharmacy"
+        "railway.station"
       ],
-      "lat": 40.8040946,
-      "lon": -73.9550567,
-      "osm_id": 11743274414,
+      "lat": 51.5131048,
+      "lon": -0.0893749,
+      "osm_id": 1637578440,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Miss Bubble Laundromat",
+      "name": "Bank station, Exit 9",
       "category": [
-        "shop.laundry"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8038531,
-      "lon": -73.9544974,
-      "osm_id": 11743274415,
+      "lat": 51.5133574,
+      "lon": -0.0902138,
+      "osm_id": 1733389358,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "O&G Party Palace",
+      "name": "K10",
       "category": [
-        "shop.party"
+        "amenity.restaurant"
       ],
-      "lat": 40.8038824,
-      "lon": -73.954574,
-      "osm_id": 11743274416,
+      "lat": 51.5130738,
+      "lon": -0.092593,
+      "osm_id": 2616939016,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": "Queen Street",
       "road_geometry": null
     },
     {
-      "name": "Uptown Dental",
+      "name": "Bank station, Exit 1",
       "category": [
-        "amenity.dentist"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8038225,
-      "lon": -73.9544171,
-      "osm_id": 11743274417,
+      "lat": 51.5134264,
+      "lon": -0.0892088,
+      "osm_id": 2622404466,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Carrefour d'Afrique",
+      "name": "Bank station, Exit 8",
       "category": [
-        "shop.gift"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8036612,
-      "lon": -73.9540174,
-      "osm_id": 11743274418,
+      "lat": 51.513154,
+      "lon": -0.0898307,
+      "osm_id": 2869062009,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "HOPE Center",
-      "category": [
-        "amenity.social_facility"
-      ],
-      "lat": 40.8036225,
-      "lon": -73.9539357,
-      "osm_id": 11743295707,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Petopia",
-      "category": [
-        "shop.pet"
-      ],
-      "lat": 40.8035832,
-      "lon": -73.9538656,
-      "osm_id": 11743347547,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "ASKD Enterprises",
-      "category": [
-        "shop.travel_agency"
-      ],
-      "lat": 40.8035511,
-      "lon": -73.9537852,
-      "osm_id": 11743347548,
-      "osm_type": "node",
-      "address": "West 116th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Ouhlala Fashion",
+      "name": "Oasis",
       "category": [
         "shop.clothes"
       ],
-      "lat": 40.8034811,
-      "lon": -73.9536097,
-      "osm_id": 11743347550,
+      "lat": 51.5134855,
+      "lon": -0.0911198,
+      "osm_id": 3239531480,
       "osm_type": "node",
-      "address": "West 116th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Hew Harlem Halal Meat",
+      "name": "Santander",
       "category": [
-        "shop.butcher"
+        "amenity.atm"
       ],
-      "lat": 40.8041375,
-      "lon": -73.9553389,
-      "osm_id": 12414103703,
+      "lat": 51.5137342,
+      "lon": -0.0924014,
+      "osm_id": 3474141375,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Glamour Star Nails",
+      "name": "Pret A Manger",
       "category": [
-        "shop.beauty"
+        "amenity.fast_food"
       ],
-      "lat": 40.8041025,
-      "lon": -73.9552581,
-      "osm_id": 12414103704,
+      "lat": 51.5117721,
+      "lon": -0.0904665,
+      "osm_id": 3502830657,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": "Walbrook",
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Adam Clayton Powell Blvd & W 115 St",
+      "name": "Birley",
       "category": [
-        "amenity.bicycle_rental"
+        "amenity.fast_food"
       ],
-      "lat": 40.8025479,
-      "lon": -73.9532487,
-      "osm_id": 13226757173,
+      "lat": 51.5118905,
+      "lon": -0.09043,
+      "osm_id": 3788896805,
+      "osm_type": "node",
+      "address": "Walbrook",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Waitrose",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5120941,
+      "lon": -0.0903697,
+      "osm_id": 3788896806,
+      "osm_type": "node",
+      "address": "Walbrook",
+      "road_geometry": null
+    },
+    {
+      "name": "One Heart Clinic City",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5135273,
+      "lon": -0.0914607,
+      "osm_id": 4241081100,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "Fresh Collection",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 51.5133036,
+      "lon": -0.0897457,
+      "osm_id": 4428609657,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Savoy Taylors Guild",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 51.5137663,
+      "lon": -0.0915169,
+      "osm_id": 4490144909,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "Homeslice",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5121916,
+      "lon": -0.0924836,
+      "osm_id": 5198351003,
+      "osm_type": "node",
+      "address": "Queen Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caravan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5119761,
+      "lon": -0.0911375,
+      "osm_id": 5198351005,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Poke House",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5121613,
+      "lon": -0.0914334,
+      "osm_id": 5198351009,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Vinoteca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5120591,
+      "lon": -0.0907739,
+      "osm_id": 5198354565,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Bleecker",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120919,
+      "lon": -0.091281,
+      "osm_id": 5198354569,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Koya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5122096,
+      "lon": -0.0915275,
+      "osm_id": 5289858642,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5128052,
+      "lon": -0.0917442,
+      "osm_id": 5473272644,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5126917,
+      "lon": -0.0916482,
+      "osm_id": 5473272645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City of London Ward of Walbrook",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5127867,
+      "lon": -0.0898297,
+      "osm_id": 5473274975,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brigadiers",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5126188,
+      "lon": -0.091782,
+      "osm_id": 5661998121,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "BAO City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5124503,
+      "lon": -0.0919606,
+      "osm_id": 5661998122,
+      "osm_type": "node",
+      "address": "Bloomberg Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "The Ned",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5138635,
+      "lon": -0.089512,
+      "osm_id": 6679924186,
+      "osm_type": "node",
+      "address": "Poultry",
+      "road_geometry": null
+    },
+    {
+      "name": "Jubilee Walkway",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5133666,
+      "lon": -0.0898985,
+      "osm_id": 8868763933,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Puttshack",
+      "category": [
+        "leisure.miniature_golf"
+      ],
+      "lat": 51.5130549,
+      "lon": -0.0913596,
+      "osm_id": 9522414836,
+      "osm_type": "node",
+      "address": "Poultry",
+      "road_geometry": null
+    },
+    {
+      "name": "Lina Stores",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.512126,
+      "lon": -0.0909107,
+      "osm_id": 9772094117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ned Loading Bay",
+      "category": [
+        "amenity.loading_dock"
+      ],
+      "lat": 51.5139601,
+      "lon": -0.0903034,
+      "osm_id": 12471889801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Swithins",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5119565,
+      "lon": -0.0891789,
+      "osm_id": 12892234884,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank station, Walbrook exit",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5124038,
+      "lon": -0.090428,
+      "osm_id": 13513212434,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

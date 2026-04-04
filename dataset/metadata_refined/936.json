@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/936.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.95387104562938,
+  "bbox": [
+    -73.95535907641553,
+    40.81801801801804,
+    -73.95238301484324,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.supermarket": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "West 135th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8198246,
+      "lon": -73.9546756,
+      "osm_id": 5759381249,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C-Town",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8194853,
+      "lon": -73.955164,
+      "osm_id": 5781387953,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 135th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8186323,
+      "lon": -73.9525867,
+      "osm_id": 8736432138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

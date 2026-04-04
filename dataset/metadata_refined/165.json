@@ -1,77 +1,20 @@
 {
   "image": "dataset/images/165.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93601902061134,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.82619061968575,
   "bbox": [
-    -73.93750695036456,
-    40.81351351351353,
-    -73.93453109085812,
-    40.81576576576578
+    72.825,
+    18.944774774774768,
+    72.8273812393715,
+    18.94702702702702
   ],
-  "unique_categories": [
-    "highway.bus_stop",
-    "amenity.restaurant",
-    "amenity.post_office"
-  ],
-  "poi_count_per_category": {
-    "highway.bus_stop": 2,
-    "amenity.restaurant": 1,
-    "amenity.post_office": 1
-  },
-  "poi_count": 4,
-  "pois": [
-    {
-      "name": "Lincolnton Station New York Post Office",
-      "category": [
-        "amenity.post_office"
-      ],
-      "lat": 40.815,
-      "lon": -73.9363889,
-      "osm_id": 357621260,
-      "osm_type": "node",
-      "address": "5th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Kennedy Fried Chicken & Pizza",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8142537,
-      "lon": -73.9367717,
-      "osm_id": 2767707740,
-      "osm_type": "node",
-      "address": "5th Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "137th Street & 5th Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.813842,
-      "lon": -73.9369941,
-      "osm_id": 4953971783,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "138th Street & 5th Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.814453,
-      "lon": -73.9362538,
-      "osm_id": 4953971784,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    }
-  ],
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": [],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 2,
+    "original_poi_count": 5,
+    "removed_count": 5,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/265.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.65639960533656,
+  "bbox": [
+    -46.65762823314562,
+    -23.57,
+    -46.6551709775275,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Fran's Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5698287,
+      "lon": -46.6567898,
+      "osm_id": 1066862947,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Pizzaria Veridiana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5690837,
+      "lon": -46.6570972,
+      "osm_id": 8322165617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

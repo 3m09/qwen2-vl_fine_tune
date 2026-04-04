@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/795.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.94495407302405,
+  "bbox": [
+    -73.94644180078015,
+    40.80450450450451,
+    -73.94346634526794,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "shop.deli",
+    "amenity.place_of_worship",
+    "amenity.school",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "shop.deli": 1,
+    "amenity.place_of_worship": 2,
+    "amenity.school": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Mount Morris Ascension Presbyterian Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.805,
+      "lon": -73.9458333,
+      "osm_id": 357621056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Commandment Keepers Ethiopian Hebrew Congregation",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8061111,
+      "lon": -73.945,
+      "osm_id": 357621059,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Benedict Day Nursery and Kindergarten",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8063889,
+      "lon": -73.9438889,
+      "osm_id": 357621718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NYC Best Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8064597,
+      "lon": -73.9461118,
+      "osm_id": 2767369948,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Mount Morris Park West & West 124th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8061513,
+      "lon": -73.9446602,
+      "osm_id": 5269082561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

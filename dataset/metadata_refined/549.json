@@ -1,0 +1,655 @@
+{
+  "image": "dataset/images/549.png",
+  "center_lat": 41.00788288288289,
+  "center_lon": 28.976415132119595,
+  "bbox": [
+    28.97492284738145,
+    41.006756756756765,
+    28.97790741685774,
+    41.00900900900902
+  ],
+  "unique_categories": [
+    "shop.kiosk",
+    "amenity.atm",
+    "amenity.pub",
+    "amenity.cafe",
+    "shop.furniture",
+    "shop.convenience",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.travel_agency",
+    "shop.clothes",
+    "amenity.library",
+    "shop.carpet",
+    "amenity.post_office",
+    "railway.tram_stop",
+    "tourism.hotel",
+    "leisure.park"
+  ],
+  "poi_count_per_category": {
+    "shop.kiosk": 1,
+    "amenity.atm": 7,
+    "amenity.pub": 1,
+    "amenity.cafe": 2,
+    "shop.furniture": 1,
+    "shop.convenience": 4,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 14,
+    "shop.travel_agency": 4,
+    "shop.clothes": 2,
+    "amenity.library": 4,
+    "shop.carpet": 1,
+    "amenity.post_office": 2,
+    "railway.tram_stop": 2,
+    "tourism.hotel": 3,
+    "leisure.park": 1
+  },
+  "poi_count": 50,
+  "pois": [
+    {
+      "name": "T\u00fcrkiye Bankasi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0076346,
+      "lon": 28.9774411,
+      "osm_id": 415158577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Bazaar Jewelers",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0087517,
+      "lon": 28.9756599,
+      "osm_id": 2538075883,
+      "osm_type": "node",
+      "address": "Divanyolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "istanbul enjoyer",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0081919,
+      "lon": 28.9768644,
+      "osm_id": 3090816364,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Masal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0082304,
+      "lon": 28.9765667,
+      "osm_id": 3090853854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palmiye",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0081218,
+      "lon": 28.9775091,
+      "osm_id": 3090853857,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0080972,
+      "lon": 28.9755138,
+      "osm_id": 3282349639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0081113,
+      "lon": 28.9755143,
+      "osm_id": 3282349640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The North Shield Pub",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 41.0089076,
+      "lon": 28.9769555,
+      "osm_id": 3452205896,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0081387,
+      "lon": 28.9756045,
+      "osm_id": 4747710924,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tan Otel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0087305,
+      "lon": 28.9752939,
+      "osm_id": 5108843030,
+      "osm_type": "node",
+      "address": "Dr. Eminpa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Arsenal Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0083876,
+      "lon": 28.9754892,
+      "osm_id": 5108843034,
+      "osm_type": "node",
+      "address": "Dr. Eminpa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0081347,
+      "lon": 28.9755809,
+      "osm_id": 5108843040,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Four Seasons",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0081697,
+      "lon": 28.9757172,
+      "osm_id": 5108843041,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130BO CRUISE and TOURS",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0081211,
+      "lon": 28.9758821,
+      "osm_id": 5108843044,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Semazen Cafe and Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0081302,
+      "lon": 28.9762758,
+      "osm_id": 5108843051,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Cantas Yayinlari",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0082495,
+      "lon": 28.976102,
+      "osm_id": 5108843053,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ta\u015fk\u0131n Giyim Beyaz Aslan",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0083855,
+      "lon": 28.9759908,
+      "osm_id": 5108843056,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Semazen Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0086618,
+      "lon": 28.9759816,
+      "osm_id": 5108843060,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Meydan Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0089511,
+      "lon": 28.9754514,
+      "osm_id": 5108843066,
+      "osm_type": "node",
+      "address": "\u00c7atal\u00e7e\u015fme Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Shop Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0089974,
+      "lon": 28.9757186,
+      "osm_id": 5108843073,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Deraliye Ottoman Cuisine Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0088429,
+      "lon": 28.9759095,
+      "osm_id": 5108843074,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Buyulu Fener Yayinlari",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0084683,
+      "lon": 28.9763645,
+      "osm_id": 5108843077,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Rumeli Cafe Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0083099,
+      "lon": 28.976387,
+      "osm_id": 5108843080,
+      "osm_type": "node",
+      "address": "\u0130ncili \u00c7avu\u015f Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Fazilet Nesriyat",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0082916,
+      "lon": 28.9767362,
+      "osm_id": 5108843082,
+      "osm_type": "node",
+      "address": "\u0130ncili \u00c7avu\u015f Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Masal Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0083358,
+      "lon": 28.9769019,
+      "osm_id": 5108843083,
+      "osm_type": "node",
+      "address": "\u0130ncili \u00c7avu\u015f Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet Travel",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0080819,
+      "lon": 28.9764157,
+      "osm_id": 5108843094,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Can Restoran",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0080089,
+      "lon": 28.9768918,
+      "osm_id": 5108843101,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Restoran",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0079917,
+      "lon": 28.9772285,
+      "osm_id": 5108843105,
+      "osm_type": "node",
+      "address": "\u015eeftali Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Hilal B\u00fcfe",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0079302,
+      "lon": 28.9775902,
+      "osm_id": 5108843106,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Palmiye Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0084835,
+      "lon": 28.9775176,
+      "osm_id": 5108843112,
+      "osm_type": "node",
+      "address": "\u015eeftali Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Art House Carpet ve Kilims",
+      "category": [
+        "shop.carpet"
+      ],
+      "lat": 41.0085668,
+      "lon": 28.9769548,
+      "osm_id": 5108843116,
+      "osm_type": "node",
+      "address": "Muhterem Efendi Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "DHL Express",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 41.0085673,
+      "lon": 28.9775991,
+      "osm_id": 5108843119,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Alfombras De Estambul",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0086831,
+      "lon": 28.9774913,
+      "osm_id": 5108843120,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "The Million Stone Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0086773,
+      "lon": 28.9772297,
+      "osm_id": 5108843523,
+      "osm_type": "node",
+      "address": "Muhterem Efendi Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Murat Gida Shop",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0087653,
+      "lon": 28.9775137,
+      "osm_id": 5108843524,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "House of Medusa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0087639,
+      "lon": 28.9772212,
+      "osm_id": 5108843525,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sahre Et Kebap Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0089914,
+      "lon": 28.9772707,
+      "osm_id": 5108843526,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0088717,
+      "lon": 28.9774429,
+      "osm_id": 5108843559,
+      "osm_type": "node",
+      "address": "Yerebatan Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "KitapStore.com",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0085364,
+      "lon": 28.9750768,
+      "osm_id": 5108843741,
+      "osm_type": "node",
+      "address": "Bi\u00e7ki Yudru Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Arsenals wash",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0083712,
+      "lon": 28.9751704,
+      "osm_id": 5108843762,
+      "osm_type": "node",
+      "address": "Dr. Eminpa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Alaturka Cuisine Cafe and Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0083043,
+      "lon": 28.9754064,
+      "osm_id": 5108843763,
+      "osm_type": "node",
+      "address": "Dr. Eminpa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Hop On Hop Off",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0081922,
+      "lon": 28.975144,
+      "osm_id": 5108843764,
+      "osm_type": "node",
+      "address": "Divan Yolu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ersoy B\u00fcfe",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 41.0070123,
+      "lon": 28.9760525,
+      "osm_id": 5113500727,
+      "osm_type": "node",
+      "address": "Atmeydan\u0131 caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Mahmiye",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0085546,
+      "lon": 28.9761558,
+      "osm_id": 5625137021,
+      "osm_type": "node",
+      "address": "Ticarethane Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Mehmet Akif Ersoy Park\u0131",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 41.0077677,
+      "lon": 28.9754453,
+      "osm_id": 8735018410,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DHL",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 41.0086537,
+      "lon": 28.9776593,
+      "osm_id": 11010255143,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fatih Belediyesi Sosyal Tesisleri Sultanahmet",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0069455,
+      "lon": 28.9754395,
+      "osm_id": 11790117569,
+      "osm_type": "node",
+      "address": "Binbirdirek Meydan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.007825,
+      "lon": 28.977191,
+      "osm_id": 11908036087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.008917,
+      "lon": 28.977599,
+      "osm_id": 11908036096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0075654,
+      "lon": 28.9773613,
+      "osm_id": 11908036098,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 146,
+    "removed_count": 96,
+    "model": "gemini-2.5-flash"
+  }
+}

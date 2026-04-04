@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/264.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.658856860954685,
+  "bbox": [
+    -46.66008548876375,
+    -23.57,
+    -46.65762823314562,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.taxi",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.taxi": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Parada Jos\u00e9 Maria Lisboa",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5679009,
+      "lon": -46.6598313,
+      "osm_id": 4062167668,
+      "osm_type": "node",
+      "address": "Avenida Nove de Julho",
+      "road_geometry": null
+    },
+    {
+      "name": "Zurich",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5699353,
+      "lon": -46.6596163,
+      "osm_id": 5266416225,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Pamplona",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5678674,
+      "lon": -46.6579156,
+      "osm_id": 11397854487,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

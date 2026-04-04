@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/412.png",
+  "center_lat": 22.28288288288288,
+  "center_lon": 114.16121699882987,
+  "bbox": [
+    114.16,
+    22.281756756756753,
+    114.16243399765975,
+    22.284009009009004
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.library",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.library": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u4e2d\u74b0\uff08\u5927\u6703\u5802\uff09 Central (City Hall)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.28237,
+      "lon": 114.16069,
+      "osm_id": 289558558,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u6703\u5802 City Hall",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2818948,
+      "lon": 114.1615416,
+      "osm_id": 2496629571,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u6703\u5802\u516c\u5171\u5716\u66f8\u9928 City Hall Public Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 22.2821393,
+      "lon": 114.1609265,
+      "osm_id": 2521837063,
+      "osm_type": "node",
+      "address": "\u611b\u4e01\u5821\u5ee3\u5834 Edinburgh Square",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u5fc3\u7687\u5bae Maxim's Palace",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2826135,
+      "lon": 114.1615787,
+      "osm_id": 4701372989,
+      "osm_type": "node",
+      "address": "\u611b\u4e01\u5821\u5ee3\u5834 Edinburgh Square",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

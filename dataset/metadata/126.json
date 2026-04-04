@@ -1,15 +1,573 @@
 {
   "image": "dataset/images/126.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98065756981042,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.8333336633612,
   "bbox": [
-    -73.98214544905576,
-    40.81126126126127,
-    -73.97916969056506,
-    40.81351351351353
+    72.83214314002389,
+    18.93126126126126,
+    72.83452418669852,
+    18.93351351351351
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.gift",
+    "shop.deli",
+    "amenity.cafe",
+    "shop.printer_ink",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.optician",
+    "shop.computer",
+    "shop.leather",
+    "amenity.ice_cream",
+    "amenity.college",
+    "shop.travel_agency",
+    "amenity.fast_food",
+    "shop.stationery",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "shop.mobile_phone_accessories",
+    "railway.proposed",
+    "tourism.artwork",
+    "shop.pastry",
+    "shop.electronics",
+    "amenity.bank",
+    "shop.shoes",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 3,
+    "shop.gift": 1,
+    "shop.deli": 1,
+    "amenity.cafe": 1,
+    "shop.printer_ink": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "shop.optician": 1,
+    "shop.computer": 1,
+    "shop.leather": 1,
+    "amenity.ice_cream": 1,
+    "amenity.college": 1,
+    "shop.travel_agency": 1,
+    "amenity.fast_food": 2,
+    "shop.stationery": 1,
+    "shop.clothes": 6,
+    "amenity.bureau_de_change": 1,
+    "shop.mobile_phone_accessories": 2,
+    "railway.proposed": 1,
+    "tourism.artwork": 1,
+    "shop.pastry": 1,
+    "shop.electronics": 1,
+    "amenity.bank": 9,
+    "shop.shoes": 2,
+    "shop.mall": 1
+  },
+  "poi_count": 42,
+  "pois": [
+    {
+      "name": "Akbarallys",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 18.9321443,
+      "lon": 72.8325032,
+      "osm_id": 669266128,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ABN AMRO",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323293,
+      "lon": 72.8336634,
+      "osm_id": 2166856493,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323128,
+      "lon": 72.8334299,
+      "osm_id": 2166856495,
+      "osm_type": "node",
+      "address": "Veer Nariman Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Indian Overseas Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323112,
+      "lon": 72.8342104,
+      "osm_id": 2166856496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab National Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323575,
+      "lon": 72.8339437,
+      "osm_id": 2166856499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Standard Chartered",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9325713,
+      "lon": 72.8321546,
+      "osm_id": 2168552195,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sir JJ College of Commerce",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 18.9328461,
+      "lon": 72.8322155,
+      "osm_id": 2168654396,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9322713,
+      "lon": 72.833932,
+      "osm_id": 2601474357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apoorva",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9331984,
+      "lon": 72.8344022,
+      "osm_id": 3790273562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anna Idli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9317938,
+      "lon": 72.8330496,
+      "osm_id": 11609857374,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bull",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9317535,
+      "lon": 72.8342951,
+      "osm_id": 12535532210,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crom\u0101",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 18.9322365,
+      "lon": 72.8341942,
+      "osm_id": 12633513802,
+      "osm_type": "node",
+      "address": "Veer Nariman Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Horniman Circle",
+      "category": [
+        "railway.proposed"
+      ],
+      "lat": 18.9321217,
+      "lon": 72.8342863,
+      "osm_id": 12902121991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dwarka Veg Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9323205,
+      "lon": 72.8331733,
+      "osm_id": 13464335875,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "RavRay inkjet and toner",
+      "category": [
+        "shop.printer_ink"
+      ],
+      "lat": 18.9328553,
+      "lon": 72.8327049,
+      "osm_id": 13514126759,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Teekay's Shopping Center",
+      "category": [
+        "shop.mobile_phone_accessories"
+      ],
+      "lat": 18.9321847,
+      "lon": 72.832734,
+      "osm_id": 13514190517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zoroastrian Co Op Bank Ltd",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9321791,
+      "lon": 72.8321921,
+      "osm_id": 13514201327,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Biba",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9321692,
+      "lon": 72.8326797,
+      "osm_id": 13514201467,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u091a\u093e\u092e\u0921\u094d\u092f\u093e\u091a\u0947 \u0926\u0941\u0915\u093e\u0928",
+      "category": [
+        "shop.leather"
+      ],
+      "lat": 18.9321583,
+      "lon": 72.8328354,
+      "osm_id": 13514201468,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Barber Shop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 18.9321652,
+      "lon": 72.8324302,
+      "osm_id": 13514204629,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eros Collection",
+      "category": [
+        "shop.mobile_phone_accessories"
+      ],
+      "lat": 18.9321829,
+      "lon": 72.8323128,
+      "osm_id": 13514205367,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Om Enterprises",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 18.9323393,
+      "lon": 72.8329489,
+      "osm_id": 13514205368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Puma",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.932162,
+      "lon": 72.8327939,
+      "osm_id": 13514210922,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ARB Footwear",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 18.9324076,
+      "lon": 72.832577,
+      "osm_id": 13514222758,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tasva",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9324607,
+      "lon": 72.8323778,
+      "osm_id": 13514225345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "category": [
+        "amenity.ice_cream",
+        "shop.pastry"
+      ],
+      "lat": 18.9323364,
+      "lon": 72.8330527,
+      "osm_id": 13514227338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "State Bank of India",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9328671,
+      "lon": 72.8327781,
+      "osm_id": 13514237296,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "lenskart",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 18.93243,
+      "lon": 72.8325265,
+      "osm_id": 13514237302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0905\u092a\u0928\u093e\u091a\u0947 \u0915\u092c\u093e\u092c \u0906\u0923\u093f \u0930\u094b\u0932",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.932545,
+      "lon": 72.8327254,
+      "osm_id": 13514237909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "kanji Forex Pvt. Ltd.",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 18.9323715,
+      "lon": 72.832801,
+      "osm_id": 13514239613,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nearah",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 18.9323559,
+      "lon": 72.8328176,
+      "osm_id": 13514239614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bombino Express",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9323753,
+      "lon": 72.8326857,
+      "osm_id": 13514241822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Skechers",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 18.9320513,
+      "lon": 72.8330376,
+      "osm_id": 13514243154,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Federal Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323597,
+      "lon": 72.8329831,
+      "osm_id": 13514247970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "GO COLORS",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9323281,
+      "lon": 72.833092,
+      "osm_id": 13514250368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elite Shopping Centre",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 18.932119,
+      "lon": 72.8329359,
+      "osm_id": 13514250413,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Federal Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.932358,
+      "lon": 72.8329005,
+      "osm_id": 13514250416,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gupta Bhelpuri",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9323256,
+      "lon": 72.8331111,
+      "osm_id": 13514250435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adesh Computers",
+      "category": [
+        "shop.computer"
+      ],
+      "lat": 18.9329864,
+      "lon": 72.8323923,
+      "osm_id": 13514256547,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sainath South Indian food",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 18.9329771,
+      "lon": 72.8324445,
+      "osm_id": 13514257177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Duckback Millenium Impex",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9328274,
+      "lon": 72.8321521,
+      "osm_id": 13514257716,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kingly Shirts Snow White",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9323167,
+      "lon": 72.8331339,
+      "osm_id": 13514262512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

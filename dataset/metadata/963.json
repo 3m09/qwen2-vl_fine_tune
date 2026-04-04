@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/963.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.94494099148528,
+  "bbox": [
+    -73.94642907279649,
+    40.82027027027029,
+    -73.94345291017407,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.bicycle_rental",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 3
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Saint Nicholas Avenue & West 141st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8211322,
+      "lon": -73.9460527,
+      "osm_id": 4240018089,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattanville Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8213006,
+      "lon": -73.9445186,
+      "osm_id": 4450364090,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 141st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8210779,
+      "lon": -73.9463226,
+      "osm_id": 5274250232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 142nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8222439,
+      "lon": -73.9457537,
+      "osm_id": 5530498088,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Edgecombe Ave & W 141 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8206885,
+      "lon": -73.9451216,
+      "osm_id": 13226725342,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

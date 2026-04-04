@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/265.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.65639960533656,
+  "bbox": [
+    -46.65762823314562,
+    -23.57,
+    -46.6551709775275,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.cafe": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Kuka Biruta",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5693382,
+      "lon": -46.6566993,
+      "osm_id": 1066862944,
+      "osm_type": "node",
+      "address": "Alameda Jos\u00e9 Maria Lisboa",
+      "road_geometry": null
+    },
+    {
+      "name": "Fran's Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5698287,
+      "lon": -46.6567898,
+      "osm_id": 1066862947,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Pizzaria Veridiana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5690837,
+      "lon": -46.6570972,
+      "osm_id": 8322165617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

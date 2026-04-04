@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/348.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83739058890907,
+  "bbox": [
+    103.83626417173552,
+    1.3025045045045047,
+    103.83851700608263,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "shop.jewelry",
+    "amenity.bank",
+    "shop.clothes",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "shop.jewelry": 1,
+    "amenity.bank": 1,
+    "shop.clothes": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Holiday Inn Express (Orchard Road)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.303228,
+      "lon": 103.8366804,
+      "osm_id": 4302905960,
+      "osm_type": "node",
+      "address": "Bideford Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Off White",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3026731,
+      "lon": 103.8367458,
+      "osm_id": 4749093825,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.302748,
+      "lon": 103.8368198,
+      "osm_id": 4869134405,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Apple",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3028177,
+      "lon": 103.8364774,
+      "osm_id": 4872168521,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Swarovski",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3025378,
+      "lon": 103.8374929,
+      "osm_id": 6810958781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

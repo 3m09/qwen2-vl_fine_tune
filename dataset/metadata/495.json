@@ -1,0 +1,830 @@
+{
+  "image": "dataset/images/495.png",
+  "center_lat": 22.29864864864864,
+  "center_lon": 114.17582276941818,
+  "bbox": [
+    114.17460563330908,
+    22.297522522522513,
+    114.17703990552727,
+    22.299774774774765
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.supermarket",
+    "amenity.atm",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.confectionery",
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.gas",
+    "amenity.bureau_de_change",
+    "shop.massage",
+    "amenity.parking",
+    "shop.fashion_accessories",
+    "shop.chemist",
+    "shop.beauty",
+    "shop.bakery",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.shoes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 7,
+    "amenity.restaurant": 24,
+    "amenity.cafe": 2,
+    "shop.supermarket": 1,
+    "amenity.atm": 1,
+    "shop.convenience": 1,
+    "highway.bus_stop": 6,
+    "shop.confectionery": 1,
+    "tourism.hotel": 1,
+    "shop.clothes": 2,
+    "shop.gas": 1,
+    "amenity.bureau_de_change": 1,
+    "shop.massage": 1,
+    "amenity.parking": 1,
+    "shop.fashion_accessories": 1,
+    "shop.chemist": 2,
+    "shop.beauty": 1,
+    "shop.bakery": 1,
+    "amenity.bar": 2,
+    "amenity.bank": 3,
+    "shop.shoes": 1,
+    "shop.jewelry": 3
+  },
+  "poi_count": 64,
+  "pois": [
+    {
+      "name": "The Swiss Chalet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2981779,
+      "lon": 114.1750921,
+      "osm_id": 1022492691,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b89\u9054\u4e2d\u5fc3\u505c\u8eca\u5834 Auto Plaza Car Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2983287,
+      "lon": 114.1766669,
+      "osm_id": 2441044895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Westren Union",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.2986251,
+      "lon": 114.1769604,
+      "osm_id": 2441267007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u9ebc\u5730\u9053 Mody Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2977604,
+      "lon": 114.1755122,
+      "osm_id": 2604586683,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u9ebc\u5730\u9053 Mody Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2979603,
+      "lon": 114.1755445,
+      "osm_id": 2604586684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ebc\u5730\u9053 Mody Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2983601,
+      "lon": 114.175609,
+      "osm_id": 2604586686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Coffee & Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2988839,
+      "lon": 114.1756678,
+      "osm_id": 3771430939,
+      "osm_type": "node",
+      "address": "Chatham Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2994524,
+      "lon": 114.176566,
+      "osm_id": 3914318594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67e5\u7406\u5e03\u6717\u5496\u5561",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2993479,
+      "lon": 114.1752451,
+      "osm_id": 4275813889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u4e0a\u65e5\u5149 Guschlbauer",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2992641,
+      "lon": 114.1748137,
+      "osm_id": 4278242089,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767c\u8a18\u751c\u54c1\u5730\u4e0b",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.298748,
+      "lon": 114.1749358,
+      "osm_id": 4331640492,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u9ebc\u5730\u9053 Mody Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2986512,
+      "lon": 114.1759159,
+      "osm_id": 4402847941,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi one",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2993186,
+      "lon": 114.175264,
+      "osm_id": 4501631889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roccos Pizzeria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2975349,
+      "lon": 114.1762466,
+      "osm_id": 4822659822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u6cf0\u85e5\u54c1\u7e3d\u532f",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2977041,
+      "lon": 114.175401,
+      "osm_id": 4848354398,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Luna Market",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2977952,
+      "lon": 114.175417,
+      "osm_id": 4848354399,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Tai Fung Lau Peking Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.298008,
+      "lon": 114.175489,
+      "osm_id": 4848354400,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "AT",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2981608,
+      "lon": 114.1755356,
+      "osm_id": 4848354401,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Time Watch",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2986391,
+      "lon": 114.1755813,
+      "osm_id": 4848354402,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Montblanc",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 22.2986906,
+      "lon": 114.1755455,
+      "osm_id": 4848358867,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Tst Plaza",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2990434,
+      "lon": 114.1756797,
+      "osm_id": 4848408987,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u6a02\u5927\u85e5\u599d",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2994098,
+      "lon": 114.1756971,
+      "osm_id": 4848408988,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Towngas",
+      "category": [
+        "shop.gas"
+      ],
+      "lat": 22.2997077,
+      "lon": 114.1757902,
+      "osm_id": 4848408989,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Won Pungwon Korean Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2987044,
+      "lon": 114.1748265,
+      "osm_id": 4850496936,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Chuan Popo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2987475,
+      "lon": 114.175007,
+      "osm_id": 4850496937,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Wing's Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2987735,
+      "lon": 114.1750873,
+      "osm_id": 4850496938,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bf6\u9e97\u5eca\u73e0\u5bf6 Brilliant Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2994167,
+      "lon": 114.1756264,
+      "osm_id": 4850496939,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ed1\u6728\u4ead Black Wood Izakaya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2993409,
+      "lon": 114.1753693,
+      "osm_id": 4850496941,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fur PITC Trims",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2993136,
+      "lon": 114.175279,
+      "osm_id": 4850496942,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9673\u5e2b\u5085 Master Chan Dim Sum Specialist",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2993044,
+      "lon": 114.1752114,
+      "osm_id": 4850496943,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Initial",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2992653,
+      "lon": 114.1751197,
+      "osm_id": 4850496944,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5c55\u9280\u884c DBS",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2991479,
+      "lon": 114.1747095,
+      "osm_id": 4850515464,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u9280\u884c\uff08\u9999\u6e2f\uff09 Bank of China (Hong Kong)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2991427,
+      "lon": 114.1746615,
+      "osm_id": 4850515465,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Old Monk Bar & Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.297964,
+      "lon": 114.1746068,
+      "osm_id": 4850676190,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Daily Sauna",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 22.2985198,
+      "lon": 114.1747494,
+      "osm_id": 4850676199,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Napoli's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2985427,
+      "lon": 114.1748207,
+      "osm_id": 4850676200,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u591c\u9996\u723e Seoul Night",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2985207,
+      "lon": 114.1746716,
+      "osm_id": 4850676201,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The Right Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2985864,
+      "lon": 114.1749802,
+      "osm_id": 4850676202,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Al Dente",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2986145,
+      "lon": 114.1750987,
+      "osm_id": 4850676203,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Butterfly",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2986367,
+      "lon": 114.1751954,
+      "osm_id": 4850676204,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Cosmos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2986687,
+      "lon": 114.1753019,
+      "osm_id": 4850676205,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The Capital",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2996077,
+      "lon": 114.1756208,
+      "osm_id": 4850707745,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Jewellery King",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2995472,
+      "lon": 114.175294,
+      "osm_id": 4850707746,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Staccato",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2993799,
+      "lon": 114.1748688,
+      "osm_id": 4850707748,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "K.Z.M.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2993703,
+      "lon": 114.1748286,
+      "osm_id": 4850707749,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Aji Ichiban",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2993573,
+      "lon": 114.1747619,
+      "osm_id": 4850707750,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Guangdong Barbecue Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2993256,
+      "lon": 114.1746976,
+      "osm_id": 4850707751,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Magstore",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2993126,
+      "lon": 114.1746156,
+      "osm_id": 4850707752,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5065\u4e4b\u5bf6 Kin Chi Bo",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 22.2986431,
+      "lon": 114.1752478,
+      "osm_id": 5073790621,
+      "osm_type": "node",
+      "address": "\u5bf6\u52d2\u5df7 Prat Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Whenever Eatery",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2979078,
+      "lon": 114.1765872,
+      "osm_id": 6778557013,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8336\u661f\u4eba E.Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2994253,
+      "lon": 114.1756702,
+      "osm_id": 10112046237,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7af9\u9752\u4ead WISH-ao by AOBANA",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2991987,
+      "lon": 114.175025,
+      "osm_id": 10130903527,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ebc\u5730\u9053 Mody Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2986602,
+      "lon": 114.1759174,
+      "osm_id": 10289408535,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u9ebc\u5730\u9053 Mody Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2987178,
+      "lon": 114.1759267,
+      "osm_id": 10289408537,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6edd\u96f2 TAKIGUMO",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2993478,
+      "lon": 114.1754116,
+      "osm_id": 10745294397,
+      "osm_type": "node",
+      "address": "\u91d1\u99ac\u502b\u9053 Cameron Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ba2\u820d Hotel Hart",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2979582,
+      "lon": 114.1746854,
+      "osm_id": 11819629489,
+      "osm_type": "node",
+      "address": "\u8d6b\u5fb7\u9053 Hart Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6771\u5e97",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.298439,
+      "lon": 114.176597,
+      "osm_id": 11871200876,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tequila Jack's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2981658,
+      "lon": 114.1751931,
+      "osm_id": 12430268302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5de5\u5546\u9280\u884c\uff08\u4e9e\u6d32\uff09 ICBC (Asia)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2985489,
+      "lon": 114.1755508,
+      "osm_id": 12578279305,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4e9e\u9280\u884c Bank of East Asia",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 22.2988779,
+      "lon": 114.176566,
+      "osm_id": 13282600561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "International",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.29928,
+      "lon": 114.1770133,
+      "osm_id": 13282611387,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "One Dim Sum",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2979398,
+      "lon": 114.1746105,
+      "osm_id": 13335834328,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Twist & Buckle Churros Specialists",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 22.2979551,
+      "lon": 114.1754894,
+      "osm_id": 13525560501,
+      "osm_type": "node",
+      "address": "\u6f06\u54b8\u9053\u5357 Chatham Road South",
+      "road_geometry": null
+    },
+    {
+      "name": "Goobne Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2979376,
+      "lon": 114.1746906,
+      "osm_id": 13558446201,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/635.png",
+  "center_lat": 41.02590090090093,
+  "center_lon": 28.970448850743885,
+  "bbox": [
+    28.96895615778047,
+    41.024774774774805,
+    28.971941543707295,
+    41.02702702702706
+  ],
+  "unique_categories": [
+    "shop.hardware",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.bank",
+    "shop.supermarket",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.hardware": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "amenity.bank": 1,
+    "shop.supermarket": 1,
+    "tourism.hotel": 3
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Kristal Et Lokantasi",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0266775,
+      "lon": 28.9705347,
+      "osm_id": 4534691783,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Suma Shop",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0250036,
+      "lon": 28.9716704,
+      "osm_id": 5710046224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0252978,
+      "lon": 28.9717631,
+      "osm_id": 5710046228,
+      "osm_type": "node",
+      "address": "Ok\u00e7u Musa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "The Halich Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0248564,
+      "lon": 28.9698494,
+      "osm_id": 9767567060,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Vavien",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0250529,
+      "lon": 28.9711863,
+      "osm_id": 9767571443,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sakarya",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 41.0248605,
+      "lon": 28.9711596,
+      "osm_id": 9891610317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galata Dream Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0267306,
+      "lon": 28.9692716,
+      "osm_id": 10765839005,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Azapkap\u0131-Hali\u00e7 Metro",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.02492,
+      "lon": 28.969236,
+      "osm_id": 11543301664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

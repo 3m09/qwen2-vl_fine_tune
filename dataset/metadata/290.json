@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/290.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.66131430616806,
+  "bbox": [
+    -46.66254287077871,
+    -23.563243243243246,
+    -46.66008574155742,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "amenity.taxi",
+    "amenity.restaurant",
+    "amenity.school",
+    "shop.newsagent",
+    "shop.stationery"
+  ],
+  "poi_count_per_category": {
+    "amenity.taxi": 1,
+    "amenity.restaurant": 3,
+    "amenity.school": 1,
+    "shop.newsagent": 1,
+    "shop.stationery": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Alumni - Cursos de ingl\u00eas",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": -23.5613957,
+      "lon": -46.6612792,
+      "osm_id": 4134768092,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Alexandre",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5615722,
+      "lon": -46.6618253,
+      "osm_id": 4223880365,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Aconchego Carioca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5612098,
+      "lon": -46.6604353,
+      "osm_id": 5178957623,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Panaramico",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5625405,
+      "lon": -46.6603191,
+      "osm_id": 5274199023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa do Artista",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": -23.5612467,
+      "lon": -46.6622184,
+      "osm_id": 6224013985,
+      "osm_type": "node",
+      "address": "Alameda Itu",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Lanchitu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5611256,
+      "lon": -46.6624504,
+      "osm_id": 12228160401,
+      "osm_type": "node",
+      "address": "Alameda Itu",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 1431",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.562544,
+      "lon": -46.6610708,
+      "osm_id": 13304706409,
+      "osm_type": "node",
+      "address": "Alameda Itu",
+      "road_geometry": null
+    }
+  ]
+}

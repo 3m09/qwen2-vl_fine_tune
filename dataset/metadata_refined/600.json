@@ -1,0 +1,421 @@
+{
+  "image": "dataset/images/600.png",
+  "center_lat": 41.019144144144164,
+  "center_lon": 28.964477619506404,
+  "bbox": [
+    28.962985079670936,
+    41.01801801801804,
+    28.96597015934187,
+    41.020270270270295
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "amenity.atm",
+    "shop.shoes",
+    "shop.laundry",
+    "shop.cosmetics",
+    "leisure.garden",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.mobile_phone",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "amenity.atm": 1,
+    "shop.shoes": 1,
+    "shop.laundry": 1,
+    "shop.cosmetics": 1,
+    "leisure.garden": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 10,
+    "shop.convenience": 1,
+    "amenity.restaurant": 5,
+    "shop.mobile_phone": 2,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 5
+  },
+  "poi_count": 31,
+  "pois": [
+    {
+      "name": "HHK Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0191474,
+      "lon": 28.9630482,
+      "osm_id": 2201796690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tuana Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0188458,
+      "lon": 28.9642821,
+      "osm_id": 3569069194,
+      "osm_type": "node",
+      "address": "sabri mehmet soak",
+      "road_geometry": null
+    },
+    {
+      "name": "Alfred Heilbronn Botanik Bah\u00e7esi",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": 41.018313,
+      "lon": 28.9638711,
+      "osm_id": 4763681623,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hali\u00e7 kafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.01895,
+      "lon": 28.9632392,
+      "osm_id": 5110344557,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hal hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0184572,
+      "lon": 28.9645958,
+      "osm_id": 5110344558,
+      "osm_type": "node",
+      "address": "Hariye han\u0131m Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Turkcell",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0194852,
+      "lon": 28.9640808,
+      "osm_id": 5110344562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vodafone",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0192829,
+      "lon": 28.9644027,
+      "osm_id": 5110344567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc B\u00f6rek\u00e7isi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0186029,
+      "lon": 28.9655828,
+      "osm_id": 5110344569,
+      "osm_type": "node",
+      "address": "k\u0131ble cesme caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sadikogullari",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0198313,
+      "lon": 28.9630146,
+      "osm_id": 5111206140,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Pazar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Antipliogulu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0195743,
+      "lon": 28.9632225,
+      "osm_id": 5111206141,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Pazar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sabir",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0195581,
+      "lon": 28.9635229,
+      "osm_id": 5111206142,
+      "osm_type": "node",
+      "address": "Kucuk pazar caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Azimet Et Lokantasi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0197574,
+      "lon": 28.9632842,
+      "osm_id": 5111206143,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Pazar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Altan Sekerleme",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 41.0185277,
+      "lon": 28.9658333,
+      "osm_id": 5115323022,
+      "osm_type": "node",
+      "address": "K\u0131ble \u00c7e\u015fme Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "AYAR GIDA",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0193872,
+      "lon": 28.9644842,
+      "osm_id": 5244812074,
+      "osm_type": "node",
+      "address": "K\u0131ble \u00c7e\u015fme Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Tarihi Emin\u00f6n\u00fc Bal\u0131k\u00e7\u0131s\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0190624,
+      "lon": 28.9651638,
+      "osm_id": 5244812076,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "K\u00fcffette K\u00f6fte",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0189538,
+      "lon": 28.9653798,
+      "osm_id": 5244812078,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0189026,
+      "lon": 28.96566,
+      "osm_id": 5244812079,
+      "osm_type": "node",
+      "address": "Rag\u0131p G\u00fcm\u00fc\u015fpala Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "golden ottoman hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0199744,
+      "lon": 28.9635008,
+      "osm_id": 5247591823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc Kantarc\u0131lar",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0194568,
+      "lon": 28.964638,
+      "osm_id": 5489351424,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sabuncu Mustafa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 41.0191093,
+      "lon": 28.9646396,
+      "osm_id": 8043081285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc Kantarc\u0131lar",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0192553,
+      "lon": 28.9649817,
+      "osm_id": 9655469807,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loy Loy",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 41.019707,
+      "lon": 28.963049,
+      "osm_id": 9793289757,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Pazar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.020111,
+      "lon": 28.9646578,
+      "osm_id": 10973844902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.020266,
+      "lon": 28.9649281,
+      "osm_id": 10973844903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0201246,
+      "lon": 28.965405,
+      "osm_id": 10973844904,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0200385,
+      "lon": 28.965559,
+      "osm_id": 10973869406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0199569,
+      "lon": 28.9657032,
+      "osm_id": 10973869407,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.019752,
+      "lon": 28.9657677,
+      "osm_id": 10978923277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0196183,
+      "lon": 28.9658941,
+      "osm_id": 10978923279,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roof Hali\u00e7 Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0198635,
+      "lon": 28.9634651,
+      "osm_id": 11019688505,
+      "osm_type": "node",
+      "address": "Tahsildar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.020251,
+      "lon": 28.9651791,
+      "osm_id": 11543327085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 53,
+    "removed_count": 22,
+    "model": "gemini-2.5-flash"
+  }
+}

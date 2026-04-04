@@ -1,0 +1,721 @@
+{
+  "image": "dataset/images/340.png",
+  "center_lat": 1.3013783783783786,
+  "center_lon": 103.83964341017965,
+  "bbox": [
+    103.83851699401198,
+    1.3002522522522524,
+    103.84076982634731,
+    1.3025045045045047
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.pub",
+    "shop.pet",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.massage",
+    "amenity.ice_cream",
+    "shop.furniture",
+    "railway.subway_entrance",
+    "shop.supermarket",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "shop.jewelry",
+    "amenity.bar",
+    "shop.clothes",
+    "amenity.library",
+    "shop.beauty",
+    "shop.watches",
+    "amenity.pharmacy",
+    "amenity.taxi",
+    "shop.sports",
+    "railway.stop",
+    "amenity.food_court",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "amenity.pub": 1,
+    "shop.pet": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 12,
+    "amenity.fast_food": 2,
+    "shop.massage": 1,
+    "amenity.ice_cream": 1,
+    "shop.furniture": 1,
+    "railway.subway_entrance": 2,
+    "shop.supermarket": 1,
+    "shop.cosmetics": 1,
+    "amenity.cafe": 6,
+    "shop.jewelry": 1,
+    "amenity.bar": 2,
+    "shop.clothes": 6,
+    "amenity.library": 1,
+    "shop.beauty": 1,
+    "shop.watches": 3,
+    "amenity.pharmacy": 1,
+    "amenity.taxi": 1,
+    "shop.sports": 1,
+    "railway.stop": 1,
+    "amenity.food_court": 3,
+    "shop.department_store": 1
+  },
+  "poi_count": 54,
+  "pois": [
+    {
+      "name": "Somerset",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 1.3003473,
+      "lon": 103.8390262,
+      "osm_id": 210523963,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alley Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 1.3014202,
+      "lon": 103.8391309,
+      "osm_id": 512041294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ice Cold Beer",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 1.3018882,
+      "lon": 103.8390925,
+      "osm_id": 512042190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NTUC FairPrice Finest",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3014954,
+      "lon": 103.839658,
+      "osm_id": 512042742,
+      "osm_type": "node",
+      "address": "The Centrepoint",
+      "road_geometry": null
+    },
+    {
+      "name": "Watsons",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.3019116,
+      "lon": 103.8395478,
+      "osm_id": 512044820,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiong Bahru Bakery",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3013209,
+      "lon": 103.8400063,
+      "osm_id": 512084967,
+      "osm_type": "node",
+      "address": "The Centrepoint",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Gateway",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 1.3005311,
+      "lon": 103.8388588,
+      "osm_id": 665020336,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Natureland",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 1.3017309,
+      "lon": 103.8404356,
+      "osm_id": 1655516533,
+      "osm_type": "node",
+      "address": "Orchard Road, #B1-12/13",
+      "road_geometry": null
+    },
+    {
+      "name": "Somerset (NSL)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3005042,
+      "lon": 103.8388019,
+      "osm_id": 2402427022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ANK (ANK Jewellery Pte Ltd)",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3008042,
+      "lon": 103.839819,
+      "osm_id": 2836133229,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Josh's Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3011549,
+      "lon": 103.8386801,
+      "osm_id": 3068393654,
+      "osm_type": "node",
+      "address": "Somerset Road",
+      "road_geometry": null
+    },
+    {
+      "name": "library@Orchard",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 1.3003822,
+      "lon": 103.8396813,
+      "osm_id": 3307616670,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Yoshinoya",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3010193,
+      "lon": 103.8387119,
+      "osm_id": 3307630916,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trattoria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3010723,
+      "lon": 103.8385346,
+      "osm_id": 3307632672,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tung Lok Seafood",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3007269,
+      "lon": 103.8400011,
+      "osm_id": 3307637474,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beads etc",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3010039,
+      "lon": 103.8389151,
+      "osm_id": 4289585190,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3008755,
+      "lon": 103.8394078,
+      "osm_id": 4419793169,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lush",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3005073,
+      "lon": 103.8395812,
+      "osm_id": 4514634389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swatch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3010079,
+      "lon": 103.8390709,
+      "osm_id": 4747461708,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Desigual",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.30059,
+      "lon": 103.8404674,
+      "osm_id": 4747461709,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Don Don Donki",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3007941,
+      "lon": 103.8395,
+      "osm_id": 5819438353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Real Food",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3004926,
+      "lon": 103.8403755,
+      "osm_id": 5855465890,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Curry Culture",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3021,
+      "lon": 103.8402733,
+      "osm_id": 6409525215,
+      "osm_type": "node",
+      "address": "Cuppage Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cable Car",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 1.3024554,
+      "lon": 103.8404458,
+      "osm_id": 6628892987,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3006559,
+      "lon": 103.8397112,
+      "osm_id": 6776259370,
+      "osm_type": "node",
+      "address": "Orchard Road, #01-26 Orchard Central",
+      "road_geometry": null
+    },
+    {
+      "name": "City Chain",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.300859,
+      "lon": 103.8385414,
+      "osm_id": 6787730450,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City Chain",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.301897,
+      "lon": 103.8398422,
+      "osm_id": 6787744349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cotton On",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3009632,
+      "lon": 103.8392341,
+      "osm_id": 6789868626,
+      "osm_type": "node",
+      "address": "313 Orchard Road, 313@Somerset",
+      "road_geometry": null
+    },
+    {
+      "name": "Mango",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3009752,
+      "lon": 103.8385831,
+      "osm_id": 6797835928,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Kaya Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3007416,
+      "lon": 103.8385472,
+      "osm_id": 6815193738,
+      "osm_type": "node",
+      "address": "313 Orchard Road, 313@Somerset",
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Kaya Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3006302,
+      "lon": 103.8401821,
+      "osm_id": 6815377694,
+      "osm_type": "node",
+      "address": "181 Orchard Road, Orchard Central",
+      "road_geometry": null
+    },
+    {
+      "name": "Decathlon",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 1.3013665,
+      "lon": 103.8398393,
+      "osm_id": 7001537860,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.300602,
+      "lon": 103.8393356,
+      "osm_id": 7353764016,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hokkaido Marche",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3003459,
+      "lon": 103.8402105,
+      "osm_id": 7717067287,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Airport Rd Wanton Noodle",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.301879,
+      "lon": 103.838687,
+      "osm_id": 7823852543,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Monster Planet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3021121,
+      "lon": 103.8395986,
+      "osm_id": 8420381317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malaysia Boleh!",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3015381,
+      "lon": 103.8398785,
+      "osm_id": 9394862872,
+      "osm_type": "node",
+      "address": "The Centrepoint",
+      "road_geometry": null
+    },
+    {
+      "name": "Wellaholic (Somerset)",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3020459,
+      "lon": 103.8406589,
+      "osm_id": 9572155016,
+      "osm_type": "node",
+      "address": "Koek Road #03-21",
+      "road_geometry": null
+    },
+    {
+      "name": "Pet Lovers Centre",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 1.3024661,
+      "lon": 103.8400534,
+      "osm_id": 9589001473,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Food City",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3016467,
+      "lon": 103.8386646,
+      "osm_id": 9602197205,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Somerset (NSL)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3002823,
+      "lon": 103.8397425,
+      "osm_id": 9726063851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cellini",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 1.3016123,
+      "lon": 103.8397616,
+      "osm_id": 9905188779,
+      "osm_type": "node",
+      "address": "Orchard Road, Centrepoint",
+      "road_geometry": null
+    },
+    {
+      "name": "Puma",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3012038,
+      "lon": 103.8386087,
+      "osm_id": 10002127871,
+      "osm_type": "node",
+      "address": "Orchard Road 313 Somerset",
+      "road_geometry": null
+    },
+    {
+      "name": "EatAlley",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3004741,
+      "lon": 103.8393677,
+      "osm_id": 11104058791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HSBC ATM",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 1.3015112,
+      "lon": 103.8386628,
+      "osm_id": 11421765748,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3003518,
+      "lon": 103.8386503,
+      "osm_id": 12144371951,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vanda",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 1.3005209,
+      "lon": 103.8397954,
+      "osm_id": 12179539343,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dapur Penyet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.302373,
+      "lon": 103.8399699,
+      "osm_id": 12179539353,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kopi & Tarts",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3024858,
+      "lon": 103.8398351,
+      "osm_id": 12179539354,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "49 Seats",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3022036,
+      "lon": 103.8398497,
+      "osm_id": 12179539355,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fire Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3022994,
+      "lon": 103.8398773,
+      "osm_id": 12179539356,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Isle Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3018835,
+      "lon": 103.8406004,
+      "osm_id": 12876887660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3021914,
+      "lon": 103.8406304,
+      "osm_id": 12876887663,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shinjuku",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3018325,
+      "lon": 103.8407685,
+      "osm_id": 12876887664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 99,
+    "removed_count": 45,
+    "model": "gemini-2.5-flash"
+  }
+}

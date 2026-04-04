@@ -1,0 +1,2934 @@
+{
+  "image": "dataset/images/483.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.17338828139262,
+  "bbox": [
+    114.17217116490238,
+    22.29527027027026,
+    114.17460539788286,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "shop.tailor",
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.houseware",
+    "amenity.cafe",
+    "railway.stop",
+    "tourism.hostel",
+    "shop.mobile_phone",
+    "shop.optician",
+    "shop.convenience",
+    "shop.doityourself",
+    "highway.bus_stop",
+    "shop.travel_agency",
+    "shop.alcohol",
+    "shop.kiosk",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "tourism.artwork",
+    "amenity.post_office",
+    "shop.pastry",
+    "shop.watches",
+    "tourism.guest_house",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "amenity.place_of_worship",
+    "amenity.bank",
+    "shop.shoes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.tailor": 1,
+    "shop.yes": 2,
+    "amenity.restaurant": 24,
+    "shop.houseware": 1,
+    "amenity.cafe": 2,
+    "railway.stop": 1,
+    "tourism.hostel": 19,
+    "shop.mobile_phone": 1,
+    "shop.optician": 1,
+    "shop.convenience": 4,
+    "shop.doityourself": 1,
+    "highway.bus_stop": 7,
+    "shop.travel_agency": 1,
+    "shop.alcohol": 1,
+    "shop.kiosk": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 12,
+    "shop.clothes": 6,
+    "amenity.bureau_de_change": 2,
+    "tourism.artwork": 1,
+    "amenity.post_office": 1,
+    "shop.pastry": 2,
+    "shop.watches": 7,
+    "tourism.guest_house": 124,
+    "amenity.pharmacy": 1,
+    "shop.cosmetics": 3,
+    "amenity.place_of_worship": 1,
+    "amenity.bank": 1,
+    "shop.shoes": 2,
+    "shop.jewelry": 7
+  },
+  "poi_count": 238,
+  "pois": [
+    {
+      "name": "\u9999\u6e2f\u5c16\u6c99\u5480\u51f1\u6085\u9152\u5e97 Hyatt Regency Hong Kong, Tsim Sha Tsui",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2975168,
+      "lon": 114.1738437,
+      "osm_id": 1387112132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Smrat Pure Veg",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2965821,
+      "lon": 114.172744,
+      "osm_id": 2192511369,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480 Tsim Sha Tsui",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 22.2971822,
+      "lon": 114.1722971,
+      "osm_id": 2555388100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u4e2d\u9593\u9053 Middle Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2957018,
+      "lon": 114.1723992,
+      "osm_id": 2604586679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u4e2d\u9593\u9053 Middle Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2957424,
+      "lon": 114.1723971,
+      "osm_id": 2604586680,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u4e2d\u9593\u9053 Middle Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2958279,
+      "lon": 114.1723924,
+      "osm_id": 2604586681,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u9593\u9053 Middle Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2957152,
+      "lon": 114.1723988,
+      "osm_id": 2604586682,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2957459,
+      "lon": 114.1729374,
+      "osm_id": 2844312660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yatta Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964869,
+      "lon": 114.1728078,
+      "osm_id": 2863424618,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Guesthouse (14/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962349,
+      "lon": 114.1732511,
+      "osm_id": 2935557569,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Guesthouse (4/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963096,
+      "lon": 114.1730503,
+      "osm_id": 2935557570,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Guesthouse (5/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962998,
+      "lon": 114.1730511,
+      "osm_id": 2935557571,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Canadian Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962811,
+      "lon": 114.1730525,
+      "osm_id": 2935557572,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chung King Ministry",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 22.2961846,
+      "lon": 114.1732198,
+      "osm_id": 2935557574,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Comfort Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962515,
+      "lon": 114.1730547,
+      "osm_id": 2935557575,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Crystal Hostel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2962077,
+      "lon": 114.1730585,
+      "osm_id": 2935557576,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cynthia's Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962295,
+      "lon": 114.1730564,
+      "osm_id": 2935557577,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Day and Night Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962401,
+      "lon": 114.1730556,
+      "osm_id": 2935557579,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Everest Hostel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.296246,
+      "lon": 114.1732501,
+      "osm_id": 2935557580,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Maple Leaf Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963129,
+      "lon": 114.173244,
+      "osm_id": 2935557581,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Holiday Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962906,
+      "lon": 114.1730518,
+      "osm_id": 2935557582,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hostel HK Group",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2962187,
+      "lon": 114.1730572,
+      "osm_id": 2935557583,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Skylark",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2962116,
+      "lon": 114.1732532,
+      "osm_id": 2935557584,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Khyber Pass Mess Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2961809,
+      "lon": 114.1730627,
+      "osm_id": 2935557585,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mandarin Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962572,
+      "lon": 114.1732491,
+      "osm_id": 2935557586,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Maple Leaf Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962906,
+      "lon": 114.1732461,
+      "osm_id": 2935557587,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Hoover Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2963198,
+      "lon": 114.1730496,
+      "osm_id": 2935557588,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Yan Yan Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296279,
+      "lon": 114.1732471,
+      "osm_id": 2935557589,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Paradise Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962232,
+      "lon": 114.1732522,
+      "osm_id": 2935557590,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Peninsula Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963007,
+      "lon": 114.1732451,
+      "osm_id": 2935557591,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Unique Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2962624,
+      "lon": 114.1730539,
+      "osm_id": 2935557592,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Yan Yan Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296272,
+      "lon": 114.1730532,
+      "osm_id": 2935557594,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Zodiac Lodge",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962683,
+      "lon": 114.1732481,
+      "osm_id": 2935557595,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u860b\u679c\u8cd3\u9928 Apple Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2965533,
+      "lon": 114.1728816,
+      "osm_id": 2936536758,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Beverly Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964354,
+      "lon": 114.1728117,
+      "osm_id": 2936536759,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Carlton Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964973,
+      "lon": 114.172988,
+      "osm_id": 2936536760,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "China Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965057,
+      "lon": 114.1729876,
+      "osm_id": 2936536761,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chung King Lodge",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965503,
+      "lon": 114.1728029,
+      "osm_id": 2936536763,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cosmos Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965147,
+      "lon": 114.1729871,
+      "osm_id": 2936536764,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cosmos Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965715,
+      "lon": 114.1728013,
+      "osm_id": 2936536765,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Crown Royal Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964874,
+      "lon": 114.1729886,
+      "osm_id": 2936536766,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dragon Inn Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.296587,
+      "lon": 114.1728001,
+      "osm_id": 2936536767,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965886,
+      "lon": 114.1728825,
+      "osm_id": 2936536768,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Guangdong Guesthouse & Super 7 Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965392,
+      "lon": 114.1728037,
+      "osm_id": 2936536769,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hang On Tailor",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 22.2965418,
+      "lon": 114.172748,
+      "osm_id": 2936536770,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Happy Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965775,
+      "lon": 114.1728822,
+      "osm_id": 2936536771,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Happy Yeung Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964443,
+      "lon": 114.1729908,
+      "osm_id": 2936536772,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Harbour Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965622,
+      "lon": 114.172802,
+      "osm_id": 2936536773,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hayatt Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965435,
+      "lon": 114.1729857,
+      "osm_id": 2936536774,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Himalaya Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964613,
+      "lon": 114.1728097,
+      "osm_id": 2936536775,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hollywood Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296448,
+      "lon": 114.1728107,
+      "osm_id": 2936536776,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hong Kong (Ying) Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965739,
+      "lon": 114.1729841,
+      "osm_id": 2936536777,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hong Kong Guesthouse (11/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296585,
+      "lon": 114.1729835,
+      "osm_id": 2936536778,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hong Kong Guesthouse (12/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296554,
+      "lon": 114.1729851,
+      "osm_id": 2936536779,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kamal Deluxe Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965118,
+      "lon": 114.1728058,
+      "osm_id": 2936536780,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kamal Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964999,
+      "lon": 114.1728068,
+      "osm_id": 2936536781,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kowloon T.S.T. Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296564,
+      "lon": 114.1729846,
+      "osm_id": 2936536782,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Carlton Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964779,
+      "lon": 114.1729891,
+      "osm_id": 2936536784,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Washington Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965341,
+      "lon": 114.1729862,
+      "osm_id": 2936536785,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New York Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964739,
+      "lon": 114.1728087,
+      "osm_id": 2936536786,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Reliance Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965252,
+      "lon": 114.1729866,
+      "osm_id": 2936536787,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Taj Mahal Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2965658,
+      "lon": 114.1727456,
+      "osm_id": 2936536788,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tom's Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964664,
+      "lon": 114.1729897,
+      "osm_id": 2936536789,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Traveller's Friendship Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964548,
+      "lon": 114.1729903,
+      "osm_id": 2936536790,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "United Co-operate Hotel (10/F)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2965649,
+      "lon": 114.1728819,
+      "osm_id": 2936536791,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "United Co-operate Hotel (5/F)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2965259,
+      "lon": 114.1728048,
+      "osm_id": 2936536792,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Wakas Mess",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2965543,
+      "lon": 114.1727468,
+      "osm_id": 2936536793,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Australian Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961874,
+      "lon": 114.1728629,
+      "osm_id": 2937037465,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Budget Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2963113,
+      "lon": 114.1728546,
+      "osm_id": 2937037467,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "City Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962249,
+      "lon": 114.1727643,
+      "osm_id": 2937037468,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Day and Night Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296285,
+      "lon": 114.1728564,
+      "osm_id": 2937037469,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Days Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2963026,
+      "lon": 114.1728552,
+      "osm_id": 2937037470,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dipty A Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961645,
+      "lon": 114.1727704,
+      "osm_id": 2937037471,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Euro Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2961531,
+      "lon": 114.1728652,
+      "osm_id": 2937037473,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "European Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962315,
+      "lon": 114.17286,
+      "osm_id": 2937037474,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Everest Base Camp Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2961706,
+      "lon": 114.1728641,
+      "osm_id": 2937037475,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Everest Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962949,
+      "lon": 114.1727578,
+      "osm_id": 2937037476,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Everest Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962397,
+      "lon": 114.1728594,
+      "osm_id": 2937037477,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Everest Inn Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296197,
+      "lon": 114.1728623,
+      "osm_id": 2937037478,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fortuna Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961835,
+      "lon": 114.1727681,
+      "osm_id": 2937037479,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Germany Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962448,
+      "lon": 114.1727624,
+      "osm_id": 2937037480,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Head Sun Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962843,
+      "lon": 114.1727588,
+      "osm_id": 2937037481,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Holiday Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962349,
+      "lon": 114.1727633,
+      "osm_id": 2937037482,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Holland Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962221,
+      "lon": 114.1728606,
+      "osm_id": 2937037483,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "King Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962737,
+      "lon": 114.1727598,
+      "osm_id": 2937037485,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Manila Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.296294,
+      "lon": 114.1728558,
+      "osm_id": 2937037487,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Marrigold Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962752,
+      "lon": 114.172857,
+      "osm_id": 2937037488,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nagaland Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961624,
+      "lon": 114.1728646,
+      "osm_id": 2937037489,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Narli Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962488,
+      "lon": 114.1728588,
+      "osm_id": 2937037490,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New China Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961558,
+      "lon": 114.1727721,
+      "osm_id": 2937037491,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New GuanZhou Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962575,
+      "lon": 114.1728582,
+      "osm_id": 2937037492,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Shanghai Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962052,
+      "lon": 114.1728617,
+      "osm_id": 2937037493,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Tokyo Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2961784,
+      "lon": 114.1728635,
+      "osm_id": 2937037494,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962037,
+      "lon": 114.1727662,
+      "osm_id": 2937037495,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Prince Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961724,
+      "lon": 114.1727699,
+      "osm_id": 2937037496,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Princess Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963077,
+      "lon": 114.1727566,
+      "osm_id": 2937037497,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Royal Plaza Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962554,
+      "lon": 114.1727614,
+      "osm_id": 2937037498,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Russian Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962138,
+      "lon": 114.1728612,
+      "osm_id": 2937037499,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Singh Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962149,
+      "lon": 114.1727652,
+      "osm_id": 2937037500,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "South East Asia Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962648,
+      "lon": 114.1727606,
+      "osm_id": 2937037701,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Strawberry Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962661,
+      "lon": 114.1728576,
+      "osm_id": 2937037702,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tokyo Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2961948,
+      "lon": 114.172767,
+      "osm_id": 2937037704,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Guesthouse (13/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965305,
+      "lon": 114.1732135,
+      "osm_id": 2937171014,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Guesthouse (6/F)",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965351,
+      "lon": 114.1730968,
+      "osm_id": 2937171015,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Apple Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2965844,
+      "lon": 114.1732125,
+      "osm_id": 2937171016,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Carlton Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964974,
+      "lon": 114.1732141,
+      "osm_id": 2937171017,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Comfort Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965757,
+      "lon": 114.1732127,
+      "osm_id": 2937171018,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Garden Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964663,
+      "lon": 114.1732147,
+      "osm_id": 2937171020,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Gloria Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296525,
+      "lon": 114.1730972,
+      "osm_id": 2937171021,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Ocean Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2964649,
+      "lon": 114.1730993,
+      "osm_id": 2937171022,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Jinn's Ti Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965042,
+      "lon": 114.1730979,
+      "osm_id": 2937171024,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kowloon T.S.T. Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965663,
+      "lon": 114.1732128,
+      "osm_id": 2937171025,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Las Vegas Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964895,
+      "lon": 114.1732143,
+      "osm_id": 2937171026,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucky Hotel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965395,
+      "lon": 114.1732134,
+      "osm_id": 2937171027,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Maharaja Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965689,
+      "lon": 114.1730956,
+      "osm_id": 2937171028,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Marco Polo Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964817,
+      "lon": 114.1732144,
+      "osm_id": 2937171029,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Marria Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965482,
+      "lon": 114.1732132,
+      "osm_id": 2937171030,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Brother's Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965145,
+      "lon": 114.1730975,
+      "osm_id": 2937171032,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New ChungKing Mansion Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964952,
+      "lon": 114.1730982,
+      "osm_id": 2937171033,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Grand Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965131,
+      "lon": 114.1732138,
+      "osm_id": 2937171034,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Harbour Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2966021,
+      "lon": 114.1732122,
+      "osm_id": 2937171035,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Hong Kong Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296546,
+      "lon": 114.1730964,
+      "osm_id": 2937171036,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Tajimahel Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965928,
+      "lon": 114.1730948,
+      "osm_id": 2937171037,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Osaka Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965214,
+      "lon": 114.1732137,
+      "osm_id": 2937171039,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pakistan Mess",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2964603,
+      "lon": 114.1731658,
+      "osm_id": 2937171040,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ran Jeet Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965817,
+      "lon": 114.1730952,
+      "osm_id": 2937171041,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Safari Hotel (5/F)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2965566,
+      "lon": 114.1730961,
+      "osm_id": 2937171042,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Safari Hotel (7/F)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2964849,
+      "lon": 114.1730986,
+      "osm_id": 2937171043,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sands Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965049,
+      "lon": 114.173214,
+      "osm_id": 2937171044,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Shaker Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965569,
+      "lon": 114.173213,
+      "osm_id": 2937171045,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Delhi Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2964764,
+      "lon": 114.1731646,
+      "osm_id": 2937171046,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tom's Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964738,
+      "lon": 114.1732146,
+      "osm_id": 2937171047,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Wah Fai Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964743,
+      "lon": 114.173099,
+      "osm_id": 2937171048,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Wah Sing Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965934,
+      "lon": 114.1732123,
+      "osm_id": 2937171049,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Anwar Hussain",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.296349,
+      "lon": 114.172607,
+      "osm_id": 2938367941,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ashoka Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965254,
+      "lon": 114.1725474,
+      "osm_id": 2938367942,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Capital Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965074,
+      "lon": 114.1725482,
+      "osm_id": 2938367943,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chungking Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965852,
+      "lon": 114.1724324,
+      "osm_id": 2938367944,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Delta HK Hotel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2965537,
+      "lon": 114.172595,
+      "osm_id": 2938367945,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Double Seven Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965069,
+      "lon": 114.1724398,
+      "osm_id": 2938367946,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "First Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965546,
+      "lon": 114.1724353,
+      "osm_id": 2938367947,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fortunate Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964259,
+      "lon": 114.1724475,
+      "osm_id": 2938367948,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Four Season Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964734,
+      "lon": 114.1725498,
+      "osm_id": 2938367949,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hawaii Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964435,
+      "lon": 114.1725511,
+      "osm_id": 2938367950,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hollywood Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964891,
+      "lon": 114.1725491,
+      "osm_id": 2938367951,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kyoto Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964136,
+      "lon": 114.1725525,
+      "osm_id": 2938367952,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Longdon Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965677,
+      "lon": 114.1724341,
+      "osm_id": 2938367953,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Asia Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964606,
+      "lon": 114.1724442,
+      "osm_id": 2938367954,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New International Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964072,
+      "lon": 114.1724493,
+      "osm_id": 2938367955,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Mandarin Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964432,
+      "lon": 114.1724459,
+      "osm_id": 2938367956,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Peking Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963648,
+      "lon": 114.1724533,
+      "osm_id": 2938367957,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Super Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965372,
+      "lon": 114.1725942,
+      "osm_id": 2938367958,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ocean Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965986,
+      "lon": 114.1725925,
+      "osm_id": 2938367959,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Park Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964285,
+      "lon": 114.1725518,
+      "osm_id": 2938367960,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pay Less Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965381,
+      "lon": 114.1724369,
+      "osm_id": 2938367961,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Peking Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963795,
+      "lon": 114.1724519,
+      "osm_id": 2938367962,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rhine Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963325,
+      "lon": 114.1724564,
+      "osm_id": 2938367963,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rhine Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2963944,
+      "lon": 114.1724505,
+      "osm_id": 2938367964,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sandhu New UK Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2963939,
+      "lon": 114.1726027,
+      "osm_id": 2938367965,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Spring Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965821,
+      "lon": 114.1725942,
+      "osm_id": 2938367966,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sun Ying Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964913,
+      "lon": 114.1724413,
+      "osm_id": 2938367967,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Super Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296349,
+      "lon": 114.1724548,
+      "osm_id": 2938367968,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tai Wan Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2966018,
+      "lon": 114.1724308,
+      "osm_id": 2938367969,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tokyo Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964561,
+      "lon": 114.1725506,
+      "osm_id": 2938367970,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Toms Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964749,
+      "lon": 114.1724428,
+      "osm_id": 2938367971,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Travellers Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2965687,
+      "lon": 114.172595,
+      "osm_id": 2938367972,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Welcome Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965233,
+      "lon": 114.1724383,
+      "osm_id": 2938367973,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Baba Jee Mess",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.296406,
+      "lon": 114.1729618,
+      "osm_id": 2938377184,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Butt Food Centre",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963808,
+      "lon": 114.1727916,
+      "osm_id": 2938377185,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kashmir Fastfood",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963934,
+      "lon": 114.1727133,
+      "osm_id": 2938377186,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kawality",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963824,
+      "lon": 114.1730579,
+      "osm_id": 2938377187,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lahore Fastfood",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963549,
+      "lon": 114.1727142,
+      "osm_id": 2938377188,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab Food",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963391,
+      "lon": 114.1727822,
+      "osm_id": 2938377189,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Saravana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2964029,
+      "lon": 114.1730579,
+      "osm_id": 2938377190,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Shalimar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963619,
+      "lon": 114.1727848,
+      "osm_id": 2938377191,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sher-E-Punjab",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963769,
+      "lon": 114.1729686,
+      "osm_id": 2938377192,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Swagat",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963501,
+      "lon": 114.1729677,
+      "osm_id": 2938377193,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Smrat Pure Veg (G/F)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963328,
+      "lon": 114.1727159,
+      "osm_id": 2938377196,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u90f5\u653f\u5c40 Tsim Sha Tsui Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 22.2958091,
+      "lon": 114.1732992,
+      "osm_id": 3596680883,
+      "osm_type": "node",
+      "address": "\u4e2d\u9593\u9053 Middle Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u4e2d\u9593\u9053 Middle Road Tsim Sha Tsui",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2958172,
+      "lon": 114.1721771,
+      "osm_id": 3912040166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u534a\u5cf6\u9152\u5e97 Peninsula Hotel",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2955025,
+      "lon": 114.1722008,
+      "osm_id": 3912040167,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2969786,
+      "lon": 114.1735679,
+      "osm_id": 3914318599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2971952,
+      "lon": 114.1726846,
+      "osm_id": 3914318600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2971973,
+      "lon": 114.1723625,
+      "osm_id": 3914318601,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.297388,
+      "lon": 114.1737857,
+      "osm_id": 4066472127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The North Face",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973334,
+      "lon": 114.1738615,
+      "osm_id": 4066472132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u74f7\u5668\u5e97",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2959663,
+      "lon": 114.172435,
+      "osm_id": 4109813696,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u73cd\u59ae\u66f2\u5947 Jenny Bakery",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.2973541,
+      "lon": 114.1724852,
+      "osm_id": 4227025589,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u862d\u62c9\u9eb5",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2966712,
+      "lon": 114.1737417,
+      "osm_id": 4293947289,
+      "osm_type": "node",
+      "address": "\u7dec\u7538\u81fa Minden Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Vans",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.296334,
+      "lon": 114.1725331,
+      "osm_id": 4754443230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u862d\u82b3\u5712 \u8336\u9910\u5ef3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963473,
+      "lon": 114.1725236,
+      "osm_id": 4835822121,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5353\u6085 Bonjour",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2974867,
+      "lon": 114.1723541,
+      "osm_id": 4848019837,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fanda",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2973814,
+      "lon": 114.1723558,
+      "osm_id": 4848019838,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u516d\u798f\u73e0\u5bf6 LukFook Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2972586,
+      "lon": 114.1723649,
+      "osm_id": 4848019839,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rado",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2971525,
+      "lon": 114.1723752,
+      "osm_id": 4848019840,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2968838,
+      "lon": 114.1724143,
+      "osm_id": 4848019841,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f Chow Tai Fook",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2967813,
+      "lon": 114.1724143,
+      "osm_id": 4848019842,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6642\u9593\u5eca City Chain",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2967327,
+      "lon": 114.1724176,
+      "osm_id": 4848060591,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2966662,
+      "lon": 114.1724163,
+      "osm_id": 4848060592,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5353\u6085 Bonjour",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2965751,
+      "lon": 114.1724161,
+      "osm_id": 4848098162,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "CKE",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2965337,
+      "lon": 114.1724209,
+      "osm_id": 4848098163,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Patek Philippe",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.296236,
+      "lon": 114.1724449,
+      "osm_id": 4848098164,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Puwi Optical",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2961955,
+      "lon": 114.1724488,
+      "osm_id": 4848098165,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Issi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2961559,
+      "lon": 114.1724527,
+      "osm_id": 4848098166,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.297472,
+      "lon": 114.1730514,
+      "osm_id": 4850137430,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Green Moblie",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 22.2974825,
+      "lon": 114.1728931,
+      "osm_id": 4850202602,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Coffee Roaster",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2974106,
+      "lon": 114.1728997,
+      "osm_id": 4850202603,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Unison Foreign Exchange",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.2973682,
+      "lon": 114.1729037,
+      "osm_id": 4850202604,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Daniel Fashions",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973425,
+      "lon": 114.172907,
+      "osm_id": 4850202605,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Audemars Piguet",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.297128,
+      "lon": 114.1730871,
+      "osm_id": 4850294644,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Tudor",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2971254,
+      "lon": 114.1731209,
+      "osm_id": 4850294645,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ASICS",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2971528,
+      "lon": 114.173245,
+      "osm_id": 4850294646,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "CTF Watch",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2972102,
+      "lon": 114.1739048,
+      "osm_id": 4850294647,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Global Timepieces",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2972128,
+      "lon": 114.1740091,
+      "osm_id": 4850294648,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2972128,
+      "lon": 114.173964,
+      "osm_id": 4850294649,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mendoza",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2972913,
+      "lon": 114.1729091,
+      "osm_id": 4850352260,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Nita Fashions",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2969912,
+      "lon": 114.1733799,
+      "osm_id": 4850352261,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Union Travel Company",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 22.2969885,
+      "lon": 114.173449,
+      "osm_id": 4850352262,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "101 Wine Group",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 22.296999,
+      "lon": 114.1734871,
+      "osm_id": 4850352263,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tokioka",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2970519,
+      "lon": 114.1739041,
+      "osm_id": 4850352264,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Watch Bank Ookura",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2970576,
+      "lon": 114.1739613,
+      "osm_id": 4850352265,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Royal Forex Limited",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.2970666,
+      "lon": 114.1740314,
+      "osm_id": 4850352266,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a3a\u6cf0\u9336\u884c Wah Tai Watch Limited",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2970701,
+      "lon": 114.1740668,
+      "osm_id": 4850352267,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u73cd\u60dc\u6642\u9593 Day & Night Limited",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2970736,
+      "lon": 114.1741013,
+      "osm_id": 4850352268,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4ea4\u901a\u9280\u884c Bank of Communications",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2970805,
+      "lon": 114.1742587,
+      "osm_id": 4850352270,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u98a8\u96f2\u4e38",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2971132,
+      "lon": 114.1744821,
+      "osm_id": 4850352271,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u73cd\u59ae\u66f2\u5947 Jenny Bakery",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.2972399,
+      "lon": 114.1723613,
+      "osm_id": 4874615124,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Backer Stores@K11",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 22.2973913,
+      "lon": 114.1736162,
+      "osm_id": 4944229899,
+      "osm_type": "node",
+      "address": "\u6cb3\u5167\u9053 Hanoi Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u52a0\u62ff\u5927\u9152\u5e97 Canada Hotel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2965189,
+      "lon": 114.1725965,
+      "osm_id": 4969719821,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rahman Fashion",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973497,
+      "lon": 114.1726007,
+      "osm_id": 5095667323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5bb6\u6a02 Caf\u00e9 de Coral",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2965445,
+      "lon": 114.1724742,
+      "osm_id": 5890148087,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u534a\u5cf6\u9152\u5e97 Peninsula Hotel",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2955226,
+      "lon": 114.1721991,
+      "osm_id": 6048774451,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Euro Asia Guest House",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962811,
+      "lon": 114.1730658,
+      "osm_id": 6176025485,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u65e5\u672c\u57ce JHC",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 22.2970967,
+      "lon": 114.1724564,
+      "osm_id": 6373406585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alice Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2968784,
+      "lon": 114.1737538,
+      "osm_id": 11083592142,
+      "osm_type": "node",
+      "address": "\u68c9\u767b\u5f91 Minden Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Aqua",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2953212,
+      "lon": 114.1734182,
+      "osm_id": 12949740055,
+      "osm_type": "node",
+      "address": "15 Middle Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ee3\u696d\u4e94\u91d1",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 22.2966694,
+      "lon": 114.1736139,
+      "osm_id": 13318798457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Holiday Guest House",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965712,
+      "lon": 114.1725111,
+      "osm_id": 13524453501,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    }
+  ]
+}

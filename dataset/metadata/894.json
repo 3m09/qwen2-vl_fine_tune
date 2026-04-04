@@ -1,0 +1,98 @@
+{
+  "image": "dataset/images/894.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.93601902061134,
+  "bbox": [
+    -73.93750695036456,
+    40.81351351351353,
+    -73.93453109085812,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.post_office"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 2,
+    "amenity.post_office": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Lincolnton Station New York Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.815,
+      "lon": -73.9363889,
+      "osm_id": 357621260,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Kennedy Fried Chicken & Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8142537,
+      "lon": -73.9367717,
+      "osm_id": 2767707740,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "137th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.813842,
+      "lon": -73.9369941,
+      "osm_id": 4953971783,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "138th Street & 5th Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.814453,
+      "lon": -73.9362538,
+      "osm_id": 4953971784,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 138 St & 5 Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8144946,
+      "lon": -73.9361483,
+      "osm_id": 13244020809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - 5 Ave & W 139 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8154936,
+      "lon": -73.9358586,
+      "osm_id": 13244047113,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

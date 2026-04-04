@@ -1,0 +1,199 @@
+{
+  "image": "dataset/images/1181.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.93897001191725,
+  "bbox": [
+    -73.94045854821195,
+    40.84054054054059,
+    -73.93748147562255,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.school",
+    "highway.bus_stop",
+    "shop.convenience",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.florist",
+    "amenity.fast_food",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "amenity.school": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 2,
+    "shop.florist": 1,
+    "amenity.fast_food": 3,
+    "shop.alcohol": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Public School 128",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8409336,
+      "lon": -73.9384706,
+      "osm_id": 357578626,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8414752,
+      "lon": -73.9398525,
+      "osm_id": 2603955335,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8418653,
+      "lon": -73.9388997,
+      "osm_id": 2603955340,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8425888,
+      "lon": -73.9390062,
+      "osm_id": 2603955351,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Popular Community Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.842318,
+      "lon": -73.9385846,
+      "osm_id": 2603955355,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of America",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 40.8413759,
+      "lon": -73.9399231,
+      "osm_id": 2603955405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popular",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8427869,
+      "lon": -73.9394245,
+      "osm_id": 2797210301,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & 168th Street at Southeast Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8407496,
+      "lon": -73.939245,
+      "osm_id": 3584444476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tasty Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.841789,
+      "lon": -73.9390089,
+      "osm_id": 4303213992,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 170th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8426717,
+      "lon": -73.9393567,
+      "osm_id": 8369968522,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "GG Gourmet Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8414449,
+      "lon": -73.9402522,
+      "osm_id": 11748608699,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia Wine Co.",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8420705,
+      "lon": -73.9387804,
+      "osm_id": 11748641739,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anthony Flowers",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 40.8419417,
+      "lon": -73.938852,
+      "osm_id": 11748675228,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 24,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

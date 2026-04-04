@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/286.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.649028386235884,
+  "bbox": [
+    -46.650256971910046,
+    -23.565495495495497,
+    -46.64779980056172,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "leisure.garden",
+    "shop.car_repair",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.parking"
+  ],
+  "poi_count_per_category": {
+    "leisure.garden": 1,
+    "shop.car_repair": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "amenity.parking": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u00cdcone Park Estacionamentos Unidade 2",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5645703,
+      "lon": -46.6485561,
+      "osm_id": 4562098095,
+      "osm_type": "node",
+      "address": "Alameda Ribeir\u00e3o Preto",
+      "road_geometry": null
+    },
+    {
+      "name": "Fast Store",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5643307,
+      "lon": -46.6493985,
+      "osm_id": 9394857231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Servi\u00e7os Automotivos Borracharia",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": -23.5639805,
+      "lon": -46.649023,
+      "osm_id": 9395263707,
+      "osm_type": "node",
+      "address": "Rua Almirante Marques de Le\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Terra\u00e7o Paulista",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5651348,
+      "lon": -46.6496864,
+      "osm_id": 9397076621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Horta Edif\u00edcio Crist\u00e1lia",
+      "category": [
+        "leisure.garden"
+      ],
+      "lat": -23.5641662,
+      "lon": -46.6499374,
+      "osm_id": 9465998286,
+      "osm_type": "node",
+      "address": "Alameda Ribeir\u00e3o Preto",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

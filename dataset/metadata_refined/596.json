@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/596.png",
+  "center_lat": 41.01689189189191,
+  "center_lon": 28.985372309675046,
+  "bbox": [
+    28.983879820870634,
+    41.015765765765785,
+    28.986864798479463,
+    41.01801801801804
+  ],
+  "unique_categories": [
+    "amenity.parking",
+    "tourism.viewpoint"
+  ],
+  "poi_count_per_category": {
+    "amenity.parking": 1,
+    "tourism.viewpoint": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Sarayburnu Manzaras\u0131",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 41.0175429,
+      "lon": 28.9857457,
+      "osm_id": 5108828689,
+      "osm_type": "node",
+      "address": "kennedy Cd",
+      "road_geometry": null
+    },
+    {
+      "name": "Sarayburnu Otopark",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 41.0168612,
+      "lon": 28.9840613,
+      "osm_id": 11010260461,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

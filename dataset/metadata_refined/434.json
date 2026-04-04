@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/434.png",
+  "center_lat": 22.287387387387383,
+  "center_lon": 114.16121703803994,
+  "bbox": [
+    114.16,
+    22.286261261261256,
+    114.16243407607989,
+    22.288513513513507
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2863849,
+      "lon": 114.161313,
+      "osm_id": 3493469231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2868299,
+      "lon": 114.1611191,
+      "osm_id": 11497664151,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "image": "dataset/images/592.png",
+  "center_lat": 41.01689189189191,
+  "center_lon": 28.97343239923973,
+  "bbox": [
+    28.971939910435317,
+    41.015765765765785,
+    28.974924888044146,
+    41.01801801801804
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.ferry_terminal",
+    "shop.perfumery",
+    "amenity.cafe",
+    "shop.gift",
+    "amenity.restaurant",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.post_office",
+    "amenity.fast_food",
+    "railway.tram_stop",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 2,
+    "amenity.ferry_terminal": 1,
+    "shop.perfumery": 1,
+    "amenity.cafe": 7,
+    "shop.gift": 1,
+    "amenity.restaurant": 1,
+    "amenity.bar": 1,
+    "amenity.bank": 3,
+    "shop.clothes": 2,
+    "amenity.post_office": 1,
+    "amenity.fast_food": 1,
+    "railway.tram_stop": 2,
+    "tourism.hotel": 1
+  },
+  "poi_count": 24,
+  "pois": [
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0174499,
+      "lon": 28.9732148,
+      "osm_id": 3282357358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0174881,
+      "lon": 28.9732071,
+      "osm_id": 3282357359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vak\u0131fbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0180158,
+      "lon": 28.9728802,
+      "osm_id": 3457445318,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 41.0179964,
+      "lon": 28.974141,
+      "osm_id": 3457463792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Legacy Ottoman",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0158475,
+      "lon": 28.9740487,
+      "osm_id": 5110345261,
+      "osm_type": "node",
+      "address": "Hamidiye Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Halkbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0158672,
+      "lon": 28.9731069,
+      "osm_id": 5110345268,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Y\u0131ld\u0131z esans",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0158288,
+      "lon": 28.9726703,
+      "osm_id": 5110345270,
+      "osm_type": "node",
+      "address": "Rahvanc\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "LC Waikiki",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0168645,
+      "lon": 28.973387,
+      "osm_id": 5110347224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yemek odas\u0131 restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0170282,
+      "lon": 28.9736613,
+      "osm_id": 5110347225,
+      "osm_type": "node",
+      "address": "Re\u015fadiye caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Aras kargo",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 41.0161848,
+      "lon": 28.9745099,
+      "osm_id": 5110347233,
+      "osm_type": "node",
+      "address": "Yal\u0131 k\u00f6\u015fk\u00fc caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Erdo\u011fmu\u015f",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0163047,
+      "lon": 28.9740483,
+      "osm_id": 5110347235,
+      "osm_type": "node",
+      "address": "Yal\u0131 k\u00f6\u015fk\u00fc caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Caffein d\u00fcnyas\u0131",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0164238,
+      "lon": 28.973826,
+      "osm_id": 5110347236,
+      "osm_type": "node",
+      "address": "Yal\u0131 k\u00f6\u015fk\u00fc caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Koska",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0164564,
+      "lon": 28.9734192,
+      "osm_id": 5110347239,
+      "osm_type": "node",
+      "address": "Yal\u0131 k\u00f6\u015fk\u00fc caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ziraat Bankas\u0131",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0161643,
+      "lon": 28.9734838,
+      "osm_id": 5110347240,
+      "osm_type": "node",
+      "address": "Yal\u0131k\u00f6\u015fk\u00fc Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Valide",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0160242,
+      "lon": 28.9730131,
+      "osm_id": 5110347242,
+      "osm_type": "node",
+      "address": "Hamidiye Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Dana D\u00f6ner",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0159376,
+      "lon": 28.9719826,
+      "osm_id": 5111212302,
+      "osm_type": "node",
+      "address": "Yeni Camii Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vak\u0131fbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0158291,
+      "lon": 28.9721322,
+      "osm_id": 5111212303,
+      "osm_type": "node",
+      "address": "Yeni Cami Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Valide",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0161553,
+      "lon": 28.9731103,
+      "osm_id": 5111212304,
+      "osm_type": "node",
+      "address": "Bankac\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Turmalin",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0160392,
+      "lon": 28.9729534,
+      "osm_id": 5111212305,
+      "osm_type": "node",
+      "address": "Bankac\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Truva",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0162132,
+      "lon": 28.973028,
+      "osm_id": 5111212306,
+      "osm_type": "node",
+      "address": "Bankac\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Burak Saat",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0167009,
+      "lon": 28.9732626,
+      "osm_id": 5982436885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bamli cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0159977,
+      "lon": 28.9734341,
+      "osm_id": 6324422485,
+      "osm_type": "node",
+      "address": "Hamidiye Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Levent B\u00f6rek",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0159158,
+      "lon": 28.973611,
+      "osm_id": 8844311517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0180106,
+      "lon": 28.9728387,
+      "osm_id": 11167178138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 50,
+    "removed_count": 26,
+    "model": "gemini-2.5-flash"
+  }
+}

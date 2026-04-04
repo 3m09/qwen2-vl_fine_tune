@@ -1,0 +1,138 @@
+{
+  "image": "dataset/images/1061.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.93898037778114,
+  "bbox": [
+    -73.9404686612499,
+    40.82927927927931,
+    -73.93749209431239,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "shop.tyres",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "railway.stop",
+    "shop.hardware"
+  ],
+  "poi_count_per_category": {
+    "shop.tyres": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 3,
+    "shop.convenience": 1,
+    "railway.stop": 2,
+    "shop.hardware": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "94 St Nicholas Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.829837,
+      "lon": -73.9402967,
+      "osm_id": 2768121861,
+      "osm_type": "node",
+      "address": "Saint Nicholas Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecomb Avenue & West 155th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8307082,
+      "lon": -73.9404655,
+      "osm_id": 5296021048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecomb Avenue & West 155th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.830848,
+      "lon": -73.9402911,
+      "osm_id": 5296021171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 155th Street & Edgecomb Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8301579,
+      "lon": -73.9398047,
+      "osm_id": 5296022822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "155th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8302994,
+      "lon": -73.9377107,
+      "osm_id": 6331706480,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "155th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8303803,
+      "lon": -73.9377126,
+      "osm_id": 6331706932,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Watson's Tire Shop",
+      "category": [
+        "shop.tyres"
+      ],
+      "lat": 40.82981,
+      "lon": -73.9403201,
+      "osm_id": 11748755491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Watson's Plumbing & Heating",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8298369,
+      "lon": -73.9401369,
+      "osm_id": 11748769119,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Harlem River Dr & W 155 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8304724,
+      "lon": -73.9399128,
+      "osm_id": 13244008719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

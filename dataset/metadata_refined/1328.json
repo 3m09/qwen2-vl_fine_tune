@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/1328.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.93002452586624,
+  "bbox": [
+    -73.93151336574142,
+    40.85405405405412,
+    -73.92853568599105,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "railway.stop",
+    "shop.supermarket",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 1,
+    "railway.stop": 2,
+    "shop.supermarket": 1,
+    "railway.station": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Fine Fare",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8555109,
+      "lon": -73.9294503,
+      "osm_id": 725335343,
+      "osm_type": "node",
+      "address": "St. Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "191st Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8548701,
+      "lon": -73.9297049,
+      "osm_id": 761860869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vegan Quick Bites by Next Stop Vegan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8559656,
+      "lon": -73.9286418,
+      "osm_id": 2797659824,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "191st Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8561239,
+      "lon": -73.9287357,
+      "osm_id": 3327370727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "191st Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8552578,
+      "lon": -73.9293981,
+      "osm_id": 4248887014,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 190th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8551415,
+      "lon": -73.9293376,
+      "osm_id": 8369968525,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 190th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8546964,
+      "lon": -73.9299417,
+      "osm_id": 8369968546,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

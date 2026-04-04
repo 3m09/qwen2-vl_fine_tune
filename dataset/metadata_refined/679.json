@@ -1,0 +1,119 @@
+{
+  "image": "dataset/images/679.png",
+  "center_lat": 19.435135135135134,
+  "center_lon": -99.14380583682231,
+  "bbox": [
+    -99.145,
+    19.434009009009007,
+    -99.14261167364464,
+    19.436261261261258
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.bank",
+    "tourism.artwork",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.bank": 1,
+    "tourism.artwork": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "BBVA",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4343235,
+      "lon": -99.1428414,
+      "osm_id": 2418162581,
+      "osm_type": "node",
+      "address": "Avenida Ju\u00e1rez",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4343635,
+      "lon": -99.1431709,
+      "osm_id": 4156725739,
+      "osm_type": "node",
+      "address": "Avenida Ju\u00e1rez",
+      "road_geometry": null
+    },
+    {
+      "name": "Toks",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4344427,
+      "lon": -99.1437961,
+      "osm_id": 4158566790,
+      "osm_type": "node",
+      "address": "Avenida Ju\u00e1rez",
+      "road_geometry": null
+    },
+    {
+      "name": "Sanborns",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 19.4346071,
+      "lon": -99.1446956,
+      "osm_id": 4168565089,
+      "osm_type": "node",
+      "address": "Avenida Ju\u00e1rez",
+      "road_geometry": null
+    },
+    {
+      "name": "Antojer\u00eda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4343589,
+      "lon": -99.1436316,
+      "osm_id": 7093679855,
+      "osm_type": "node",
+      "address": "Avenida Ju\u00e1rez",
+      "road_geometry": null
+    },
+    {
+      "name": "Velocidad",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4345149,
+      "lon": -99.1445261,
+      "osm_id": 10603208979,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vans",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 19.4341499,
+      "lon": -99.1426561,
+      "osm_id": 11241881136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 12,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

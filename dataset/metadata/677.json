@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/677.png",
+  "center_lat": 19.432882882882883,
+  "center_lon": -99.12708780074868,
+  "bbox": [
+    -99.12828194736544,
+    19.431756756756755,
+    -99.12589365413193,
+    19.434009009009007
+  ],
+  "unique_categories": [
+    "tourism.hostel",
+    "shop.clothes",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.hostel": 1,
+    "shop.clothes": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Pizzer\u00eda Dalis",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4330707,
+      "lon": -99.1262175,
+      "osm_id": 5676622321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Mexico Mexico nuevo",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4334602,
+      "lon": -99.1259387,
+      "osm_id": 7104813387,
+      "osm_type": "node",
+      "address": "Calle Margil",
+      "road_geometry": null
+    },
+    {
+      "name": "Aqu\u00ed es oaxaca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4324343,
+      "lon": -99.1271263,
+      "osm_id": 9400551317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nujha",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4333393,
+      "lon": -99.1259472,
+      "osm_id": 9708042017,
+      "osm_type": "node",
+      "address": "Calle Margil",
+      "road_geometry": null
+    }
+  ]
+}

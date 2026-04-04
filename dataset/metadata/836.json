@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/836.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.96577993890621,
+  "bbox": [
+    -73.96726776764942,
+    40.80900900900902,
+    -73.964292110163,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "leisure.playground",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "leisure.playground": 2,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Riverside Drive & West 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.810942,
+      "lon": -73.9644427,
+      "osm_id": 4284112691,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tot Lot 116",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8096121,
+      "lon": -73.9655025,
+      "osm_id": 10054994713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tot Lot 117",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.810092,
+      "lon": -73.9651343,
+      "osm_id": 10054994714,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

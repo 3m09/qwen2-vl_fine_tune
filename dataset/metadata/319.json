@@ -1,0 +1,718 @@
+{
+  "image": "dataset/images/319.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.65640048994927,
+  "bbox": [
+    -46.65762899138509,
+    -23.55648648648649,
+    -46.65517198851345,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.restaurant",
+    "shop.gift",
+    "amenity.school",
+    "shop.paint",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.optician",
+    "amenity.ice_cream",
+    "shop.convenience",
+    "shop.laundry",
+    "highway.bus_stop",
+    "shop.frame",
+    "shop.confectionery",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "shop.butcher",
+    "tourism.hotel",
+    "shop.clothes",
+    "amenity.pub",
+    "amenity.parking",
+    "shop.car_parts",
+    "amenity.nightclub",
+    "amenity.theatre",
+    "shop.beauty",
+    "amenity.taxi",
+    "amenity.library",
+    "shop.bakery",
+    "shop.hardware",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.restaurant": 9,
+    "shop.gift": 2,
+    "amenity.school": 1,
+    "shop.paint": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 3,
+    "shop.optician": 1,
+    "amenity.ice_cream": 1,
+    "shop.convenience": 1,
+    "shop.laundry": 1,
+    "highway.bus_stop": 1,
+    "shop.frame": 1,
+    "shop.confectionery": 1,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 4,
+    "shop.butcher": 1,
+    "tourism.hotel": 2,
+    "shop.clothes": 1,
+    "amenity.pub": 1,
+    "amenity.parking": 1,
+    "shop.car_parts": 1,
+    "amenity.nightclub": 2,
+    "amenity.theatre": 1,
+    "shop.beauty": 2,
+    "amenity.taxi": 3,
+    "amenity.library": 1,
+    "shop.bakery": 1,
+    "shop.hardware": 1,
+    "amenity.bar": 3,
+    "amenity.bank": 1,
+    "shop.shoes": 1
+  },
+  "poi_count": 53,
+  "pois": [
+    {
+      "name": "Ibotirama",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.554896,
+      "lon": -46.6568895,
+      "osm_id": 2360726173,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Luk Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5554257,
+      "lon": -46.6558957,
+      "osm_id": 3886191657,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi San Gabriel",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5557974,
+      "lon": -46.6562011,
+      "osm_id": 3886191757,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Nona d'Amore",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5551588,
+      "lon": -46.6557046,
+      "osm_id": 4982961223,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Frei Caneca",
+      "category": [
+        "shop.books"
+      ],
+      "lat": -23.5558882,
+      "lon": -46.6562715,
+      "osm_id": 4982961224,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Paiol",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": -23.5551144,
+      "lon": -46.6556692,
+      "osm_id": 4982981621,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "ICIB Cultura e Lingua Italiana",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": -23.5563374,
+      "lon": -46.656617,
+      "osm_id": 4982981921,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5555588,
+      "lon": -46.657349,
+      "osm_id": 4983144621,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Espa\u00e7o F\u00e1brica Augusta SP",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": -23.5553098,
+      "lon": -46.6571086,
+      "osm_id": 4983144622,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "WA Dan\u00e7as",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": -23.5552368,
+      "lon": -46.6570294,
+      "osm_id": 4983144623,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Bosch Alpha Car Service",
+      "category": [
+        "shop.car_parts"
+      ],
+      "lat": -23.5550469,
+      "lon": -46.6568274,
+      "osm_id": 4992680227,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Hera Veggie",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5543714,
+      "lon": -46.6574591,
+      "osm_id": 4992752338,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Its Vegan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5544267,
+      "lon": -46.6574419,
+      "osm_id": 4992752340,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "J. Roberto Materiais de Constru\u00e7\u00e3o",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": -23.5544807,
+      "lon": -46.657313,
+      "osm_id": 4992752342,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Dona Teresa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5545535,
+      "lon": -46.6572306,
+      "osm_id": 4992752354,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Nova Arte",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5547234,
+      "lon": -46.6570389,
+      "osm_id": 4992752356,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Fendior",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5552923,
+      "lon": -46.6573198,
+      "osm_id": 4992752369,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Comedians",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": -23.5543064,
+      "lon": -46.6560425,
+      "osm_id": 4995181821,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Redemax",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5546207,
+      "lon": -46.6569279,
+      "osm_id": 5628634040,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Cen\u00e1rio Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5543053,
+      "lon": -46.6572859,
+      "osm_id": 5628634045,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Heritege",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5544564,
+      "lon": -46.6573409,
+      "osm_id": 5628634064,
+      "osm_type": "node",
+      "address": "Rua Fernando de Albuquerque",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Augusta, 1149",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5545826,
+      "lon": -46.6563334,
+      "osm_id": 5628637125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi La Guardia",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.554806,
+      "lon": -46.6554872,
+      "osm_id": 5628796239,
+      "osm_type": "node",
+      "address": "Rua Peixoto Gomide",
+      "road_geometry": null
+    },
+    {
+      "name": "Multintas",
+      "category": [
+        "shop.paint"
+      ],
+      "lat": -23.5544524,
+      "lon": -46.655672,
+      "osm_id": 5628796243,
+      "osm_type": "node",
+      "address": "Rua Peixoto Gomide",
+      "road_geometry": null
+    },
+    {
+      "name": "Doutor Daniel Cabral",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": -23.554968,
+      "lon": -46.6556661,
+      "osm_id": 5628796269,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "O Mineiro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5558009,
+      "lon": -46.6571232,
+      "osm_id": 5628796284,
+      "osm_type": "node",
+      "address": "Rua Matias Aires",
+      "road_geometry": null
+    },
+    {
+      "name": "Buteco de Minas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5557103,
+      "lon": -46.6572253,
+      "osm_id": 5628796286,
+      "osm_type": "node",
+      "address": "Rua Matias Aires",
+      "road_geometry": null
+    },
+    {
+      "name": "Vitrini Bar",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": -23.5549071,
+      "lon": -46.6566797,
+      "osm_id": 5628796310,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Alteza",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5542364,
+      "lon": -46.6555559,
+      "osm_id": 5629222084,
+      "osm_type": "node",
+      "address": "Rua Peixoto Gomide",
+      "road_geometry": null
+    },
+    {
+      "name": "Novilho Nelore",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": -23.5547772,
+      "lon": -46.6553054,
+      "osm_id": 5629222102,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Elisa Hair",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5554701,
+      "lon": -46.6559111,
+      "osm_id": 6439744252,
+      "osm_type": "node",
+      "address": "Rua Frei Caneca",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Gomide",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5553458,
+      "lon": -46.655493,
+      "osm_id": 6439744257,
+      "osm_type": "node",
+      "address": "Rua Peixoto Gomide",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5557797,
+      "lon": -46.6571457,
+      "osm_id": 8421849827,
+      "osm_type": "node",
+      "address": "Rua Matias Aires",
+      "road_geometry": null
+    },
+    {
+      "name": "Seven Guys Burger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5552137,
+      "lon": -46.6572508,
+      "osm_id": 9172423424,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Porks",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5552351,
+      "lon": -46.6572765,
+      "osm_id": 9172423425,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Sampa Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5543336,
+      "lon": -46.657505,
+      "osm_id": 11072008317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taturana",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.554999,
+      "lon": -46.6567719,
+      "osm_id": 11554673658,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bella haddock",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.554253,
+      "lon": -46.657607,
+      "osm_id": 11554694573,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sal\u00e3o do Jairo",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5545031,
+      "lon": -46.6556345,
+      "osm_id": 11572477027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bombonieri garagem",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": -23.5542613,
+      "lon": -46.655976,
+      "osm_id": 11721143010,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mood",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5545457,
+      "lon": -46.6554426,
+      "osm_id": 11839426984,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Santa augusta",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5545887,
+      "lon": -46.6565587,
+      "osm_id": 11845611777,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Au botier",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5546504,
+      "lon": -46.6566354,
+      "osm_id": 11850343698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Augusta sacol\u00e3o e mercado",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5549546,
+      "lon": -46.6567313,
+      "osm_id": 11850358722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Super ice cream",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": -23.5545583,
+      "lon": -46.6556011,
+      "osm_id": 11899059543,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bradesco Prime",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5544002,
+      "lon": -46.6561091,
+      "osm_id": 11902417154,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Castro",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5547316,
+      "lon": -46.655347,
+      "osm_id": 12047962215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Terra\u00e7o",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.5549909,
+      "lon": -46.6557726,
+      "osm_id": 12091174475,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aloka",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.555092,
+      "lon": -46.655844,
+      "osm_id": 12091185246,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Floritela",
+      "category": [
+        "shop.frame"
+      ],
+      "lat": -23.5543988,
+      "lon": -46.6556756,
+      "osm_id": 12099347931,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alvena",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": -23.5563687,
+      "lon": -46.6556585,
+      "osm_id": 12170121517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Retr\u00f4",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5542841,
+      "lon": -46.6562838,
+      "osm_id": 12228165558,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.555499,
+      "lon": -46.6572178,
+      "osm_id": 12984429635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

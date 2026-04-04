@@ -1,0 +1,217 @@
+{
+  "image": "dataset/images/345.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83063208586776,
+  "bbox": [
+    103.82950566869421,
+    1.3025045045045047,
+    103.83175850304131,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "shop.coffee",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "shop.hairdresser",
+    "amenity.restaurant",
+    "shop.clothes",
+    "amenity.post_office",
+    "railway.stop",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.books",
+    "amenity.parking_entrance",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.coffee": 1,
+    "shop.cosmetics": 1,
+    "amenity.cafe": 1,
+    "shop.hairdresser": 1,
+    "amenity.restaurant": 1,
+    "shop.clothes": 1,
+    "amenity.post_office": 1,
+    "railway.stop": 2,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "shop.books": 1,
+    "amenity.parking_entrance": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "ThreeSixty",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3041529,
+      "lon": 103.8316657,
+      "osm_id": 1932320790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Road Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 1.304324,
+      "lon": 103.8316677,
+      "osm_id": 4583782801,
+      "osm_type": "node",
+      "address": "Orchard Turn",
+      "road_geometry": null
+    },
+    {
+      "name": "Wheelock Place",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 1.3047504,
+      "lon": 103.8308342,
+      "osm_id": 4748443071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nespresso",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 1.3042067,
+      "lon": 103.8315206,
+      "osm_id": 6267446985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3040535,
+      "lon": 103.8317018,
+      "osm_id": 6704811558,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3044559,
+      "lon": 103.8316039,
+      "osm_id": 7129609602,
+      "osm_type": "node",
+      "address": "Orchard Turn",
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 1.3028997,
+      "lon": 103.8312754,
+      "osm_id": 7193448098,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kenaris",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3047355,
+      "lon": 103.8309254,
+      "osm_id": 8566472176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3044912,
+      "lon": 103.8308211,
+      "osm_id": 8566472178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SkinLab",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3047128,
+      "lon": 103.8310644,
+      "osm_id": 8566472180,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Shirt Bar",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3047004,
+      "lon": 103.8303471,
+      "osm_id": 8566472181,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cedele",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3045475,
+      "lon": 103.8309328,
+      "osm_id": 8566472185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Zall Bookstore",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 1.3044131,
+      "lon": 103.8306362,
+      "osm_id": 8566472187,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 1.3029668,
+      "lon": 103.8313956,
+      "osm_id": 10173221694,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 29,
+    "removed_count": 15,
+    "model": "gemini-2.5-flash"
+  }
+}

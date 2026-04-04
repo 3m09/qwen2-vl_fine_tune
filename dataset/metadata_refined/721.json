@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/721.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.281178460017756,
+  "bbox": [
+    55.27993396309331,
+    25.192252252252253,
+    55.2824229569422,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "amenity.cinema",
+    "amenity.bicycle_rental",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.cinema": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Czn Burak Bubai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1933956,
+      "lon": 55.2808775,
+      "osm_id": 8263885840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Careem Bike",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 25.1929496,
+      "lon": 55.2808745,
+      "osm_id": 11355905452,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cinemacity",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 25.1944794,
+      "lon": 55.281863,
+      "osm_id": 12180640299,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

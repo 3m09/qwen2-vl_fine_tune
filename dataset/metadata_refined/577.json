@@ -1,0 +1,147 @@
+{
+  "image": "dataset/images/577.png",
+  "center_lat": 41.014639639639654,
+  "center_lon": 28.961492437779157,
+  "bbox": [
+    28.96,
+    41.01351351351353,
+    28.962984875558313,
+    41.015765765765785
+  ],
+  "unique_categories": [
+    "amenity.language_school",
+    "amenity.cafe",
+    "shop.tailor",
+    "shop.hairdresser",
+    "amenity.restaurant",
+    "shop.clothes",
+    "amenity.university",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.language_school": 1,
+    "amenity.cafe": 1,
+    "shop.tailor": 1,
+    "shop.hairdresser": 1,
+    "amenity.restaurant": 1,
+    "shop.clothes": 1,
+    "amenity.university": 2,
+    "shop.supermarket": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Anit kafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0147983,
+      "lon": 28.9604124,
+      "osm_id": 5110342145,
+      "osm_type": "node",
+      "address": "Kayserili Ahmetpa\u015fa Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "S\u00fcleymaniye cicim kuaf\u00f6r",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0135811,
+      "lon": 28.9611615,
+      "osm_id": 5110342154,
+      "osm_type": "node",
+      "address": "Kirazl\u0131 Mescit Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Okerler teksitle",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0136508,
+      "lon": 28.9611615,
+      "osm_id": 5110342155,
+      "osm_type": "node",
+      "address": "Kirazl\u0131 Mescit Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul \u00fcniversitesi yabanc\u0131 diller okulu",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": 41.0153726,
+      "lon": 28.9608977,
+      "osm_id": 5110342158,
+      "osm_type": "node",
+      "address": "Kirazl\u0131 mescit sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ad\u0131yaman gida",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0149151,
+      "lon": 28.9619901,
+      "osm_id": 5113486798,
+      "osm_type": "node",
+      "address": "Ay\u015fekad\u0131n Hamam\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul \u00fcniversitesi sa\u011fl\u0131k k\u00fclt\u00fcr ve spor daire ba\u015fkanl\u0131\u011f\u0131",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 41.0142547,
+      "lon": 28.962058,
+      "osm_id": 5113486805,
+      "osm_type": "node",
+      "address": "S\u00fcleymaniye Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Geylani tekstil",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 41.0142113,
+      "lon": 28.9613208,
+      "osm_id": 5113487033,
+      "osm_type": "node",
+      "address": "Kirazl\u0131 Mescit Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul yabanc\u0131 diller b\u00f6l\u00fcm\u00fc",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 41.0154953,
+      "lon": 28.9613724,
+      "osm_id": 5348257413,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beydagi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0157263,
+      "lon": 28.9628873,
+      "osm_id": 6939659398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 29,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

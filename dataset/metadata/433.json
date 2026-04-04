@@ -1,0 +1,70 @@
+{
+  "image": "dataset/images/433.png",
+  "center_lat": 22.285135135135132,
+  "center_lon": 114.18555738710678,
+  "bbox": [
+    114.18434036867313,
+    22.284009009009004,
+    114.18677440554045,
+    22.286261261261256
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u4fe1\u8a18\u907f\u98a8\u5858",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2843832,
+      "lon": 114.1862313,
+      "osm_id": 4920625521,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7dad\u5712\u9053 Victoria Park Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2840817,
+      "lon": 114.1862449,
+      "osm_id": 6251878032,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\u907f\u98a8\u5858 Causeway Bay Typhoon Shelter",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2840839,
+      "lon": 114.1862531,
+      "osm_id": 6251878033,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\u907f\u98a8\u5858 Causeway Bay Typhoon Shelter",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2840861,
+      "lon": 114.1862613,
+      "osm_id": 6251878034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "image": "dataset/images/555.png",
+  "center_lat": 41.010135135135144,
+  "center_lon": 28.961492335746023,
+  "bbox": [
+    28.96,
+    41.00900900900902,
+    28.962984671492045,
+    41.011261261261275
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.restaurant",
+    "tourism.museum",
+    "highway.bus_stop",
+    "shop.electronics",
+    "amenity.library",
+    "shop.bakery",
+    "amenity.cafe",
+    "amenity.university",
+    "railway.stop",
+    "shop.craft",
+    "shop.clothes",
+    "shop.kiosk",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "amenity.police",
+    "amenity.bureau_de_change",
+    "leisure.turkish_bath"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 3,
+    "amenity.restaurant": 2,
+    "tourism.museum": 2,
+    "highway.bus_stop": 1,
+    "shop.electronics": 1,
+    "amenity.library": 1,
+    "shop.bakery": 1,
+    "amenity.cafe": 1,
+    "amenity.university": 1,
+    "railway.stop": 2,
+    "shop.craft": 1,
+    "shop.clothes": 2,
+    "shop.kiosk": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 2,
+    "amenity.police": 1,
+    "amenity.bureau_de_change": 1,
+    "leisure.turkish_bath": 1
+  },
+  "poi_count": 26,
+  "pois": [
+    {
+      "name": "Tarihi vezneciler hamam\u0131",
+      "category": [
+        "leisure.turkish_bath"
+      ],
+      "lat": 41.0112362,
+      "lon": 28.9611626,
+      "osm_id": 5110342219,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vezneciler pilavc\u0131s\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0111876,
+      "lon": 28.9611626,
+      "osm_id": 5110342721,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Viko",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0111552,
+      "lon": 28.9611626,
+      "osm_id": 5110342722,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sky kamer hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0093174,
+      "lon": 28.9628577,
+      "osm_id": 5111222087,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Orhan Kemal \u0130l Halk K\u00fct\u00fcphanesi",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0092608,
+      "lon": 28.9626002,
+      "osm_id": 5111222089,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kent hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.009447,
+      "lon": 28.9607978,
+      "osm_id": 5111222093,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0109196,
+      "lon": 28.9610916,
+      "osm_id": 5112732255,
+      "osm_type": "node",
+      "address": "Dar\u00fclf\u00fcnun Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrkiye \u0130\u015f Bankas\u0131",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.010869,
+      "lon": 28.9611365,
+      "osm_id": 5112732256,
+      "osm_type": "node",
+      "address": "Dar\u00fclf\u00fcnun Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Garanti Bankas\u0131",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0108251,
+      "lon": 28.9612043,
+      "osm_id": 5112732257,
+      "osm_type": "node",
+      "address": "Dar\u00fclf\u00fcnun Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Alt\u0131n B\u00fcfe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0105867,
+      "lon": 28.9615249,
+      "osm_id": 5112732258,
+      "osm_type": "node",
+      "address": "Dar\u00fclf\u00fcnun Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Beyaz\u0131t Polis Merkezi Amirli\u011fi",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 41.0104951,
+      "lon": 28.9620796,
+      "osm_id": 5112732261,
+      "osm_type": "node",
+      "address": "Dar\u00fclf\u00fcnun Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul \u00dcniversitesi Merkez K\u00fct\u00fcphanesi",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 41.0098736,
+      "lon": 28.9622239,
+      "osm_id": 5112732264,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Beyaz\u0131t T\u00fcrk Hamam K\u00fclt\u00fcr\u00fc M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0099458,
+      "lon": 28.9615545,
+      "osm_id": 5112732265,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbil \u0130stanbul Kart Gazete",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 41.0097457,
+      "lon": 28.9612363,
+      "osm_id": 5112732266,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vezneciler pilavcisi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0112424,
+      "lon": 28.9612315,
+      "osm_id": 5113487046,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Viko",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 41.0111919,
+      "lon": 28.9612574,
+      "osm_id": 5113487047,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul Halk Ekmek",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0111045,
+      "lon": 28.9612069,
+      "osm_id": 5113487048,
+      "osm_type": "node",
+      "address": "Bozdo\u011fan kemeri caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Laleli",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0096128,
+      "lon": 28.9600124,
+      "osm_id": 5481073721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "U.S. Polo Assn.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0092863,
+      "lon": 28.9604211,
+      "osm_id": 5824995654,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Servet D\u00f6viz",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 41.0092043,
+      "lon": 28.9628879,
+      "osm_id": 6461554485,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul \u00dcniversitesi R\u0131dvan \u00c7elikel Arkeoloji M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0098561,
+      "lon": 28.9601156,
+      "osm_id": 9217099231,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Big Point Cafe & Restaurant",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0101789,
+      "lon": 28.9613311,
+      "osm_id": 10066765417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bears and Bulls",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0090957,
+      "lon": 28.9629835,
+      "osm_id": 10771863005,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hasanpa\u015fa Kona\u011fi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0092569,
+      "lon": 28.9612733,
+      "osm_id": 11265105037,
+      "osm_type": "node",
+      "address": "Ordu Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vezneciler",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 41.0110383,
+      "lon": 28.9611669,
+      "osm_id": 12214177007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vezneciler",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 41.0109455,
+      "lon": 28.960999,
+      "osm_id": 12214177008,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

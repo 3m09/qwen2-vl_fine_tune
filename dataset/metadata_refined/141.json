@@ -1,37 +1,37 @@
 {
   "image": "dataset/images/141.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93602119244983,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.83571499899931,
   "bbox": [
-    -73.93750907169517,
-    40.81126126126127,
-    -73.93453331320447,
-    40.81351351351353
+    72.83452444355494,
+    18.935765765765762,
+    72.83690555444367,
+    18.938018018018013
   ],
   "unique_categories": [
-    "highway.bus_stop"
+    "amenity.place_of_worship"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 1
+    "amenity.place_of_worship": 1
   },
   "poi_count": 1,
   "pois": [
     {
-      "name": "East 135th Street & Madison Avenue",
+      "name": "Stable temple (krishna gujarati temple)",
       "category": [
-        "highway.bus_stop"
+        "amenity.place_of_worship"
       ],
-      "lat": 40.8121147,
-      "lon": -73.9363805,
-      "osm_id": 6680394956,
+      "lat": 18.9374628,
+      "lon": 72.8364339,
+      "osm_id": 6504287787,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 3,
+    "removed_count": 2,
     "model": "gemini-2.5-flash"
   }
 }

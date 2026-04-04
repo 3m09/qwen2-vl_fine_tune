@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/1014.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.9360081577238,
+  "bbox": [
+    -73.93749634010233,
+    40.8247747747748,
+    -73.9345199753453,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "amenity.library"
+  ],
+  "poi_count_per_category": {
+    "amenity.library": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Macomb's Bridge Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8254056,
+      "lon": -73.9359625,
+      "osm_id": 12574419549,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Macomb's Bridge Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8254056,
+      "lon": -73.935961,
+      "osm_id": 12636363656,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

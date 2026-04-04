@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/379.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.16121694003361,
+  "bbox": [
+    114.16,
+    22.275,
+    114.16243388006721,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u9999\u6e2f\u516c\u5712 Hong Kong Park",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.27588,
+      "lon": 114.160788,
+      "osm_id": 6013132813,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u516c\u5712 Hong Kong Park",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2763369,
+      "lon": 114.1600232,
+      "osm_id": 7942512562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

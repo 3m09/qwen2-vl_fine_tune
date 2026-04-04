@@ -1,0 +1,215 @@
+{
+  "image": "dataset/images/649.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.12947673967861,
+  "bbox": [
+    -99.13067083662641,
+    19.425,
+    -99.12828264273081,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "shop.fabric",
+    "shop.stationery",
+    "amenity.restaurant",
+    "shop.copyshop",
+    "shop.computer"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "shop.fabric": 1,
+    "shop.stationery": 7,
+    "amenity.restaurant": 1,
+    "shop.copyshop": 4,
+    "shop.computer": 1
+  },
+  "poi_count": 15,
+  "pois": [
+    {
+      "name": "Chon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4268819,
+      "lon": -99.1283812,
+      "osm_id": 5343005829,
+      "osm_type": "node",
+      "address": "Regina",
+      "road_geometry": null
+    },
+    {
+      "name": "Trc Multifunciones",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4270198,
+      "lon": -99.1294554,
+      "osm_id": 5509017051,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Office Ease",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4269159,
+      "lon": -99.1286465,
+      "osm_id": 5509017093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tecno Binding",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4267719,
+      "lon": -99.1289262,
+      "osm_id": 5509017105,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grupo Vivian",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 19.4271716,
+      "lon": -99.1306376,
+      "osm_id": 5509017231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tony",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4269946,
+      "lon": -99.1292593,
+      "osm_id": 5509017260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Super Lasser",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4268796,
+      "lon": -99.1298297,
+      "osm_id": 5509017274,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papeles Omega",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4269112,
+      "lon": -99.1300953,
+      "osm_id": 5509017285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papeleria Carsot",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4267997,
+      "lon": -99.1291596,
+      "osm_id": 5509017287,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Consumibles Copias",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4271271,
+      "lon": -99.1302915,
+      "osm_id": 5509017297,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IPN Escuela Superior De Ingenieria Y Arquitectura",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 19.4268314,
+      "lon": -99.1294258,
+      "osm_id": 5509017298,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grupo Alni",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4269785,
+      "lon": -99.1306596,
+      "osm_id": 5509017309,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grupo El Rey",
+      "category": [
+        "shop.computer"
+      ],
+      "lat": 19.4270729,
+      "lon": -99.129869,
+      "osm_id": 5509017422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adoras Y Multifunciones Del Centeo",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4267252,
+      "lon": -99.1285347,
+      "osm_id": 5509017437,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sun Rise",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 19.4269724,
+      "lon": -99.1302513,
+      "osm_id": 11065882905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 40,
+    "removed_count": 25,
+    "model": "gemini-2.5-flash"
+  }
+}

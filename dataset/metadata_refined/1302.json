@@ -1,0 +1,105 @@
+{
+  "image": "dataset/images/1302.png",
+  "center_lat": 40.852927927927986,
+  "center_lon": -73.93598206164425,
+  "bbox": [
+    -73.93747085090834,
+    40.85180180180186,
+    -73.93449327238017,
+    40.85405405405412
+  ],
+  "unique_categories": [
+    "amenity.community_centre",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "railway.subway_entrance",
+    "amenity.dentist"
+  ],
+  "poi_count_per_category": {
+    "amenity.community_centre": 1,
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 1,
+    "railway.subway_entrance": 2,
+    "amenity.dentist": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "181st St (A) upper level",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.852916,
+      "lon": -73.937422,
+      "osm_id": 2072445841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "181st St (A)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8527521,
+      "lon": -73.9366412,
+      "osm_id": 2072447036,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi Yu 2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8519916,
+      "lon": -73.9350299,
+      "osm_id": 2797563208,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Moriah Senior Center",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8531163,
+      "lon": -73.9355226,
+      "osm_id": 5415887484,
+      "osm_type": "node",
+      "address": "Bennett Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 186th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8528422,
+      "lon": -73.9345092,
+      "osm_id": 5798634121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sound Dentistry",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8531651,
+      "lon": -73.9373341,
+      "osm_id": 9493996035,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

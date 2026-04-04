@@ -1,0 +1,331 @@
+{
+  "image": "dataset/images/299.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.66131436935075,
+  "bbox": [
+    -46.6625429129005,
+    -23.560990990990994,
+    -46.660085825801,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "amenity.arts_centre",
+    "shop.tattoo",
+    "shop.shoes",
+    "amenity.place_of_worship",
+    "amenity.theatre",
+    "amenity.school",
+    "shop.perfumery",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "amenity.bar",
+    "shop.optician",
+    "shop.clothes",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.arts_centre": 1,
+    "shop.tattoo": 1,
+    "shop.shoes": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.theatre": 1,
+    "amenity.school": 1,
+    "shop.perfumery": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 5,
+    "amenity.bar": 2,
+    "shop.optician": 1,
+    "shop.clothes": 1,
+    "amenity.fast_food": 2,
+    "shop.supermarket": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 23,
+  "pois": [
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5588939,
+      "lon": -46.6611783,
+      "osm_id": 2862747295,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Onodera",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5598291,
+      "lon": -46.6618969,
+      "osm_id": 3046163095,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "O Botic\u00e1rio",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": -23.5594108,
+      "lon": -46.6616793,
+      "osm_id": 4983829221,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Habib's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5591075,
+      "lon": -46.6613977,
+      "osm_id": 4998036623,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Rubi Wine Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5596468,
+      "lon": -46.6624387,
+      "osm_id": 5016836032,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Terra\u00e7o Jardins",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5590136,
+      "lon": -46.6624208,
+      "osm_id": 5018554822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Living Lounge Bar & Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5591093,
+      "lon": -46.6625337,
+      "osm_id": 5018554923,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alameda Santos, 2219",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.558783,
+      "lon": -46.6615552,
+      "osm_id": 5022783204,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Bem Gelada",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5598936,
+      "lon": -46.6621778,
+      "osm_id": 5266445223,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Skink Tattoo",
+      "category": [
+        "shop.tattoo"
+      ],
+      "lat": -23.5601028,
+      "lon": -46.6619323,
+      "osm_id": 5266445338,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Sara Evangelica",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": -23.5601308,
+      "lon": -46.6622043,
+      "osm_id": 5632789741,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Augusta, 2047",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5602518,
+      "lon": -46.6623379,
+      "osm_id": 5632789742,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Camiseiro",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5596102,
+      "lon": -46.6622095,
+      "osm_id": 5633655737,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Vegacy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5597403,
+      "lon": -46.6623351,
+      "osm_id": 5635273001,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Perseu Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5591637,
+      "lon": -46.6611704,
+      "osm_id": 7041141421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Teatro Unimed",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": -23.559312,
+      "lon": -46.6610769,
+      "osm_id": 10185199289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emp\u00f3rio Daruma",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5594595,
+      "lon": -46.6614496,
+      "osm_id": 10990133926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Terraza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5595255,
+      "lon": -46.6613145,
+      "osm_id": 10990133928,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rebel glass",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5594879,
+      "lon": -46.6617466,
+      "osm_id": 11885007136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R\u00e1scal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5590133,
+      "lon": -46.6609939,
+      "osm_id": 11885039192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cometa",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5597665,
+      "lon": -46.662067,
+      "osm_id": 12036502494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CONJUNTO NACIONAL",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": -23.559046,
+      "lon": -46.6602367,
+      "osm_id": 12201408363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Plano A - Educa\u00e7\u00e3o",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": -23.5606797,
+      "lon": -46.6606968,
+      "osm_id": 12301584970,
+      "osm_type": "node",
+      "address": "R. Padre Jo\u00e3o Manuel, 235 - Conjunto 53",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 43,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

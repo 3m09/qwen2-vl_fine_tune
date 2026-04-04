@@ -1,0 +1,70 @@
+{
+  "image": "dataset/images/241.png",
+  "center_lat": 31.244639639639637,
+  "center_lon": 121.51502588568724,
+  "bbox": [
+    121.51370873380895,
+    31.24351351351351,
+    121.5163430375655,
+    31.24576576576576
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.supermarket": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u8054\u534e\u8d85\u5e02",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 31.2441995,
+      "lon": 121.5155683,
+      "osm_id": 8948835020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5176\u660c\u6808\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2441546,
+      "lon": 121.5150225,
+      "osm_id": 11807535970,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5176\u660c\u6808\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2441088,
+      "lon": 121.5152666,
+      "osm_id": 11807535971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5176\u660c\u6808\u6e21\u53e3",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2442876,
+      "lon": 121.5152639,
+      "osm_id": 11807535972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

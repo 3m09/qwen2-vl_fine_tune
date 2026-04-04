@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/1180.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.94194708450665,
+  "bbox": [
+    -73.94343562080135,
+    40.84054054054059,
+    -73.94045854821195,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.theatre",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.books"
+  ],
+  "poi_count_per_category": {
+    "amenity.theatre": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.books": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Alumni Auditorium",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8416764,
+      "lon": -73.9415796,
+      "osm_id": 368052787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Avenue & West 168th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8423175,
+      "lon": -73.9421168,
+      "osm_id": 5297656639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Barnes & Noble CUIMC Bookstore",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8427694,
+      "lon": -73.9428599,
+      "osm_id": 11963636515,
+      "osm_type": "node",
+      "address": "West 168th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 168 St & Fort Washington Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8420663,
+      "lon": -73.9422443,
+      "osm_id": 13243992454,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

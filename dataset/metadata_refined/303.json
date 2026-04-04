@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/303.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.651486020952746,
+  "bbox": [
+    -46.652714564502496,
+    -23.560990990990994,
+    -46.650257477402995,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Ita\u00fa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5602179,
+      "lon": -46.6519426,
+      "osm_id": 6960265017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

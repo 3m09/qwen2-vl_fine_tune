@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/1231.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.93301131406405,
+  "bbox": [
+    -73.93449995152929,
+    40.8450450450451,
+    -73.9315226765988,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.clinic",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.clinic": 1,
+    "shop.alcohol": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Davita Kidney Care",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8472175,
+      "lon": -73.9317747,
+      "osm_id": 2797310007,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 177th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8453448,
+      "lon": -73.9327828,
+      "osm_id": 8723021898,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 178th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8459373,
+      "lon": -73.9326346,
+      "osm_id": 8723021910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coecho Wines & Liquors",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8470358,
+      "lon": -73.931925,
+      "osm_id": 11483962475,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

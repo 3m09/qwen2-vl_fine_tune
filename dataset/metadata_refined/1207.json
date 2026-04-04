@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1207.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.93301359053042,
+  "bbox": [
+    -73.93450217740752,
+    40.84279279279284,
+    -73.93152500365332,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "amenity.toilets",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.toilets": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "High Bridge Recreation Center",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 40.8428616,
+      "lon": -73.934347,
+      "osm_id": 765365612,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 173rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8432884,
+      "lon": -73.9342788,
+      "osm_id": 8723021886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

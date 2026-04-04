@@ -1,0 +1,183 @@
+{
+  "image": "dataset/images/382.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.16851858023526,
+  "bbox": [
+    114.16730164020164,
+    22.275,
+    114.16973552026886,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.clothes",
+    "amenity.fast_food",
+    "amenity.parking",
+    "shop.boutique"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "shop.clothes": 2,
+    "amenity.fast_food": 2,
+    "amenity.parking": 1,
+    "shop.boutique": 1
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "\u592a\u53e4\u5ee3\u5834\u4e09\u5ea7 Three Pacific Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2771834,
+      "lon": 114.1682806,
+      "osm_id": 660415517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u53e4\u5ee3\u5834\u4e09\u5ea7 Three Pacific Place",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2769625,
+      "lon": 114.1679322,
+      "osm_id": 1026827532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u98df\u98ef Kin Kao",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769866,
+      "lon": 114.1692558,
+      "osm_id": 3774412692,
+      "osm_type": "node",
+      "address": "\u862d\u675c\u8857 Landale Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.276988,
+      "lon": 114.1683029,
+      "osm_id": 4168572389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2769431,
+      "lon": 114.168626,
+      "osm_id": 4168582289,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Kapok",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2764149,
+      "lon": 114.1688089,
+      "osm_id": 4603170992,
+      "osm_type": "node",
+      "address": "Sun Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Jomo",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2769937,
+      "lon": 114.1685465,
+      "osm_id": 4856219506,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Petit Bazaar",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2765843,
+      "lon": 114.1695815,
+      "osm_id": 4856318828,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "45 a",
+      "category": [
+        "shop.boutique"
+      ],
+      "lat": 22.2762707,
+      "lon": 114.1680101,
+      "osm_id": 4856336520,
+      "osm_type": "node",
+      "address": "\u661f\u8857 Star Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Knead",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2756971,
+      "lon": 114.1690072,
+      "osm_id": 5185301627,
+      "osm_type": "node",
+      "address": "\u8056\u4f5b\u862d\u58eb\u8857 St. Francis Street",
+      "road_geometry": null
+    },
+    {
+      "name": "PiCi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2761676,
+      "lon": 114.168967,
+      "osm_id": 6571738488,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u53e4\u5ee3\u5834\u4e09\u5ea7 Three Pacific Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2771801,
+      "lon": 114.1682858,
+      "osm_id": 7291554283,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 36,
+    "removed_count": 24,
+    "model": "gemini-2.5-flash"
+  }
+}

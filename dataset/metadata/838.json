@@ -1,0 +1,264 @@
+{
+  "image": "dataset/images/838.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.95982862393338,
+  "bbox": [
+    -73.96131645267658,
+    40.80900900900902,
+    -73.95834079519017,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.cafe",
+    "amenity.college",
+    "amenity.fast_food",
+    "amenity.dentist",
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "shop.wine",
+    "shop.supermarket",
+    "shop.beauty",
+    "shop.hardware",
+    "shop.optician",
+    "amenity.pharmacy",
+    "shop.kiosk"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.convenience": 1,
+    "amenity.cafe": 1,
+    "amenity.college": 1,
+    "amenity.fast_food": 1,
+    "amenity.dentist": 1,
+    "amenity.restaurant": 1,
+    "amenity.place_of_worship": 1,
+    "shop.wine": 1,
+    "shop.supermarket": 1,
+    "shop.beauty": 1,
+    "shop.hardware": 1,
+    "shop.optician": 1,
+    "amenity.pharmacy": 1,
+    "shop.kiosk": 2
+  },
+  "poi_count": 18,
+  "pois": [
+    {
+      "name": "Corpus Christi Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8111111,
+      "lon": -73.9608333,
+      "osm_id": 357620948,
+      "osm_type": "node",
+      "address": "West 121st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Blue Java",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8094957,
+      "lon": -73.9602878,
+      "osm_id": 2340960685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Morningside Dental Associates",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8102164,
+      "lon": -73.9587861,
+      "osm_id": 2768438938,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia Opticians",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8102639,
+      "lon": -73.9587532,
+      "osm_id": 2768438939,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Olive Tree Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.811191,
+      "lon": -73.9612444,
+      "osm_id": 2768438958,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Hartley Chemist Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8091195,
+      "lon": -73.9591532,
+      "osm_id": 2768450166,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "West 120 st/Amsterdam Avenue SB",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8091208,
+      "lon": -73.9595173,
+      "osm_id": 3135723808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8095496,
+      "lon": -73.9589214,
+      "osm_id": 3135730329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apple Tree Supermarket",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8094157,
+      "lon": -73.9589337,
+      "osm_id": 4707297289,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "TC Courtyard",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 40.8101651,
+      "lon": -73.9600302,
+      "osm_id": 5515370923,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vino Fino",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 40.810375,
+      "lon": -73.958715,
+      "osm_id": 6925950132,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Massawa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8097913,
+      "lon": -73.9586122,
+      "osm_id": 6927650853,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Revive Spa & Salon",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8097457,
+      "lon": -73.9586465,
+      "osm_id": 6927650854,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8097065,
+      "lon": -73.9586754,
+      "osm_id": 6927650856,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Clinton Supply Company",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8105995,
+      "lon": -73.9585406,
+      "osm_id": 6991157015,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "LinkNYC",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 40.8099828,
+      "lon": -73.9588851,
+      "osm_id": 7004396462,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LinkNYC",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 40.8101272,
+      "lon": -73.9587896,
+      "osm_id": 7004396464,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 120th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8095486,
+      "lon": -73.9591992,
+      "osm_id": 8703182175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,89 +1,131 @@
 {
   "image": "dataset/images/181.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.95982453279578,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.51502230609206,
   "bbox": [
-    -73.9613125130626,
-    40.81576576576578,
-    -73.95833655252895,
-    40.81801801801804
+    121.51370534261353,
+    31.23,
+    121.5163392695706,
+    31.232252252252252
   ],
   "unique_categories": [
     "amenity.cafe",
-    "tourism.gallery",
-    "highway.bus_stop"
+    "amenity.restaurant",
+    "shop.mobile_phone",
+    "amenity.bank",
+    "shop.supermarket",
+    "amenity.food_court"
   ],
   "poi_count_per_category": {
-    "amenity.cafe": 1,
-    "tourism.gallery": 1,
-    "highway.bus_stop": 3
+    "amenity.cafe": 3,
+    "amenity.restaurant": 1,
+    "shop.mobile_phone": 1,
+    "amenity.bank": 1,
+    "shop.supermarket": 1,
+    "amenity.food_court": 1
   },
-  "poi_count": 5,
+  "poi_count": 8,
   "pois": [
     {
-      "name": "Miriam and Ira D. Wallach Art Gallery",
+      "name": "\u767e\u8054",
       "category": [
-        "tourism.gallery"
+        "shop.supermarket"
       ],
-      "lat": 40.8172422,
-      "lon": -73.9586445,
-      "osm_id": 5813555226,
-      "osm_type": "node",
-      "address": "West 129th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Riverside Drive & Tiemann Place",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8160503,
-      "lon": -73.9610929,
-      "osm_id": 6223570376,
+      "lat": 31.2306355,
+      "lon": 121.5150573,
+      "osm_id": 5093948521,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Saint Clair Place & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.817123,
-      "lon": -73.959894,
-      "osm_id": 6798013347,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Dear Mama",
+      "name": "\u661f\u5df4\u514b",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8167277,
-      "lon": -73.9585099,
-      "osm_id": 9633471059,
+      "lat": 31.2311353,
+      "lon": 121.5143712,
+      "osm_id": 8475870606,
       "osm_type": "node",
-      "address": "West 129th Street",
+      "address": "Nanquan North Road",
       "road_geometry": null
     },
     {
-      "name": "W 125 St & 12 Av",
+      "name": "\u534e\u4e3a",
       "category": [
-        "highway.bus_stop"
+        "shop.mobile_phone"
       ],
-      "lat": 40.8177077,
-      "lon": -73.959963,
-      "osm_id": 11967723618,
+      "lat": 31.2309335,
+      "lon": 121.5138009,
+      "osm_id": 8953971287,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2307126,
+      "lon": 121.5153387,
+      "osm_id": 8953971288,
+      "osm_type": "node",
+      "address": "Nanquan North Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2308079,
+      "lon": 121.5156519,
+      "osm_id": 8953971289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u7ca1\u5bff\u559c\u70e7",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2313746,
+      "lon": 121.5155748,
+      "osm_id": 11224064537,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manner Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2303749,
+      "lon": 121.5141741,
+      "osm_id": 12325753702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "First Food Mall",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 31.2303802,
+      "lon": 121.5139492,
+      "osm_id": 12452856101,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 1,
+    "original_poi_count": 11,
+    "removed_count": 3,
     "model": "gemini-2.5-flash"
   }
 }

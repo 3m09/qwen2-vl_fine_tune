@@ -1,121 +1,139 @@
 {
   "image": "dataset/images/52.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.98661045019504,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.09457107647663324,
   "bbox": [
-    -73.98809817795114,
-    40.80450450450451,
-    -73.98512272243893,
-    40.80675675675676
+    -0.09638071765108883,
+    51.51626126126128,
+    -0.09276143530217765,
+    51.51851351351353
   ],
   "unique_categories": [
-    "shop.cosmetics",
-    "shop.clothes",
-    "amenity.restaurant",
-    "amenity.ice_cream"
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "highway.bus_stop",
+    "tourism.attraction",
+    "tourism.information",
+    "amenity.bar",
+    "shop.computer"
   ],
   "poi_count_per_category": {
-    "shop.cosmetics": 1,
-    "shop.clothes": 2,
-    "amenity.restaurant": 4,
-    "amenity.ice_cream": 1
+    "amenity.bicycle_rental": 2,
+    "tourism.artwork": 1,
+    "highway.bus_stop": 2,
+    "tourism.attraction": 1,
+    "tourism.information": 1,
+    "amenity.bar": 1,
+    "shop.computer": 1
   },
-  "poi_count": 8,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "Flaming\u2019s Prime Steakhouse & Wine",
+      "name": "London Wall",
       "category": [
-        "amenity.restaurant"
+        "highway.bus_stop"
       ],
-      "lat": 40.8059593,
-      "lon": -73.9873449,
-      "osm_id": 5285124522,
+      "lat": 51.5175768,
+      "lon": -0.0951951,
+      "osm_id": 469776893,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Ulta Beauty",
+      "name": "London Wall",
       "category": [
-        "shop.cosmetics"
+        "highway.bus_stop"
       ],
-      "lat": 40.8060756,
-      "lon": -73.9877598,
-      "osm_id": 5285132922,
+      "lat": 51.5174023,
+      "lon": -0.0951159,
+      "osm_id": 469776898,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Guess",
+      "name": "Museum of London",
       "category": [
-        "shop.clothes"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8065037,
-      "lon": -73.9879724,
-      "osm_id": 5285132923,
+      "lat": 51.5178026,
+      "lon": -0.0963747,
+      "osm_id": 826142862,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Baumgart\u2019s Cafe",
+      "name": "Wood Street",
       "category": [
-        "amenity.restaurant"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8062375,
-      "lon": -73.9873021,
-      "osm_id": 5285133322,
+      "lat": 51.5170195,
+      "lon": -0.0938486,
+      "osm_id": 854480081,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Greek Taverna",
+      "name": "Slug & Lettuce",
       "category": [
-        "amenity.restaurant"
+        "amenity.bar"
       ],
-      "lat": 40.8063203,
-      "lon": -73.9874491,
-      "osm_id": 5285133323,
+      "lat": 51.5163243,
+      "lon": -0.0940154,
+      "osm_id": 1684709914,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": "Love Lane",
       "road_geometry": null
     },
     {
-      "name": "H\u00e4agen-Dazs",
+      "name": "Heminge & Condell memorial",
       "category": [
-        "amenity.ice_cream"
+        "tourism.artwork"
       ],
-      "lat": 40.8063698,
-      "lon": -73.9875766,
-      "osm_id": 5285133324,
+      "lat": 51.5163813,
+      "lon": -0.0930327,
+      "osm_id": 1758552543,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Anthropologie",
+      "name": "HP Inc. UK",
       "category": [
-        "shop.clothes"
+        "shop.computer"
       ],
-      "lat": 40.8064407,
-      "lon": -73.9878139,
-      "osm_id": 5285135521,
+      "lat": 51.5170736,
+      "lon": -0.0943803,
+      "osm_id": 4789950321,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": "Wood Street",
       "road_geometry": null
     },
     {
-      "name": "Bareburger",
+      "name": "The London Wall Walk - 14",
       "category": [
-        "amenity.restaurant"
+        "tourism.information"
       ],
-      "lat": 40.8061349,
-      "lon": -73.9880365,
-      "osm_id": 5285138721,
+      "lat": 51.5183403,
+      "lon": -0.0936664,
+      "osm_id": 5091254797,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alban Gate",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5174951,
+      "lon": -0.0937283,
+      "osm_id": 6448535913,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

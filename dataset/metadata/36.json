@@ -1,278 +1,815 @@
 {
   "image": "dataset/images/36.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.96280806822142,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.07647815384093226,
   "bbox": [
-    -73.96429574549256,
-    40.80225225225225,
-    -73.96132039095028,
-    40.80450450450451
+    -0.07828752662239902,
+    51.50950450450451,
+    -0.07466878105946552,
+    51.51175675675677
   ],
   "unique_categories": [
-    "amenity.bar",
-    "amenity.fast_food",
-    "leisure.garden",
-    "tourism.artwork",
     "amenity.restaurant",
-    "highway.bus_stop",
-    "shop.pastry",
+    "shop.gift",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "tourism.information",
     "amenity.bicycle_rental",
-    "shop.dry_cleaning",
-    "amenity.cafe"
+    "shop.convenience",
+    "railway.subway_entrance",
+    "highway.bus_stop",
+    "shop.alcohol",
+    "amenity.conference_centre",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "tourism.hotel",
+    "leisure.fitness_centre",
+    "amenity.pub",
+    "tourism.artwork",
+    "shop.bookmaker",
+    "amenity.doctors",
+    "amenity.bar"
   ],
   "poi_count_per_category": {
-    "amenity.bar": 2,
+    "amenity.restaurant": 7,
+    "shop.gift": 1,
+    "amenity.cafe": 7,
+    "railway.stop": 7,
+    "railway.station": 2,
+    "tourism.information": 1,
+    "amenity.bicycle_rental": 2,
+    "shop.convenience": 2,
+    "railway.subway_entrance": 3,
+    "highway.bus_stop": 5,
+    "shop.alcohol": 1,
+    "amenity.conference_centre": 1,
     "amenity.fast_food": 1,
-    "leisure.garden": 1,
-    "tourism.artwork": 4,
-    "amenity.restaurant": 5,
-    "highway.bus_stop": 4,
-    "shop.pastry": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.dry_cleaning": 1,
-    "amenity.cafe": 1
+    "amenity.clinic": 1,
+    "tourism.hotel": 1,
+    "leisure.fitness_centre": 1,
+    "amenity.pub": 1,
+    "tourism.artwork": 13,
+    "shop.bookmaker": 1,
+    "amenity.doctors": 1,
+    "amenity.bar": 4
   },
-  "poi_count": 20,
+  "poi_count": 63,
   "pois": [
     {
-      "name": "1020 Bar",
+      "name": "The Cheshire Cheese",
       "category": [
-        "amenity.bar"
+        "amenity.pub"
       ],
-      "lat": 40.8032115,
-      "lon": -73.963939,
-      "osm_id": 2262170141,
+      "lat": 51.5114165,
+      "lon": -0.0776978,
+      "osm_id": 25475187,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Crutched Friars",
       "road_geometry": null
     },
     {
-      "name": "Marlow Bistro",
+      "name": "Tower Hill",
       "category": [
-        "amenity.restaurant"
+        "railway.stop"
       ],
-      "lat": 40.802903,
-      "lon": -73.9641533,
-      "osm_id": 2310498469,
+      "lat": 51.5098716,
+      "lon": -0.0766367,
+      "osm_id": 64767750,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "V&T Pizzeria",
+      "name": "Tower Gateway Station",
       "category": [
-        "amenity.restaurant"
+        "highway.bus_stop"
       ],
-      "lat": 40.8033532,
-      "lon": -73.9638344,
-      "osm_id": 2652371191,
+      "lat": 51.5104613,
+      "lon": -0.0750486,
+      "osm_id": 469762509,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Amsterdam Dry Cleaners",
+      "name": "Tower Gateway Station",
       "category": [
-        "shop.dry_cleaning"
+        "highway.bus_stop"
       ],
-      "lat": 40.8032642,
-      "lon": -73.9639001,
-      "osm_id": 2706605101,
+      "lat": 51.5107986,
+      "lon": -0.0751435,
+      "osm_id": 469762510,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Insomnia Cookies",
+      "name": "Tower of London",
       "category": [
-        "amenity.restaurant",
-        "shop.pastry"
+        "highway.bus_stop"
       ],
-      "lat": 40.8034774,
-      "lon": -73.9637428,
-      "osm_id": 2706606330,
+      "lat": 51.5096989,
+      "lon": -0.0757474,
+      "osm_id": 469782613,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Hungarian Pastry Shop",
+      "name": "Tower of London",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5096956,
+      "lon": -0.075137,
+      "osm_id": 469782614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower of London",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5096211,
+      "lon": -0.0754464,
+      "osm_id": 469782615,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.803562,
-      "lon": -73.9636828,
-      "osm_id": 2827478159,
+      "lat": 51.5115013,
+      "lon": -0.0751203,
+      "osm_id": 666749188,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Minories",
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway & Amsterdam Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8027383,
-      "lon": -73.9635601,
-      "osm_id": 3273383620,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Rose Garden",
-      "category": [
-        "leisure.garden"
-      ],
-      "lat": 40.8025297,
-      "lon": -73.9621395,
-      "osm_id": 4786386651,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 112th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8044377,
-      "lon": -73.9626637,
-      "osm_id": 5530477733,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 112th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8040639,
-      "lon": -73.9631989,
-      "osm_id": 5530495563,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "The Hamilton",
-      "category": [
-        "amenity.bar"
-      ],
-      "lat": 40.8027402,
-      "lon": -73.9642554,
-      "osm_id": 6816455651,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - W 110 St & Amsterdam Ave",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.802637,
-      "lon": -73.9628208,
-      "osm_id": 7024230437,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 109th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8025082,
-      "lon": -73.9640625,
-      "osm_id": 8402020655,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Elis Wine Bar",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8028192,
-      "lon": -73.964203,
-      "osm_id": 9787335517,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Homeless Jesus",
-      "category": [
-        "tourism.artwork"
-      ],
-      "lat": 40.8038666,
-      "lon": -73.9629607,
-      "osm_id": 10713285741,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Tartina",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8036171,
-      "lon": -73.9636412,
-      "osm_id": 11386507858,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Hula Pok\u00e9",
+      "name": "Pret A Manger",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8034304,
-      "lon": -73.9637775,
-      "osm_id": 11401945048,
+      "lat": 51.5115174,
+      "lon": -0.0757073,
+      "osm_id": 668074037,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "America Square",
       "road_geometry": null
     },
     {
-      "name": "Pulpit",
+      "name": "The Crosswall",
       "category": [
-        "tourism.artwork"
+        "amenity.restaurant"
       ],
-      "lat": 40.8033088,
-      "lon": -73.9626208,
-      "osm_id": 11762206278,
+      "lat": 51.5115315,
+      "lon": -0.0754346,
+      "osm_id": 668074193,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Ladbrokes",
+      "category": [
+        "shop.bookmaker"
+      ],
+      "lat": 51.5113348,
+      "lon": -0.0775963,
+      "osm_id": 674956578,
+      "osm_type": "node",
+      "address": "Crutched Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "Caffeina",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5117445,
+      "lon": -0.0774102,
+      "osm_id": 675734371,
+      "osm_type": "node",
+      "address": "Lloyd's Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Food&Wine",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.510842,
+      "lon": -0.075196,
+      "osm_id": 687648330,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "City Of London Medical Centre",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5116888,
+      "lon": -0.0759764,
+      "osm_id": 694469672,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Seven Generations",
+      "name": "Fitness First",
       "category": [
-        "tourism.artwork"
+        "leisure.fitness_centre"
       ],
-      "lat": 40.8028702,
-      "lon": -73.962698,
-      "osm_id": 11774443533,
+      "lat": 51.511247,
+      "lon": -0.076255,
+      "osm_id": 694471389,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Bison",
+      "name": "Camden Food Co",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.511228,
+      "lon": -0.077017,
+      "osm_id": 694473687,
+      "osm_type": "node",
+      "address": "Fenchurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Isis",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.510773,
+      "lon": -0.076834,
+      "osm_id": 694474726,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Keepers",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.510634,
+      "lon": -0.077099,
+      "osm_id": 694475188,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Wine Library",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5104498,
+      "lon": -0.0767575,
+      "osm_id": 694477254,
+      "osm_type": "node",
+      "address": "Trinity Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Orpheus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.51122,
+      "lon": -0.0776408,
+      "osm_id": 696913693,
+      "osm_type": "node",
+      "address": "Savage Gardens",
+      "road_geometry": null
+    },
+    {
+      "name": "Trajan",
       "category": [
         "tourism.artwork"
       ],
-      "lat": 40.8038256,
-      "lon": -73.9628191,
-      "osm_id": 11918683347,
+      "lat": 51.5098711,
+      "lon": -0.0761306,
+      "osm_id": 697037340,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "De Vine",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5110877,
+      "lon": -0.0756382,
+      "osm_id": 707299370,
+      "osm_type": "node",
+      "address": "Vine Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Burrito Joe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.510903,
+      "lon": -0.0755982,
+      "osm_id": 707301027,
+      "osm_type": "node",
+      "address": "Vine Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gift Box London",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5097218,
+      "lon": -0.0762837,
+      "osm_id": 707309428,
+      "osm_type": "node",
+      "address": "Tower Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Gardens",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5095303,
+      "lon": -0.075386,
+      "osm_id": 848003163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crosswall",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.511579,
+      "lon": -0.0769961,
+      "osm_id": 945759223,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5097755,
+      "lon": -0.0766185,
+      "osm_id": 1047973190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5098382,
+      "lon": -0.0766274,
+      "osm_id": 1047973192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5098426,
+      "lon": -0.0763965,
+      "osm_id": 1048410592,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5111081,
+      "lon": -0.0781623,
+      "osm_id": 1689475271,
+      "osm_type": "node",
+      "address": "Pepys Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Gateway DLR station",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5105927,
+      "lon": -0.0747762,
+      "osm_id": 1885142188,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5100559,
+      "lon": -0.0765775,
+      "osm_id": 2531865787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "America Square Conference Centre",
+      "category": [
+        "amenity.conference_centre"
+      ],
+      "lat": 51.5114745,
+      "lon": -0.0768125,
+      "osm_id": 4178140802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citizen M",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5101316,
+      "lon": -0.0762048,
+      "osm_id": 4436107496,
+      "osm_type": "node",
+      "address": "Trinity Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Savage Garden LDN",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5111126,
+      "lon": -0.0779717,
+      "osm_id": 4773897755,
+      "osm_type": "node",
+      "address": "Pepys Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Revolution",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5112716,
+      "lon": -0.0759049,
+      "osm_id": 4776719573,
+      "osm_type": "node",
+      "address": "America Square",
+      "road_geometry": null
+    },
+    {
+      "name": "London Fenchurch Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5113281,
+      "lon": -0.0774191,
+      "osm_id": 5114697934,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Flock",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5109378,
+      "lon": -0.075229,
+      "osm_id": 5564244375,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "DLR Discovery",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5106478,
+      "lon": -0.0747292,
+      "osm_id": 5574049705,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sundial",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5097713,
+      "lon": -0.0765275,
+      "osm_id": 5713605371,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Natural Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5108433,
+      "lon": -0.0780037,
+      "osm_id": 5868196715,
+      "osm_type": "node",
+      "address": "Pepys Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Compass",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5098475,
+      "lon": -0.0776759,
+      "osm_id": 5904615753,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spinex Disc Clinic",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.511689,
+      "lon": -0.0759459,
+      "osm_id": 6260211178,
+      "osm_type": "node",
+      "address": "Crosswall",
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5098481,
+      "lon": -0.0766986,
+      "osm_id": 6260922569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Fenchurch Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5114999,
+      "lon": -0.077794,
+      "osm_id": 6733461102,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Fenchurch Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5114234,
+      "lon": -0.0778324,
+      "osm_id": 6733461103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Fenchurch Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5113936,
+      "lon": -0.0778435,
+      "osm_id": 6733461104,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Fenchurch Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5113133,
+      "lon": -0.0778815,
+      "osm_id": 6733461105,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Co-op Minories",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5110059,
+      "lon": -0.0752477,
+      "osm_id": 7004863160,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mei Ume",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5101377,
+      "lon": -0.0779246,
+      "osm_id": 8313434017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cento Alla Torre",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5103561,
+      "lon": -0.0751511,
+      "osm_id": 9688121586,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "The Building Worker",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5096378,
+      "lon": -0.0753203,
+      "osm_id": 9688413358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Munich Cricket Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5114211,
+      "lon": -0.0774395,
+      "osm_id": 10692618306,
+      "osm_type": "node",
+      "address": "Crutched Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "Merchant Navy Seaman",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5097102,
+      "lon": -0.0777596,
+      "osm_id": 10979178170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Merchant Navy Officer",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.509718,
+      "lon": -0.077564,
+      "osm_id": 10979178178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5098391,
+      "lon": -0.077815,
+      "osm_id": 10979178195,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5098859,
+      "lon": -0.0778028,
+      "osm_id": 10979178196,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5099202,
+      "lon": -0.0777563,
+      "osm_id": 10979178197,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5099333,
+      "lon": -0.0776868,
+      "osm_id": 10979178198,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5099275,
+      "lon": -0.0776192,
+      "osm_id": 10979178199,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5098963,
+      "lon": -0.0775639,
+      "osm_id": 10979178200,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5098499,
+      "lon": -0.0775381,
+      "osm_id": 10979178201,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Suites by Blue Orchid",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.5103924,
+      "lon": -0.0752659,
+      "osm_id": 12942455779,
+      "osm_type": "node",
+      "address": "Minories",
       "road_geometry": null
     }
   ]

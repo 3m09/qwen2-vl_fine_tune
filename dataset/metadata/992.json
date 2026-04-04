@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/992.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.93005780342622,
+  "bbox": [
+    -73.93154593526822,
+    40.82252252252255,
+    -73.92856967158423,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "shop.doityourself",
+    "railway.stop",
+    "shop.supermarket",
+    "tourism.museum",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.doityourself": 1,
+    "railway.stop": 3,
+    "shop.supermarket": 1,
+    "tourism.museum": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8245722,
+      "lon": -73.9294385,
+      "osm_id": 4281473302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8245894,
+      "lon": -73.929401,
+      "osm_id": 4281473303,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8245371,
+      "lon": -73.9295171,
+      "osm_id": 4281473305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Home Depot",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 40.8235569,
+      "lon": -73.9300618,
+      "osm_id": 6110840725,
+      "osm_type": "node",
+      "address": "Exterior Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Universal Hip Hop Museum",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 40.8226552,
+      "lon": -73.9302533,
+      "osm_id": 10291573910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Target",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 40.8235013,
+      "lon": -73.930462,
+      "osm_id": 11756806277,
+      "osm_type": "node",
+      "address": "Exterior Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Lidl",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8240287,
+      "lon": -73.9304164,
+      "osm_id": 13266832317,
+      "osm_type": "node",
+      "address": "Exterior Street",
+      "road_geometry": null
+    }
+  ]
+}

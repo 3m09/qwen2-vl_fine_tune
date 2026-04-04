@@ -1,0 +1,594 @@
+{
+  "image": "dataset/images/318.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.65885749282091,
+  "bbox": [
+    -46.660085994256725,
+    -23.55648648648649,
+    -46.65762899138509,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.lottery",
+    "amenity.cafe",
+    "amenity.language_school",
+    "amenity.ice_cream",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.copyshop",
+    "amenity.cinema",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "tourism.hotel",
+    "shop.clothes",
+    "amenity.pub",
+    "amenity.parking",
+    "shop.beauty",
+    "amenity.taxi",
+    "amenity.veterinary",
+    "shop.pastry",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.tattoo",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 9,
+    "shop.lottery": 1,
+    "amenity.cafe": 1,
+    "amenity.language_school": 1,
+    "amenity.ice_cream": 3,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2,
+    "shop.copyshop": 1,
+    "amenity.cinema": 1,
+    "amenity.dentist": 2,
+    "amenity.fast_food": 4,
+    "amenity.clinic": 1,
+    "tourism.hotel": 1,
+    "shop.clothes": 2,
+    "amenity.pub": 1,
+    "amenity.parking": 2,
+    "shop.beauty": 2,
+    "amenity.taxi": 1,
+    "amenity.veterinary": 1,
+    "shop.pastry": 1,
+    "amenity.pharmacy": 1,
+    "shop.cosmetics": 1,
+    "shop.tattoo": 1,
+    "amenity.bar": 3
+  },
+  "poi_count": 44,
+  "pois": [
+    {
+      "name": "Gopala M\u00e3dahva",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5560353,
+      "lon": -46.6586169,
+      "osm_id": 1773751435,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Urbe Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5560155,
+      "lon": -46.6584189,
+      "osm_id": 1846130661,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Madhu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5561062,
+      "lon": -46.6581768,
+      "osm_id": 2356661316,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Espa\u00e7o Ita\u00fa de Cinema - Augusta (anexo)",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": -23.5564114,
+      "lon": -46.6585034,
+      "osm_id": 3782545155,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Gopala Hari",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5559475,
+      "lon": -46.6587636,
+      "osm_id": 4260989190,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Hot Dog Company",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5564753,
+      "lon": -46.6585719,
+      "osm_id": 4840470725,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Drug And Drug",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5563638,
+      "lon": -46.6598319,
+      "osm_id": 4913151131,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Studio Haddock",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5564204,
+      "lon": -46.6598912,
+      "osm_id": 4913151133,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Vir\u00f4 Bistr\u00f4",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5545343,
+      "lon": -46.6581474,
+      "osm_id": 4936262649,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "K-Pop Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5559126,
+      "lon": -46.6585354,
+      "osm_id": 4977500728,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 24H",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5562162,
+      "lon": -46.6584146,
+      "osm_id": 4977917072,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Talo\u00e1",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5560705,
+      "lon": -46.6598642,
+      "osm_id": 4979826245,
+      "osm_type": "node",
+      "address": "Rua Lu\u00eds Coelho",
+      "road_geometry": null
+    },
+    {
+      "name": "Athenas Caf\u00e9 e Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5563842,
+      "lon": -46.6582426,
+      "osm_id": 4979826276,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "O peda\u00e7o da pizza",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5564562,
+      "lon": -46.6583339,
+      "osm_id": 4979826278,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Bidi\u00b4s",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5564845,
+      "lon": -46.6583642,
+      "osm_id": 4979826279,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Net Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5543149,
+      "lon": -46.6596075,
+      "osm_id": 4990243760,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Bela Cintra, 769",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5545441,
+      "lon": -46.6595839,
+      "osm_id": 4990317738,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Forneria Maia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5544667,
+      "lon": -46.6588527,
+      "osm_id": 4990317745,
+      "osm_type": "node",
+      "address": "Rua Matias Aires",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Ant\u00f4nio Carlos, 534",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5552324,
+      "lon": -46.6593879,
+      "osm_id": 4990317752,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "IOOSP Oftalmologista",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5546792,
+      "lon": -46.658089,
+      "osm_id": 4992752383,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Bambu",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5546394,
+      "lon": -46.6580456,
+      "osm_id": 4992752384,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Hair Company",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": -23.5546034,
+      "lon": -46.6580065,
+      "osm_id": 4992752385,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Lilac Blanc",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": -23.5544647,
+      "lon": -46.6578564,
+      "osm_id": 4992752389,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Had Dog & Cia",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": -23.5543918,
+      "lon": -46.6577777,
+      "osm_id": 4992752391,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Dental Tanaka",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": -23.5546768,
+      "lon": -46.6583059,
+      "osm_id": 4992752395,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Destak Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5543732,
+      "lon": -46.6579765,
+      "osm_id": 4992752399,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Gelly'S Tatoo",
+      "category": [
+        "shop.tattoo"
+      ],
+      "lat": -23.5543351,
+      "lon": -46.6579361,
+      "osm_id": 4992752400,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Bar e Espetinho",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": -23.5546591,
+      "lon": -46.6580206,
+      "osm_id": 4993526524,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Estacionamentos Ico",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5543902,
+      "lon": -46.6593694,
+      "osm_id": 6915997270,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Q'Bella",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5558332,
+      "lon": -46.6579079,
+      "osm_id": 9172423448,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Augusta loterias",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5555797,
+      "lon": -46.6576362,
+      "osm_id": 10035776525,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Haddock Lobo",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5563524,
+      "lon": -46.6596949,
+      "osm_id": 11135386307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pastel do Juca",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": -23.5561312,
+      "lon": -46.6582155,
+      "osm_id": 11596280268,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Success",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": -23.5560499,
+      "lon": -46.6579153,
+      "osm_id": 11596286771,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grill Haddock",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5557049,
+      "lon": -46.6591327,
+      "osm_id": 11638400403,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Athenas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.556268,
+      "lon": -46.6581077,
+      "osm_id": 11704398514,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Braz Elettrica",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5564442,
+      "lon": -46.6579165,
+      "osm_id": 11704398831,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charme da Augusta",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5562838,
+      "lon": -46.6583745,
+      "osm_id": 11879245186,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Seven",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": -23.5564514,
+      "lon": -46.6583117,
+      "osm_id": 11885028504,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bastille",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5556472,
+      "lon": -46.6577032,
+      "osm_id": 11964586842,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Athena Gelados",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": -23.5561481,
+      "lon": -46.6582407,
+      "osm_id": 12389344323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bacio di Latte",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": -23.556008,
+      "lon": -46.658657,
+      "osm_id": 12552429529,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Let's Poke",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5560179,
+      "lon": -46.6586426,
+      "osm_id": 12552452321,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "La Dolce Soft",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": -23.555908,
+      "lon": -46.6577286,
+      "osm_id": 13607129786,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    }
+  ]
+}

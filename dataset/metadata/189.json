@@ -1,15 +1,206 @@
 {
   "image": "dataset/images/189.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.9360168485266,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.50975492304481,
   "bbox": [
-    -73.93750482879342,
-    40.81576576576578,
-    -73.93452886825978,
-    40.81801801801804
+    121.50843792817516,
+    31.232252252252252,
+    121.51107191791446,
+    31.234504504504503
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.station",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.chemist",
+    "amenity.bank",
+    "shop.computer",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 2,
+    "highway.bus_stop": 4,
+    "amenity.cafe": 1,
+    "railway.station": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "shop.chemist": 1,
+    "amenity.bank": 1,
+    "shop.computer": 1,
+    "shop.clothes": 1
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u5546\u57ce\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.233532,
+      "lon": 121.5103769,
+      "osm_id": 6244083617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ole\u8d85\u5e02",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 31.2333264,
+      "lon": 121.5108716,
+      "osm_id": 6859683285,
+      "osm_type": "node",
+      "address": "\u6d66\u4e1c\u5357\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2341408,
+      "lon": 121.5103896,
+      "osm_id": 6859683286,
+      "osm_type": "node",
+      "address": "\u6d66\u4e1c\u5357\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea6\u5f53\u52b3",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2342594,
+      "lon": 121.5103511,
+      "osm_id": 8859447405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2325398,
+      "lon": 121.5104072,
+      "osm_id": 8919166958,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c48\u81e3\u6c0f",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 31.2335269,
+      "lon": 121.5107564,
+      "osm_id": 8948915223,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canada Goose",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 31.2332331,
+      "lon": 121.5099717,
+      "osm_id": 8948915224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8054\u60f3",
+      "category": [
+        "shop.computer"
+      ],
+      "lat": 31.2329255,
+      "lon": 121.5100286,
+      "osm_id": 8948915225,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2342309,
+      "lon": 121.5105938,
+      "osm_id": 8948915226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5e7f\u53d1\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2344639,
+      "lon": 121.510299,
+      "osm_id": 8948915227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u5546\u57ce\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2325664,
+      "lon": 121.5105003,
+      "osm_id": 9107842809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u4e1c\u660c\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2342636,
+      "lon": 121.5100148,
+      "osm_id": 11069276490,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\u4e1c\u660c\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2339746,
+      "lon": 121.5098807,
+      "osm_id": 11069276491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5546\u57ce\u8def\uff08\u5728\u5efa\uff09",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 31.2330094,
+      "lon": 121.5105065,
+      "osm_id": 13444650649,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

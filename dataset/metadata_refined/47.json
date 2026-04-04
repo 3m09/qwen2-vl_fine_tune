@@ -1,37 +1,311 @@
 {
   "image": "dataset/images/47.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.93007916825627,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.08733313811061827,
   "bbox": [
-    -73.93156684552741,
-    40.80225225225225,
-    -73.92859149098513,
-    40.80450450450451
+    -0.08914268980910138,
+    51.51400900900902,
+    -0.08552358641213517,
+    51.51626126126128
   ],
   "unique_categories": [
-    "shop.car_repair"
+    "amenity.pharmacy",
+    "amenity.pub",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.bakery",
+    "tourism.museum",
+    "amenity.restaurant",
+    "shop.hairdresser",
+    "amenity.bar",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "amenity.dentist"
   ],
   "poi_count_per_category": {
-    "shop.car_repair": 1
+    "amenity.pharmacy": 1,
+    "amenity.pub": 2,
+    "amenity.cafe": 5,
+    "highway.bus_stop": 1,
+    "shop.bakery": 1,
+    "tourism.museum": 1,
+    "amenity.restaurant": 4,
+    "shop.hairdresser": 1,
+    "amenity.bar": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.fast_food": 1,
+    "amenity.dentist": 3
   },
-  "poi_count": 1,
+  "poi_count": 22,
   "pois": [
     {
-      "name": "Manhattan Auto Body Repair",
+      "name": "Phoenix",
       "category": [
-        "shop.car_repair"
+        "amenity.pub"
       ],
-      "lat": 40.8024176,
-      "lon": -73.9312974,
-      "osm_id": 11837001596,
+      "lat": 51.5149462,
+      "lon": -0.0855573,
+      "osm_id": 306135577,
       "osm_type": "node",
-      "address": "1st Avenue",
+      "address": "Throgmorton Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Threadneedle Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5144954,
+      "lon": -0.0857468,
+      "osm_id": 469781324,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of England Museum",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5144672,
+      "lon": -0.0876206,
+      "osm_id": 857051575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taylor St Baristas",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5145675,
+      "lon": -0.0864453,
+      "osm_id": 1977682861,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Superdrug",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 51.514388,
+      "lon": -0.0858098,
+      "osm_id": 2389890388,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Brasserie Blanc",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5143849,
+      "lon": -0.0864373,
+      "osm_id": 2642857004,
+      "osm_type": "node",
+      "address": "Threadneedle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5160723,
+      "lon": -0.0872808,
+      "osm_id": 2642895032,
+      "osm_type": "node",
+      "address": "Throgmorton Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Re-Style",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5156457,
+      "lon": -0.0882823,
+      "osm_id": 2642895034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5158032,
+      "lon": -0.087801,
+      "osm_id": 2642895044,
+      "osm_type": "node",
+      "address": "Copthall Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "SOHO Coffee co.",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5157413,
+      "lon": -0.0857481,
+      "osm_id": 3010425536,
+      "osm_type": "node",
+      "address": "Austin Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "Bupa Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5157225,
+      "lon": -0.0876103,
+      "osm_id": 3320738322,
+      "osm_type": "node",
+      "address": "Copthall Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Euphorium",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5146333,
+      "lon": -0.0867028,
+      "osm_id": 4223474120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.515953,
+      "lon": -0.0877494,
+      "osm_id": 4504408426,
+      "osm_type": "node",
+      "address": "Copthall Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of England",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 51.5141974,
+      "lon": -0.0876796,
+      "osm_id": 4513341393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Off The Wall Bar and Restaurant",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5161228,
+      "lon": -0.0880153,
+      "osm_id": 5681428211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5148639,
+      "lon": -0.0872406,
+      "osm_id": 5686077722,
+      "osm_type": "node",
+      "address": "Throgmorton Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Natural Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.515513,
+      "lon": -0.0872469,
+      "osm_id": 6802989524,
+      "osm_type": "node",
+      "address": "Angel Court",
+      "road_geometry": null
+    },
+    {
+      "name": "The Telegraph",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5157141,
+      "lon": -0.0886215,
+      "osm_id": 6802993456,
+      "osm_type": "node",
+      "address": "Telegraph Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Notes",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5150795,
+      "lon": -0.0874045,
+      "osm_id": 8868010174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dentexcel",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.515589,
+      "lon": -0.087731,
+      "osm_id": 8868010219,
+      "osm_type": "node",
+      "address": "Angel Court",
+      "road_geometry": null
+    },
+    {
+      "name": "CAP City Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5158585,
+      "lon": -0.0857145,
+      "osm_id": 10091885377,
+      "osm_type": "node",
+      "address": "Austin Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "The Salad Project",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5142644,
+      "lon": -0.0860159,
+      "osm_id": 10982837028,
+      "osm_type": "node",
+      "address": "Old Broad Street",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 30,
+    "removed_count": 8,
     "model": "gemini-2.5-flash"
   }
 }

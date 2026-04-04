@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/1084.png",
+  "center_lat": 40.83265765765769,
+  "center_lon": -73.94195497312346,
+  "bbox": [
+    -73.94344330714593,
+    40.83153153153157,
+    -73.94046663910098,
+    40.83378378378382
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "amenity.bar": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Blue mountain heights cafe and bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8334517,
+      "lon": -73.941173,
+      "osm_id": 11010933605,
+      "osm_type": "node",
+      "address": "West 158th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 156 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8321066,
+      "lon": -73.9424025,
+      "osm_id": 13244010359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - St Nicholas Ave & W 157 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8323233,
+      "lon": -73.9410239,
+      "osm_id": 13244021964,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

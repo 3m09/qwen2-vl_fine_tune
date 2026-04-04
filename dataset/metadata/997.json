@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/997.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.98660635859335,
+  "bbox": [
+    -73.98809454097187,
+    40.8247747747748,
+    -73.98511817621484,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 2,
+    "amenity.place_of_worship": 2,
+    "amenity.school": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Number 4 Elementary School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8267671,
+      "lon": -73.9859721,
+      "osm_id": 357729799,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trinity Evangelical Lutheran Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8258014,
+      "lon": -73.9854683,
+      "osm_id": 357743017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grantwood Congregational Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8263777,
+      "lon": -73.9866844,
+      "osm_id": 357743020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dayi'nin Yeri 2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8253003,
+      "lon": -73.9872845,
+      "osm_id": 11018270208,
+      "osm_type": "node",
+      "address": "Gorge Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mashed Burgers",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8264032,
+      "lon": -73.9871621,
+      "osm_id": 11931321868,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    }
+  ]
+}

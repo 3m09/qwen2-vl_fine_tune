@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1351.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.93299992785879,
+  "bbox": [
+    -73.93448881835081,
+    40.85630630630637,
+    -73.93151103736676,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Broadway & West 192nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8573751,
+      "lon": -73.9324549,
+      "osm_id": 1205715016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

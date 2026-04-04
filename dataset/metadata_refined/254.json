@@ -1,0 +1,153 @@
+{
+  "image": "dataset/images/254.png",
+  "center_lat": 37.50088288288289,
+  "center_lon": 127.02341944629269,
+  "bbox": [
+    127.022,
+    37.49975675675677,
+    127.0248388925854,
+    37.50200900900902
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.supermarket",
+    "amenity.nightclub"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 6,
+    "shop.supermarket": 1,
+    "amenity.nightclub": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "\uc11c\ucd08\ud478\ub974\uc9c0\uc624\uc368\ubc0b",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.5011658,
+      "lon": 127.0220641,
+      "osm_id": 357898427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ubd80\ub3d9\uc0b0\ub9c8\ud2b8",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 37.500937,
+      "lon": 127.024497,
+      "osm_id": 368664492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ud398\uc774\uc2a4\ud074\ub7fd",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 37.5017873,
+      "lon": 127.0243412,
+      "osm_id": 6300474085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "GS25",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 37.5016177,
+      "lon": 127.0239787,
+      "osm_id": 6308443585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papa bear katsudon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5000476,
+      "lon": 127.0234827,
+      "osm_id": 7207967686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "papa bear katsudon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4998924,
+      "lon": 127.023429,
+      "osm_id": 7211117985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uace0\uae30\ud3ed\uc2dd \uac15\ub0a8\uc9c0\uc810",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5007196,
+      "lon": 127.0247228,
+      "osm_id": 12074267165,
+      "osm_type": "node",
+      "address": "\uc11c\ucd08\ub300\ub85c75\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\ub07c",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.501499,
+      "lon": 127.0248169,
+      "osm_id": 12074428182,
+      "osm_type": "node",
+      "address": "\uc11c\ucd08\ub300\ub85c77\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc721\ud488",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5004113,
+      "lon": 127.0247017,
+      "osm_id": 12074717704,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c65\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uace0\uae30\ud3ed\uc2dd \uac15\ub0a8\uc9c0\uc810",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.500753,
+      "lon": 127.024806,
+      "osm_id": 12076553134,
+      "osm_type": "node",
+      "address": "\uc11c\ucd08\ub300\ub85c75\uae38",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 26,
+    "removed_count": 16,
+    "model": "gemini-2.5-flash"
+  }
+}

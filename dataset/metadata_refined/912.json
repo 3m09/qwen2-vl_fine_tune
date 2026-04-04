@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/912.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.95387261172849,
+  "bbox": [
+    -73.9553605919953,
+    40.81576576576578,
+    -73.95238463146165,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Rai Rai Ken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8171459,
+      "lon": -73.9532953,
+      "osm_id": 5400474152,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 133rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8178874,
+      "lon": -73.952831,
+      "osm_id": 8736432147,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 131st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8166292,
+      "lon": -73.9537561,
+      "osm_id": 8736432161,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 131st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8161648,
+      "lon": -73.9544019,
+      "osm_id": 8736432174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

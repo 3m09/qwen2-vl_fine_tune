@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1185.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.9985114131229,
+  "bbox": [
+    -74.0,
+    40.84279279279284,
+    -73.9970228262458,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "leisure.sauna",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "leisure.sauna": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Shanti Q Spa",
+      "category": [
+        "leisure.sauna"
+      ],
+      "lat": 40.8450326,
+      "lon": -73.9997526,
+      "osm_id": 6167330332,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "So Gong Dong Tofu & BBQ",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8448249,
+      "lon": -73.999887,
+      "osm_id": 12646715570,
+      "osm_type": "node",
+      "address": "Broad Avenue",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "image": "dataset/images/742.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.95983407661853,
+  "bbox": [
+    -73.96132170341043,
+    40.8,
+    -73.95834644982662,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "shop.bicycle",
+    "shop.mobile_phone",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.cafe",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.beauty",
+    "amenity.post_box",
+    "amenity.place_of_worship",
+    "shop.hardware",
+    "shop.dry_cleaning",
+    "shop.supermarket",
+    "amenity.taxi",
+    "amenity.pharmacy"
+  ],
+  "poi_count_per_category": {
+    "shop.bicycle": 1,
+    "shop.mobile_phone": 1,
+    "highway.bus_stop": 6,
+    "shop.convenience": 1,
+    "amenity.cafe": 2,
+    "amenity.fast_food": 2,
+    "amenity.restaurant": 2,
+    "shop.beauty": 2,
+    "amenity.post_box": 1,
+    "amenity.place_of_worship": 1,
+    "shop.hardware": 1,
+    "shop.dry_cleaning": 1,
+    "shop.supermarket": 1,
+    "amenity.taxi": 1,
+    "amenity.pharmacy": 1
+  },
+  "poi_count": 24,
+  "pois": [
+    {
+      "name": "Cafe Amrita",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8010232,
+      "lon": -73.9587555,
+      "osm_id": 2091641953,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "Deli Plaza",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8000124,
+      "lon": -73.960282,
+      "osm_id": 2143413376,
+      "osm_type": "node",
+      "address": "Manhattan Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "USPS",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 40.8016972,
+      "lon": -73.961217,
+      "osm_id": 2338757154,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Giovanni's Pizzeria",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8014889,
+      "lon": -73.9609869,
+      "osm_id": 2583212031,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Larry's Freewheeling",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 40.8011158,
+      "lon": -73.9589707,
+      "osm_id": 2583212036,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "Miss Mamie's Spoonbread Too",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8014541,
+      "lon": -73.9609048,
+      "osm_id": 2583212038,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Arca de Refugio, Iglesia de Dios Pentecostal",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8005511,
+      "lon": -73.9602845,
+      "osm_id": 2761651096,
+      "osm_type": "node",
+      "address": "Manhattan Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Boost Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8013093,
+      "lon": -73.9611236,
+      "osm_id": 2761657479,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Halal Bitez",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8013806,
+      "lon": -73.960709,
+      "osm_id": 2761657514,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "M&M Hardware",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8016765,
+      "lon": -73.959077,
+      "osm_id": 2762477490,
+      "osm_type": "node",
+      "address": "Manhattan Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Columbus Avenue & Cathedral Parkway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8015797,
+      "lon": -73.9613104,
+      "osm_id": 3273383618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway & Columbus Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8014008,
+      "lon": -73.9605297,
+      "osm_id": 3273383619,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Central Park West & Frederick Douglass Circle",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8002412,
+      "lon": -73.9583581,
+      "osm_id": 5269109616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway & Manhattan Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8014195,
+      "lon": -73.9599276,
+      "osm_id": 6949740434,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dorian Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8010561,
+      "lon": -73.9588351,
+      "osm_id": 6949740440,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "West 110th Street & Manhattan Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8009114,
+      "lon": -73.9593726,
+      "osm_id": 7094126613,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Homemade Taqueria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8011698,
+      "lon": -73.961203,
+      "osm_id": 9793773981,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Lilac Nail & Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8010857,
+      "lon": -73.9589067,
+      "osm_id": 11517456125,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "Mom's Food Market",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8012634,
+      "lon": -73.9593439,
+      "osm_id": 11517456127,
+      "osm_type": "node",
+      "address": "Cathedral Parkway",
+      "road_geometry": null
+    },
+    {
+      "name": "Central Markets",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8007795,
+      "lon": -73.9593039,
+      "osm_id": 11521235344,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "New York Threading Salon",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8014077,
+      "lon": -73.9607813,
+      "osm_id": 11521235345,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Town Drug & Surgical",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.801422,
+      "lon": -73.9610385,
+      "osm_id": 11554789075,
+      "osm_type": "node",
+      "address": "Columbus Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Special Radio Dispatch",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 40.800952,
+      "lon": -73.9611972,
+      "osm_id": 11722131073,
+      "osm_type": "node",
+      "address": "West 109th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 110th Street & Frederick Douglass Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8010248,
+      "lon": -73.9590165,
+      "osm_id": 12015891763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

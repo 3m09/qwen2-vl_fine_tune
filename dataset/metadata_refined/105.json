@@ -1,20 +1,105 @@
 {
   "image": "dataset/images/105.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.97173125387904,
+  "center_lat": 18.925630630630632,
+  "center_lon": 72.83333332635647,
   "bbox": [
-    -73.97321908262225,
-    40.80900900900902,
-    -73.97024342513583,
-    40.81126126126127
+    72.83214285116269,
+    18.924504504504505,
+    72.83452380155025,
+    18.926756756756756
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.theatre",
+    "amenity.cinema",
+    "amenity.bank",
+    "tourism.artwork",
+    "amenity.fountain"
+  ],
+  "poi_count_per_category": {
+    "amenity.theatre": 1,
+    "amenity.cinema": 1,
+    "amenity.bank": 1,
+    "tourism.artwork": 2,
+    "amenity.fountain": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Regal Cinema",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 18.9245934,
+      "lon": 72.8325192,
+      "osm_id": 669259757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HDFC Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9248221,
+      "lon": 72.8324272,
+      "osm_id": 3306535077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wellington Fountain",
+      "category": [
+        "amenity.fountain"
+      ],
+      "lat": 18.9254605,
+      "lon": 72.8323309,
+      "osm_id": 8457587103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Childrens Museum Amphitheathre",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 18.926054,
+      "lon": 72.8331427,
+      "osm_id": 12299107686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coral Woman",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9261147,
+      "lon": 72.832786,
+      "osm_id": 12299166859,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Data Mining",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9262032,
+      "lon": 72.8328405,
+      "osm_id": 12299166869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 10,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/744.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.95388356945091,
+  "bbox": [
+    -73.95537119624281,
+    40.8,
+    -73.952395942659,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.place_of_worship",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Mount Nebo Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8019444,
+      "lon": -73.9530556,
+      "osm_id": 357621006,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Safari",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8005894,
+      "lon": -73.9527099,
+      "osm_id": 2762442267,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Alke Caf\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8003369,
+      "lon": -73.9549778,
+      "osm_id": 12402813221,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

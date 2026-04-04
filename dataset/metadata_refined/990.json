@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/990.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.9360103307942,
+  "bbox": [
+    -73.9374984626362,
+    40.82252252252255,
+    -73.93452219895221,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "railway.station",
+    "amenity.bicycle_rental",
+    "railway.stop",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "railway.station": 1,
+    "amenity.bicycle_rental": 1,
+    "railway.stop": 2,
+    "amenity.school": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Frederick Douglass Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8238576,
+      "lon": -73.9359461,
+      "osm_id": 357616317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem\u2013148th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.823712,
+      "lon": -73.9361014,
+      "osm_id": 592003200,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Public School 200",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8242494,
+      "lon": -73.9365389,
+      "osm_id": 3954501528,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem\u2013148th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8239448,
+      "lon": -73.9367944,
+      "osm_id": 4254509599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem\u2013148th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8240227,
+      "lon": -73.9367395,
+      "osm_id": 4254509600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 147 St & Adam Clayton Powell Blvd",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8227426,
+      "lon": -73.9373462,
+      "osm_id": 12039263320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

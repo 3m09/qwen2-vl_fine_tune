@@ -1,0 +1,876 @@
+{
+  "image": "dataset/images/338.png",
+  "center_lat": 1.3013783783783786,
+  "center_lon": 103.83513774550899,
+  "bbox": [
+    103.83401132934132,
+    1.3002522522522524,
+    103.83626416167665,
+    1.3025045045045047
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.school",
+    "amenity.cafe",
+    "shop.chocolate",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "highway.bus_stop",
+    "shop.sports",
+    "shop.coffee",
+    "amenity.fast_food",
+    "shop.butcher",
+    "tourism.hotel",
+    "leisure.fitness_centre",
+    "shop.clothes",
+    "amenity.pub",
+    "leisure.karaoke",
+    "shop.craft",
+    "leisure.dance",
+    "amenity.coworking_space",
+    "amenity.theatre",
+    "shop.fashion_accessories",
+    "amenity.food_court",
+    "amenity.music_school",
+    "shop.watches",
+    "amenity.pharmacy",
+    "shop.electronics",
+    "shop.bakery",
+    "shop.cosmetics",
+    "shop.hardware",
+    "leisure.sports_centre",
+    "amenity.bar",
+    "amenity.social_facility",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 11,
+    "amenity.school": 1,
+    "amenity.cafe": 6,
+    "shop.chocolate": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 2,
+    "highway.bus_stop": 1,
+    "shop.sports": 1,
+    "shop.coffee": 2,
+    "amenity.fast_food": 2,
+    "shop.butcher": 1,
+    "tourism.hotel": 1,
+    "leisure.fitness_centre": 2,
+    "shop.clothes": 4,
+    "amenity.pub": 1,
+    "leisure.karaoke": 1,
+    "shop.craft": 1,
+    "leisure.dance": 1,
+    "amenity.coworking_space": 2,
+    "amenity.theatre": 1,
+    "shop.fashion_accessories": 1,
+    "amenity.food_court": 1,
+    "amenity.music_school": 2,
+    "shop.watches": 5,
+    "amenity.pharmacy": 1,
+    "shop.electronics": 1,
+    "shop.bakery": 2,
+    "shop.cosmetics": 2,
+    "shop.hardware": 1,
+    "leisure.sports_centre": 2,
+    "amenity.bar": 1,
+    "amenity.social_facility": 1,
+    "shop.shoes": 3
+  },
+  "poi_count": 66,
+  "pois": [
+    {
+      "name": "Opposite Ngee Ann City",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.3020622,
+      "lon": 103.8344296,
+      "osm_id": 410468394,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cold Storage",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3021406,
+      "lon": 103.8353196,
+      "osm_id": 1932320736,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hilton Singapore Orchard",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3019079,
+      "lon": 103.8359161,
+      "osm_id": 4302905985,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "REDS Hairdressing",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3025026,
+      "lon": 103.8345511,
+      "osm_id": 4721516421,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Michael Kors",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3024035,
+      "lon": 103.8360574,
+      "osm_id": 4748985347,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Max Mara",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3023261,
+      "lon": 103.8362482,
+      "osm_id": 4748985348,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "East Ocean Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3022761,
+      "lon": 103.8347626,
+      "osm_id": 4959848124,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Watsons",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.302494,
+      "lon": 103.8344064,
+      "osm_id": 6197774739,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Food Village",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3023485,
+      "lon": 103.8347581,
+      "osm_id": 6197774749,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ah Chew Desserts",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3014036,
+      "lon": 103.8362288,
+      "osm_id": 6356072965,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3014411,
+      "lon": 103.8362152,
+      "osm_id": 6356072968,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manekineko",
+      "category": [
+        "leisure.karaoke"
+      ],
+      "lat": 1.3010558,
+      "lon": 103.8357152,
+      "osm_id": 6356102165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Ground Theatre",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 1.3008531,
+      "lon": 103.8354815,
+      "osm_id": 6356102166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "I'm Kim Junior",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3010404,
+      "lon": 103.8356234,
+      "osm_id": 6356102167,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fish Tales",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3009399,
+      "lon": 103.8360199,
+      "osm_id": 6356102168,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fitness Movement",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 1.3010091,
+      "lon": 103.8358452,
+      "osm_id": 6356102169,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Playnation Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3011097,
+      "lon": 103.8355374,
+      "osm_id": 6356102170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Go Sports",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 1.3009173,
+      "lon": 103.8357626,
+      "osm_id": 6356102171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3011896,
+      "lon": 103.8357891,
+      "osm_id": 6356102172,
+      "osm_type": "node",
+      "address": "2 Orchard Link, *SCAPE",
+      "road_geometry": null
+    },
+    {
+      "name": "Su Superstar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3009805,
+      "lon": 103.8359134,
+      "osm_id": 6356102173,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ducks & Crafts",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 1.3008515,
+      "lon": 103.8356187,
+      "osm_id": 6356102174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SCAPEmedia Hub",
+      "category": [
+        "amenity.coworking_space"
+      ],
+      "lat": 1.3008518,
+      "lon": 103.8360045,
+      "osm_id": 6356102175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Infinity Hair Art",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3009877,
+      "lon": 103.8356805,
+      "osm_id": 6356102176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Equilibrium Mixed Martial Arts",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 1.3010851,
+      "lon": 103.8358928,
+      "osm_id": 6356102177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jjan by The Maveric Co",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 1.3009059,
+      "lon": 103.8359137,
+      "osm_id": 6356102178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pope Jai Thai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.301129,
+      "lon": 103.8356644,
+      "osm_id": 6356102179,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MADDspace",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 1.3010033,
+      "lon": 103.8357575,
+      "osm_id": 6356102180,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beat'Abox Group",
+      "category": [
+        "amenity.music_school"
+      ],
+      "lat": 1.3009534,
+      "lon": 103.8355687,
+      "osm_id": 6356102181,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HubQuarters",
+      "category": [
+        "amenity.coworking_space"
+      ],
+      "lat": 1.3008723,
+      "lon": 103.8358413,
+      "osm_id": 6356102182,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hado Singapore",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 1.3010822,
+      "lon": 103.8357798,
+      "osm_id": 6356102183,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "O School",
+      "category": [
+        "amenity.music_school"
+      ],
+      "lat": 1.3008362,
+      "lon": 103.8357407,
+      "osm_id": 6356102184,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3011426,
+      "lon": 103.8359066,
+      "osm_id": 6356102586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CHAT Hub",
+      "category": [
+        "amenity.social_facility"
+      ],
+      "lat": 1.3008469,
+      "lon": 103.8358931,
+      "osm_id": 6356102587,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cotton Dreams",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3009796,
+      "lon": 103.8360785,
+      "osm_id": 6356102588,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles & Keith",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.302224,
+      "lon": 103.8352047,
+      "osm_id": 6723233708,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CASIO",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3024476,
+      "lon": 103.8350283,
+      "osm_id": 6784636774,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cortina",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3020246,
+      "lon": 103.8360732,
+      "osm_id": 6787668756,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3024373,
+      "lon": 103.8354647,
+      "osm_id": 6790365900,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Hour Glass",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3024237,
+      "lon": 103.8348983,
+      "osm_id": 6790383202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swatch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3023199,
+      "lon": 103.8349127,
+      "osm_id": 6792537854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bata",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3020342,
+      "lon": 103.8353647,
+      "osm_id": 6797856551,
+      "osm_type": "node",
+      "address": "Orchard Rd, Tower A Level 4, Takashimaya Dept",
+      "road_geometry": null
+    },
+    {
+      "name": "Ya Kun Kaya Toast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3024953,
+      "lon": 103.8353782,
+      "osm_id": 6815421241,
+      "osm_type": "node",
+      "address": "391A Orchard Road Food Hall",
+      "road_geometry": null
+    },
+    {
+      "name": "Nespresso",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 1.3021636,
+      "lon": 103.835438,
+      "osm_id": 7308483537,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Best Denki",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3022447,
+      "lon": 103.8352602,
+      "osm_id": 8182543272,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "St. Leaven",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.3023682,
+      "lon": 103.8351888,
+      "osm_id": 8827366452,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Peck",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.3024009,
+      "lon": 103.8352035,
+      "osm_id": 8827366453,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 1.3023896,
+      "lon": 103.8353159,
+      "osm_id": 8827366454,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Godiva",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": 1.3023127,
+      "lon": 103.8352803,
+      "osm_id": 8827366455,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nakajima Suisan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3021153,
+      "lon": 103.8351999,
+      "osm_id": 8827366456,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ippudo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3019307,
+      "lon": 103.8360256,
+      "osm_id": 9050981365,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mizuki",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3023052,
+      "lon": 103.8348718,
+      "osm_id": 9227128340,
+      "osm_type": "node",
+      "address": "Orchard Road Takashimaya S.C.",
+      "road_geometry": null
+    },
+    {
+      "name": "Estate",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3021964,
+      "lon": 103.8359667,
+      "osm_id": 9628981490,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ginger.Lily",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3018363,
+      "lon": 103.8357926,
+      "osm_id": 9630795128,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Osteria Mozza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3020717,
+      "lon": 103.8359381,
+      "osm_id": 9822426703,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Editor's Market",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3024969,
+      "lon": 103.8344577,
+      "osm_id": 9891652080,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aesop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3024691,
+      "lon": 103.8345331,
+      "osm_id": 9891652081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mister Minit",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 1.3025025,
+      "lon": 103.834364,
+      "osm_id": 9891652082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Converse",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3024771,
+      "lon": 103.8344585,
+      "osm_id": 9891652083,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Closet Lover",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3024921,
+      "lon": 103.8345093,
+      "osm_id": 9891652085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ORBIS",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3023033,
+      "lon": 103.8346989,
+      "osm_id": 9891652086,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bacha Coffee",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 1.3021922,
+      "lon": 103.835129,
+      "osm_id": 9891652088,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3021938,
+      "lon": 103.8348838,
+      "osm_id": 9891652092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "En Motion Dance School",
+      "category": [
+        "leisure.dance"
+      ],
+      "lat": 1.3015793,
+      "lon": 103.8362324,
+      "osm_id": 11104412907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beadstreet",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 1.3014171,
+      "lon": 103.8361682,
+      "osm_id": 11104412908,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Boxing",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 1.3014803,
+      "lon": 103.8361792,
+      "osm_id": 11104412909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ginger.Lily Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 1.3019217,
+      "lon": 103.8358378,
+      "osm_id": 13313722714,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    }
+  ]
+}

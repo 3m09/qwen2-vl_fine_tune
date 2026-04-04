@@ -1,0 +1,135 @@
+{
+  "image": "dataset/images/1326.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.93597988536699,
+  "bbox": [
+    -73.93746872524217,
+    40.85405405405412,
+    -73.9344910454918,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.convenience",
+    "shop.chemist",
+    "amenity.bar",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.supermarket",
+    "shop.dry_cleaning"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "shop.convenience": 1,
+    "shop.chemist": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 1,
+    "shop.supermarket": 1,
+    "shop.dry_cleaning": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Ozzie's Fresh Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8548743,
+      "lon": -73.9367816,
+      "osm_id": 2348610308,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8550257,
+      "lon": -73.9367173,
+      "osm_id": 2348610311,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Frank's Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8553262,
+      "lon": -73.9372566,
+      "osm_id": 2348610313,
+      "osm_type": "node",
+      "address": "West 187th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 40.855016,
+      "lon": -73.9367189,
+      "osm_id": 2348610332,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hilltop Pharmacy",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.855054,
+      "lon": -73.9370889,
+      "osm_id": 2797600872,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "VIP Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8554846,
+      "lon": -73.9369378,
+      "osm_id": 2797681663,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Monkey Room",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8549084,
+      "lon": -73.9371187,
+      "osm_id": 5413554330,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Kismat Indian Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8552442,
+      "lon": -73.9370234,
+      "osm_id": 5415839909,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 15,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

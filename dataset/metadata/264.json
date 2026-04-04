@@ -1,0 +1,142 @@
+{
+  "image": "dataset/images/264.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.658856860954685,
+  "bbox": [
+    -46.66008548876375,
+    -23.57,
+    -46.65762823314562,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.sewing",
+    "amenity.taxi",
+    "shop.bakery",
+    "shop.pet",
+    "shop.hairdresser"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 1,
+    "shop.sewing": 1,
+    "amenity.taxi": 2,
+    "shop.bakery": 1,
+    "shop.pet": 1,
+    "shop.hairdresser": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Agatha Cabeleireiros",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5699551,
+      "lon": -46.6592287,
+      "osm_id": 1977061405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Casa do Norte",
+      "category": [
+        "shop.sewing"
+      ],
+      "lat": -23.5691998,
+      "lon": -46.6589455,
+      "osm_id": 4024140674,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Parada Jos\u00e9 Maria Lisboa",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5679009,
+      "lon": -46.6598313,
+      "osm_id": 4062167668,
+      "osm_type": "node",
+      "address": "Avenida Nove de Julho",
+      "road_geometry": null
+    },
+    {
+      "name": "Zurich",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5699353,
+      "lon": -46.6596163,
+      "osm_id": 5266416225,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centro de ado\u00e7\u00e3o e Petshop - ViCa",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": -23.5695774,
+      "lon": -46.6593103,
+      "osm_id": 11072377150,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Pamplona",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5699176,
+      "lon": -46.6596995,
+      "osm_id": 11135381351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Pamplona",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5678674,
+      "lon": -46.6579156,
+      "osm_id": 11397854487,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Padaria Artesanal Pane",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5690369,
+      "lon": -46.6590809,
+      "osm_id": 11397916280,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Pamplona II",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.569558,
+      "lon": -46.6595283,
+      "osm_id": 11397916288,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    }
+  ]
+}

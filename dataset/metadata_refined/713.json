@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/713.png",
+  "center_lat": 25.19112612612613,
+  "center_lon": 55.283667108707114,
+  "bbox": [
+    55.282422634793306,
+    25.19,
+    55.28491158262092,
+    25.192252252252253
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.doctors",
+    "shop.convenience",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.doctors": 1,
+    "shop.convenience": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Business Bay Mini Mart",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 25.1902502,
+      "lon": 55.2843039,
+      "osm_id": 4417188614,
+      "osm_type": "node",
+      "address": "Al Abraj Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tea Room Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 25.1901094,
+      "lon": 55.2842814,
+      "osm_id": 4911617439,
+      "osm_type": "node",
+      "address": "Al Abraj Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Geminos Cafe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 25.1916577,
+      "lon": 55.2841885,
+      "osm_id": 8075492805,
+      "osm_type": "node",
+      "address": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0623\u0635\u0627\u064a\u0644",
+      "road_geometry": null
+    },
+    {
+      "name": "Medx",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 25.1918841,
+      "lon": 55.2844209,
+      "osm_id": 11012436592,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

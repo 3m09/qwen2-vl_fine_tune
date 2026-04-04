@@ -1,65 +1,284 @@
 {
   "image": "dataset/images/19.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.94198255511566,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.08733564262294032,
   "bbox": [
-    -73.94347018190756,
-    40.8,
-    -73.94049492832374,
-    40.80225225225225
+    -0.08914483653394885,
+    51.505,
+    -0.0855264487119318,
+    51.50725225225226
   ],
   "unique_categories": [
-    "amenity.restaurant",
-    "amenity.school",
-    "amenity.community_centre"
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.tailor",
+    "amenity.bar",
+    "amenity.post_office",
+    "leisure.sports_centre",
+    "amenity.fast_food",
+    "shop.copyshop",
+    "railway.station",
+    "tourism.attraction"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 1,
-    "amenity.school": 1,
-    "amenity.community_centre": 1
+    "amenity.cafe": 3,
+    "highway.bus_stop": 8,
+    "shop.tailor": 1,
+    "amenity.bar": 1,
+    "amenity.post_office": 1,
+    "leisure.sports_centre": 1,
+    "amenity.fast_food": 3,
+    "shop.copyshop": 1,
+    "railway.station": 1,
+    "tourism.attraction": 1
   },
-  "poi_count": 3,
+  "poi_count": 20,
   "pois": [
     {
-      "name": "Saint Paul's School",
+      "name": "London Bridge Station",
       "category": [
-        "amenity.school"
+        "highway.bus_stop"
       ],
-      "lat": 40.8001661,
-      "lon": -73.9414844,
-      "osm_id": 2714216811,
-      "osm_type": "node",
-      "address": "East 118th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Community Board Eleven of Manhattan",
-      "category": [
-        "amenity.community_centre"
-      ],
-      "lat": 40.8003138,
-      "lon": -73.9428344,
-      "osm_id": 4922133816,
+      "lat": 51.505044,
+      "lon": -0.0876377,
+      "osm_id": 469761441,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "New Ivoire",
+      "name": "London Bridge Station",
       "category": [
-        "amenity.restaurant"
+        "highway.bus_stop"
       ],
-      "lat": 40.8013289,
-      "lon": -73.9423745,
-      "osm_id": 9081448356,
+      "lat": 51.5051112,
+      "lon": -0.0866414,
+      "osm_id": 469761442,
       "osm_type": "node",
-      "address": "East 119th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5067543,
+      "lon": -0.0882965,
+      "osm_id": 469761445,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.505986,
+      "lon": -0.0869621,
+      "osm_id": 469761446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5057114,
+      "lon": -0.0860391,
+      "osm_id": 469761447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.506654,
+      "lon": -0.0879952,
+      "osm_id": 469761448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5052206,
+      "lon": -0.0864869,
+      "osm_id": 469774022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5051703,
+      "lon": -0.0865616,
+      "osm_id": 469774023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "My Tea Shop",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.505967,
+      "lon": -0.087685,
+      "osm_id": 635973933,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nelly's Professional Tailoring",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 51.505833,
+      "lon": -0.0872044,
+      "osm_id": 4209739399,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge Rooftop",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5061095,
+      "lon": -0.0869495,
+      "osm_id": 4779511347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Assenheims",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5053618,
+      "lon": -0.0884793,
+      "osm_id": 4867163668,
+      "osm_type": "node",
+      "address": "London Bridge Street",
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5054118,
+      "lon": -0.0886993,
+      "osm_id": 5182456569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 51.5065906,
+      "lon": -0.0886738,
+      "osm_id": 5401978056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Secret Boxing",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5066476,
+      "lon": -0.0890598,
+      "osm_id": 6567355369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FCB Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5055052,
+      "lon": -0.0855368,
+      "osm_id": 9961024707,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Findlater\u2019s Corner Entrance",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5059542,
+      "lon": -0.0882914,
+      "osm_id": 10985339607,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5051579,
+      "lon": -0.0875474,
+      "osm_id": 11394080056,
+      "osm_type": "node",
+      "address": "Shard Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "SushiDog",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5057114,
+      "lon": -0.0886497,
+      "osm_id": 12097520874,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5058222,
+      "lon": -0.0884929,
+      "osm_id": 12097520876,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 7,
-    "removed_count": 4,
+    "original_poi_count": 65,
+    "removed_count": 45,
     "model": "gemini-2.5-flash"
   }
 }

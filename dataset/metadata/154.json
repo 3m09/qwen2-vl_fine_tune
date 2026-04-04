@@ -1,15 +1,44 @@
 {
   "image": "dataset/images/154.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.96875347518228,
+  "center_lat": 18.941396396396392,
+  "center_lon": 72.83333411292361,
   "bbox": [
-    -73.9702414049355,
-    40.81351351351353,
-    -73.96726554542906,
-    40.81576576576578
+    72.8321435253631,
+    18.940270270270265,
+    72.83452470048412,
+    18.942522522522516
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Chhatrapati Shivaji Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9409746,
+      "lon": 72.8332157,
+      "osm_id": 12894867401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chhatrapati Shivaji Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9411394,
+      "lon": 72.8329924,
+      "osm_id": 12894867402,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

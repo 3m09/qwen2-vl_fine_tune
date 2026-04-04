@@ -1,15 +1,218 @@
 {
-  "image": "g_dataset/images/0.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9985123732081,
+  "image": "dataset/images/0.png",
+  "center_lat": 35.65512612612613,
+  "center_lon": 139.69738591309348,
   "bbox": [
-    -74.0,
-    40.8,
-    -73.99702474641619,
-    40.80225225225225
+    139.696,
+    35.654,
+    139.69877182618694,
+    35.65625225225226
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.place_of_worship",
+    "amenity.studio",
+    "amenity.fast_food",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 2,
+    "amenity.bar": 1,
+    "amenity.place_of_worship": 3,
+    "amenity.studio": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 15,
+  "pois": [
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6550182,
+      "lon": 139.6966856,
+      "osm_id": 625563981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u798f\u97f3\u6559\u4f1a",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6543803,
+      "lon": 139.6981249,
+      "osm_id": 732207766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u30f6\u4e18\u6559\u4f1a",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6544404,
+      "lon": 139.6969705,
+      "osm_id": 732207809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30c9\u30fb\u30af\u30ea\u30a8",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6561014,
+      "lon": 139.6980894,
+      "osm_id": 732207833,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60df\u795e\u6703\u672c\u90e8",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6555774,
+      "lon": 139.697984,
+      "osm_id": 741609972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9053\u7384\u5742\u4e0a",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6561,
+      "lon": 139.6960358,
+      "osm_id": 2587684973,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5357\u5e73\u53f0\u753a",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6551671,
+      "lon": 139.6963836,
+      "osm_id": 2863970608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30d9\u30ed\u30fc\u30c1\u30a7",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6560408,
+      "lon": 139.697903,
+      "osm_id": 3671389393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "nepalico",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6558308,
+      "lon": 139.6983683,
+      "osm_id": 4290999961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ec\u30b9\u30c8\u30e9\u30f3 \u30ca\u30f3\u30da\u30a4\u30c0\u30a4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6543043,
+      "lon": 139.6973438,
+      "osm_id": 6947435376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30cb\u30fc\u30ac\u30fc\u30da\u30f3",
+      "category": [
+        "amenity.studio"
+      ],
+      "lat": 35.6543437,
+      "lon": 139.6974613,
+      "osm_id": 8566292962,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30bd\u30e9\u30b9\u30bf",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.65618,
+      "lon": 139.69612,
+      "osm_id": 11436145751,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u307e\u3044\u3070\u3059\u3051\u3063\u3068",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 35.6547886,
+      "lon": 139.6981493,
+      "osm_id": 12163217510,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FLAMINGO'S COCKTAIL PARLOR",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6558075,
+      "lon": 139.6982717,
+      "osm_id": 13456266101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "COCOROTUS Foodtruck",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6554309,
+      "lon": 139.6968417,
+      "osm_id": 13594848401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

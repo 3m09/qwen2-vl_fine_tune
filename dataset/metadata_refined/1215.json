@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1215.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.98064771295184,
+  "bbox": [
+    -73.98213635041708,
+    40.8450450450451,
+    -73.97915907548659,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.supermarket": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "H Mart",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8456747,
+      "lon": -73.9796046,
+      "osm_id": 1949160497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

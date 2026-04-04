@@ -1,213 +1,93 @@
 {
   "image": "dataset/images/111.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.95387730896054,
+  "center_lat": 18.927882882882884,
+  "center_lon": 72.83095245619678,
   "bbox": [
-    -73.95536513770375,
-    40.80900900900902,
-    -73.95238948021733,
-    40.81126126126127
+    72.82976196495743,
+    18.926756756756756,
+    72.83214294743614,
+    18.929009009009008
   ],
   "unique_categories": [
-    "amenity.place_of_worship",
-    "shop.laundry",
+    "shop.interior_decoration",
+    "amenity.cafe",
     "amenity.restaurant",
-    "leisure.park",
-    "amenity.fuel",
-    "highway.bus_stop",
-    "amenity.doctors",
-    "amenity.theatre",
-    "amenity.bicycle_rental",
-    "amenity.bank",
-    "amenity.cafe"
+    "shop.clothes",
+    "tourism.artwork"
   ],
   "poi_count_per_category": {
-    "amenity.place_of_worship": 1,
-    "shop.laundry": 1,
+    "shop.interior_decoration": 1,
+    "amenity.cafe": 1,
     "amenity.restaurant": 1,
-    "leisure.park": 1,
-    "amenity.fuel": 1,
-    "highway.bus_stop": 3,
-    "amenity.doctors": 1,
-    "amenity.theatre": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.bank": 2,
-    "amenity.cafe": 1
+    "shop.clothes": 1,
+    "tourism.artwork": 1
   },
-  "poi_count": 14,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "Morningside Avenue Presbyterian Church",
+      "name": "Westside",
       "category": [
-        "amenity.place_of_worship"
+        "shop.clothes"
       ],
-      "lat": 40.8091666,
-      "lon": -73.9552779,
-      "osm_id": 357621025,
+      "lat": 18.9280426,
+      "lon": 72.8311609,
+      "osm_id": 669268152,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Morningside Playground",
+      "name": "Kala Ghoda",
       "category": [
-        "leisure.park"
+        "tourism.artwork"
       ],
-      "lat": 40.8105122,
-      "lon": -73.9553237,
-      "osm_id": 357650660,
+      "lat": 18.927804,
+      "lon": 72.8318097,
+      "osm_id": 4731890021,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Shell",
+      "name": "Kapoor",
       "category": [
-        "amenity.fuel"
+        "shop.interior_decoration"
       ],
-      "lat": 40.8107041,
-      "lon": -73.9542056,
-      "osm_id": 2562438645,
+      "lat": 18.9282696,
+      "lon": 72.8317442,
+      "osm_id": 5874671830,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Chase",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8106899,
-      "lon": -73.9529247,
-      "osm_id": 4747992621,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Saint Nicholas Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.810343,
-      "lon": -73.9527989,
-      "osm_id": 5263697143,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Saint Nicholas Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8105012,
-      "lon": -73.9529341,
-      "osm_id": 5263700926,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Saint Nicholas Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8111074,
-      "lon": -73.9531062,
-      "osm_id": 5266905036,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Ryan/Adair Community Health Center",
-      "category": [
-        "amenity.doctors"
-      ],
-      "lat": 40.8100505,
-      "lon": -73.9536136,
-      "osm_id": 5422783789,
-      "osm_type": "node",
-      "address": "Manhattan Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Clay",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8094423,
-      "lon": -73.9537567,
-      "osm_id": 7259558972,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Omega Bakery & Cafe",
+      "name": "Fabcaf\u00e9",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8102659,
-      "lon": -73.9532009,
-      "osm_id": 11980017793,
+      "lat": 18.9287539,
+      "lon": 72.8316226,
+      "osm_id": 8084321640,
       "osm_type": "node",
-      "address": "Saint Nicholas Avenue",
+      "address": "Mahatma Gandhi Road",
       "road_geometry": null
     },
     {
-      "name": "Faison Firehouse Theater",
+      "name": "Khyber",
       "category": [
-        "amenity.theatre"
+        "amenity.restaurant"
       ],
-      "lat": 40.8102327,
-      "lon": -73.953768,
-      "osm_id": 11980017801,
-      "osm_type": "node",
-      "address": "Hancock Place",
-      "road_geometry": null
-    },
-    {
-      "name": "Municipal Credit Union",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8101282,
-      "lon": -73.9527803,
-      "osm_id": 11980017816,
-      "osm_type": "node",
-      "address": "Saint Nicholas Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Grace Cleaners",
-      "category": [
-        "shop.laundry"
-      ],
-      "lat": 40.8098632,
-      "lon": -73.9528228,
-      "osm_id": 11980017820,
-      "osm_type": "node",
-      "address": "Saint Nicholas Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - St Nicholas Ave & Manhattan Ave",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8097922,
-      "lon": -73.9531633,
-      "osm_id": 11980101148,
+      "lat": 18.9283232,
+      "lon": 72.8316572,
+      "osm_id": 11964902109,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 20,
-    "removed_count": 6,
+    "original_poi_count": 9,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

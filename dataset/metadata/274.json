@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/274.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.65639975281788,
+  "bbox": [
+    -46.65762835955819,
+    -23.56774774774775,
+    -46.655171146077585,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "shop.newsagent",
+    "amenity.taxi"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "shop.newsagent": 1,
+    "amenity.taxi": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Ponto de T\u00e1xi Jardins",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5673835,
+      "lon": -46.6570664,
+      "osm_id": 5132267726,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Ja\u00fa Pamplona",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5656443,
+      "lon": -46.6554692,
+      "osm_id": 10276610651,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 1487",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5663209,
+      "lon": -46.6564144,
+      "osm_id": 11397098696,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria S\u00e3o Paulo",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5671502,
+      "lon": -46.6572439,
+      "osm_id": 11397848465,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    }
+  ]
+}

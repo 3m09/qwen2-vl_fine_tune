@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/941.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.9389907377679,
+  "bbox": [
+    -73.94047876855404,
+    40.81801801801804,
+    -73.93750270698175,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "shop.hairdresser",
+    "amenity.restaurant",
+    "shop.laundry",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "shop.hairdresser": 1,
+    "amenity.restaurant": 1,
+    "shop.laundry": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "King Laundromat Center",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8194118,
+      "lon": -73.9403706,
+      "osm_id": 2767863027,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Masters",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8184147,
+      "lon": -73.9380432,
+      "osm_id": 6296848309,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Exper SS Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8185364,
+      "lon": -73.9379651,
+      "osm_id": 10570592044,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wat's On Your Plate",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8187143,
+      "lon": -73.9378267,
+      "osm_id": 10969661823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

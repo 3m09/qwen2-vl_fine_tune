@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/669.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.12469978901176,
+  "bbox": [
+    -99.1258939190699,
+    19.429504504504504,
+    -99.12350565895363,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "amenity.clinic",
+    "shop.convenience",
+    "amenity.community_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1,
+    "shop.convenience": 1,
+    "amenity.community_centre": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Unidad de Medicina Familiar 6 Merced",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 19.4306144,
+      "lon": -99.1244786,
+      "osm_id": 10312439029,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bodega Aurrera Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4299093,
+      "lon": -99.1241919,
+      "osm_id": 10692362303,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brigada Callejera Elisa Martinez",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 19.430669,
+      "lon": -99.1236265,
+      "osm_id": 12852276595,
+      "osm_type": "node",
+      "address": "Calle Corregidora",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

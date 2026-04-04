@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1182.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.93599293932785,
+  "bbox": [
+    -73.93748147562255,
+    40.84054054054059,
+    -73.93450440303315,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.drinking_water",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.drinking_water": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "First Spanish Presbyterian Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.842486,
+      "lon": -73.9366477,
+      "osm_id": 357624556,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "High Bridge Park",
+      "category": [
+        "amenity.drinking_water"
+      ],
+      "lat": 40.8415543,
+      "lon": -73.9352892,
+      "osm_id": 765365611,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 172 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8421906,
+      "lon": -73.9351116,
+      "osm_id": 13244019280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

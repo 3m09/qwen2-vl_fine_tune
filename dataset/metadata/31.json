@@ -1,15 +1,140 @@
 {
   "image": "dataset/images/31.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.97768484093285,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.09457188165559975,
   "bbox": [
-    -73.979172518204,
-    40.80225225225225,
-    -73.97619716366171,
-    40.80450450450451
+    -0.09638125443706651,
+    51.50950450450451,
+    -0.09276250887413301,
+    51.51175675675677
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "highway.bus_stop",
+    "amenity.doctors",
+    "amenity.cafe",
+    "tourism.information",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "tourism.artwork": 2,
+    "highway.bus_stop": 1,
+    "amenity.doctors": 1,
+    "amenity.cafe": 1,
+    "tourism.information": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Queen Street Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5099713,
+      "lon": -0.0933149,
+      "osm_id": 469778107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Queen Street 1",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5115787,
+      "lon": -0.092912,
+      "osm_id": 854473346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Etsu Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5109264,
+      "lon": -0.0945923,
+      "osm_id": 1713257250,
+      "osm_type": "node",
+      "address": "Queenhithe",
+      "road_geometry": null
+    },
+    {
+      "name": "Queen Street 2",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.5112255,
+      "lon": -0.0929962,
+      "osm_id": 1763582349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Queenhithe Mosaic",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5104556,
+      "lon": -0.0950729,
+      "osm_id": 7567588699,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Queenhithe",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5102445,
+      "lon": -0.0951963,
+      "osm_id": 7567588700,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Westin London City",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.511038,
+      "lon": -0.0952443,
+      "osm_id": 11771807570,
+      "osm_type": "node",
+      "address": "Upper Thames Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Swan Marker and Barge Master",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5110994,
+      "lon": -0.0940111,
+      "osm_id": 12467128543,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HCA Medical Centre",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5114139,
+      "lon": -0.0938371,
+      "osm_id": 12866694118,
+      "osm_type": "node",
+      "address": "Garlick Hill",
+      "road_geometry": null
+    }
+  ]
 }

@@ -1,0 +1,126 @@
+{
+  "image": "dataset/images/1001.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.97470089956522,
+  "bbox": [
+    -73.97618908194374,
+    40.8247747747748,
+    -73.97321271718671,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "shop.bicycle",
+    "shop.beauty",
+    "amenity.place_of_worship",
+    "amenity.pharmacy",
+    "shop.dry_cleaning",
+    "leisure.fitness_centre"
+  ],
+  "poi_count_per_category": {
+    "shop.bicycle": 1,
+    "shop.beauty": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.pharmacy": 1,
+    "shop.dry_cleaning": 1,
+    "leisure.fitness_centre": 3
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Holy Rosary Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8256561,
+      "lon": -73.9759718,
+      "osm_id": 357743009,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Duane Reade",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8254972,
+      "lon": -73.9732598,
+      "osm_id": 6281767096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Basecamp Fitness",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8253474,
+      "lon": -73.9736969,
+      "osm_id": 11215635597,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Club Pilates",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8252804,
+      "lon": -73.9735574,
+      "osm_id": 11215635598,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trek",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 40.8251789,
+      "lon": -73.9733938,
+      "osm_id": 11215635599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amazing Lash Studio",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8250308,
+      "lon": -73.973477,
+      "osm_id": 11215635600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pure Barre",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8249577,
+      "lon": -73.9735145,
+      "osm_id": 11215635601,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Eco Friendly Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8249049,
+      "lon": -73.973536,
+      "osm_id": 11215635602,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

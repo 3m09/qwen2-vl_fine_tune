@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/1016.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.93005542820974,
+  "bbox": [
+    -73.93154361058826,
+    40.8247747747748,
+    -73.92856724583123,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "railway.station",
+    "railway.stop"
+  ],
+  "poi_count_per_category": {
+    "railway.station": 1,
+    "railway.stop": 3
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8269551,
+      "lon": -73.931189,
+      "osm_id": 112415631,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8256128,
+      "lon": -73.9302187,
+      "osm_id": 7006541549,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8269397,
+      "lon": -73.9312271,
+      "osm_id": 7100222056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yankees\u2013East 153rd Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.826995,
+      "lon": -73.9310865,
+      "osm_id": 7100222057,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

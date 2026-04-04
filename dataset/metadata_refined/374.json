@@ -1,0 +1,63 @@
+{
+  "image": "dataset/images/374.png",
+  "center_lat": 1.310387387387388,
+  "center_lon": 103.83513778181505,
+  "bbox": [
+    103.83401136161338,
+    1.3092612612612617,
+    103.83626420201672,
+    1.311513513513514
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Pearl of India",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3108481,
+      "lon": 103.8352923,
+      "osm_id": 518303095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Colonial at Scotts",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3107925,
+      "lon": 103.8351667,
+      "osm_id": 6447074885,
+      "osm_type": "node",
+      "address": "Scotts Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Indocaf\u00e9 The White House",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3109515,
+      "lon": 103.8355418,
+      "osm_id": 10992300830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "image": "dataset/images/843.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.9449503365013,
+  "bbox": [
+    -73.9464381652445,
+    40.80900900900902,
+    -73.94346250775808,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "amenity.community_centre",
+    "amenity.school",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.community_centre": 1,
+    "amenity.school": 1,
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 3,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Public School 68",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8100265,
+      "lon": -73.9458311,
+      "osm_id": 357580766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 129th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8101608,
+      "lon": -73.9440059,
+      "osm_id": 5235583458,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 127th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8092072,
+      "lon": -73.9442011,
+      "osm_id": 5274254118,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi Inoue",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8108361,
+      "lon": -73.9435614,
+      "osm_id": 5402622059,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Jacob Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8102607,
+      "lon": -73.9439964,
+      "osm_id": 6296851635,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The Laundromat Project",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8095546,
+      "lon": -73.9453751,
+      "osm_id": 6657904345,
+      "osm_type": "node",
+      "address": "West 127th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Uptown Veg 2",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8095139,
+      "lon": -73.9445738,
+      "osm_id": 10742609217,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Breakfast Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8111327,
+      "lon": -73.9464042,
+      "osm_id": 11981765094,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

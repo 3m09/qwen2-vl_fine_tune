@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/1207.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.93301359053042,
+  "bbox": [
+    -73.93450217740752,
+    40.84279279279284,
+    -73.93152500365332,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "amenity.toilets"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2,
+    "amenity.toilets": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "High Bridge Recreation Center",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 40.8428616,
+      "lon": -73.934347,
+      "osm_id": 765365612,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 175th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8438555,
+      "lon": -73.9341561,
+      "osm_id": 8723021863,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 173rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8432884,
+      "lon": -73.9342788,
+      "osm_id": 8723021886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 175 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8440437,
+      "lon": -73.9336612,
+      "osm_id": 13243811344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

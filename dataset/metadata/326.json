@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/326.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.82837924549058,
+  "bbox": [
+    103.82725283032705,
+    1.298,
+    103.8295056606541,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.apartment"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.apartment": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Grange 80 Condominium",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.2991199,
+      "lon": 103.8282999,
+      "osm_id": 410464446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Colonnade",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": 1.2997618,
+      "lon": 103.8275683,
+      "osm_id": 5549608870,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

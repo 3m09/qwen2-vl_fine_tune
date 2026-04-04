@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/404.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.16851885460025,
+  "bbox": [
+    114.16730187537165,
+    22.2795045045045,
+    114.16973583382887,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.theatre"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.theatre": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u9999\u6e2f\u6f14\u85dd\u5b78\u9662 The Hong Kong Academy for Performing Arts",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2796542,
+      "lon": 114.16971,
+      "osm_id": 3049050107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u6f14\u85dd\u5b78\u9662 The Hong Kong Academy for Performing Arts",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279659,
+      "lon": 114.16967,
+      "osm_id": 3049050108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u6f14\u85dd\u5b78\u9662 The Hong Kong Academy for Performing Arts",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.27967,
+      "lon": 114.16958,
+      "osm_id": 3049050109,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u97f3\u6a02\u5ef3 Concert Hall",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 22.2806017,
+      "lon": 114.169698,
+      "osm_id": 5020307660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

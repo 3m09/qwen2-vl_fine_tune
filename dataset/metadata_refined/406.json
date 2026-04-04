@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/406.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.17338677151469,
+  "bbox": [
+    114.17216979228608,
+    22.2795045045045,
+    114.1746037507433,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "amenity.courthouse",
+    "shop.mall",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.courthouse": 1,
+    "shop.mall": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u5340\u57df\u6cd5\u9662 District Court",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": 22.2801815,
+      "lon": 114.1724028,
+      "osm_id": 2102321175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a02\u5354\u793e\u5718\u512a\u60e0\u574a Cheers Coop",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.279714,
+      "lon": 114.1727417,
+      "osm_id": 6033195085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6703\u5c55\u5ee3\u5834\u5546\u5834 Convention Plaza Shopping Arcade",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2810378,
+      "lon": 114.1734141,
+      "osm_id": 9221220209,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

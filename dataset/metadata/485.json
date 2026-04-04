@@ -1,0 +1,82 @@
+{
+  "image": "dataset/images/485.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.17825674735357,
+  "bbox": [
+    114.17703963086333,
+    22.29527027027026,
+    114.17947386384381,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 4,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u6c38\u5b89\u5ee3\u5834 Wing On Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2966068,
+      "lon": 114.1773865,
+      "osm_id": 3912040171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Villa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2974504,
+      "lon": 114.1777878,
+      "osm_id": 4862594843,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5149\u5927\u9053 Avenue of Stars",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2966004,
+      "lon": 114.1773792,
+      "osm_id": 10852886512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u5b89\u5ee3\u5834 Wing On Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.296611,
+      "lon": 114.1773912,
+      "osm_id": 13105591742,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5149\u5927\u9053 Avenue of Stars",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2965866,
+      "lon": 114.1773633,
+      "osm_id": 13105591743,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

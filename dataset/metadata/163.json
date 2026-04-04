@@ -1,241 +1,29 @@
 {
   "image": "dataset/images/163.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.94197073962424,
+  "center_lat": 18.943648648648644,
+  "center_lon": 72.83809663984192,
   "bbox": [
-    -73.94345866937746,
-    40.81351351351353,
-    -73.94048280987101,
-    40.81576576576578
+    72.83690603621993,
+    18.942522522522516,
+    72.83928724346391,
+    18.944774774774768
   ],
   "unique_categories": [
-    "railway.stop",
-    "railway.station",
-    "railway.subway_entrance",
-    "amenity.community_centre",
-    "amenity.restaurant",
-    "highway.bus_stop",
-    "shop.beauty",
-    "shop.convenience",
-    "amenity.school",
-    "amenity.place_of_worship",
-    "shop.funeral_directors"
+    "amenity.courthouse"
   ],
   "poi_count_per_category": {
-    "railway.stop": 1,
-    "railway.station": 1,
-    "railway.subway_entrance": 4,
-    "amenity.community_centre": 1,
-    "amenity.restaurant": 1,
-    "highway.bus_stop": 4,
-    "shop.beauty": 1,
-    "shop.convenience": 1,
-    "amenity.school": 1,
-    "amenity.place_of_worship": 1,
-    "shop.funeral_directors": 1
+    "amenity.courthouse": 1
   },
-  "poi_count": 17,
+  "poi_count": 1,
   "pois": [
     {
-      "name": "P.S. 175 Henry Highland Garnet",
+      "name": "Railway Claims Tribunal",
       "category": [
-        "amenity.school"
+        "amenity.courthouse"
       ],
-      "lat": 40.8144365,
-      "lon": -73.9428949,
-      "osm_id": 357622018,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "135th Street",
-      "category": [
-        "railway.station"
-      ],
-      "lat": 40.8141229,
-      "lon": -73.9408924,
-      "osm_id": 1740707015,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "James Varick Community Center",
-      "category": [
-        "amenity.community_centre"
-      ],
-      "lat": 40.8156151,
-      "lon": -73.9420653,
-      "osm_id": 3545220724,
-      "osm_type": "node",
-      "address": "West 136th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "The Universal Temple of Spiritual Truth",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8152071,
-      "lon": -73.9410594,
-      "osm_id": 3545220725,
-      "osm_type": "node",
-      "address": "West 136th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "St. Helena Funeral Home",
-      "category": [
-        "shop.funeral_directors"
-      ],
-      "lat": 40.8151634,
-      "lon": -73.9409521,
-      "osm_id": 3545220726,
-      "osm_type": "node",
-      "address": "West 136th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Nails Professional",
-      "category": [
-        "shop.beauty"
-      ],
-      "lat": 40.8150731,
-      "lon": -73.9408019,
-      "osm_id": 3545220727,
-      "osm_type": "node",
-      "address": "West 136th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Easy Corner",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8150396,
-      "lon": -73.9407349,
-      "osm_id": 3545220728,
-      "osm_type": "node",
-      "address": "West 136th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Lenox Avenue & 135th Street at Northeast Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8142605,
-      "lon": -73.9405596,
-      "osm_id": 3584417289,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lenox Avenue & 135th Street at Northwest Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8143218,
-      "lon": -73.9409018,
-      "osm_id": 3584417290,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lenox Avenue & 135th Street at Southeast Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8139035,
-      "lon": -73.9408327,
-      "osm_id": 3584417291,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lenox Avenue & 135th Street at Southwest Corner",
-      "category": [
-        "railway.subway_entrance"
-      ],
-      "lat": 40.8140315,
-      "lon": -73.9411164,
-      "osm_id": 3584417292,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "135th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8135268,
-      "lon": -73.9413586,
-      "osm_id": 4460385059,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 135th Street & Malcolm X Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8144098,
-      "lon": -73.9413034,
-      "osm_id": 5235589551,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 135th Street & Adam Clayton Powell Jr Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8150536,
-      "lon": -73.9432991,
-      "osm_id": 5235589582,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Adam Clayton Powell Jr Boulevard & West 135th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8155341,
-      "lon": -73.9433239,
-      "osm_id": 5235589834,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 135th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8139336,
-      "lon": -73.9412156,
-      "osm_id": 5269082518,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Exquisite Grill Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8149755,
-      "lon": -73.9405625,
-      "osm_id": 10969580738,
+      "lat": 18.9443287,
+      "lon": 72.8390171,
+      "osm_id": 12299732768,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

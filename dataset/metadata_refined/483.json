@@ -1,0 +1,469 @@
+{
+  "image": "dataset/images/483.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.17338828139262,
+  "bbox": [
+    114.17217116490238,
+    22.29527027027026,
+    114.17460539788286,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "tourism.guest_house",
+    "shop.tailor",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.post_office",
+    "shop.kiosk",
+    "amenity.bank",
+    "shop.cosmetics",
+    "tourism.hostel",
+    "highway.bus_stop",
+    "shop.jewelry",
+    "shop.clothes",
+    "shop.travel_agency",
+    "shop.watches",
+    "shop.shoes",
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "tourism.artwork",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 6,
+    "shop.tailor": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 4,
+    "amenity.post_office": 1,
+    "shop.kiosk": 1,
+    "amenity.bank": 1,
+    "shop.cosmetics": 1,
+    "tourism.hostel": 2,
+    "highway.bus_stop": 1,
+    "shop.jewelry": 3,
+    "shop.clothes": 3,
+    "shop.travel_agency": 1,
+    "shop.watches": 3,
+    "shop.shoes": 1,
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 1,
+    "tourism.artwork": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 34,
+  "pois": [
+    {
+      "name": "\u4e2d\u9593\u9053 Middle Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2957152,
+      "lon": 114.1723988,
+      "osm_id": 2604586682,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2957459,
+      "lon": 114.1729374,
+      "osm_id": 2844312660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chung King Ministry",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 22.2961846,
+      "lon": 114.1732198,
+      "osm_id": 2935557574,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hang On Tailor",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 22.2965418,
+      "lon": 114.172748,
+      "osm_id": 2936536770,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hollywood Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.296448,
+      "lon": 114.1728107,
+      "osm_id": 2936536776,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Reliance Inn",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965252,
+      "lon": 114.1729866,
+      "osm_id": 2936536787,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Euro Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2961531,
+      "lon": 114.1728652,
+      "osm_id": 2937037473,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Germany Hostel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2962448,
+      "lon": 114.1727624,
+      "osm_id": 2937037480,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucky Hotel",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965395,
+      "lon": 114.1732134,
+      "osm_id": 2937171027,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Safari Hotel (7/F)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2964849,
+      "lon": 114.1730986,
+      "osm_id": 2937171043,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hollywood Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2964891,
+      "lon": 114.1725491,
+      "osm_id": 2938367951,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ocean Guesthouse",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2965986,
+      "lon": 114.1725925,
+      "osm_id": 2938367959,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab Food",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963391,
+      "lon": 114.1727822,
+      "osm_id": 2938377189,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Saravana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2964029,
+      "lon": 114.1730579,
+      "osm_id": 2938377190,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Swagat",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2963501,
+      "lon": 114.1729677,
+      "osm_id": 2938377193,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u90f5\u653f\u5c40 Tsim Sha Tsui Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 22.2958091,
+      "lon": 114.1732992,
+      "osm_id": 3596680883,
+      "osm_type": "node",
+      "address": "\u4e2d\u9593\u9053 Middle Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The North Face",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973334,
+      "lon": 114.1738615,
+      "osm_id": 4066472132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u74f7\u5668\u5e97",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2959663,
+      "lon": 114.172435,
+      "osm_id": 4109813696,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u862d\u62c9\u9eb5",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2966712,
+      "lon": 114.1737417,
+      "osm_id": 4293947289,
+      "osm_type": "node",
+      "address": "\u7dec\u7538\u81fa Minden Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Vans",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.296334,
+      "lon": 114.1725331,
+      "osm_id": 4754443230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fanda",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2973814,
+      "lon": 114.1723558,
+      "osm_id": 4848019838,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rado",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2971525,
+      "lon": 114.1723752,
+      "osm_id": 4848019840,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2968838,
+      "lon": 114.1724143,
+      "osm_id": 4848019841,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2966662,
+      "lon": 114.1724163,
+      "osm_id": 4848060592,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Patek Philippe",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.296236,
+      "lon": 114.1724449,
+      "osm_id": 4848098164,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Issi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2961559,
+      "lon": 114.1724527,
+      "osm_id": 4848098166,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Audemars Piguet",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.297128,
+      "lon": 114.1730871,
+      "osm_id": 4850294644,
+      "osm_type": "node",
+      "address": "\u78a7\u4ed9\u6843\u8def Bristol Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "CTF Watch",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2972102,
+      "lon": 114.1739048,
+      "osm_id": 4850294647,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Union Travel Company",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 22.2969885,
+      "lon": 114.173449,
+      "osm_id": 4850352262,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Watch Bank Ookura",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2970576,
+      "lon": 114.1739613,
+      "osm_id": 4850352265,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4ea4\u901a\u9280\u884c Bank of Communications",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2970805,
+      "lon": 114.1742587,
+      "osm_id": 4850352270,
+      "osm_type": "node",
+      "address": "\u9ebc\u5730\u9053 Mody Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Backer Stores@K11",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 22.2973913,
+      "lon": 114.1736162,
+      "osm_id": 4944229899,
+      "osm_type": "node",
+      "address": "\u6cb3\u5167\u9053 Hanoi Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Rahman Fashion",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973497,
+      "lon": 114.1726007,
+      "osm_id": 5095667323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Euro Asia Guest House",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2962811,
+      "lon": 114.1730658,
+      "osm_id": 6176025485,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 238,
+    "removed_count": 204,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/210.png",
+  "center_lat": 31.237882882882882,
+  "center_lon": 121.51238998026257,
+  "bbox": [
+    121.51107292260006,
+    31.236756756756755,
+    121.51370703792507,
+    31.239009009009006
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u6816\u971e\u8def\u5d02\u5c71\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2387746,
+      "lon": 121.5133461,
+      "osm_id": 12252772137,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

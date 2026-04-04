@@ -1,20 +1,65 @@
 {
   "image": "dataset/images/152.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.97470519419518,
+  "center_lat": 18.941396396396392,
+  "center_lon": 72.82857176268155,
   "bbox": [
-    -73.9761931239484,
-    40.81351351351353,
-    -73.97321726444196,
-    40.81576576576578
+    72.82738117512103,
+    18.940270270270265,
+    72.82976235024206,
+    18.942522522522516
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.hospital",
+    "shop.travel_agency",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.hospital": 1,
+    "shop.travel_agency": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Shreeji Sagar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9414618,
+      "lon": 72.827575,
+      "osm_id": 3366103247,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zain Eye Care",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 18.9415002,
+      "lon": 72.8278414,
+      "osm_id": 7072544668,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0907\u0902\u0921\u093f\u092f\u093e \u0938\u092e\u0926\u093e\u092f",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9413665,
+      "lon": 72.8276595,
+      "osm_id": 10682480405,
+      "osm_type": "node",
+      "address": "New Marine Lines",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 11,
+    "removed_count": 8,
     "model": "gemini-2.5-flash"
   }
 }

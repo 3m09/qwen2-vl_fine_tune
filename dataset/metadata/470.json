@@ -1,0 +1,621 @@
+{
+  "image": "dataset/images/470.png",
+  "center_lat": 22.294144144144138,
+  "center_lon": 114.16851967811726,
+  "bbox": [
+    114.16730258124336,
+    22.29301801801801,
+    114.16973677499115,
+    22.29527027027026
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "tourism.information",
+    "shop.hairdresser",
+    "amenity.atm",
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.post_box",
+    "amenity.fast_food",
+    "amenity.bus_station",
+    "shop.chemist",
+    "shop.grocery",
+    "shop.watches",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.bakery",
+    "shop.department_store",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.restaurant": 3,
+    "amenity.cafe": 2,
+    "tourism.information": 1,
+    "shop.hairdresser": 2,
+    "amenity.atm": 1,
+    "shop.convenience": 4,
+    "highway.bus_stop": 15,
+    "amenity.post_box": 1,
+    "amenity.fast_food": 3,
+    "amenity.bus_station": 1,
+    "shop.chemist": 2,
+    "shop.grocery": 1,
+    "shop.watches": 2,
+    "amenity.pharmacy": 1,
+    "shop.cosmetics": 1,
+    "shop.bakery": 1,
+    "shop.department_store": 2,
+    "shop.jewelry": 4
+  },
+  "poi_count": 47,
+  "pois": [
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "amenity.bus_station"
+      ],
+      "lat": 22.2941372,
+      "lon": 114.1689652,
+      "osm_id": 245090969,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7fe0\u5712 Jade Garden",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2946234,
+      "lon": 114.1694008,
+      "osm_id": 762014634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2944393,
+      "lon": 114.1686699,
+      "osm_id": 1022649634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5bb6\u6a02 Caf\u00e9 de Coral",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2946564,
+      "lon": 114.1690686,
+      "osm_id": 1949060551,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u80af\u5fb7\u57fa KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2949965,
+      "lon": 114.1676864,
+      "osm_id": 1950794664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2937042,
+      "lon": 114.1687515,
+      "osm_id": 3914318605,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2945271,
+      "lon": 114.1691007,
+      "osm_id": 3914318606,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2939451,
+      "lon": 114.1686799,
+      "osm_id": 3999281457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2938392,
+      "lon": 114.1687718,
+      "osm_id": 3999281458,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u65c5\u904a\u767c\u5c55\u5c40 Hong Kong Tourism Board",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 22.2939084,
+      "lon": 114.1685897,
+      "osm_id": 4071838415,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "177",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 22.2952263,
+      "lon": 114.1681707,
+      "osm_id": 4275460857,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5149\u7f8e\u98df Starlight Convenience Store",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2945178,
+      "lon": 114.169055,
+      "osm_id": 4331100493,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "i CREMERiA Harbour City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2951477,
+      "lon": 114.1678038,
+      "osm_id": 4657579392,
+      "osm_type": "node",
+      "address": "Ocean Terminal",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5317\u4eac\u6a13 Peking Garden",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2945959,
+      "lon": 114.1692819,
+      "osm_id": 4814611124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Snip",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2936104,
+      "lon": 114.1687563,
+      "osm_id": 4842657330,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emperor",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2947482,
+      "lon": 114.1697145,
+      "osm_id": 4848264448,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tiffany & Company",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.29498,
+      "lon": 114.169645,
+      "osm_id": 4848264450,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cartier",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2950775,
+      "lon": 114.1696231,
+      "osm_id": 4848264451,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road1",
+      "road_geometry": null
+    },
+    {
+      "name": "Piaget",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2952229,
+      "lon": 114.1696072,
+      "osm_id": 4848264452,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9023\u5361\u4f5b Lane Crawford",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 22.2952638,
+      "lon": 114.1688911,
+      "osm_id": 4848291205,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Longines",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2945864,
+      "lon": 114.1693921,
+      "osm_id": 4848370362,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8aa0\u54c1\u751f\u6d3b the eslite spectrum",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 22.2946799,
+      "lon": 114.1690024,
+      "osm_id": 5313004721,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "QB HOUSE",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2938217,
+      "lon": 114.168568,
+      "osm_id": 5344875686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Green Common",
+      "category": [
+        "amenity.cafe",
+        "shop.grocery"
+      ],
+      "lat": 22.2949945,
+      "lon": 114.1680263,
+      "osm_id": 5459234634,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\uff08\u5929\u661f\u78bc\u982d\uff09 Tsim Sha Tsui (Star Ferry)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2936525,
+      "lon": 114.1691464,
+      "osm_id": 6564224775,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "% Arabica",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2940807,
+      "lon": 114.1683737,
+      "osm_id": 6868716585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c11\u9593\u58eb\u591a",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2935462,
+      "lon": 114.1690193,
+      "osm_id": 6980052390,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 22.2938333,
+      "lon": 114.1686453,
+      "osm_id": 7155499785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2938063,
+      "lon": 114.168803,
+      "osm_id": 8226569227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2943265,
+      "lon": 114.1691382,
+      "osm_id": 9877790168,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2942605,
+      "lon": 114.1688291,
+      "osm_id": 9878952165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.29431,
+      "lon": 114.169061,
+      "osm_id": 9883486206,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2944394,
+      "lon": 114.1691486,
+      "osm_id": 10047008884,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\uff08\u5929\u661f\u78bc\u982d\uff09 Tsim Sha Tsui (Star Ferry)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2944414,
+      "lon": 114.1691581,
+      "osm_id": 10047008886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2936557,
+      "lon": 114.1690234,
+      "osm_id": 10569735226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2944958,
+      "lon": 114.1694018,
+      "osm_id": 10572457514,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.294277,
+      "lon": 114.1689063,
+      "osm_id": 10792428140,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2942935,
+      "lon": 114.1689836,
+      "osm_id": 11146564995,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\u78bc\u982d Star Ferry",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2943427,
+      "lon": 114.1692152,
+      "osm_id": 11146564996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tissot",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2945771,
+      "lon": 114.1693464,
+      "osm_id": 11778374561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f8d\u57ce Lung Shing",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2945364,
+      "lon": 114.1691464,
+      "osm_id": 11778374562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.294477,
+      "lon": 114.1688549,
+      "osm_id": 11778374563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9752\u6728\u767e\u8ca8 Greenwood Mart",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2944487,
+      "lon": 114.1687162,
+      "osm_id": 11778374564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6607\u5eb7\u6ed9 Healthy Square",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2945585,
+      "lon": 114.1692548,
+      "osm_id": 11778435248,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\uff08\u5929\u661f\u78bc\u982d\uff09 Tsim Sha Tsui (Star Ferry)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2936509,
+      "lon": 114.1691374,
+      "osm_id": 12399983932,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bon App\u00e9tit Bakery",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.294701,
+      "lon": 114.1689939,
+      "osm_id": 13270135626,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8aa0\u54c1\u66f8\u5e97 the eslite bookstore",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 22.2946908,
+      "lon": 114.1689582,
+      "osm_id": 13270135627,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    }
+  ]
+}

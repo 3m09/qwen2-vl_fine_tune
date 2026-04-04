@@ -1,20 +1,537 @@
 {
   "image": "dataset/images/55.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.9776840836584,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.0837132294298997,
   "bbox": [
-    -73.9791718114145,
-    40.80450450450451,
-    -73.97619635590229,
-    40.80675675675676
+    -0.08552287060435529,
+    51.51626126126128,
+    -0.08190358825544411,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "shop.confectionery",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.florist",
+    "tourism.artwork",
+    "railway.stop",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.mobile_phone",
+    "shop.clothes",
+    "railway.station",
+    "amenity.clinic",
+    "amenity.doctors",
+    "shop.locksmith"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "highway.bus_stop": 6,
+    "amenity.cafe": 4,
+    "railway.subway_entrance": 1,
+    "amenity.restaurant": 2,
+    "amenity.bank": 1,
+    "shop.florist": 1,
+    "tourism.artwork": 2,
+    "railway.stop": 5,
+    "amenity.fast_food": 7,
+    "shop.supermarket": 1,
+    "shop.mobile_phone": 2,
+    "shop.clothes": 1,
+    "railway.station": 1,
+    "amenity.clinic": 1,
+    "amenity.doctors": 3,
+    "shop.locksmith": 1
+  },
+  "poi_count": 40,
+  "pois": [
+    {
+      "name": "Wasabi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5164477,
+      "lon": -0.0833714,
+      "osm_id": 306135216,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5178803,
+      "lon": -0.0826904,
+      "osm_id": 469760984,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5180364,
+      "lon": -0.0826019,
+      "osm_id": 469760985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.518127,
+      "lon": -0.0825546,
+      "osm_id": 469760986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5182528,
+      "lon": -0.0824979,
+      "osm_id": 469760987,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wormwood Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.516309,
+      "lon": -0.0822139,
+      "osm_id": 469765564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Broad Street",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5171863,
+      "lon": -0.0830154,
+      "osm_id": 1039290561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fulcrum",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5182733,
+      "lon": -0.0838282,
+      "osm_id": 1150003519,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Flower Station",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 51.5176959,
+      "lon": -0.0821418,
+      "osm_id": 1753230414,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nationwide",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5184506,
+      "lon": -0.0854749,
+      "osm_id": 1763600535,
+      "osm_type": "node",
+      "address": "Eldon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Amazon Fresh",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 51.5179134,
+      "lon": -0.0844427,
+      "osm_id": 2006375680,
+      "osm_type": "node",
+      "address": "Blomfield Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5176229,
+      "lon": -0.084972,
+      "osm_id": 2157123321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charbonnel et Walker",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 51.5184739,
+      "lon": -0.0838962,
+      "osm_id": 2545451251,
+      "osm_type": "node",
+      "address": "Broadgate Circle",
+      "road_geometry": null
+    },
+    {
+      "name": "Timpson",
+      "category": [
+        "shop.locksmith"
+      ],
+      "lat": 51.5166386,
+      "lon": -0.0835831,
+      "osm_id": 2965872998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5171842,
+      "lon": -0.0825554,
+      "osm_id": 3076573932,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5172123,
+      "lon": -0.0825435,
+      "osm_id": 3076574233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Freebird Burrito",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5172884,
+      "lon": -0.082472,
+      "osm_id": 3197327376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5173415,
+      "lon": -0.0827188,
+      "osm_id": 3197327378,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Camp Halloumi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5171606,
+      "lon": -0.0827065,
+      "osm_id": 3589846526,
+      "osm_type": "node",
+      "address": "The Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Shitamachi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5172004,
+      "lon": -0.0821701,
+      "osm_id": 3605043290,
+      "osm_type": "node",
+      "address": "The Arcade",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5176777,
+      "lon": -0.0825205,
+      "osm_id": 3637436407,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Birley",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5165427,
+      "lon": -0.0836288,
+      "osm_id": 3702964040,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Three.",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 51.5178438,
+      "lon": -0.0845611,
+      "osm_id": 4513031544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5184395,
+      "lon": -0.0823181,
+      "osm_id": 4850392632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5183579,
+      "lon": -0.0821607,
+      "osm_id": 4850392633,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5180206,
+      "lon": -0.0828001,
+      "osm_id": 5091608014,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HCA Healthcare Medical Centre",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5167908,
+      "lon": -0.0842929,
+      "osm_id": 5174812336,
+      "osm_type": "node",
+      "address": "New Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Ivy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.516884,
+      "lon": -0.0828326,
+      "osm_id": 5218118740,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Krispy Kreme",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5178407,
+      "lon": -0.0825081,
+      "osm_id": 10606971671,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Three.",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 51.5178684,
+      "lon": -0.0846244,
+      "osm_id": 10729812930,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bagel Factory",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5177258,
+      "lon": -0.0847397,
+      "osm_id": 11937519992,
+      "osm_type": "node",
+      "address": "Blomfield Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Infinite Accumulation",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5178023,
+      "lon": -0.0841225,
+      "osm_id": 11942120635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hackett London",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5179085,
+      "lon": -0.0839398,
+      "osm_id": 12146160149,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BloomsYard",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5183697,
+      "lon": -0.0833728,
+      "osm_id": 12616057007,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Los Mochis London City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5179318,
+      "lon": -0.0836589,
+      "osm_id": 12651123701,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Myo - Suvera",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5170171,
+      "lon": -0.0828167,
+      "osm_id": 12857308544,
+      "osm_type": "node",
+      "address": "Old Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Health Management",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5167435,
+      "lon": -0.0836491,
+      "osm_id": 12857308545,
+      "osm_type": "node",
+      "address": "New Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cosmedics City",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5170044,
+      "lon": -0.0844454,
+      "osm_id": 12857308546,
+      "osm_type": "node",
+      "address": "New Broad Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero express",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5175822,
+      "lon": -0.082537,
+      "osm_id": 12997787397,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5176966,
+      "lon": -0.0848175,
+      "osm_id": 13013885082,
+      "osm_type": "node",
+      "address": "Blomfield Street",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 70,
+    "removed_count": 30,
     "model": "gemini-2.5-flash"
   }
 }

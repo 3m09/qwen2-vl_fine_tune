@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/1133.png",
+  "center_lat": 40.8371621621622,
+  "center_lon": -73.93897415896821,
+  "bbox": [
+    -73.94046259411533,
+    40.83603603603608,
+    -73.9374857238211,
+    40.83828828828833
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "amenity.restaurant",
+    "shop.books",
+    "railway.stop",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "amenity.restaurant": 1,
+    "shop.books": 1,
+    "railway.stop": 1,
+    "railway.station": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Saint Rose of Lima School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8377778,
+      "lon": -73.9397222,
+      "osm_id": 357616369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "163rd Street\u2013Amsterdam Avenue",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8369451,
+      "lon": -73.9401256,
+      "osm_id": 592003470,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Word Up Community Bookshop",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8376548,
+      "lon": -73.9382991,
+      "osm_id": 2797189043,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "163rd Street\u2013Amsterdam Avenue",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8371752,
+      "lon": -73.9400878,
+      "osm_id": 6696132555,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Native Noodles",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8382618,
+      "lon": -73.9378722,
+      "osm_id": 11845584190,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

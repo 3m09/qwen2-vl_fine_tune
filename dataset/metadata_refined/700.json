@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/700.png",
+  "center_lat": 19.439639639639637,
+  "center_lon": -99.13664062585485,
+  "bbox": [
+    -99.1378348221613,
+    19.43851351351351,
+    -99.1354464295484,
+    19.44076576576576
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "shop.clothes",
+    "shop.convenience",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "shop.clothes": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "La XXXX",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4394488,
+      "lon": -99.1361916,
+      "osm_id": 3855590977,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Per\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Los Alquimistas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4390487,
+      "lon": -99.1364904,
+      "osm_id": 4687361080,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banco Azteka",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4405907,
+      "lon": -99.1376212,
+      "osm_id": 5625835658,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bodega Aurrera Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4392203,
+      "lon": -99.1373516,
+      "osm_id": 10692407386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

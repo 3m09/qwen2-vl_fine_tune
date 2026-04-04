@@ -1,0 +1,607 @@
+{
+  "image": "dataset/images/482.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.17095404841214,
+  "bbox": [
+    114.1697369319219,
+    22.29527027027026,
+    114.17217116490238,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "shop.alcohol",
+    "amenity.pub",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.jewelry",
+    "shop.chemist",
+    "amenity.bar",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "shop.clothes",
+    "shop.sports",
+    "amenity.fast_food",
+    "shop.massage",
+    "amenity.clinic",
+    "shop.camera",
+    "shop.watches"
+  ],
+  "poi_count_per_category": {
+    "shop.alcohol": 1,
+    "amenity.pub": 1,
+    "highway.bus_stop": 6,
+    "shop.convenience": 4,
+    "shop.jewelry": 7,
+    "shop.chemist": 2,
+    "amenity.bar": 1,
+    "railway.subway_entrance": 3,
+    "amenity.restaurant": 4,
+    "shop.clothes": 7,
+    "shop.sports": 1,
+    "amenity.fast_food": 3,
+    "shop.massage": 1,
+    "amenity.clinic": 1,
+    "shop.camera": 1,
+    "shop.watches": 3
+  },
+  "poi_count": 46,
+  "pois": [
+    {
+      "name": "Kung Tak Lam",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2959936,
+      "lon": 114.169895,
+      "osm_id": 2192631868,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Felix Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2954573,
+      "lon": 114.1720177,
+      "osm_id": 2247830957,
+      "osm_type": "node",
+      "address": "Salisbury Road, Kowloon",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5317\u4eac\u9053 Peking Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2959696,
+      "lon": 114.1704668,
+      "osm_id": 3912040164,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u516c\u5712\u5f91 Kowloon Park Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.296073,
+      "lon": 114.1702064,
+      "osm_id": 3912040165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2974975,
+      "lon": 114.1720306,
+      "osm_id": 3914318602,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.29706,
+      "lon": 114.1707612,
+      "osm_id": 3914318604,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u534a\u5cf6\u9152\u5e97 The Peninsula",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2962034,
+      "lon": 114.1721625,
+      "osm_id": 4159230886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c1a\u81f3\u91ab\u7642 Virtus",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 22.2974398,
+      "lon": 114.1711842,
+      "osm_id": 4375050021,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u534a\u5cf6\u9152\u5e97 The Peninsula",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.29536,
+      "lon": 114.171201,
+      "osm_id": 4541756891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canon",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 22.2973687,
+      "lon": 114.171921,
+      "osm_id": 4848052040,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u82f1\u7687\u9418\u9336\u73e0\u5bf6 Emperor Watch and Jewellry",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2973013,
+      "lon": 114.1719638,
+      "osm_id": 4848052042,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u82f1\u7687\u73e0\u5bf6 Emperor",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.297226,
+      "lon": 114.1720022,
+      "osm_id": 4848052043,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u751f\u751f Chow Sang Sang",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2970728,
+      "lon": 114.1720303,
+      "osm_id": 4848052044,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f Chow Tai Fook",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2967532,
+      "lon": 114.171956,
+      "osm_id": 4848052046,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ermenegildo Zegna",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2960338,
+      "lon": 114.1700711,
+      "osm_id": 4848128224,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f Chow Tai Fook",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2966219,
+      "lon": 114.1720134,
+      "osm_id": 4848178722,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Swatch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2962662,
+      "lon": 114.1721058,
+      "osm_id": 4848178728,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ISA",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.296188,
+      "lon": 114.1721087,
+      "osm_id": 4848178729,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Goyard",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2953691,
+      "lon": 114.1721318,
+      "osm_id": 4848178731,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Adidas Originals",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2964491,
+      "lon": 114.171034,
+      "osm_id": 4849781088,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u540c\u4ec1\u5927\u85e5\u574a Tung Yan Medicine",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2962327,
+      "lon": 114.1707807,
+      "osm_id": 4849804176,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5929\u7a7a\u4e4b\u57ce\u9152\u696d Castle of Sky",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 22.2966359,
+      "lon": 114.1710378,
+      "osm_id": 4849843757,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Believe",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2964965,
+      "lon": 114.1714484,
+      "osm_id": 4849863694,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8db3\u81e8\u9580",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 22.2968556,
+      "lon": 114.1709964,
+      "osm_id": 4849863695,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u90ce",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2969521,
+      "lon": 114.1709219,
+      "osm_id": 4849863696,
+      "osm_type": "node",
+      "address": "\u5b9c\u660c\u8857 Ichang Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u5fc3MX Maxim's MX",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2966419,
+      "lon": 114.1712429,
+      "osm_id": 4849863697,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u963f\u56db\u5feb\u9910 Ah Say Fast Food",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2974225,
+      "lon": 114.1714793,
+      "osm_id": 4849902131,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2968724,
+      "lon": 114.1715178,
+      "osm_id": 4849902144,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f8d\u8c50 Lung Fung",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2963195,
+      "lon": 114.1716084,
+      "osm_id": 4849905361,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "bossini",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2963351,
+      "lon": 114.171739,
+      "osm_id": 4849905362,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Grand",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2962959,
+      "lon": 114.1714098,
+      "osm_id": 4849961236,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.296157,
+      "lon": 114.171318,
+      "osm_id": 4849961239,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ISA",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2962195,
+      "lon": 114.1710923,
+      "osm_id": 4850025679,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Major Watch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2960327,
+      "lon": 114.1711007,
+      "osm_id": 4850025680,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5357\u6d77\u4e00\u865f Nanhai No.1",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2972449,
+      "lon": 114.1718391,
+      "osm_id": 5151262024,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "iSquare",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2967793,
+      "lon": 114.1720724,
+      "osm_id": 6309071633,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "iSQUARE",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2973076,
+      "lon": 114.1720366,
+      "osm_id": 6309071634,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fila",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.296608,
+      "lon": 114.1717708,
+      "osm_id": 6371599589,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Castro's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2970633,
+      "lon": 114.1706139,
+      "osm_id": 6973008386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5feb\u6d3b Fairwood",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2965239,
+      "lon": 114.1704952,
+      "osm_id": 7176920185,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5317\u4eac\u9053 Peking Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2958167,
+      "lon": 114.1705064,
+      "osm_id": 8140840214,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Garmin",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 22.2967308,
+      "lon": 114.1715268,
+      "osm_id": 10880215926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u947d\u9418\u9336 Tick Time Company",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2971786,
+      "lon": 114.1709995,
+      "osm_id": 10880216060,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u516c\u5712\u5f91 Kowloon Park Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.296045,
+      "lon": 114.170213,
+      "osm_id": 11027194659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u9593\u9053 Middle Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2961099,
+      "lon": 114.1721702,
+      "osm_id": 11264857232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Ashley Road Trading Company",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 22.2969113,
+      "lon": 114.1704663,
+      "osm_id": 12716726133,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 144,
+    "removed_count": 98,
+    "model": "gemini-2.5-flash"
+  }
+}

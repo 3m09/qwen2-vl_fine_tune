@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/694.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.12947566336811,
+  "bbox": [
+    -99.13066984310903,
+    19.436261261261258,
+    -99.1282814836272,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "tourism.museum",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "tourism.museum": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "San Francisco",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4365257,
+      "lon": -99.1306383,
+      "osm_id": 4376884091,
+      "osm_type": "node",
+      "address": "San Ildefonso",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa San Ildefonso",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4365013,
+      "lon": -99.1304444,
+      "osm_id": 4687361078,
+      "osm_type": "node",
+      "address": "San Ildefonso",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa San Idelfonso",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 19.4364864,
+      "lon": -99.1305102,
+      "osm_id": 5117909174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,20 +1,51 @@
 {
   "image": "dataset/images/142.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93304543395912,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.83809610988804,
   "bbox": [
-    -73.93453331320447,
-    40.81126126126127,
-    -73.93155755471376,
-    40.81351351351353
+    72.83690555444367,
+    18.935765765765762,
+    72.83928666533241,
+    18.938018018018013
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Windsor",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.9365103,
+      "lon": 72.8386041,
+      "osm_id": 4133868438,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sun Clinic",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 18.9369719,
+      "lon": 72.8379477,
+      "osm_id": 7664032228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 6,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

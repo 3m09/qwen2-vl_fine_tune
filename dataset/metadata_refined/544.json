@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/544.png",
+  "center_lat": 41.00788288288289,
+  "center_lon": 28.961492284738146,
+  "bbox": [
+    28.96,
+    41.006756756756765,
+    28.96298456947629,
+    41.00900900900902
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.bank",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 3,
+    "amenity.bank": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "hotel wiva",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0079562,
+      "lon": 28.9621129,
+      "osm_id": 4265867792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bekda\u015f Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0085078,
+      "lon": 28.9602828,
+      "osm_id": 5111222042,
+      "osm_type": "node",
+      "address": "Derinkuyu Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Akgun hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0087993,
+      "lon": 28.9608407,
+      "osm_id": 5111222043,
+      "osm_type": "node",
+      "address": "Aga cesmesi sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Tep bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0089693,
+      "lon": 28.9627934,
+      "osm_id": 5111222049,
+      "osm_type": "node",
+      "address": "Buyuk handar efindi caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Marmarion",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0088443,
+      "lon": 28.9627545,
+      "osm_id": 6450592985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/775.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.93305452279856,
+  "bbox": [
+    -73.9345422000697,
+    40.80225225225225,
+    -73.93156684552741,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.hospital",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.hospital": 1,
+    "highway.bus_stop": 3
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "East 125th Street & 2nd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.80321,
+      "lon": -73.9343752,
+      "osm_id": 5235605497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 2nd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8031179,
+      "lon": -73.9341903,
+      "osm_id": 5235606179,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "East 125th Street & 2nd Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8028069,
+      "lon": -73.9339375,
+      "osm_id": 5235606230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New York Proton Center",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 40.804048,
+      "lon": -73.9342033,
+      "osm_id": 5599581921,
+      "osm_type": "node",
+      "address": "East 126th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 12,
+    "removed_count": 8,
+    "model": "gemini-2.5-flash"
+  }
+}

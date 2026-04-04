@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/1013.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.93898452248084,
+  "bbox": [
+    -73.94047270485936,
+    40.8247747747748,
+    -73.93749634010233,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "amenity.restaurant": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Thurgood Marshall Academy Lower School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8260271,
+      "lon": -73.9380544,
+      "osm_id": 357616350,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 148th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.82492,
+      "lon": -73.9402855,
+      "osm_id": 5415653683,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 150th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8261873,
+      "lon": -73.9393276,
+      "osm_id": 5415653684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 150th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8258558,
+      "lon": -73.9398629,
+      "osm_id": 5415654673,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hot Pot Under De Tree",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.826923,
+      "lon": -73.9391666,
+      "osm_id": 6296851689,
+      "osm_type": "node",
+      "address": "Frederick Douglas Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

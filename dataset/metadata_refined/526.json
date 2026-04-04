@@ -1,0 +1,592 @@
+{
+  "image": "dataset/images/526.png",
+  "center_lat": 41.00337837837838,
+  "center_lon": 28.97342964465792,
+  "bbox": [
+    28.971937461918152,
+    41.002252252252255,
+    28.97492182739769,
+    41.00450450450451
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "shop.beverages",
+    "amenity.taxi",
+    "tourism.viewpoint",
+    "tourism.motel",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "shop.butcher",
+    "amenity.bank",
+    "shop.travel_agency",
+    "amenity.parking",
+    "tourism.hotel",
+    "amenity.grave_yard",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "shop.beverages": 1,
+    "amenity.taxi": 1,
+    "tourism.viewpoint": 1,
+    "tourism.motel": 2,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 11,
+    "shop.butcher": 1,
+    "amenity.bank": 1,
+    "shop.travel_agency": 3,
+    "amenity.parking": 2,
+    "tourism.hotel": 19,
+    "amenity.grave_yard": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 45,
+  "pois": [
+    {
+      "name": "Sultan\u2019s Inn",
+      "category": [
+        "amenity.restaurant",
+        "tourism.hotel"
+      ],
+      "lat": 41.0031733,
+      "lon": 28.9745331,
+      "osm_id": 1762083460,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nostra Casa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0031267,
+      "lon": 28.9743156,
+      "osm_id": 1914160125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spectra Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0038485,
+      "lon": 28.972559,
+      "osm_id": 3100047495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arena Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0044497,
+      "lon": 28.9727964,
+      "osm_id": 5244801872,
+      "osm_type": "node",
+      "address": "\u00dc\u00e7ler Hamam\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Aleph Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.004257,
+      "lon": 28.9722473,
+      "osm_id": 5244801875,
+      "osm_type": "node",
+      "address": "\u015eehit Mehmet Pa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Garden 1897 Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.004117,
+      "lon": 28.9725286,
+      "osm_id": 5244801877,
+      "osm_type": "node",
+      "address": "Demirci Re\u015fit Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Ahmet Sweit",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0040639,
+      "lon": 28.9729699,
+      "osm_id": 5244801879,
+      "osm_type": "node",
+      "address": "Demirci Re\u015fit Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Rose Garden Suites",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0040097,
+      "lon": 28.9727044,
+      "osm_id": 5244801881,
+      "osm_type": "node",
+      "address": "\u015eehit Mehmetpa\u015fa Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Bachos Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0039104,
+      "lon": 28.9727138,
+      "osm_id": 5244801883,
+      "osm_type": "node",
+      "address": "Kasap Osman Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Serenity Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0038042,
+      "lon": 28.9729284,
+      "osm_id": 5244801885,
+      "osm_type": "node",
+      "address": "Kasap Osman Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ko\u00e7lar Turizm",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0037542,
+      "lon": 28.9733392,
+      "osm_id": 5244801886,
+      "osm_type": "node",
+      "address": "Kasap Osman Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Warung Ibu Deden Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0037247,
+      "lon": 28.9742295,
+      "osm_id": 5244801888,
+      "osm_type": "node",
+      "address": "Nekilbent Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet Otopark",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 41.0040333,
+      "lon": 28.9744709,
+      "osm_id": 5244801889,
+      "osm_type": "node",
+      "address": "Nekilbent Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Havuzba\u015f\u0131",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0043358,
+      "lon": 28.9747083,
+      "osm_id": 5244801890,
+      "osm_type": "node",
+      "address": "Nekilbent Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Led Travel",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0038395,
+      "lon": 28.9746683,
+      "osm_id": 5244801894,
+      "osm_type": "node",
+      "address": "Gelinlik Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Mari Time Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0028096,
+      "lon": 28.9745516,
+      "osm_id": 5244801903,
+      "osm_type": "node",
+      "address": "\u00c7ay\u0131ro\u011flu Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Seatanbul Apart",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0026689,
+      "lon": 28.9747897,
+      "osm_id": 5244801904,
+      "osm_type": "node",
+      "address": "\u00c7ay\u0131ro\u011flu Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Cheers Lighthouse",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0026917,
+      "lon": 28.9743022,
+      "osm_id": 5244801906,
+      "osm_type": "node",
+      "address": "\u00c7ay\u0131ro\u011flu Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Albatros",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0030347,
+      "lon": 28.9743095,
+      "osm_id": 5244801910,
+      "osm_type": "node",
+      "address": "\u00c7ay\u0131ro\u011flu Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Yal\u00e7\u0131nkayalar Et",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 41.0030702,
+      "lon": 28.9740339,
+      "osm_id": 5244801911,
+      "osm_type": "node",
+      "address": "Mustafa Pa\u015fa Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Holiday Time Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0032434,
+      "lon": 28.9731525,
+      "osm_id": 5244801977,
+      "osm_type": "node",
+      "address": "Akbur\u00e7ak Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Pasha Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0032069,
+      "lon": 28.9735977,
+      "osm_id": 5244801978,
+      "osm_type": "node",
+      "address": "Akbur\u00e7ak Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Siesta Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0026208,
+      "lon": 28.9732292,
+      "osm_id": 5244801979,
+      "osm_type": "node",
+      "address": "Akbur\u00e7ak Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ekol Travel",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0029527,
+      "lon": 28.973879,
+      "osm_id": 5244801980,
+      "osm_type": "node",
+      "address": "Aksakal Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Walnut Shell Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0027522,
+      "lon": 28.9736482,
+      "osm_id": 5244801983,
+      "osm_type": "node",
+      "address": "Aksakal Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Sefa Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0029617,
+      "lon": 28.9736456,
+      "osm_id": 5244801984,
+      "osm_type": "node",
+      "address": "Aksakal Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Coliseum Istanbul",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0035953,
+      "lon": 28.9740775,
+      "osm_id": 5244801987,
+      "osm_type": "node",
+      "address": "Aksakal Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Family Istanbul",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.003508,
+      "lon": 28.9733315,
+      "osm_id": 5244801992,
+      "osm_type": "node",
+      "address": "Kaleci Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Alice",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0036243,
+      "lon": 28.9728193,
+      "osm_id": 5244801993,
+      "osm_type": "node",
+      "address": "Kaleci Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "A\u00e7\u0131k Otopark",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 41.0035405,
+      "lon": 28.9730003,
+      "osm_id": 5244801995,
+      "osm_type": "node",
+      "address": "Kaleci Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan Mehmed Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.003338,
+      "lon": 28.9746392,
+      "osm_id": 5244803036,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0032557,
+      "lon": 28.9743683,
+      "osm_id": 5244803037,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Eresin Crown Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0035955,
+      "lon": 28.9747252,
+      "osm_id": 5244803039,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Chungiwa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0034134,
+      "lon": 28.9742102,
+      "osm_id": 5244803040,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Tarihi \u00c7esme Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.003512,
+      "lon": 28.9722284,
+      "osm_id": 5244803048,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Altin Cafe ve Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0032489,
+      "lon": 28.9721103,
+      "osm_id": 5244803050,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00fcseyin A\u011fa T\u00fcrbesi",
+      "category": [
+        "amenity.grave_yard"
+      ],
+      "lat": 41.0029022,
+      "lon": 28.9723675,
+      "osm_id": 5244803055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sphendon Duvar\u0131",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 41.0041463,
+      "lon": 28.9745769,
+      "osm_id": 5484108424,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Deniz",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0028629,
+      "lon": 28.9740952,
+      "osm_id": 6022831685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Delighturca",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 41.0036149,
+      "lon": 28.9736418,
+      "osm_id": 8128357017,
+      "osm_type": "node",
+      "address": "Kaleci Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Harmony hotel teras",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 41.0026409,
+      "lon": 28.9735712,
+      "osm_id": 8277311717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tekel",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 41.0036203,
+      "lon": 28.972658,
+      "osm_id": 9073798883,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Istanbul Anatolian cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0034011,
+      "lon": 28.9723208,
+      "osm_id": 10589342905,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya",
+      "road_geometry": null
+    },
+    {
+      "name": "Old Hipodrom",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0034977,
+      "lon": 28.9736777,
+      "osm_id": 12208997977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Virtuatlas Online Taxi (Airport Taxi Istanbul)",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 41.0038038,
+      "lon": 28.9738309,
+      "osm_id": 12913063792,
+      "osm_type": "node",
+      "address": "Kasap Osman Soka\u011f\u0131",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 97,
+    "removed_count": 52,
+    "model": "gemini-2.5-flash"
+  }
+}

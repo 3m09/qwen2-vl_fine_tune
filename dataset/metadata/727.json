@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/727.png",
+  "center_lat": 25.19563063063063,
+  "center_lon": 55.273711639564944,
+  "bbox": [
+    55.272467119627095,
+    25.194504504504504,
+    55.27495615950279,
+    25.196756756756756
+  ],
+  "unique_categories": [
+    "tourism.viewpoint",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "tourism.viewpoint": 1,
+    "tourism.artwork": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Fountain Watching Hill",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 25.1951243,
+      "lon": 55.2738427,
+      "osm_id": 7150180585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dandelion Light sculpture",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 25.1945057,
+      "lon": 55.2740476,
+      "osm_id": 10310507258,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/962.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.9479171541077,
+  "bbox": [
+    -73.94940523541891,
+    40.82027027027029,
+    -73.94642907279649,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "High School for Mathmatics, Science and Engineering at the City College",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8213765,
+      "lon": -73.9488187,
+      "osm_id": 357620221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Grange",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8225009,
+      "lon": -73.9493735,
+      "osm_id": 2768171701,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,15 +1,146 @@
 {
   "image": "dataset/images/127.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.97768181131971,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.83571471003583,
   "bbox": [
-    -73.97916969056506,
-    40.81126126126127,
-    -73.97619393207435,
-    40.81351351351353
+    72.83452418669852,
+    18.93126126126126,
+    72.83690523337314,
+    18.93351351351351
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.fixme"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.bank": 4,
+    "shop.clothes": 3,
+    "amenity.fixme": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Bank National de Paris",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9334797,
+      "lon": 72.835429,
+      "osm_id": 2167547603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canara Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9332287,
+      "lon": 72.8351006,
+      "osm_id": 2168654399,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R.B.I. (Fort)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9326916,
+      "lon": 72.836226,
+      "osm_id": 9739950358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R.B.I. (Fort)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9330246,
+      "lon": 72.8363514,
+      "osm_id": 9739950359,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Baroda",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9325964,
+      "lon": 72.8345832,
+      "osm_id": 12633513801,
+      "osm_type": "node",
+      "address": "Horniman Circle",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Baroda",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.932971,
+      "lon": 72.8350365,
+      "osm_id": 13514194577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "No-Mad",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9329198,
+      "lon": 72.8352682,
+      "osm_id": 13514206300,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "amisha kothari",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.9330971,
+      "lon": 72.8353018,
+      "osm_id": 13514218211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Renata Partners Advocates And Consultants LLP",
+      "category": [
+        "amenity.fixme"
+      ],
+      "lat": 18.9329457,
+      "lon": 72.835274,
+      "osm_id": 13514226075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "amisha kothari",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 18.933094,
+      "lon": 72.8352856,
+      "osm_id": 13514237454,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

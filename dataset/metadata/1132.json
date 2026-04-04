@@ -1,0 +1,82 @@
+{
+  "image": "dataset/images/1132.png",
+  "center_lat": 40.8371621621622,
+  "center_lon": -73.94195102926244,
+  "bbox": [
+    -73.94343946440956,
+    40.83603603603608,
+    -73.94046259411533,
+    40.83828828828833
+  ],
+  "unique_categories": [
+    "shop.car",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "shop.car": 1,
+    "highway.bus_stop": 4
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Buy New Car",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 40.8371564,
+      "lon": -73.9410693,
+      "osm_id": 6822460515,
+      "osm_type": "node",
+      "address": "West 163rd Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 162nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8370387,
+      "lon": -73.9429316,
+      "osm_id": 8369932989,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 161st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8367318,
+      "lon": -73.9427118,
+      "osm_id": 8369932990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 164th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8382546,
+      "lon": -73.9420533,
+      "osm_id": 8369932991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 163rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8379786,
+      "lon": -73.941798,
+      "osm_id": 8369932992,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

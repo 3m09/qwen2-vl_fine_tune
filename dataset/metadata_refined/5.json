@@ -1,20 +1,797 @@
 {
   "image": "dataset/images/5.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.98363610528904,
+  "center_lat": 35.65737837837838,
+  "center_lon": 139.70015785652984,
   "bbox": [
-    -73.98512373208094,
-    40.8,
-    -73.98214847849712,
-    40.80225225225225
+    139.69877190435324,
+    35.65625225225226,
+    139.70154380870648,
+    35.65850450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.musical_instrument",
+    "amenity.restaurant",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.mobile_phone",
+    "railway.stop",
+    "railway.train_station_entrance",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "tourism.attraction",
+    "shop.mall",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 14,
+    "amenity.cafe": 2,
+    "shop.convenience": 5,
+    "shop.musical_instrument": 1,
+    "amenity.restaurant": 6,
+    "amenity.bar": 22,
+    "amenity.bank": 1,
+    "shop.mobile_phone": 1,
+    "railway.stop": 1,
+    "railway.train_station_entrance": 1,
+    "amenity.fast_food": 4,
+    "shop.supermarket": 1,
+    "tourism.attraction": 1,
+    "shop.mall": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 62,
+  "pois": [
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6568956,
+      "lon": 139.7011298,
+      "osm_id": 752870658,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6570431,
+      "lon": 139.6991192,
+      "osm_id": 767264931,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6584606,
+      "lon": 139.7005816,
+      "osm_id": 1014528914,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e09\u83f1UFJ\u9280\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 35.6582319,
+      "lon": 139.7001082,
+      "osm_id": 1127216296,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u535a\u591a\u5929\u795e",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6579105,
+      "lon": 139.6995026,
+      "osm_id": 1446829846,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IKEBE JUNGLE GUITARS",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 35.6568544,
+      "lon": 139.7012101,
+      "osm_id": 1684609243,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kirin City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6567362,
+      "lon": 139.7014188,
+      "osm_id": 1684609244,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6569764,
+      "lon": 139.7008881,
+      "osm_id": 1684609269,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NALU",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6563234,
+      "lon": 139.7009122,
+      "osm_id": 1687239994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30c8\u30a9\u30f3\u30c6\u30b8",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6563784,
+      "lon": 139.7010852,
+      "osm_id": 1687240026,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "belmare",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6568193,
+      "lon": 139.7008632,
+      "osm_id": 1692587724,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f85\u91dd",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6564391,
+      "lon": 139.7009104,
+      "osm_id": 1692587811,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u82e5\u9ba8",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6566109,
+      "lon": 139.7009826,
+      "osm_id": 1692587812,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "IZAKAYA\u3000VIN",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6581447,
+      "lon": 139.6991507,
+      "osm_id": 1693090788,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "corn barley",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6579838,
+      "lon": 139.699901,
+      "osm_id": 1693090792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u304d\u3056\u307f",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6576701,
+      "lon": 139.6996392,
+      "osm_id": 1693090796,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306f\u306a\u3053",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6579653,
+      "lon": 139.6991038,
+      "osm_id": 1693090799,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3080\u3064\u6e4a",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6578607,
+      "lon": 139.6992749,
+      "osm_id": 1693090800,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u3082\u3078\u3044",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6580199,
+      "lon": 139.6993531,
+      "osm_id": 1693090802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30ec\u30c3\u30b7\u30e5\u5927\u548c\u7530",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 35.6584303,
+      "lon": 139.7000166,
+      "osm_id": 1693090826,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u756a",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6582658,
+      "lon": 139.6996245,
+      "osm_id": 1693090828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516b\u5409",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6580085,
+      "lon": 139.7001121,
+      "osm_id": 1693090829,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bcc\u58eb\u305d\u3070",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6578674,
+      "lon": 139.6995849,
+      "osm_id": 1693090851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c71\u5bb6",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6580939,
+      "lon": 139.6991902,
+      "osm_id": 1693090852,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c71\u5bb6",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6581806,
+      "lon": 139.6992132,
+      "osm_id": 1693090853,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c71\u5bb6",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6582053,
+      "lon": 139.6993236,
+      "osm_id": 1693090854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6cb3\u7ae5",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6582299,
+      "lon": 139.6994368,
+      "osm_id": 1693090857,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ce5\u7af9",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6580476,
+      "lon": 139.6989879,
+      "osm_id": 1693090865,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "guinness bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6578807,
+      "lon": 139.6988041,
+      "osm_id": 1693138231,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "sede tharros",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6581161,
+      "lon": 139.6995134,
+      "osm_id": 1693138237,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MAMIDOO",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6575163,
+      "lon": 139.6991438,
+      "osm_id": 1769303161,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bcc\u58eb\u305d\u3070",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6568943,
+      "lon": 139.7003696,
+      "osm_id": 1769303190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65e5\u6bd4\u8c37Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6578122,
+      "lon": 139.6990105,
+      "osm_id": 1769303192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\u30b7\u30e7\u30c3\u30d7",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 35.6572847,
+      "lon": 139.6998596,
+      "osm_id": 1886293911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6582776,
+      "lon": 139.7002336,
+      "osm_id": 2676511815,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6578681,
+      "lon": 139.7004409,
+      "osm_id": 2676653638,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6566353,
+      "lon": 139.6993404,
+      "osm_id": 2676653644,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6583244,
+      "lon": 139.7007061,
+      "osm_id": 2676653649,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6581677,
+      "lon": 139.7002967,
+      "osm_id": 2676653653,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6578899,
+      "lon": 139.7002895,
+      "osm_id": 2676653659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6576868,
+      "lon": 139.7002994,
+      "osm_id": 2676653679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6584413,
+      "lon": 139.7001754,
+      "osm_id": 2850364794,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.658178,
+      "lon": 139.7007191,
+      "osm_id": 2869832746,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6583169,
+      "lon": 139.6998049,
+      "osm_id": 3745365123,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6563961,
+      "lon": 139.6990921,
+      "osm_id": 3745481926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "bar rudies",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6576755,
+      "lon": 139.6994083,
+      "osm_id": 4003123304,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306e\u308a\u3070\u6848\u5185",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6582325,
+      "lon": 139.7010661,
+      "osm_id": 4091335632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trunp House nightclub",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6575265,
+      "lon": 139.6995644,
+      "osm_id": 4931268124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Trump House",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6577487,
+      "lon": 139.6992442,
+      "osm_id": 4931268125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6584056,
+      "lon": 139.699007,
+      "osm_id": 6219196072,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hanamaru Udon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6581101,
+      "lon": 139.700186,
+      "osm_id": 6342629586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6575486,
+      "lon": 139.7003685,
+      "osm_id": 8007279055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u897f\u53e3",
+      "category": [
+        "railway.train_station_entrance"
+      ],
+      "lat": 35.6580109,
+      "lon": 139.7014278,
+      "osm_id": 8401471639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HARBS Shibuya Sakura Stage",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6571825,
+      "lon": 139.701451,
+      "osm_id": 12452329280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6570702,
+      "lon": 139.7014241,
+      "osm_id": 12452329282,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6584716,
+      "lon": 139.700401,
+      "osm_id": 12538875590,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6583508,
+      "lon": 139.7004423,
+      "osm_id": 12538875591,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6582892,
+      "lon": 139.700582,
+      "osm_id": 12538875592,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JOYSOUND \u30ab\u30e9\u30aa\u30b1",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 35.6576735,
+      "lon": 139.6989454,
+      "osm_id": 12880383001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u6025\u30d7\u30e9\u30b6\u6e0b\u8c37",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 35.6576315,
+      "lon": 139.6999691,
+      "osm_id": 12995300069,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PRONTO",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6577639,
+      "lon": 139.6998052,
+      "osm_id": 12995300070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "THE BEER HOUSE",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6578926,
+      "lon": 139.7001055,
+      "osm_id": 12995300071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 135,
+    "removed_count": 73,
     "model": "gemini-2.5-flash"
   }
 }

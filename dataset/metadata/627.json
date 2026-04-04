@@ -1,0 +1,550 @@
+{
+  "image": "dataset/images/627.png",
+  "center_lat": 41.023648648648674,
+  "center_lon": 28.979404344894565,
+  "bbox": [
+    28.977911702979597,
+    41.02252252252255,
+    28.98089698680953,
+    41.024774774774805
+  ],
+  "unique_categories": [
+    "amenity.pub",
+    "amenity.fast_food;bicycle_rental",
+    "amenity.restaurant",
+    "shop.electronics",
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.place_of_worship",
+    "amenity.fast_food",
+    "amenity.ferry_terminal",
+    "shop.supermarket",
+    "tourism.hotel",
+    "tourism.attraction",
+    "shop.clothes",
+    "shop.pottery"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "amenity.fast_food;bicycle_rental": 1,
+    "amenity.restaurant": 14,
+    "shop.electronics": 1,
+    "amenity.cafe": 9,
+    "amenity.bar": 3,
+    "amenity.place_of_worship": 2,
+    "amenity.fast_food": 1,
+    "amenity.ferry_terminal": 1,
+    "shop.supermarket": 1,
+    "tourism.hotel": 4,
+    "tourism.attraction": 2,
+    "shop.clothes": 1,
+    "shop.pottery": 1
+  },
+  "poi_count": 42,
+  "pois": [
+    {
+      "name": "Cheers Port House",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0242509,
+      "lon": 28.9784036,
+      "osm_id": 1789464100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karak\u00f6y Lokantas\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0245922,
+      "lon": 28.980028,
+      "osm_id": 1898334690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mums",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0247496,
+      "lon": 28.9791947,
+      "osm_id": 4157059599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paps",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0246729,
+      "lon": 28.9791132,
+      "osm_id": 4157059692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nato Lokantas\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0245338,
+      "lon": 28.9780075,
+      "osm_id": 4508369289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anthony Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0246491,
+      "lon": 28.9783167,
+      "osm_id": 4977947721,
+      "osm_type": "node",
+      "address": "Hoca Tahsin Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Akyol Dijital \u00d6l\u00e7\u00fcm Cihazlar\u0131",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0243898,
+      "lon": 28.9779423,
+      "osm_id": 4993230921,
+      "osm_type": "node",
+      "address": "Hoca Tahsin Sk.",
+      "road_geometry": null
+    },
+    {
+      "name": "Galataport",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 41.023197,
+      "lon": 28.9793176,
+      "osm_id": 5477561862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fransiz Gecidi",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 41.0245125,
+      "lon": 28.9793708,
+      "osm_id": 5783643263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Un Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0237963,
+      "lon": 28.9785309,
+      "osm_id": 5893576085,
+      "osm_type": "node",
+      "address": "Karanl\u0131kf\u0131r\u0131n Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Un Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.024658,
+      "lon": 28.9780954,
+      "osm_id": 6116437686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kap\u0131 Pub Karak\u00f6y",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 41.0247007,
+      "lon": 28.9782207,
+      "osm_id": 6116486886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frans\u0131z Ge\u00e7idi",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 41.024615,
+      "lon": 28.9792854,
+      "osm_id": 6132230786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aya Andreas Kilisesi",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 41.0246772,
+      "lon": 28.9787414,
+      "osm_id": 6271739802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zero by Mayson",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0240346,
+      "lon": 28.9783122,
+      "osm_id": 6367785368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bdino Fish Wrap",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0240715,
+      "lon": 28.9780804,
+      "osm_id": 6387464087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eok",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0241172,
+      "lon": 28.9784561,
+      "osm_id": 6387464187,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karak\u00f6y \u00c7orba Evi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0243388,
+      "lon": 28.9784979,
+      "osm_id": 6774444585,
+      "osm_type": "node",
+      "address": "Mumhane Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Parantez Karak\u00f6y",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0246055,
+      "lon": 28.9790359,
+      "osm_id": 6850778887,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tahin",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0246752,
+      "lon": 28.9789373,
+      "osm_id": 6850781285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Skull and Bones Cocktail Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0243975,
+      "lon": 28.978783,
+      "osm_id": 9045017517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Istanbul Baking Company",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0245185,
+      "lon": 28.9789396,
+      "osm_id": 9045017717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "M\u00fcrver",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.024672,
+      "lon": 28.9800182,
+      "osm_id": 9171087887,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Balik D\u00fcr\u00fcm Mehmet Usta",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0244255,
+      "lon": 28.9786171,
+      "osm_id": 9358556417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JW Marriott Istanbul Bosphorus",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0240802,
+      "lon": 28.9792412,
+      "osm_id": 9526234127,
+      "osm_type": "node",
+      "address": "Kemanke\u015f Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Pitane",
+      "category": [
+        "shop.pottery"
+      ],
+      "lat": 41.0247153,
+      "lon": 28.9790035,
+      "osm_id": 10673880496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Octo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0241227,
+      "lon": 28.9791875,
+      "osm_id": 11025255305,
+      "osm_type": "node",
+      "address": "Kemanke\u015f Karamustafa Pa\u015fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Andrea Karak\u00f6y",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.024635,
+      "lon": 28.9788772,
+      "osm_id": 12512834713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karak\u00f6y \u0130sbike \u0130stasyonu",
+      "category": [
+        "amenity.fast_food;bicycle_rental"
+      ],
+      "lat": 41.0241364,
+      "lon": 28.9779572,
+      "osm_id": 12512834738,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parsa Coffee Roasters",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0243286,
+      "lon": 28.9780453,
+      "osm_id": 12512834746,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Triada Hotel Karak\u00f6y",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0243782,
+      "lon": 28.9781689,
+      "osm_id": 12512834750,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Design Market",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0246965,
+      "lon": 28.9789741,
+      "osm_id": 12512834752,
+      "osm_type": "node",
+      "address": "Mumhane Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Cheers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0242893,
+      "lon": 28.9784106,
+      "osm_id": 12512834754,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Shish",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0240538,
+      "lon": 28.9783908,
+      "osm_id": 12512834755,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ocean Fish House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0241262,
+      "lon": 28.9781854,
+      "osm_id": 12512834756,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galata R\u0131ht\u0131m Bal\u0131k\u00e7\u0131s\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0238874,
+      "lon": 28.9782958,
+      "osm_id": 12512834757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galata's Liman Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0239794,
+      "lon": 28.9779872,
+      "osm_id": 12512834758,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pandan Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0245967,
+      "lon": 28.9782531,
+      "osm_id": 12512834770,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Benden Karak\u00f6y",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0246361,
+      "lon": 28.9785138,
+      "osm_id": 12512834781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0238718,
+      "lon": 28.9797649,
+      "osm_id": 12836367419,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aya Panteleymon Kilisesi",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 41.0247402,
+      "lon": 28.9784709,
+      "osm_id": 13103729177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gallada",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0228565,
+      "lon": 28.978053,
+      "osm_id": 13630093542,
+      "osm_type": "node",
+      "address": "Kemanke\u015f Caddesi",
+      "road_geometry": null
+    }
+  ]
+}

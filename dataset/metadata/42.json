@@ -1,69 +1,491 @@
 {
   "image": "dataset/images/42.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.9449559409677,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.08009591542430425,
   "bbox": [
-    -73.94644361823885,
-    40.80225225225225,
-    -73.94346826369656,
-    40.80450450450451
+    -0.08190537765845841,
+    51.51175675675677,
+    -0.0782864531901501,
+    51.51400900900902
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
+    "amenity.pub",
+    "tourism.artwork",
+    "amenity.restaurant",
     "highway.bus_stop",
-    "amenity.place_of_worship"
+    "shop.bookmaker",
+    "tourism.viewpoint",
+    "amenity.cafe",
+    "amenity.bench",
+    "amenity.university",
+    "shop.chemist",
+    "amenity.fast_food",
+    "leisure.fitness_centre",
+    "amenity.bar",
+    "amenity.clinic",
+    "shop.clothes",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
+    "amenity.pub": 2,
+    "tourism.artwork": 7,
+    "amenity.restaurant": 3,
     "highway.bus_stop": 2,
-    "amenity.place_of_worship": 1
+    "shop.bookmaker": 1,
+    "tourism.viewpoint": 1,
+    "amenity.cafe": 3,
+    "amenity.bench": 1,
+    "amenity.university": 1,
+    "shop.chemist": 1,
+    "amenity.fast_food": 5,
+    "leisure.fitness_centre": 1,
+    "amenity.bar": 6,
+    "amenity.clinic": 1,
+    "shop.clothes": 1,
+    "shop.jewelry": 1
   },
-  "poi_count": 4,
+  "poi_count": 37,
   "pois": [
     {
-      "name": "Bethel Gospel Assembly",
+      "name": "Willy's Wine Bar",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.bar"
       ],
-      "lat": 40.8026303,
-      "lon": -73.9446473,
-      "osm_id": 1979669267,
+      "lat": 51.5126466,
+      "lon": -0.079319,
+      "osm_id": 295975606,
       "osm_type": "node",
-      "address": "5th Avenue",
+      "address": "Fenchurch Street",
       "road_geometry": null
     },
     {
-      "name": "Mount Morris Park West & West 121st Street",
+      "name": "The Old Tea Warehouse",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5135527,
+      "lon": -0.0788734,
+      "osm_id": 366073061,
+      "osm_type": "node",
+      "address": "Creechurch Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5127792,
+      "lon": -0.0812491,
+      "osm_id": 369121150,
+      "osm_type": "node",
+      "address": "Fenchurch Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "St Katharine Cree",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8043093,
-      "lon": -73.9460265,
-      "osm_id": 5269085064,
+      "lat": 51.5133225,
+      "lon": -0.0787288,
+      "osm_id": 469781745,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "5th Avenue & 120th Street",
+      "name": "St Katharine Cree",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8030297,
-      "lon": -73.9448907,
-      "osm_id": 5984081380,
+      "lat": 51.51326,
+      "lon": -0.0791636,
+      "osm_id": 469781746,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Mt Morris Park W & W 120 St",
+      "name": "Leonard Jay",
       "category": [
-        "amenity.bicycle_rental"
+        "shop.clothes"
       ],
-      "lat": 40.8040867,
-      "lon": -73.945905,
-      "osm_id": 8736432175,
+      "lat": 51.5117973,
+      "lon": -0.0816305,
+      "osm_id": 471488495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Moniker",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5128153,
+      "lon": -0.080977,
+      "osm_id": 471488497,
+      "osm_type": "node",
+      "address": "Fenchurch Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.512073,
+      "lon": -0.079772,
+      "osm_id": 668820028,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.511976,
+      "lon": -0.079927,
+      "osm_id": 668820569,
+      "osm_type": "node",
+      "address": "London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5121724,
+      "lon": -0.0793092,
+      "osm_id": 668842083,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fitness First",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5127141,
+      "lon": -0.078871,
+      "osm_id": 668842793,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Brera",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5121056,
+      "lon": -0.0791858,
+      "osm_id": 707377198,
+      "osm_type": "node",
+      "address": "Fenchurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Homerton Sexual Health",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.5134007,
+      "lon": -0.078508,
+      "osm_id": 1590654935,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The President's Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.513588,
+      "lon": -0.0808689,
+      "osm_id": 2945792753,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "BPP Business School",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 51.513979,
+      "lon": -0.0811412,
+      "osm_id": 4195103054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arcadia",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5129093,
+      "lon": -0.0818619,
+      "osm_id": 4402633263,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caravaggio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5135637,
+      "lon": -0.0807327,
+      "osm_id": 4430905280,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Breakfast & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5135255,
+      "lon": -0.080487,
+      "osm_id": 4430905424,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Coral",
+      "category": [
+        "shop.bookmaker"
+      ],
+      "lat": 51.5135305,
+      "lon": -0.0804396,
+      "osm_id": 4430908352,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Swingers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5139678,
+      "lon": -0.0804156,
+      "osm_id": 4430908427,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Patch",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5133973,
+      "lon": -0.0783326,
+      "osm_id": 4542454920,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Boots",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 51.511928,
+      "lon": -0.0810033,
+      "osm_id": 4628672427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LEON",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5118356,
+      "lon": -0.07981,
+      "osm_id": 4718553524,
+      "osm_type": "node",
+      "address": "London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Synapsid",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5117612,
+      "lon": -0.079532,
+      "osm_id": 5137341268,
+      "osm_type": "node",
+      "address": "Fenchurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Double Bench",
+      "category": [
+        "amenity.bench"
+      ],
+      "lat": 51.5123093,
+      "lon": -0.0815003,
+      "osm_id": 5767987400,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Great Escape",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.513083,
+      "lon": -0.0786221,
+      "osm_id": 5768339814,
+      "osm_type": "node",
+      "address": "Hartshorn Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "The Garden at 120",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 51.5121424,
+      "lon": -0.0807811,
+      "osm_id": 6284793459,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Gilt of Cain",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5122096,
+      "lon": -0.0815568,
+      "osm_id": 6304609767,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roundhouse",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5131898,
+      "lon": -0.0815428,
+      "osm_id": 6383045939,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Same for Everyone",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5136538,
+      "lon": -0.0798217,
+      "osm_id": 6622171062,
+      "osm_type": "node",
+      "address": "Cunard Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Mappin & Webb",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5121554,
+      "lon": -0.0803774,
+      "osm_id": 6885994817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Red Lion Coffee Co",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5131203,
+      "lon": -0.0812487,
+      "osm_id": 8835654826,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "14 Hills",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5122603,
+      "lon": -0.0808248,
+      "osm_id": 10937152564,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Spirit Of Man",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5131679,
+      "lon": -0.0789271,
+      "osm_id": 11298000169,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Fenchurch",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5126038,
+      "lon": -0.0784658,
+      "osm_id": 12534156760,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ventus",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.513201,
+      "lon": -0.0803138,
+      "osm_id": 13529524622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joe & the juice",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5118856,
+      "lon": -0.0811817,
+      "osm_id": 13703277206,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

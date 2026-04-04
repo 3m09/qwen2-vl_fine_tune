@@ -1,37 +1,91 @@
 {
   "image": "dataset/images/147.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.98958449172743,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.83333400050914,
   "bbox": [
-    -73.99107242148065,
-    40.81351351351353,
-    -73.9880965619742,
-    40.81576576576578
+    72.83214342900783,
+    18.938018018018013,
+    72.83452457201044,
+    18.940270270270265
   ],
   "unique_categories": [
-    "amenity.post_office"
+    "amenity.bank",
+    "amenity.cafe",
+    "amenity.fast_food",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "amenity.post_office": 1
+    "amenity.bank": 1,
+    "amenity.cafe": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 2
   },
-  "poi_count": 1,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "Cliffside Park Post Office",
+      "name": "McDonald's",
       "category": [
-        "amenity.post_office"
+        "amenity.fast_food"
       ],
-      "lat": 40.8140392,
-      "lon": -73.9904731,
-      "osm_id": 357742837,
+      "lat": 18.9387735,
+      "lon": 72.8344385,
+      "osm_id": 1234802651,
       "osm_type": "node",
-      "address": "Gorge Road",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Deutsche Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9383276,
+      "lon": 72.8327115,
+      "osm_id": 2166796344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Coffee Day",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9390156,
+      "lon": 72.8342644,
+      "osm_id": 2166872171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Majestic",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9392087,
+      "lon": 72.8343769,
+      "osm_id": 2166872172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Royal China",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9385871,
+      "lon": 72.8328817,
+      "osm_id": 5451047523,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 6,
+    "removed_count": 1,
     "model": "gemini-2.5-flash"
   }
 }

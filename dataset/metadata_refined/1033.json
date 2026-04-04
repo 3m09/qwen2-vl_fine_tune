@@ -1,0 +1,75 @@
+{
+  "image": "dataset/images/1033.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.95088831361457,
+  "bbox": [
+    -73.95237654653533,
+    40.82702702702706,
+    -73.94940008069379,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Broadway & West 147th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.827562,
+      "lon": -73.9498827,
+      "osm_id": 5281934116,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Riverside Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8270987,
+      "lon": -73.9516993,
+      "osm_id": 5798771852,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sing Wah Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8276305,
+      "lon": -73.9499637,
+      "osm_id": 8333828576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mamasushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8274612,
+      "lon": -73.9502495,
+      "osm_id": 8333828577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

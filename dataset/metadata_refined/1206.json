@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/1206.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.93599076428463,
+  "bbox": [
+    -73.93747935116173,
+    40.84279279279284,
+    -73.93450217740752,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.pharmacy",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.pharmacy": 2,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Redwood Apothecary",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8448257,
+      "lon": -73.936788,
+      "osm_id": 2797235652,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The Heights Bar and Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8450432,
+      "lon": -73.9348447,
+      "osm_id": 5413541062,
+      "osm_type": "node",
+      "address": "Audobon Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 174th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8449284,
+      "lon": -73.9370935,
+      "osm_id": 8369968533,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "173 Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8439436,
+      "lon": -73.9374183,
+      "osm_id": 11748653913,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

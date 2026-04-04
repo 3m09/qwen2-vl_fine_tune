@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/1058.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.94791007859365,
+  "bbox": [
+    -73.94939836206241,
+    40.82927927927931,
+    -73.9464217951249,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.fast_food",
+    "shop.deli",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 2,
+    "shop.deli": 2,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Taco Bell",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8299508,
+      "lon": -73.9483096,
+      "osm_id": 8333828563,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Silver Saddle Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8295454,
+      "lon": -73.9485617,
+      "osm_id": 8333828565,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yellow Banana",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8293505,
+      "lon": -73.9487609,
+      "osm_id": 8333828567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8296372,
+      "lon": -73.9477156,
+      "osm_id": 8333828568,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Chopcheese Deli 4",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8304349,
+      "lon": -73.9478668,
+      "osm_id": 12209958121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

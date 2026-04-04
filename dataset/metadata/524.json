@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/524.png",
+  "center_lat": 41.00337837837838,
+  "center_lon": 28.967460913698844,
+  "bbox": [
+    28.965968730959077,
+    41.002252252252255,
+    28.968953096438614,
+    41.00450450450451
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 2,
+    "amenity.cafe": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "White Palace Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0039906,
+      "lon": 28.9665016,
+      "osm_id": 10183104128,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costera Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0042026,
+      "lon": 28.9666175,
+      "osm_id": 10722632605,
+      "osm_type": "node",
+      "address": "Arapzade Ahmet Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0418\u0437\u0438\u043b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0033691,
+      "lon": 28.9689318,
+      "osm_id": 10781264705,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

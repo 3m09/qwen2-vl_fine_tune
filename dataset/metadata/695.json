@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/695.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.12708730388628,
+  "bbox": [
+    -99.1282814836272,
+    19.436261261261258,
+    -99.12589312414538,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Mercado Abelardo Rodriguez",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4371982,
+      "lon": -99.127463,
+      "osm_id": 3852852839,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Teatro del Pueblo",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4368277,
+      "lon": -99.1270813,
+      "osm_id": 4154582990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Teatro del Pueblo",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4368905,
+      "lon": -99.128069,
+      "osm_id": 4154582991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

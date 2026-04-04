@@ -1,121 +1,67 @@
 {
   "image": "dataset/images/136.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.95089998490336,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.84047701206616,
   "bbox": [
-    -73.9523878641487,
-    40.81126126126127,
-    -73.949412105658,
-    40.81351351351353
+    72.83928647267645,
+    18.93351351351351,
+    72.84166755145586,
+    18.935765765765762
   ],
   "unique_categories": [
-    "amenity.restaurant",
     "highway.bus_stop",
-    "shop.alcohol",
-    "amenity.bicycle_rental",
-    "railway.stop"
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 1,
     "highway.bus_stop": 3,
-    "shop.alcohol": 1,
-    "amenity.bicycle_rental": 1,
-    "railway.stop": 2
+    "amenity.restaurant": 1
   },
-  "poi_count": 8,
+  "poi_count": 4,
   "pois": [
     {
-      "name": "Harlem Maison",
+      "name": "Britannia & Co. Restaurant",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8121987,
-      "lon": -73.9516713,
-      "osm_id": 2501567185,
+      "lat": 18.9344727,
+      "lon": 72.8403579,
+      "osm_id": 4294810192,
       "osm_type": "node",
-      "address": null,
+      "address": "Sprott Road",
       "road_geometry": null
     },
     {
-      "name": "Saint Nicholas Avenue & West 129th Street",
+      "name": "Foreign Post Office",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8135117,
-      "lon": -73.9502409,
-      "osm_id": 5402622051,
+      "lat": 18.9355439,
+      "lon": 72.8403828,
+      "osm_id": 9769880938,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 128th Street",
+      "name": "New Customs House",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8119318,
-      "lon": -73.9500595,
-      "osm_id": 5470130937,
+      "lat": 18.9340978,
+      "lon": 72.8393555,
+      "osm_id": 9769880940,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 127th Street",
+      "name": "New Customs House",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8116921,
-      "lon": -73.9498853,
-      "osm_id": 5470131023,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8117452,
-      "lon": -73.9516466,
-      "osm_id": 6427120505,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8117851,
-      "lon": -73.9517207,
-      "osm_id": 6427120561,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "BTL Harlem",
-      "category": [
-        "shop.alcohol"
-      ],
-      "lat": 40.8120101,
-      "lon": -73.9512242,
-      "osm_id": 6814864633,
-      "osm_type": "node",
-      "address": "West 127th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - St Nicholas Ave & W 126 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8114432,
-      "lon": -73.9518714,
-      "osm_id": 13226775803,
+      "lat": 18.9339379,
+      "lon": 72.8396103,
+      "osm_id": 9788429269,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

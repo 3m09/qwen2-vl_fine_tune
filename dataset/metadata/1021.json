@@ -1,0 +1,102 @@
+{
+  "image": "dataset/images/1021.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.98660590371307,
+  "bbox": [
+    -73.98809413663383,
+    40.82702702702706,
+    -73.98511767079229,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "shop.mobile_phone",
+    "amenity.bank",
+    "amenity.restaurant",
+    "shop.beauty",
+    "leisure.fitness_centre",
+    "shop.confectionery"
+  ],
+  "poi_count_per_category": {
+    "shop.mobile_phone": 1,
+    "amenity.bank": 1,
+    "amenity.restaurant": 1,
+    "shop.beauty": 1,
+    "leisure.fitness_centre": 1,
+    "shop.confectionery": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Sedona Taphouse",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8286449,
+      "lon": -73.9869328,
+      "osm_id": 8691963728,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Anytime Fitness",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.828249,
+      "lon": -73.9872112,
+      "osm_id": 11210716457,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "The Lash Lounge",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.828048,
+      "lon": -73.9869081,
+      "osm_id": 11210716458,
+      "osm_type": "node",
+      "address": "Towne Centre Drive",
+      "road_geometry": null
+    },
+    {
+      "name": "Kilwins",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 40.8280907,
+      "lon": -73.9869886,
+      "osm_id": 11210743851,
+      "osm_type": "node",
+      "address": "Towne Centre Drive",
+      "road_geometry": null
+    },
+    {
+      "name": "AT&T",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8281191,
+      "lon": -73.9870744,
+      "osm_id": 11210743852,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spencer Savings Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8285696,
+      "lon": -73.9871227,
+      "osm_id": 11210743954,
+      "osm_type": "node",
+      "address": "Towne Centre Drive",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "dataset/images/960.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.95386947935253,
+  "bbox": [
+    -73.95535756066374,
+    40.82027027027029,
+    -73.95238139804133,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.deli"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "highway.bus_stop": 2,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "shop.deli": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Duane Reade",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8217049,
+      "lon": -73.9542468,
+      "osm_id": 2603955339,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 136th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8205948,
+      "lon": -73.9545383,
+      "osm_id": 4284126290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Deli",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8210794,
+      "lon": -73.9547411,
+      "osm_id": 5781374053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 137th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8212578,
+      "lon": -73.9540172,
+      "osm_id": 6261897500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8220128,
+      "lon": -73.9533003,
+      "osm_id": 10177409691,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Deli",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8213859,
+      "lon": -73.9544803,
+      "osm_id": 10177409692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 18,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

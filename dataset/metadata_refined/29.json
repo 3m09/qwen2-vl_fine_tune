@@ -1,20 +1,405 @@
 {
   "image": "dataset/images/29.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.98363555001742,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.07647931657455463,
   "bbox": [
-    -73.98512322728857,
-    40.80225225225225,
-    -73.98214787274628,
-    40.80450450450451
+    -0.0782885999149735,
+    51.50725225225226,
+    -0.07467003323413575,
+    51.50950450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.gift",
+    "amenity.fast_food",
+    "tourism.attraction",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.gift": 4,
+    "amenity.fast_food": 1,
+    "tourism.attraction": 2,
+    "tourism.information": 23
+  },
+  "poi_count": 31,
+  "pois": [
+    {
+      "name": "Crown Jewels",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5085864,
+      "lon": -0.0758418,
+      "osm_id": 3453930443,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Traitor's Gate",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5073934,
+      "lon": -0.0769914,
+      "osm_id": 3745441972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beefeater",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5077213,
+      "lon": -0.0777177,
+      "osm_id": 4200057914,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jewel House",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5086349,
+      "lon": -0.0749805,
+      "osm_id": 4200057915,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ravens",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5075086,
+      "lon": -0.0759689,
+      "osm_id": 4200057920,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "White Tower",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5081842,
+      "lon": -0.0759005,
+      "osm_id": 4200057922,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Armouries Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5077842,
+      "lon": -0.0751984,
+      "osm_id": 5043775732,
+      "osm_type": "node",
+      "address": "Tower Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Crispies",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5093146,
+      "lon": -0.0782299,
+      "osm_id": 11265331969,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guarding the Tower",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5076758,
+      "lon": -0.0771908,
+      "osm_id": 11942067107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Thomas's Tower",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5075477,
+      "lon": -0.0770232,
+      "osm_id": 11942067108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Medieval Palace",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5075503,
+      "lon": -0.0764936,
+      "osm_id": 11942067110,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bronze Gun",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.507496,
+      "lon": -0.0756396,
+      "osm_id": 11942067124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iron 9-pounder gun",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5073945,
+      "lon": -0.0759988,
+      "osm_id": 11942067166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bronze 6-pounder gun and carriage",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5073679,
+      "lon": -0.0755175,
+      "osm_id": 11942067172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wartime executions",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5084124,
+      "lon": -0.0750457,
+      "osm_id": 11942067173,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spies shot at the Tower",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5085211,
+      "lon": -0.0750436,
+      "osm_id": 11942067174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chapel of St Peter ad Vincula",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5084699,
+      "lon": -0.0766302,
+      "osm_id": 11942067190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Achille - Achilles",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.508495,
+      "lon": -0.0761617,
+      "osm_id": 11942067207,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "White Tower",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5078122,
+      "lon": -0.0755855,
+      "osm_id": 11942067208,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bronze 24-pounder Cannon",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5080772,
+      "lon": -0.0756489,
+      "osm_id": 11942067214,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Army stores and soldiers",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5082048,
+      "lon": -0.0756402,
+      "osm_id": 11942067215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iron 9-pounder gun",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5082793,
+      "lon": -0.0754335,
+      "osm_id": 11942067219,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iron 9-pounder gun",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5083275,
+      "lon": -0.0754357,
+      "osm_id": 11942067220,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bronze 8-inch mortar and iron bed",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5084855,
+      "lon": -0.0755843,
+      "osm_id": 11942067233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bronze 8-inch mortar and iron bed",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5084841,
+      "lon": -0.0756432,
+      "osm_id": 11942067266,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "1815 - Security stepped up afer a visitor seizes the State Crown",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5084061,
+      "lon": -0.075828,
+      "osm_id": 11942067272,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Memorial To The Executed in the Tower",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5082679,
+      "lon": -0.0768779,
+      "osm_id": 11942067277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Raleigh's garden",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5076673,
+      "lon": -0.0769118,
+      "osm_id": 11942067294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coldharbour Gate",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5079696,
+      "lon": -0.0766375,
+      "osm_id": 11942067295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Traitor's Gate",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5074907,
+      "lon": -0.0767879,
+      "osm_id": 11942067311,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Discover the palace story",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5075009,
+      "lon": -0.0780191,
+      "osm_id": 13666431892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 74,
+    "removed_count": 43,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,151 +1,57 @@
 {
   "image": "dataset/images/139.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.94197270943124,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.83095277722184,
   "bbox": [
-    -73.94346058867659,
-    40.81126126126127,
-    -73.94048483018588,
-    40.81351351351353
+    72.82976222177747,
+    18.935765765765762,
+    72.8321433326662,
+    18.938018018018013
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "shop.books",
-    "amenity.pharmacy",
-    "amenity.fast_food",
     "highway.bus_stop",
-    "amenity.bicycle_rental",
-    "shop.doityourself",
-    "shop.convenience"
+    "shop.interior_decoration",
+    "tourism.museum"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "shop.books": 1,
-    "amenity.pharmacy": 1,
-    "amenity.fast_food": 2,
-    "highway.bus_stop": 2,
-    "amenity.bicycle_rental": 1,
-    "shop.doityourself": 1,
-    "shop.convenience": 1
+    "highway.bus_stop": 1,
+    "shop.interior_decoration": 1,
+    "tourism.museum": 1
   },
-  "poi_count": 10,
+  "poi_count": 3,
   "pois": [
     {
-      "name": "McDonald's",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8122296,
-      "lon": -73.9418363,
-      "osm_id": 1740707014,
-      "osm_type": "node",
-      "address": "Lenox Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Associated Supermarket",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8123399,
-      "lon": -73.9417629,
-      "osm_id": 2562438629,
-      "osm_type": "node",
-      "address": "Lenox Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Revolution Books",
-      "category": [
-        "shop.books"
-      ],
-      "lat": 40.812132,
-      "lon": -73.9426527,
-      "osm_id": 2767552427,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 132nd Street",
+      "name": "Ahilyabai Holkar Chowk",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8123761,
-      "lon": -73.941887,
-      "osm_id": 5235584757,
+      "lat": 18.9359346,
+      "lon": 72.8304639,
+      "osm_id": 9788414502,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Malcolm X Boulevard & West 132nd Street",
+      "name": "Interio by Godrej",
       "category": [
-        "highway.bus_stop"
+        "shop.interior_decoration"
       ],
-      "lat": 40.8119898,
-      "lon": -73.9426697,
-      "osm_id": 5235585640,
+      "lat": 18.9370912,
+      "lon": 72.8318661,
+      "osm_id": 13464039886,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Arkan Food Corp",
+      "name": "Paradox Museum",
       "category": [
-        "shop.convenience"
+        "tourism.museum"
       ],
-      "lat": 40.8134445,
-      "lon": -73.9417023,
-      "osm_id": 10969505900,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "BLG Hardware",
-      "category": [
-        "shop.doityourself"
-      ],
-      "lat": 40.8122021,
-      "lon": -73.9426138,
-      "osm_id": 10969601635,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Life Pharmacy",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8132341,
-      "lon": -73.9418383,
-      "osm_id": 13133487853,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Tex's Chicken & Burgers",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8131954,
-      "lon": -73.941872,
-      "osm_id": 13133487854,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Lenox Ave & W 133 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8129719,
-      "lon": -73.9418855,
-      "osm_id": 13243987827,
+      "lat": 18.9362861,
+      "lon": 72.8317871,
+      "osm_id": 13464039888,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

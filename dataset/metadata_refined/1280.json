@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1280.png",
+  "center_lat": 40.85067567567573,
+  "center_lon": -73.9300292830394,
+  "bbox": [
+    -73.93151802169814,
+    40.84954954954961,
+    -73.92854054438067,
+    40.85180180180186
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.library"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.library": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Mendel Gottesman Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8509707,
+      "lon": -73.9291892,
+      "osm_id": 368050642,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 186 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.851114,
+      "lon": -73.9288486,
+      "osm_id": 11595082050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

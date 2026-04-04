@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1261.png",
+  "center_lat": 40.85067567567573,
+  "center_lon": -73.98660135207138,
+  "bbox": [
+    -73.98809009073011,
+    40.84954954954961,
+    -73.98511261341264,
+    40.85180180180186
+  ],
+  "unique_categories": [
+    "shop.supermarket",
+    "amenity.ice_cream"
+  ],
+  "poi_count_per_category": {
+    "shop.supermarket": 1,
+    "amenity.ice_cream": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Han Nam",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8514772,
+      "lon": -73.9867957,
+      "osm_id": 2023735562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 40.8506325,
+      "lon": -73.985586,
+      "osm_id": 8530362370,
+      "osm_type": "node",
+      "address": "Route 46 East",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "image": "dataset/images/535.png",
+  "center_lat": 41.005630630630634,
+  "center_lon": 28.967461168680302,
+  "bbox": [
+    28.965968934944243,
+    41.00450450450451,
+    28.968953402416364,
+    41.006756756756765
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "shop.shoes",
+    "amenity.pharmacy",
+    "tourism.motel",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.gift",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "tourism.hotel",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "shop.shoes": 6,
+    "amenity.pharmacy": 1,
+    "tourism.motel": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 3,
+    "shop.gift": 1,
+    "amenity.restaurant": 2,
+    "amenity.fast_food": 2,
+    "shop.supermarket": 3,
+    "tourism.hotel": 5,
+    "amenity.clinic": 1
+  },
+  "poi_count": 27,
+  "pois": [
+    {
+      "name": "Ottoman Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0050264,
+      "lon": 28.9679432,
+      "osm_id": 1807703795,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fors Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055208,
+      "lon": 28.9686387,
+      "osm_id": 1908677117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pierloti Eczanesi",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 41.0057612,
+      "lon": 28.9687596,
+      "osm_id": 4449599394,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "G\u00f6khan G\u0131da",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0050045,
+      "lon": 28.9665635,
+      "osm_id": 5244807853,
+      "osm_type": "node",
+      "address": "Gedik Pa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Gedikpa\u015fa Kona\u011f\u0131",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.005556,
+      "lon": 28.9666627,
+      "osm_id": 5244807854,
+      "osm_type": "node",
+      "address": "Gedik Pa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Turna B\u00fcfe ve Tekel",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0062371,
+      "lon": 28.9667996,
+      "osm_id": 5244807856,
+      "osm_type": "node",
+      "address": "Gedik Pa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Beyazit Han Suites",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0064937,
+      "lon": 28.9671207,
+      "osm_id": 5244807857,
+      "osm_type": "node",
+      "address": "T\u00fclc\u00fc Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Star \u00c7elik Taban",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0064624,
+      "lon": 28.9680103,
+      "osm_id": 5244807858,
+      "osm_type": "node",
+      "address": "Neviye Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Doppio Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0053595,
+      "lon": 28.9661475,
+      "osm_id": 5244810309,
+      "osm_type": "node",
+      "address": "\u00c7ilavc\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "R\u0131z\u0131k Shoes",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0058153,
+      "lon": 28.9665246,
+      "osm_id": 5244810311,
+      "osm_type": "node",
+      "address": "Asmal\u0131 Han Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Aynen D\u00fcr\u00fcm Ci\u011fer",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0064175,
+      "lon": 28.9660438,
+      "osm_id": 5244810319,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Metin Biye",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0066686,
+      "lon": 28.9661833,
+      "osm_id": 5244810320,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Karabatak Ayakkab\u0131",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0064911,
+      "lon": 28.9666386,
+      "osm_id": 5244810627,
+      "osm_type": "node",
+      "address": "Musellim Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ripa",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0065921,
+      "lon": 28.9670799,
+      "osm_id": 5244810629,
+      "osm_type": "node",
+      "address": "Gedik Pa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Asel Kum Ayakkab\u0131",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.00674,
+      "lon": 28.9679433,
+      "osm_id": 5244810637,
+      "osm_type": "node",
+      "address": "Mutrip Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Kim",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0045792,
+      "lon": 28.9682074,
+      "osm_id": 5475879226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eok",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0046366,
+      "lon": 28.967231,
+      "osm_id": 5476136521,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kumkap\u0131 Aile Sa\u011fl\u0131\u011f\u0131 Merkezi",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 41.004669,
+      "lon": 28.9676143,
+      "osm_id": 5529094349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "sar\u0131can g\u0131da",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0056988,
+      "lon": 28.9668355,
+      "osm_id": 8104077817,
+      "osm_type": "node",
+      "address": "Gedikpa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Faf Gift Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0045696,
+      "lon": 28.96676,
+      "osm_id": 10178438624,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kad\u0131rga Cafe & Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0047807,
+      "lon": 28.9681854,
+      "osm_id": 10178438659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nasip et Kebap",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0048859,
+      "lon": 28.9674559,
+      "osm_id": 10178438660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Furkan Kuruyemi\u015f",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0048269,
+      "lon": 28.9672887,
+      "osm_id": 10178438662,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cennet",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 41.0046502,
+      "lon": 28.9669566,
+      "osm_id": 10178438666,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Nasip-Et kebap",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0049058,
+      "lon": 28.9675063,
+      "osm_id": 10235736710,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Gloria Jeans",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0045655,
+      "lon": 28.9670947,
+      "osm_id": 11257731337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Verseca Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055411,
+      "lon": 28.9669364,
+      "osm_id": 11935187569,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Hamam\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 48,
+    "removed_count": 21,
+    "model": "gemini-2.5-flash"
+  }
+}

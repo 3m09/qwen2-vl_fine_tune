@@ -1,0 +1,133 @@
+{
+  "image": "dataset/images/692.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.13425238233177,
+  "bbox": [
+    -99.13544656207269,
+    19.436261261261258,
+    -99.13305820259086,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "shop.hardware",
+    "amenity.cinema",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.hardware": 1,
+    "amenity.cinema": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Hotel Azores",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4365505,
+      "lon": -99.1336007,
+      "osm_id": 4173294190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cine R\u00edo",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 19.4369014,
+      "lon": -99.1349462,
+      "osm_id": 5623119506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Domingo Santo Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4370194,
+      "lon": -99.1340879,
+      "osm_id": 7139775431,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4367524,
+      "lon": -99.133586,
+      "osm_id": 7139801101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pizza del Perro Negro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4363013,
+      "lon": -99.1352366,
+      "osm_id": 7984727746,
+      "osm_type": "node",
+      "address": "Calle Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Quesadillas",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4367423,
+      "lon": -99.1338106,
+      "osm_id": 8868860117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ferreter\u00eda Ruiz",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 19.4377412,
+      "lon": -99.13451,
+      "osm_id": 10723797476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Huarache Loco",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4367283,
+      "lon": -99.133362,
+      "osm_id": 11341410069,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 8,
+    "model": "gemini-2.5-flash"
+  }
+}

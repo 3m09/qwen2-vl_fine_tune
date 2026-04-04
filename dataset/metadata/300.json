@@ -1,0 +1,570 @@
+{
+  "image": "dataset/images/300.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.65885728225125,
+  "bbox": [
+    -46.660085825801,
+    -23.560990990990994,
+    -46.6576287387015,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.gift",
+    "amenity.cafe",
+    "shop.chocolate",
+    "amenity.courthouse",
+    "shop.hairdresser_supply",
+    "shop.optician",
+    "shop.hairdresser",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.copyshop",
+    "amenity.cinema",
+    "amenity.fast_food",
+    "shop.general",
+    "shop.clothes",
+    "shop.mall",
+    "shop.perfumery",
+    "amenity.taxi",
+    "amenity.pharmacy",
+    "shop.bakery",
+    "shop.newsagent",
+    "shop.shoes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 1,
+    "amenity.restaurant": 6,
+    "shop.gift": 2,
+    "amenity.cafe": 4,
+    "shop.chocolate": 1,
+    "amenity.courthouse": 1,
+    "shop.hairdresser_supply": 1,
+    "shop.optician": 1,
+    "shop.hairdresser": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.copyshop": 1,
+    "amenity.cinema": 1,
+    "amenity.fast_food": 2,
+    "shop.general": 1,
+    "shop.clothes": 6,
+    "shop.mall": 1,
+    "shop.perfumery": 1,
+    "amenity.taxi": 1,
+    "amenity.pharmacy": 1,
+    "shop.bakery": 1,
+    "shop.newsagent": 3,
+    "shop.shoes": 2,
+    "shop.jewelry": 1
+  },
+  "poi_count": 42,
+  "pois": [
+    {
+      "name": "Banca Paulista V",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5591773,
+      "lon": -46.6587173,
+      "osm_id": 4128352041,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Ivan",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5589464,
+      "lon": -46.6590225,
+      "osm_id": 4128352208,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5588018,
+      "lon": -46.6591008,
+      "osm_id": 4128365592,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Tribunal Regional Federal 3a Regi\u00e3o",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": -23.5594802,
+      "lon": -46.6579879,
+      "osm_id": 4128412647,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Shopping Market Paulista",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5596013,
+      "lon": -46.6589972,
+      "osm_id": 4128424588,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca de Jornal",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5600125,
+      "lon": -46.6582739,
+      "osm_id": 4128426404,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "CHP",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": -23.5609663,
+      "lon": -46.6587601,
+      "osm_id": 5016836024,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Hakka Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5606707,
+      "lon": -46.6584706,
+      "osm_id": 5209256522,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "TP Copias",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": -23.5600389,
+      "lon": -46.6597594,
+      "osm_id": 5274199024,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bacurim",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5600771,
+      "lon": -46.6597898,
+      "osm_id": 5274216421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Padaria Xodo",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.56074,
+      "lon": -46.6585433,
+      "osm_id": 7833639566,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "La Arena Parilla",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5608021,
+      "lon": -46.6586085,
+      "osm_id": 7833639568,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "A Griffe do Fil\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5608624,
+      "lon": -46.6586708,
+      "osm_id": 7833639569,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Savana Bar e Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5609667,
+      "lon": -46.658801,
+      "osm_id": 7833639571,
+      "osm_type": "node",
+      "address": "Alameda Ministro Rocha Azevedo",
+      "road_geometry": null
+    },
+    {
+      "name": "Frei Caneca 1",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5594172,
+      "lon": -46.6584382,
+      "osm_id": 8043075511,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Gula Gula",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5599448,
+      "lon": -46.6598783,
+      "osm_id": 9397609618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "A Casa de Antonia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5590503,
+      "lon": -46.6600852,
+      "osm_id": 10007826020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parque Prefeito M\u00e1rio Covas",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5600025,
+      "lon": -46.6577371,
+      "osm_id": 11135381337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 1272",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5593473,
+      "lon": -46.6596712,
+      "osm_id": 11286325302,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Liquid",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5596618,
+      "lon": -46.6597928,
+      "osm_id": 11329469308,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Barred's",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.559495,
+      "lon": -46.6596182,
+      "osm_id": 11329469309,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Arezzo",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5594419,
+      "lon": -46.6595629,
+      "osm_id": 11329469310,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Canal Concept",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5594079,
+      "lon": -46.6595276,
+      "osm_id": 11329469311,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Mantegeria Lisboa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5593702,
+      "lon": -46.6594883,
+      "osm_id": 11329469312,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Borelli",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": -23.5593186,
+      "lon": -46.6594346,
+      "osm_id": 11329469313,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Provence",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": -23.5592814,
+      "lon": -46.6593959,
+      "osm_id": 11329469314,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Dax",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5592466,
+      "lon": -46.6593597,
+      "osm_id": 11329469315,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Armaz\u00e9m Erva Doce",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5592342,
+      "lon": -46.659301,
+      "osm_id": 11329469316,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Bonono Split",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5592009,
+      "lon": -46.6593388,
+      "osm_id": 11329469317,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Pastel do Juca",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5592122,
+      "lon": -46.659326,
+      "osm_id": 11329469318,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Rei do Mate",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5592958,
+      "lon": -46.6592309,
+      "osm_id": 11329469320,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Droga Raia",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.5589486,
+      "lon": -46.6596051,
+      "osm_id": 11964641228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vans",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5588101,
+      "lon": -46.659825,
+      "osm_id": 12105253645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Marquise",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": -23.5590843,
+      "lon": -46.6600478,
+      "osm_id": 12254113001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mundo do cabeleireiro",
+      "category": [
+        "shop.general"
+      ],
+      "lat": -23.5588679,
+      "lon": -46.6597065,
+      "osm_id": 12688770612,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Track&Field",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5590432,
+      "lon": -46.6599522,
+      "osm_id": 13131453162,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "mundo do cabeleireiro",
+      "category": [
+        "shop.hairdresser_supply"
+      ],
+      "lat": -23.559094,
+      "lon": -46.6599146,
+      "osm_id": 13131453163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dafyne Presentes",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": -23.5591744,
+      "lon": -46.6598234,
+      "osm_id": 13131453164,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Khelf",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5592694,
+      "lon": -46.6598735,
+      "osm_id": 13131453165,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brasil Cacau",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": -23.559258,
+      "lon": -46.6599075,
+      "osm_id": 13131453166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "O Botic\u00e1rio",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": -23.5592473,
+      "lon": -46.6599285,
+      "osm_id": 13131453167,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "enamore hair",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5592222,
+      "lon": -46.6599786,
+      "osm_id": 13131453168,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

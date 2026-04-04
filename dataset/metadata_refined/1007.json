@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1007.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.95684271102303,
+  "bbox": [
+    -73.95833089340155,
+    40.8247747747748,
+    -73.95535452864452,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Riverbank St. Park (Bx19, M11)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.826758,
+      "lon": -73.9554676,
+      "osm_id": 4111168784,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/1234.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.99553393582265,
+  "bbox": [
+    -73.99702262388176,
+    40.84729729729735,
+    -73.99404524776352,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "shop.tailor",
+    "shop.hairdresser",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 1,
+    "shop.tailor": 1,
+    "shop.hairdresser": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Saint Michael's Catholic Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8478778,
+      "lon": -73.9959722,
+      "osm_id": 357743037,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gold Medal",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 40.8489856,
+      "lon": -73.9968854,
+      "osm_id": 6171872972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Suki",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8491192,
+      "lon": -73.9967642,
+      "osm_id": 6171872974,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anthony's Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8495437,
+      "lon": -73.997004,
+      "osm_id": 6171872977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fel Smusal",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8493573,
+      "lon": -73.9966404,
+      "osm_id": 6171872982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "image": "dataset/images/316.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.66377149856418,
+  "bbox": [
+    -46.665,
+    -23.55648648648649,
+    -46.66254299712836,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.erotic",
+    "amenity.restaurant",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "shop.erotic": 1,
+    "amenity.restaurant": 3,
+    "shop.supermarket": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5564237,
+      "lon": -46.6636985,
+      "osm_id": 3227217162,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Sal Gastronomia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5547983,
+      "lon": -46.6648783,
+      "osm_id": 4725062498,
+      "osm_type": "node",
+      "address": "Rua Minas Gerais",
+      "road_geometry": null
+    },
+    {
+      "name": "Dali Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5563528,
+      "lon": -46.663554,
+      "osm_id": 4893953646,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista C/B",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5553979,
+      "lon": -46.662616,
+      "osm_id": 4912963616,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista B/C",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5557926,
+      "lon": -46.6630472,
+      "osm_id": 4912963721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lisboa Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5547499,
+      "lon": -46.6631679,
+      "osm_id": 5005509053,
+      "osm_type": "node",
+      "address": "Avenida Ang\u00e9lica",
+      "road_geometry": null
+    },
+    {
+      "name": "Estilo Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5543638,
+      "lon": -46.6627895,
+      "osm_id": 5005509060,
+      "osm_type": "node",
+      "address": "Avenida Ang\u00e9lica",
+      "road_geometry": null
+    },
+    {
+      "name": "Exclusiva",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": -23.5557719,
+      "lon": -46.663346,
+      "osm_id": 11961185456,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 9,
+    "model": "gemini-2.5-flash"
+  }
+}

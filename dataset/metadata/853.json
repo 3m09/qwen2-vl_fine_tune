@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/853.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.98660908679183,
+  "bbox": [
+    -73.98809696603718,
+    40.81126126126127,
+    -73.98512120754647,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "shop.craft",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.craft": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Michaels",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 40.8122862,
+      "lon": -73.9856004,
+      "osm_id": 8530362499,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "TJ Maxx",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 40.812077,
+      "lon": -73.9851345,
+      "osm_id": 8530362500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

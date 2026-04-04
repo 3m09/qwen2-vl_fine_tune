@@ -1,15 +1,892 @@
 {
   "image": "dataset/images/71.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.93007679546298,
+  "center_lat": 48.86063063063063,
+  "center_lon": 2.340135034072378,
   "bbox": [
-    -73.93156452321908,
-    40.80450450450451,
-    -73.92858906770687,
-    40.80675675675676
+    2.338423356048252,
+    48.85950450450451,
+    2.341846712096504,
+    48.86175675675676
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "shop.gift",
+    "shop.deli",
+    "amenity.cafe",
+    "amenity.fuel",
+    "railway.stop",
+    "railway.station",
+    "shop.bicycle",
+    "tourism.information",
+    "shop.optician",
+    "shop.tea",
+    "shop.leather",
+    "leisure.amusement_arcade",
+    "railway.subway_entrance",
+    "amenity.bicycle_rental",
+    "amenity.atm",
+    "highway.bus_stop",
+    "shop.sports",
+    "shop.interior_decoration",
+    "shop.travel_agency",
+    "tourism.gallery",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "shop.clothes",
+    "amenity.pub",
+    "tourism.artwork",
+    "amenity.doctors",
+    "amenity.parking_entrance",
+    "shop.nutrition_supplements",
+    "amenity.community_centre",
+    "shop.watches",
+    "shop.second_hand",
+    "shop.bakery",
+    "amenity.bar",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 11,
+    "shop.gift": 2,
+    "shop.deli": 1,
+    "amenity.cafe": 3,
+    "amenity.fuel": 1,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "shop.bicycle": 1,
+    "tourism.information": 1,
+    "shop.optician": 2,
+    "shop.tea": 1,
+    "shop.leather": 1,
+    "leisure.amusement_arcade": 1,
+    "railway.subway_entrance": 1,
+    "amenity.bicycle_rental": 2,
+    "amenity.atm": 1,
+    "highway.bus_stop": 4,
+    "shop.sports": 1,
+    "shop.interior_decoration": 1,
+    "shop.travel_agency": 1,
+    "tourism.gallery": 1,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 4,
+    "shop.clothes": 2,
+    "amenity.pub": 1,
+    "tourism.artwork": 4,
+    "amenity.doctors": 2,
+    "amenity.parking_entrance": 2,
+    "shop.nutrition_supplements": 1,
+    "amenity.community_centre": 1,
+    "shop.watches": 2,
+    "shop.second_hand": 1,
+    "shop.bakery": 2,
+    "amenity.bar": 2,
+    "amenity.bank": 2
+  },
+  "poi_count": 67,
+  "pois": [
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8608027,
+      "lon": 2.3411235,
+      "osm_id": 27362260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oil France",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 48.8611046,
+      "lon": 2.3413657,
+      "osm_id": 307372951,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint-Germain l'Auxerrois",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.859699,
+      "lon": 2.3406358,
+      "osm_id": 678892457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Oratoire",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8617534,
+      "lon": 2.3405848,
+      "osm_id": 679414266,
+      "osm_type": "node",
+      "address": "Rue Saint-Honor\u00e9",
+      "road_geometry": null
+    },
+    {
+      "name": "Rue de l'Amiral-de-Coligny",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8606931,
+      "lon": 2.3408863,
+      "osm_id": 831854851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9dicule Guimard",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8607349,
+      "lon": 2.3409132,
+      "osm_id": 1601500202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Fumoir",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 48.8604338,
+      "lon": 2.3408561,
+      "osm_id": 1871186489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8611914,
+      "lon": 2.3402427,
+      "osm_id": 2039201608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Louvre ripaille",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8603236,
+      "lon": 2.3412799,
+      "osm_id": 3405085785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Coop\u00e9rative",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8604378,
+      "lon": 2.3417437,
+      "osm_id": 3405085786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Libanessence",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8615831,
+      "lon": 2.3414377,
+      "osm_id": 3650935229,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BRED",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 48.8615573,
+      "lon": 2.3413218,
+      "osm_id": 3650935230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Rivoli",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8615112,
+      "lon": 2.3394507,
+      "osm_id": 3980224347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'\u00e9toile de Rivoli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8612843,
+      "lon": 2.3401465,
+      "osm_id": 3980224349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Madura",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8610995,
+      "lon": 2.3407279,
+      "osm_id": 3980224350,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "I \u2665\ufe0f Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8611993,
+      "lon": 2.3404195,
+      "osm_id": 3980224351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rives",
+      "category": [
+        "shop.leather"
+      ],
+      "lat": 48.8611637,
+      "lon": 2.340532,
+      "osm_id": 3980224352,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Auguste",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8609356,
+      "lon": 2.3411543,
+      "osm_id": 3980224353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BRED",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 48.8609603,
+      "lon": 2.3410786,
+      "osm_id": 3980224354,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Polette.com",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.8606774,
+      "lon": 2.3410953,
+      "osm_id": 3980334520,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OChrono",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8606483,
+      "lon": 2.3412015,
+      "osm_id": 3980334525,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brompton Junction",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 48.8605113,
+      "lon": 2.3416379,
+      "osm_id": 3980384392,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yam'Tcha",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8614963,
+      "lon": 2.3418269,
+      "osm_id": 3980676684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Gourmandises de Saint-Honor\u00e9",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 48.8615341,
+      "lon": 2.3416742,
+      "osm_id": 3980676686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Quintessence",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8615506,
+      "lon": 2.3415949,
+      "osm_id": 3980676687,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Body Coach Center",
+      "category": [
+        "shop.nutrition_supplements"
+      ],
+      "lat": 48.8615689,
+      "lon": 2.3415065,
+      "osm_id": 3980721254,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Optique rue Saint-Honor\u00e9",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.861658,
+      "lon": 2.3409405,
+      "osm_id": 3980721255,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Come Prima",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8617026,
+      "lon": 2.3407696,
+      "osm_id": 3980721256,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Table",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8616533,
+      "lon": 2.3417835,
+      "osm_id": 3980826496,
+      "osm_type": "node",
+      "address": "Rue Saint-Honor\u00e9",
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie 110",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8616703,
+      "lon": 2.3417103,
+      "osm_id": 3980826497,
+      "osm_type": "node",
+      "address": "Rue Saint-Honor\u00e9",
+      "road_geometry": null
+    },
+    {
+      "name": "Jean Marc Philippe",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8605735,
+      "lon": 2.3414141,
+      "osm_id": 4539660391,
+      "osm_type": "node",
+      "address": "Rue de Rivoli",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8617462,
+      "lon": 2.3414504,
+      "osm_id": 4698134990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Clover Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.861036,
+      "lon": 2.3417732,
+      "osm_id": 4728771718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Relais du Louvre",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8615917,
+      "lon": 2.3409529,
+      "osm_id": 4763491526,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Dame de Pic",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8614437,
+      "lon": 2.3412476,
+      "osm_id": 4782518663,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Tourisme",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 48.860573,
+      "lon": 2.3409215,
+      "osm_id": 4905284713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8608148,
+      "lon": 2.3411352,
+      "osm_id": 5226630391,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument de l\u2019amiral Gaspard de Coligny",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8614488,
+      "lon": 2.3397517,
+      "osm_id": 5687347684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8613204,
+      "lon": 2.3411368,
+      "osm_id": 5979563847,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.860483,
+      "lon": 2.340443,
+      "osm_id": 5979568537,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costadoro",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8606209,
+      "lon": 2.3412917,
+      "osm_id": 6192163786,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BO&MIE",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 48.8607057,
+      "lon": 2.3409996,
+      "osm_id": 6192292303,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.861134,
+      "lon": 2.34042,
+      "osm_id": 6280428356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chez Alexandre",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8611898,
+      "lon": 2.3411607,
+      "osm_id": 6443532066,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oratoire - Rivoli",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8613995,
+      "lon": 2.3400377,
+      "osm_id": 6801503715,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Subdued",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8605315,
+      "lon": 2.3415281,
+      "osm_id": 7766440310,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Espot",
+      "category": [
+        "leisure.amusement_arcade"
+      ],
+      "lat": 48.8608576,
+      "lon": 2.3414306,
+      "osm_id": 8446798368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hautes Herbes",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8599066,
+      "lon": 2.3405714,
+      "osm_id": 8458628895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 du Mus\u00e9e",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8610329,
+      "lon": 2.3411341,
+      "osm_id": 8591620495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Samaritaine Paris Pont-Neuf",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 48.8595334,
+      "lon": 2.3403608,
+      "osm_id": 8613548217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BRED",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 48.8616002,
+      "lon": 2.3413875,
+      "osm_id": 9579069617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Glisse Urbaine",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 48.8615321,
+      "lon": 2.3409315,
+      "osm_id": 9579069717,
+      "osm_type": "node",
+      "address": "Rue du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Quartier Jeunes",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 48.8599649,
+      "lon": 2.341164,
+      "osm_id": 9601946817,
+      "osm_type": "node",
+      "address": "Place du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "1129 iiniku",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8614079,
+      "lon": 2.341203,
+      "osm_id": 9670905935,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Martine et Nous",
+      "category": [
+        "shop.second_hand"
+      ],
+      "lat": 48.8613184,
+      "lon": 2.3411989,
+      "osm_id": 9670905938,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Th\u00e9",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 48.8616613,
+      "lon": 2.3404192,
+      "osm_id": 10030432905,
+      "osm_type": "node",
+      "address": "Rue de l'Oratoire",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 QJ",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8599374,
+      "lon": 2.3410895,
+      "osm_id": 10089952620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ACE Mart",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 48.8614528,
+      "lon": 2.3408914,
+      "osm_id": 10578008668,
+      "osm_type": "node",
+      "address": "Rue du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Perrault - Place du Louvre",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8602947,
+      "lon": 2.3414086,
+      "osm_id": 10671861710,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ochrono",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.8603378,
+      "lon": 2.3414021,
+      "osm_id": 10674582857,
+      "osm_type": "node",
+      "address": "Rue Perrault",
+      "road_geometry": null
+    },
+    {
+      "name": "Fabienne Robichon",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 48.8614843,
+      "lon": 2.3413144,
+      "osm_id": 10788583775,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alain Vila",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 48.8614807,
+      "lon": 2.3412913,
+      "osm_id": 10788591839,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dr Mamlouk",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 48.8614942,
+      "lon": 2.341292,
+      "osm_id": 10788596671,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louvre - Rivoli",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 48.860809,
+      "lon": 2.3411316,
+      "osm_id": 11898915481,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Histoire des foss\u00e9s Saint-Germain du palais du Louvre",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8609373,
+      "lon": 2.340382,
+      "osm_id": 12220466871,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saib\u0101 Caf\u00e9",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8607701,
+      "lon": 2.3416727,
+      "osm_id": 12233280726,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Batailles d'Alexandre",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8608961,
+      "lon": 2.3391739,
+      "osm_id": 13105524570,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

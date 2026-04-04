@@ -1,243 +1,292 @@
 {
   "image": "dataset/images/14.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.95685882303472,
+  "center_lat": 35.66188288288289,
+  "center_lon": 139.70293015177958,
   "bbox": [
-    -73.95834644982662,
-    40.8,
-    -73.95537119624281,
-    40.80225225225225
+    139.70154412142367,
+    35.66075675675677,
+    139.7043161821355,
+    35.66300900900902
   ],
   "unique_categories": [
-    "railway.stop",
-    "amenity.bank",
-    "railway.station",
-    "highway.bus_stop",
-    "shop.chemist",
-    "shop.hairdresser",
+    "amenity.college",
+    "amenity.pharmacy",
     "amenity.cafe",
-    "amenity.fast_food",
-    "amenity.bicycle_rental",
-    "amenity.school",
+    "shop.chemist",
+    "shop.stationery",
     "amenity.bar",
     "amenity.restaurant",
-    "shop.convenience",
-    "shop.alcohol"
+    "shop.mobile_phone",
+    "shop.clothes",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "shop.bicycle",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "railway.stop": 1,
-    "amenity.bank": 1,
-    "railway.station": 1,
-    "highway.bus_stop": 1,
+    "amenity.college": 1,
+    "amenity.pharmacy": 1,
+    "amenity.cafe": 5,
     "shop.chemist": 1,
-    "shop.hairdresser": 1,
-    "amenity.cafe": 1,
-    "amenity.fast_food": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.school": 1,
+    "shop.stationery": 1,
     "amenity.bar": 1,
     "amenity.restaurant": 1,
-    "shop.convenience": 3,
-    "shop.alcohol": 1
+    "shop.mobile_phone": 1,
+    "shop.clothes": 2,
+    "amenity.bicycle_rental": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "shop.bicycle": 1,
+    "tourism.information": 3
   },
-  "poi_count": 16,
+  "poi_count": 20,
   "pois": [
     {
-      "name": "Public School M241 STEM Institute of Manhattan",
+      "name": "Suit Select",
       "category": [
-        "amenity.school"
+        "shop.clothes"
       ],
-      "lat": 40.8017647,
-      "lon": -73.9554286,
-      "osm_id": 357648583,
-      "osm_type": "node",
-      "address": "West 113th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Citizens Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.801814,
-      "lon": -73.9575077,
-      "osm_id": 2259025504,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Fred's Munchies",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8018884,
-      "lon": -73.956978,
-      "osm_id": 2762470553,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Frederick Douglass Boulevard & West 111th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.801373,
-      "lon": -73.9574845,
-      "osm_id": 3273383622,
+      "lat": 35.6611255,
+      "lon": 139.7025036,
+      "osm_id": 1681496625,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway\u2013110th Street",
-      "category": [
-        "railway.station"
-      ],
-      "lat": 40.8005967,
-      "lon": -73.9581718,
-      "osm_id": 5300353893,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Cathedral Wine & Liquor",
-      "category": [
-        "shop.alcohol"
-      ],
-      "lat": 40.8012146,
-      "lon": -73.9579622,
-      "osm_id": 5978792513,
-      "osm_type": "node",
-      "address": "Cathederal Parkway",
-      "road_geometry": null
-    },
-    {
-      "name": "Dragon One",
+      "name": "\u548c\u5e78",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8020768,
-      "lon": -73.956844,
-      "osm_id": 6426473697,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Drug Shoppe Pharmacy",
-      "category": [
-        "shop.chemist"
-      ],
-      "lat": 40.8019974,
-      "lon": -73.9568844,
-      "osm_id": 6426473698,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Cathedral Parkway\u2013110th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.801106,
-      "lon": -73.957715,
-      "osm_id": 6427120636,
+      "lat": 35.6613301,
+      "lon": 139.7025102,
+      "osm_id": 1681496629,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "67 Orange Street",
+      "name": "\u30ab\u30df\u30e0\u30e9\u6587\u5177\u5e97",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 35.6609753,
+      "lon": 139.7025215,
+      "osm_id": 1681496693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d9\u30bf\u30fc\u30db\u30fc\u30e0\u306e \u304a\u6599\u7406\u6559\u5ba4",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 35.6609042,
+      "lon": 139.7030093,
+      "osm_id": 1681496789,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516b\u864e",
       "category": [
         "amenity.bar"
       ],
-      "lat": 40.8022415,
-      "lon": -73.9567108,
-      "osm_id": 7125399099,
+      "lat": 35.6611873,
+      "lon": 139.7020956,
+      "osm_id": 1681496822,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Purple Waves",
+      "name": "\u30bd\u30d5\u30c8\u30d0\u30f3\u30af\u30b7\u30e7\u30c3\u30d7",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 35.6610113,
+      "lon": 139.7021026,
+      "osm_id": 1886280360,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KAPELMUUR",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 35.6621263,
+      "lon": 139.7025102,
+      "osm_id": 3355110199,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "347 cafe",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8008299,
-      "lon": -73.9575911,
-      "osm_id": 11517472730,
-      "osm_type": "node",
-      "address": "West 110th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Park View Market",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8014683,
-      "lon": -73.9577702,
-      "osm_id": 11833767803,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Frederick Douglass Blvd & W 112 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8016932,
-      "lon": -73.957173,
-      "osm_id": 11971474971,
+      "lat": 35.6619979,
+      "lon": 139.7028366,
+      "osm_id": 4790839421,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Pelando & Rapeando Barber Shop",
+      "name": "Cat street caf\u00e9",
       "category": [
-        "shop.hairdresser"
+        "amenity.cafe"
       ],
-      "lat": 40.8016597,
-      "lon": -73.9576249,
-      "osm_id": 12035353841,
+      "lat": 35.6629843,
+      "lon": 139.7026453,
+      "osm_id": 5080769502,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Park View Mart",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8017134,
-      "lon": -73.9575841,
-      "osm_id": 12035353843,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Root Juicery",
+      "name": "Glorious chain caf\u00e9",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8020929,
-      "lon": -73.9573085,
-      "osm_id": 12036720750,
+      "lat": 35.6619023,
+      "lon": 139.7024443,
+      "osm_id": 5080769506,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adolfo Dominguez",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 35.6612299,
+      "lon": 139.7040957,
+      "osm_id": 7021148888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PRONTO",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6615505,
+      "lon": 139.7025825,
+      "osm_id": 7253067954,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Kitsun\u00e9 Shibuya",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6623349,
+      "lon": 139.7018295,
+      "osm_id": 8347489289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u533a\u7acb\u5bae\u4e0b\u516c\u5712",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6614178,
+      "lon": 139.7018742,
+      "osm_id": 9855737969,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u533a\u7acb\u5bae\u4e0b\u516c\u5712",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6623925,
+      "lon": 139.7019218,
+      "osm_id": 9855737986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u533a\u7acb\u5bae\u4e0b\u516c\u5712",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6620863,
+      "lon": 139.7016864,
+      "osm_id": 9855756942,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u6025\u30b9\u30c8\u30a2",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 35.6626909,
+      "lon": 139.7028902,
+      "osm_id": 10113431670,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30ad\u30e3\u30b9\u30c8",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.662146,
+      "lon": 139.702793,
+      "osm_id": 11436145481,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b3\u30b3\u30ab\u30e9\u30d5\u30a1\u30a4\u30f3",
+      "category": [
+        "amenity.pharmacy",
+        "shop.chemist"
+      ],
+      "lat": 35.662389,
+      "lon": 139.7024506,
+      "osm_id": 12724630601,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Kitsun\u00e9 Shibuya",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6625805,
+      "lon": 139.7016837,
+      "osm_id": 13012902083,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 20,
-    "removed_count": 4,
+    "original_poi_count": 74,
+    "removed_count": 54,
     "model": "gemini-2.5-flash"
   }
 }

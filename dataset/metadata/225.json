@@ -1,0 +1,110 @@
+{
+  "image": "dataset/images/225.png",
+  "center_lat": 31.242387387387385,
+  "center_lon": 121.4992198432864,
+  "bbox": [
+    121.49790272281692,
+    31.241261261261258,
+    121.50053696375589,
+    31.24351351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bank",
+    "shop.convenience",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.bank": 3,
+    "shop.convenience": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "\u5e73\u5b89\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2421714,
+      "lon": 121.4982315,
+      "osm_id": 4163433591,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa\u5496\u5561",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2415221,
+      "lon": 121.5001764,
+      "osm_id": 8927111828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2417292,
+      "lon": 121.5004102,
+      "osm_id": 8927111829,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f57\u68ee",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2429945,
+      "lon": 121.4997443,
+      "osm_id": 8927111830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4ea4\u901a\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2413302,
+      "lon": 121.4996153,
+      "osm_id": 8927111842,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9646\u5bb6\u5634\u73af\u8def\u4e1c\u56ed\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.243313,
+      "lon": 121.4995649,
+      "osm_id": 10142208816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u56ed\u8def\u94f6\u57ce\u4e2d\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2422214,
+      "lon": 121.4991626,
+      "osm_id": 11068733836,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

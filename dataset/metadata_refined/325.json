@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/325.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.82612641516353,
+  "bbox": [
+    103.825,
+    1.298,
+    103.82725283032705,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Gramercy Park",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.299077,
+      "lon": 103.8264692,
+      "osm_id": 410464448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

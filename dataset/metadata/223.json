@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/223.png",
+  "center_lat": 31.242387387387385,
+  "center_lon": 121.49395136140845,
+  "bbox": [
+    121.49263424093897,
+    31.241261261261258,
+    121.49526848187794,
+    31.24351351351351
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "leisure.track"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "leisure.track": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u4e1c\u65b9\u6ee8\u6c5f\u5927\u9152\u5e97",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 31.2415416,
+      "lon": 121.4930065,
+      "osm_id": 495629462,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u53f7\u5361\u4e01\u8d5b\u8f66\u573a",
+      "category": [
+        "leisure.track"
+      ],
+      "lat": 31.241373,
+      "lon": 121.4944992,
+      "osm_id": 7104230656,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

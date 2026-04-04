@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1243.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.9687375507585,
+  "bbox": [
+    -73.97022623881762,
+    40.84729729729735,
+    -73.96724886269938,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "tourism.museum",
+    "amenity.doctors",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "tourism.museum": 1,
+    "amenity.doctors": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Congregation Young Israel of Fort Lee",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8488439,
+      "lon": -73.968047,
+      "osm_id": 357742939,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Lee Museum at the Judge Moore House",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 40.8483928,
+      "lon": -73.9687885,
+      "osm_id": 367697417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Jersey Gynecomastia Center",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 40.847901,
+      "lon": -73.9700759,
+      "osm_id": 11817987599,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    }
+  ]
+}

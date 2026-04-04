@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/556.png",
+  "center_lat": 41.010135135135144,
+  "center_lon": 28.964477007238067,
+  "bbox": [
+    28.962984671492045,
+    41.00900900900902,
+    28.96596934298409,
+    41.011261261261275
+  ],
+  "unique_categories": [
+    "tourism.museum",
+    "shop.mobile_phone",
+    "shop.clothes",
+    "amenity.bank",
+    "amenity.library",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.museum": 1,
+    "shop.mobile_phone": 1,
+    "shop.clothes": 1,
+    "amenity.bank": 2,
+    "amenity.library": 1,
+    "tourism.hotel": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Vodafone",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0091312,
+      "lon": 28.9654112,
+      "osm_id": 5111222075,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrkiye \u0130\u015f Bankas\u0131",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0091717,
+      "lon": 28.964982,
+      "osm_id": 5111222077,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Beyazsaray hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0092284,
+      "lon": 28.9644241,
+      "osm_id": 5111222080,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.009277,
+      "lon": 28.9640594,
+      "osm_id": 5111222082,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "LC Waikiki",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0092608,
+      "lon": 28.9636302,
+      "osm_id": 5111222083,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Emporium hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0092446,
+      "lon": 28.9632654,
+      "osm_id": 5111222085,
+      "osm_type": "node",
+      "address": "Ordu caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Beyaz\u0131t Devlet K\u00fct\u00fcphanesi",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0108705,
+      "lon": 28.9658253,
+      "osm_id": 5115939961,
+      "osm_type": "node",
+      "address": "\u00c7ad\u0131rc\u0131lar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrk Eczac\u0131l\u0131k Tarihi \u0130htisas M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.0108493,
+      "lon": 28.9631157,
+      "osm_id": 9217070484,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

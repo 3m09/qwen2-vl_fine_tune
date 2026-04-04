@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/790.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.95983135058512,
+  "bbox": [
+    -73.96131907834122,
+    40.80450450450451,
+    -73.958343622829,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Arts & Crafts Beer Parlor",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8065783,
+      "lon": -73.9609934,
+      "osm_id": 7004346066,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Haji's Famous Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8064186,
+      "lon": -73.961107,
+      "osm_id": 7004354698,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

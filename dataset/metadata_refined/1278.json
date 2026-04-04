@@ -1,0 +1,161 @@
+{
+  "image": "dataset/images/1278.png",
+  "center_lat": 40.85067567567573,
+  "center_lon": -73.93598423767435,
+  "bbox": [
+    -73.93747297633308,
+    40.84954954954961,
+    -73.93449549901561,
+    40.85180180180186
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.bar",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.optician",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 1,
+    "shop.optician": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Tejada Grocery",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8505147,
+      "lon": -73.9364169,
+      "osm_id": 2797563217,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "George's Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8503636,
+      "lon": -73.9369872,
+      "osm_id": 5354151028,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bar 180",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8498121,
+      "lon": -73.9363744,
+      "osm_id": 5413506167,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 181st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8499709,
+      "lon": -73.9360753,
+      "osm_id": 5798630378,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 181st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8499575,
+      "lon": -73.9357352,
+      "osm_id": 5798632457,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8500326,
+      "lon": -73.9350437,
+      "osm_id": 11748451719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Optica Lopez",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8497841,
+      "lon": -73.9352025,
+      "osm_id": 11748475635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger Heights",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8501887,
+      "lon": -73.9345225,
+      "osm_id": 11748483455,
+      "osm_type": "node",
+      "address": "Wadsworth Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "CityMD Urgent Care",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8498854,
+      "lon": -73.9347049,
+      "osm_id": 11748490911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Forever Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8502767,
+      "lon": -73.9365435,
+      "osm_id": 11963623561,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 14,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

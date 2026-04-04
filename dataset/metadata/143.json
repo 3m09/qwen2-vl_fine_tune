@@ -1,109 +1,69 @@
 {
   "image": "dataset/images/143.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93006967546842,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.84047722077678,
   "bbox": [
-    -73.93155755471376,
-    40.81126126126127,
-    -73.92858179622306,
-    40.81351351351353
+    72.83928666533241,
+    18.935765765765762,
+    72.84166777622114,
+    18.938018018018013
   ],
   "unique_categories": [
-    "railway.signal_box",
-    "railway.station",
+    "amenity.hospital",
     "highway.bus_stop",
-    "amenity.bicycle_rental",
-    "railway.stop"
+    "amenity.fuel"
   ],
   "poi_count_per_category": {
-    "railway.signal_box": 1,
-    "railway.station": 1,
+    "amenity.hospital": 1,
     "highway.bus_stop": 2,
-    "amenity.bicycle_rental": 2,
-    "railway.stop": 1
+    "amenity.fuel": 1
   },
-  "poi_count": 7,
+  "poi_count": 4,
   "pois": [
     {
-      "name": "138th Street\u2013Grand Concourse",
+      "name": "Bharat Petroleum",
       "category": [
-        "railway.stop"
+        "amenity.fuel"
       ],
-      "lat": 40.8127783,
-      "lon": -73.930243,
-      "osm_id": 5104151864,
+      "lat": 18.9367891,
+      "lon": 72.8396991,
+      "osm_id": 666064621,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "138th Street\u2013Grand Concourse",
+      "name": "Reliance Health Ventures Limited Hospital",
       "category": [
-        "railway.station"
+        "amenity.hospital"
       ],
-      "lat": 40.8131324,
-      "lon": -73.929968,
-      "osm_id": 5921006942,
+      "lat": 18.9368113,
+      "lon": 72.8403416,
+      "osm_id": 7664032233,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Grand Concourse & East 138th Street",
+      "name": "Indira Dock",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.813493,
-      "lon": -73.9302947,
-      "osm_id": 6224283290,
+      "lat": 18.9378729,
+      "lon": 72.8393903,
+      "osm_id": 9769880936,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Grand Concourse & East 138th Street",
+      "name": "Ballard Pier",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.813475,
-      "lon": -73.9294953,
-      "osm_id": 6224283292,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "CP 4",
-      "category": [
-        "railway.signal_box"
-      ],
-      "lat": 40.8119715,
-      "lon": -73.9309809,
-      "osm_id": 10844862221,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - E 138 St & Grand Concourse",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8132292,
-      "lon": -73.9305975,
-      "osm_id": 13243922889,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - E 138 St & Park Ave",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8126405,
-      "lon": -73.9292342,
-      "osm_id": 13243930522,
+      "lat": 18.9370306,
+      "lon": 72.8403774,
+      "osm_id": 9769880937,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

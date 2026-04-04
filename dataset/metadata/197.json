@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/197.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.50448728890748,
+  "bbox": [
+    121.50317026264317,
+    31.234504504504503,
+    121.5058043151718,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bank",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.bank": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Flair Rooftop",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 31.2364277,
+      "lon": 121.5032707,
+      "osm_id": 5786250054,
+      "osm_type": "node",
+      "address": "\u4e16\u7eaa\u5927\u9053",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b81\u6ce2\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2364615,
+      "lon": 121.505267,
+      "osm_id": 7063084665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9646\u5bb6\u5634\u73af\u8def\u4e16\u7eaa\u5927\u9053",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2365799,
+      "lon": 121.5044734,
+      "osm_id": 11069276034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

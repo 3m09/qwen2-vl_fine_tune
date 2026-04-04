@@ -1,0 +1,143 @@
+{
+  "image": "dataset/images/408.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.17825468842912,
+  "bbox": [
+    114.17703770920052,
+    22.2795045045045,
+    114.17947166765774,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "shop.car",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "shop.florist",
+    "amenity.fast_food",
+    "shop.copyshop"
+  ],
+  "poi_count_per_category": {
+    "shop.car": 2,
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 1,
+    "shop.florist": 1,
+    "amenity.fast_food": 2,
+    "shop.copyshop": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "\u675c\u8001\u8a8c\u9053 Tonnochy Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798801,
+      "lon": 114.1781147,
+      "osm_id": 597774227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u675c\u8001\u8a8c\u9053 Tonnochy Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798743,
+      "lon": 114.1780948,
+      "osm_id": 2995395051,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2807067,
+      "lon": 114.1770776,
+      "osm_id": 3664269453,
+      "osm_type": "node",
+      "address": "\u675c\u8001\u8a8c\u9053 Tonnochy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8607\u6d59\u6ed9 Jardin De Jade",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2804501,
+      "lon": 114.1771008,
+      "osm_id": 3672903800,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BYD",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2800639,
+      "lon": 114.1789555,
+      "osm_id": 4850169723,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Just Bloom",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 22.2798753,
+      "lon": 114.1783064,
+      "osm_id": 4850173397,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Volvo",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2796916,
+      "lon": 114.1777923,
+      "osm_id": 4850173402,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5409\u91ce\u5bb6 Yoshinoya",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2803221,
+      "lon": 114.1771217,
+      "osm_id": 6734390141,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fotomax Digital",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 22.2805581,
+      "lon": 114.1770626,
+      "osm_id": 12497776573,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

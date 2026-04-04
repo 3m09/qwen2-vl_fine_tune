@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/688.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.14380582025908,
+  "bbox": [
+    -99.145,
+    19.436261261261258,
+    -99.14261164051817,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.artwork",
+    "amenity.cafe",
+    "amenity.arts_centre"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.artwork": 1,
+    "amenity.cafe": 1,
+    "amenity.arts_centre": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Av. Hidalgo",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4371377,
+      "lon": -99.1440357,
+      "osm_id": 6426919646,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Nana",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": 19.4381241,
+      "lon": -99.1428994,
+      "osm_id": 13115476982,
+      "osm_type": "node",
+      "address": "2o Callej\u00f3n de San Juan de Dios",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafeter\u00eda del Claustro",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4373401,
+      "lon": -99.1435008,
+      "osm_id": 13146706747,
+      "osm_type": "node",
+      "address": "Avenida Hidalgo",
+      "road_geometry": null
+    },
+    {
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4369486,
+      "lon": -99.142858,
+      "osm_id": 13148267379,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

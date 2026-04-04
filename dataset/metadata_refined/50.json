@@ -1,65 +1,299 @@
 {
   "image": "dataset/images/50.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.99256136121947,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.07647582791971966,
   "bbox": [
-    -73.99404908897557,
-    40.80450450450451,
-    -73.99107363346336,
-    40.80675675675676
+    -0.07828537961820276,
+    51.51400900900902,
+    -0.07466627622123655,
+    51.51626126126128
   ],
   "unique_categories": [
+    "amenity.pub",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.convenience",
+    "railway.subway_entrance",
+    "amenity.bar",
     "amenity.restaurant",
     "shop.mobile_phone",
-    "highway.bus_stop"
+    "railway.stop",
+    "leisure.sports_centre",
+    "amenity.fast_food",
+    "railway.station"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 1,
+    "amenity.pub": 2,
+    "highway.bus_stop": 3,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 1,
+    "amenity.bar": 2,
+    "amenity.restaurant": 2,
     "shop.mobile_phone": 1,
-    "highway.bus_stop": 1
+    "railway.stop": 4,
+    "leisure.sports_centre": 1,
+    "amenity.fast_food": 2,
+    "railway.station": 1
   },
-  "poi_count": 3,
+  "poi_count": 21,
   "pois": [
     {
-      "name": "AT&T",
+      "name": "The Alice",
       "category": [
-        "shop.mobile_phone"
+        "amenity.pub"
       ],
-      "lat": 40.8047679,
-      "lon": -73.9920022,
-      "osm_id": 5285151422,
+      "lat": 51.5149285,
+      "lon": -0.0778751,
+      "osm_id": 116097320,
       "osm_type": "node",
-      "address": null,
+      "address": "Houndsditch",
       "road_geometry": null
     },
     {
-      "name": "River Rd at Church Hill Rd",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8047031,
-      "lon": -73.9930774,
-      "osm_id": 8260679162,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Porto by Antonio",
+      "name": "Asta 3",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.804925,
-      "lon": -73.993408,
-      "osm_id": 8260705162,
+      "lat": 51.5154484,
+      "lon": -0.0755052,
+      "osm_id": 377499499,
       "osm_type": "node",
-      "address": "Old River Road",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "St Botolph Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5149257,
+      "lon": -0.0752245,
+      "osm_id": 469759894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5141469,
+      "lon": -0.0747599,
+      "osm_id": 469759897,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Piazetta",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5153678,
+      "lon": -0.0766916,
+      "osm_id": 855066534,
+      "osm_type": "node",
+      "address": "White Kennett Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5140935,
+      "lon": -0.0755249,
+      "osm_id": 1402066827,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tesco Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5144219,
+      "lon": -0.0769556,
+      "osm_id": 1586864010,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5150119,
+      "lon": -0.0768769,
+      "osm_id": 1586878265,
+      "osm_type": "node",
+      "address": "White Kennett Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5150688,
+      "lon": -0.0780801,
+      "osm_id": 1690180872,
+      "osm_type": "node",
+      "address": "Houndsditch",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5142891,
+      "lon": -0.075594,
+      "osm_id": 1960307168,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5142097,
+      "lon": -0.0758232,
+      "osm_id": 3076573906,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5142427,
+      "lon": -0.0757317,
+      "osm_id": 3076573907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5142527,
+      "lon": -0.0757044,
+      "osm_id": 3076573908,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5142477,
+      "lon": -0.0757186,
+      "osm_id": 3788735981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zebrano",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5143791,
+      "lon": -0.0776815,
+      "osm_id": 3822113518,
+      "osm_type": "node",
+      "address": "Dukes Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.514294,
+      "lon": -0.0748142,
+      "osm_id": 3855607515,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City Bar & Kitchen",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5152081,
+      "lon": -0.0774089,
+      "osm_id": 4009487830,
+      "osm_type": "node",
+      "address": "Stoney Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Bean About Town",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5159917,
+      "lon": -0.0781587,
+      "osm_id": 6567690950,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sfoglia Bologna",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5153389,
+      "lon": -0.0753397,
+      "osm_id": 7005752085,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "RB Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 51.5161448,
+      "lon": -0.0752883,
+      "osm_id": 7901416200,
+      "osm_type": "node",
+      "address": "New Goulston Street",
+      "road_geometry": null
+    },
+    {
+      "name": "City Bouldering",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5143877,
+      "lon": -0.074975,
+      "osm_id": 9425765774,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 4,
-    "removed_count": 1,
+    "original_poi_count": 45,
+    "removed_count": 24,
     "model": "gemini-2.5-flash"
   }
 }

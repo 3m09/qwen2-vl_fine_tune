@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/698.png",
+  "center_lat": 19.439639639639637,
+  "center_lon": -99.14141741108065,
+  "bbox": [
+    -99.1426116073871,
+    19.43851351351351,
+    -99.1402232147742,
+    19.44076576576576
+  ],
+  "unique_categories": [
+    "amenity.dancing_school"
+  ],
+  "poi_count_per_category": {
+    "amenity.dancing_school": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Escuela del Ballet Folkl\u00f3rico de M\u00e9xico",
+      "category": [
+        "amenity.dancing_school"
+      ],
+      "lat": 19.4401188,
+      "lon": -99.1412022,
+      "osm_id": 11827130269,
+      "osm_type": "node",
+      "address": "Calle Violeta",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

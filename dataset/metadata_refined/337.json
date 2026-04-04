@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/337.png",
+  "center_lat": 1.3013783783783786,
+  "center_lon": 103.83288491317366,
+  "bbox": [
+    103.83175849700599,
+    1.3002522522522524,
+    103.83401132934132,
+    1.3025045045045047
+  ],
+  "unique_categories": [
+    "amenity.taxi"
+  ],
+  "poi_count_per_category": {
+    "amenity.taxi": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "F91",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 1.3019126,
+      "lon": 103.8330202,
+      "osm_id": 11536087014,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

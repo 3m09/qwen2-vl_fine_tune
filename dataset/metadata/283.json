@@ -1,0 +1,154 @@
+{
+  "image": "dataset/images/283.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.65639990028086,
+  "bbox": [
+    -46.65762848595502,
+    -23.565495495495497,
+    -46.6551713146067,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "amenity.taxi",
+    "amenity.cafe",
+    "shop.travel_agency",
+    "amenity.bank",
+    "shop.stationery"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.restaurant": 2,
+    "amenity.taxi": 1,
+    "amenity.cafe": 2,
+    "shop.travel_agency": 1,
+    "amenity.bank": 1,
+    "shop.stationery": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Bradesco",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5634745,
+      "lon": -46.6558542,
+      "osm_id": 4940939096,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Gardens Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5633146,
+      "lon": -46.6561158,
+      "osm_id": 4940939100,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Monde",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.56329,
+      "lon": -46.6561453,
+      "osm_id": 4940939101,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Menta Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5632736,
+      "lon": -46.656165,
+      "osm_id": 4940939102,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "CWT",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": -23.5639796,
+      "lon": -46.656033,
+      "osm_id": 7569859225,
+      "osm_type": "node",
+      "address": "Alameda Santos,1, 3 e 4 Andares",
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Crio",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5633335,
+      "lon": -46.6560812,
+      "osm_id": 9848226599,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Tivoli Mofarrej",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5639303,
+      "lon": -46.6558179,
+      "osm_id": 10207996110,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Papelaria Santa Catarina",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": -23.5652918,
+      "lon": -46.6551924,
+      "osm_id": 10697666002,
+      "osm_type": "node",
+      "address": "Rua Pamplona",
+      "road_geometry": null
+    },
+    {
+      "name": "Pra\u00e7a Alexandre de Gusm\u00e3o",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5645177,
+      "lon": -46.6569662,
+      "osm_id": 11135381344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi 1413",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5654954,
+      "lon": -46.6556912,
+      "osm_id": 11397077764,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    }
+  ]
+}

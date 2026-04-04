@@ -1,0 +1,544 @@
+{
+  "image": "dataset/images/525.png",
+  "center_lat": 41.00337837837838,
+  "center_lon": 28.97044527917838,
+  "bbox": [
+    28.968953096438614,
+    41.002252252252255,
+    28.971937461918152,
+    41.00450450450451
+  ],
+  "unique_categories": [
+    "tourism.motel",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.spices",
+    "amenity.cafe",
+    "shop.travel_agency",
+    "tourism.apartment",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "tourism.hotel",
+    "leisure.park"
+  ],
+  "poi_count_per_category": {
+    "tourism.motel": 7,
+    "amenity.restaurant": 8,
+    "highway.bus_stop": 1,
+    "shop.spices": 1,
+    "amenity.cafe": 5,
+    "shop.travel_agency": 1,
+    "tourism.apartment": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "tourism.hotel": 15,
+    "leisure.park": 1
+  },
+  "poi_count": 42,
+  "pois": [
+    {
+      "name": "Bereket Apart Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0037248,
+      "lon": 28.9712883,
+      "osm_id": 2343698950,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Byzaz",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0036178,
+      "lon": 28.9710104,
+      "osm_id": 2433913439,
+      "osm_type": "node",
+      "address": "Kardiga Liman Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Dualis Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0035353,
+      "lon": 28.9699653,
+      "osm_id": 2647384355,
+      "osm_type": "node",
+      "address": "\u015eehsuvarbey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Best Western Antea Palace Hotel & Spa",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.003495,
+      "lon": 28.9705102,
+      "osm_id": 2647416439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0645\u064a\u062a\u064a",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0037869,
+      "lon": 28.9719241,
+      "osm_id": 5232644130,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kale Derya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0028319,
+      "lon": 28.9707968,
+      "osm_id": 5244801828,
+      "osm_type": "node",
+      "address": "Kennedy Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Patio Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0027507,
+      "lon": 28.9710744,
+      "osm_id": 5244801829,
+      "osm_type": "node",
+      "address": "Kennedy Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "S\u0131ltans Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0041261,
+      "lon": 28.9691668,
+      "osm_id": 5244801858,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Meydan\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Jasminne Tour",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0038779,
+      "lon": 28.9692738,
+      "osm_id": 5244801859,
+      "osm_type": "node",
+      "address": "D\u00f6n\u00fc\u015f Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Merot Suites",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0031945,
+      "lon": 28.9709414,
+      "osm_id": 5244801965,
+      "osm_type": "node",
+      "address": "Meydan Arkas\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Walton Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.003391,
+      "lon": 28.9699037,
+      "osm_id": 5244801968,
+      "osm_type": "node",
+      "address": "Cinci Meydan\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Saruhan Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0033191,
+      "lon": 28.9696153,
+      "osm_id": 5244801969,
+      "osm_type": "node",
+      "address": "Cinci Meydan\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Turkuaz Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0032737,
+      "lon": 28.9693209,
+      "osm_id": 5244801970,
+      "osm_type": "node",
+      "address": "Cinci Meydan\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Dualis Otel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0037234,
+      "lon": 28.96984,
+      "osm_id": 5244801971,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "The Corner Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0036986,
+      "lon": 28.9696978,
+      "osm_id": 5244801972,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Mevlana Kebap Salonu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0036826,
+      "lon": 28.9693759,
+      "osm_id": 5244801973,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Osman Aga Houses",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0039189,
+      "lon": 28.969498,
+      "osm_id": 5244801974,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Three Floor Apartments",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0040899,
+      "lon": 28.9693075,
+      "osm_id": 5244801975,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe La Galera",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0041644,
+      "lon": 28.9692412,
+      "osm_id": 5244801976,
+      "osm_type": "node",
+      "address": "\u015eehsuvar Bey Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Reggae BR Shot and Food",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.003813,
+      "lon": 28.9719115,
+      "osm_id": 5244801999,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "family Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.003915,
+      "lon": 28.9716045,
+      "osm_id": 5244802001,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Magnificent Hotel",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0037693,
+      "lon": 28.9716473,
+      "osm_id": 5244802002,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kizilirmak Spice Shop",
+      "category": [
+        "shop.spices"
+      ],
+      "lat": 41.003824,
+      "lon": 28.9714648,
+      "osm_id": 5244802003,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ast Group Hotel",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0041218,
+      "lon": 28.9715775,
+      "osm_id": 5244802004,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ezgi restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0042098,
+      "lon": 28.9715724,
+      "osm_id": 5244802005,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ayasofya Liman Restorant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0043434,
+      "lon": 28.9714544,
+      "osm_id": 5244802006,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Er\u015fenKarde\u015fler Erkek Kuaf\u00f6r\u00fc",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0042733,
+      "lon": 28.9715566,
+      "osm_id": 5244802007,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Matarac\u0131 Konak",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0032446,
+      "lon": 28.9716669,
+      "osm_id": 5244803057,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Pera Sultan House",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0033441,
+      "lon": 28.9714566,
+      "osm_id": 5244803058,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Yacht House",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0032024,
+      "lon": 28.9714137,
+      "osm_id": 5244803059,
+      "osm_type": "node",
+      "address": "K\u00fc\u00e7\u00fck Ayasofya Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kupeli",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0037425,
+      "lon": 28.9691534,
+      "osm_id": 5636816221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saray",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0037497,
+      "lon": 28.9718011,
+      "osm_id": 6815610086,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Galera",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0041418,
+      "lon": 28.9693986,
+      "osm_id": 6899820885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gardenia Bistro Restaurant",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0031653,
+      "lon": 28.9713618,
+      "osm_id": 9407672371,
+      "osm_type": "node",
+      "address": "Kucuk Ayasofia Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet Endless Hotel",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0035352,
+      "lon": 28.9716078,
+      "osm_id": 10175179517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lale Sultan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0044497,
+      "lon": 28.9713533,
+      "osm_id": 10206749532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apart La Mia",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": 41.0032628,
+      "lon": 28.9715543,
+      "osm_id": 10591242905,
+      "osm_type": "node",
+      "address": "Suzi Dilara Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "K\u00fc\u00e7\u00fck Ayasofya",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.002287,
+      "lon": 28.971071,
+      "osm_id": 11514147509,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brown Mansion Oldcity",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0038993,
+      "lon": 28.9695249,
+      "osm_id": 12353408260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bogenville",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0041941,
+      "lon": 28.9693453,
+      "osm_id": 12353422803,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sultan S\u00fcleyman Palace",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0040346,
+      "lon": 28.9717469,
+      "osm_id": 12753658153,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hoca Ahmet Yesevi Park\u0131",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 41.0028647,
+      "lon": 28.9713902,
+      "osm_id": 13530207351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/935.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.95684710720168,
+  "bbox": [
+    -73.95833513798783,
+    40.81801801801804,
+    -73.95535907641553,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.school",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.school": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Intermediate School 195",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8197222,
+      "lon": -73.9566667,
+      "osm_id": 357621395,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 135th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8198241,
+      "lon": -73.9555248,
+      "osm_id": 5759370713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 133 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8190368,
+      "lon": -73.9561562,
+      "osm_id": 13226755600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

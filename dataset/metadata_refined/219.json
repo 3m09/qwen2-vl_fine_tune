@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/219.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.50975633596344,
+  "bbox": [
+    121.50843924689921,
+    31.239009009009006,
+    121.51107342502767,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Passo",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2410175,
+      "lon": 121.5087659,
+      "osm_id": 1174646043,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

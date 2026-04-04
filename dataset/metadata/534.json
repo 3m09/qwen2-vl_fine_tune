@@ -1,0 +1,812 @@
+{
+  "image": "dataset/images/534.png",
+  "center_lat": 41.005630630630634,
+  "center_lon": 28.96447670120818,
+  "bbox": [
+    28.962984467472122,
+    41.00450450450451,
+    28.965968934944243,
+    41.006756756756765
+  ],
+  "unique_categories": [
+    "tourism.motel",
+    "amenity.restaurant",
+    "amenity.cafe",
+    "shop.mobile_phone",
+    "shop.supermarket",
+    "amenity.atm",
+    "shop.convenience",
+    "shop.travel_agency",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.beverages",
+    "shop.clothes",
+    "tourism.motel;hotel",
+    "amenity.taxi",
+    "amenity.pharmacy",
+    "shop.greengrocer",
+    "amenity.place_of_worship",
+    "amenity.bank",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "tourism.motel": 1,
+    "amenity.restaurant": 10,
+    "amenity.cafe": 5,
+    "shop.mobile_phone": 2,
+    "shop.supermarket": 3,
+    "amenity.atm": 3,
+    "shop.convenience": 4,
+    "shop.travel_agency": 2,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 16,
+    "shop.beverages": 1,
+    "shop.clothes": 1,
+    "tourism.motel;hotel": 1,
+    "amenity.taxi": 1,
+    "amenity.pharmacy": 3,
+    "shop.greengrocer": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.bank": 1,
+    "shop.shoes": 5
+  },
+  "poi_count": 63,
+  "pois": [
+    {
+      "name": "istanbul port hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0056825,
+      "lon": 28.9645057,
+      "osm_id": 1343734824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "K\u0131l\u0131n\u00e7 Konuk Evi",
+      "category": [
+        "tourism.motel;hotel"
+      ],
+      "lat": 41.0045209,
+      "lon": 28.9632469,
+      "osm_id": 2837955373,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0052825,
+      "lon": 28.9636253,
+      "osm_id": 3131825229,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liza Grand Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0051205,
+      "lon": 28.9642529,
+      "osm_id": 3131825230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loor",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0048437,
+      "lon": 28.9655105,
+      "osm_id": 4266037890,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Reyhan Eczanesi",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 41.0049969,
+      "lon": 28.9647083,
+      "osm_id": 4449662989,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hira Lokantas\u0131",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.004714,
+      "lon": 28.9657581,
+      "osm_id": 4528496190,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loor",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0048272,
+      "lon": 28.9655907,
+      "osm_id": 5104610627,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iddaabay",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 41.0048944,
+      "lon": 28.965283,
+      "osm_id": 5104640421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "serhan gida",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0048146,
+      "lon": 28.9656536,
+      "osm_id": 5106523030,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Star Tekel",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0048057,
+      "lon": 28.9649998,
+      "osm_id": 5106523031,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0048209,
+      "lon": 28.9651333,
+      "osm_id": 5106523032,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Isiyaman \u010dig koftecisi",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0048792,
+      "lon": 28.9653411,
+      "osm_id": 5106528627,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.004871,
+      "lon": 28.96539,
+      "osm_id": 5106528822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karacada\u011f Sofras\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0050866,
+      "lon": 28.9645751,
+      "osm_id": 5244807839,
+      "osm_type": "node",
+      "address": "\u00c7ifte Gelinler Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Grand Mark",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0050907,
+      "lon": 28.9644947,
+      "osm_id": 5244807840,
+      "osm_type": "node",
+      "address": "\u00c7ifte Gelinler Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Eczane Reyhan",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 41.005004,
+      "lon": 28.9649016,
+      "osm_id": 5244807841,
+      "osm_type": "node",
+      "address": "\u00c7ifte Gelinler Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Skalion",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0050223,
+      "lon": 28.9647246,
+      "osm_id": 5244807842,
+      "osm_type": "node",
+      "address": "\u00c7ifte Gelinler Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ka\u00e7kar Saray B\u00fcfe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0049743,
+      "lon": 28.9650277,
+      "osm_id": 5244807843,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ad\u0131yaman \u00c7i\u011f K\u00f6ftecisi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0048778,
+      "lon": 28.9653979,
+      "osm_id": 5244807844,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ciwan Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0048231,
+      "lon": 28.9656257,
+      "osm_id": 5244807845,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Loor Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0048062,
+      "lon": 28.9656803,
+      "osm_id": 5244807846,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hira Lokantas\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0048324,
+      "lon": 28.9656489,
+      "osm_id": 5244807847,
+      "osm_type": "node",
+      "address": "Kad\u0131rga Liman\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Mutlu \u0130leti\u015fim",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0047194,
+      "lon": 28.9659639,
+      "osm_id": 5244807850,
+      "osm_type": "node",
+      "address": "Gedik Pa\u015fa Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00d6zhanedan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0067464,
+      "lon": 28.965294,
+      "osm_id": 5244807904,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Harran Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0063665,
+      "lon": 28.9650794,
+      "osm_id": 5244807905,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kestrel Park Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0061806,
+      "lon": 28.965019,
+      "osm_id": 5244807906,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "S\u00fcryani Kilisesi",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 41.00601,
+      "lon": 28.9650002,
+      "osm_id": 5244807907,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Turkcell",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.005735,
+      "lon": 28.9648053,
+      "osm_id": 5244807908,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Atalay Ayakkab\u0131",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0056225,
+      "lon": 28.9647153,
+      "osm_id": 5244807909,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Beyazsaray",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055779,
+      "lon": 28.9647153,
+      "osm_id": 5244807910,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00d6zbek Samsa Senter",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0054767,
+      "lon": 28.9646595,
+      "osm_id": 5244807911,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00d6zbek Taomlari Lezzet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0053512,
+      "lon": 28.964611,
+      "osm_id": 5244807912,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Cristo Turizm",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0051867,
+      "lon": 28.9645293,
+      "osm_id": 5244807913,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Historial Hotel",
+      "category": [
+        "tourism.motel"
+      ],
+      "lat": 41.0050603,
+      "lon": 28.9653709,
+      "osm_id": 5244810295,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130kizler Pilav ve D\u00fcr\u00fcm Evi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0049701,
+      "lon": 28.965105,
+      "osm_id": 5244810296,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Ureni Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.005049,
+      "lon": 28.9651673,
+      "osm_id": 5244810297,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Yeni Eczanesi",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 41.0051607,
+      "lon": 28.9654168,
+      "osm_id": 5244810300,
+      "osm_type": "node",
+      "address": "\u00c7ad\u0131rc\u0131 Cami Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ta\u015fk\u0131ran G\u0131da",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0052336,
+      "lon": 28.9654999,
+      "osm_id": 5244810301,
+      "osm_type": "node",
+      "address": "\u00c7ad\u0131rc\u0131 Cami Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Yasmin",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.005192,
+      "lon": 28.9652484,
+      "osm_id": 5244810302,
+      "osm_type": "node",
+      "address": "Aray\u0131c\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Line Shoes",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0054074,
+      "lon": 28.9653987,
+      "osm_id": 5244810303,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "May Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055308,
+      "lon": 28.9654697,
+      "osm_id": 5244810304,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "\u015f\u0131klar B\u00fcfe",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.005732,
+      "lon": 28.9648224,
+      "osm_id": 5244810305,
+      "osm_type": "node",
+      "address": "Kurban Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eehzade Ocakba\u015f\u0131 Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.005648,
+      "lon": 28.9652234,
+      "osm_id": 5244810306,
+      "osm_type": "node",
+      "address": "Kurban Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Zafer \u00d6k\u00e7e",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0055838,
+      "lon": 28.965743,
+      "osm_id": 5244810307,
+      "osm_type": "node",
+      "address": "\u00c7ilavc\u0131 Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Elif K\u00f6fte Salonu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0056941,
+      "lon": 28.9659328,
+      "osm_id": 5244810310,
+      "osm_type": "node",
+      "address": "\u00c7ad\u0131r \u00c7e\u015fmesi Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Bebek \u0130stanbul",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0059229,
+      "lon": 28.9659259,
+      "osm_id": 5244810312,
+      "osm_type": "node",
+      "address": "Asmal\u0131 Han Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ramon Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0059973,
+      "lon": 28.9657152,
+      "osm_id": 5244810313,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Ula\u015f B\u00fcfe",
+      "category": [
+        "shop.greengrocer"
+      ],
+      "lat": 41.0060601,
+      "lon": 28.9658293,
+      "osm_id": 5244810314,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Y\u0131lmaz \u00d6k\u00e7e",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0061039,
+      "lon": 28.9654276,
+      "osm_id": 5244810315,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Delil D\u00f6ner",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0062562,
+      "lon": 28.9652996,
+      "osm_id": 5244810316,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "S\u00f6nmez Kundura",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.006308,
+      "lon": 28.9651218,
+      "osm_id": 5244810317,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Tay B\u00fcfe",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0062255,
+      "lon": 28.9650501,
+      "osm_id": 5244810318,
+      "osm_type": "node",
+      "address": "Sandalc\u0131 \u0130hsan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Altun",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0055728,
+      "lon": 28.9639646,
+      "osm_id": 5482975732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0050849,
+      "lon": 28.963831,
+      "osm_id": 5483159122,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "TEB",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0050962,
+      "lon": 28.9637811,
+      "osm_id": 5483182921,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dolphin",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0054043,
+      "lon": 28.9639699,
+      "osm_id": 5729753221,
+      "osm_type": "node",
+      "address": "\u015eakirefendi \u00c7e\u015fmesi Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Kumkapi cafe Nargile",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0045234,
+      "lon": 28.9645638,
+      "osm_id": 6359661486,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oba Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0062089,
+      "lon": 28.964979,
+      "osm_id": 7154243585,
+      "osm_type": "node",
+      "address": "Tiyatro Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Migros Jet",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0052321,
+      "lon": 28.9637999,
+      "osm_id": 9897760347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Van Taxi Istanbul",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 41.0050021,
+      "lon": 28.9654485,
+      "osm_id": 11502796623,
+      "osm_type": "node",
+      "address": "Bali Pa\u015fa Yk\u015f",
+      "road_geometry": null
+    },
+    {
+      "name": "Sultanahmet Co\u015fkun Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0050642,
+      "lon": 28.9639471,
+      "osm_id": 13109409503,
+      "osm_type": "node",
+      "address": "\u00c7ifte Gelinler Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Raimond Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0049049,
+      "lon": 28.9653776,
+      "osm_id": 13204568901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "image": "dataset/images/298.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.66377145645025,
+  "bbox": [
+    -46.665,
+    -23.560990990990994,
+    -46.6625429129005,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "amenity.taxi",
+    "amenity.ice_cream",
+    "shop.photo",
+    "amenity.restaurant",
+    "shop.optician",
+    "amenity.parking"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "amenity.taxi": 2,
+    "amenity.ice_cream": 1,
+    "shop.photo": 1,
+    "amenity.restaurant": 4,
+    "shop.optician": 1,
+    "amenity.parking": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "\u00d3ticas Carol",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5606377,
+      "lon": -46.6629877,
+      "osm_id": 4983814723,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Josy Fotos",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": -23.5608946,
+      "lon": -46.6629921,
+      "osm_id": 5008382022,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Netware Flex Offices",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5597208,
+      "lon": -46.6640672,
+      "osm_id": 5024289057,
+      "osm_type": "node",
+      "address": "Alameda Itu",
+      "road_geometry": null
+    },
+    {
+      "name": "Samosa & Company",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.559336,
+      "lon": -46.6627978,
+      "osm_id": 5266445341,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Alamedas",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5591285,
+      "lon": -46.6649651,
+      "osm_id": 5629463544,
+      "osm_type": "node",
+      "address": "Alameda Itu",
+      "road_geometry": null
+    },
+    {
+      "name": "Fogo de Ch\u00e3o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5605617,
+      "lon": -46.6625808,
+      "osm_id": 5632789746,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Zucker",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": -23.5607447,
+      "lon": -46.6628167,
+      "osm_id": 5632789748,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto Livre",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5599162,
+      "lon": -46.6636724,
+      "osm_id": 5633655218,
+      "osm_type": "node",
+      "address": "Rua Haddock Lobo",
+      "road_geometry": null
+    },
+    {
+      "name": "Kaisho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5599949,
+      "lon": -46.664012,
+      "osm_id": 6463734185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Samosa & Company",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5593815,
+      "lon": -46.6628302,
+      "osm_id": 10605504425,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Gelateria Damaz\u00f4nia",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": -23.5587858,
+      "lon": -46.6645182,
+      "osm_id": 12250692309,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 18,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

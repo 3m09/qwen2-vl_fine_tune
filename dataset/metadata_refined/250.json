@@ -1,0 +1,129 @@
+{
+  "image": "dataset/images/250.png",
+  "center_lat": 37.498630630630636,
+  "center_lon": 127.02341940348067,
+  "bbox": [
+    127.022,
+    37.49750450450451,
+    127.02483880696134,
+    37.49975675675677
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.bicycle_rental"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "highway.bus_stop": 2,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.bicycle_rental": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "\uc9c4\ud765\uc544\ud30c\ud2b8",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4976127,
+      "lon": 127.0240724,
+      "osm_id": 357826398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc9c4\ud765\uc544\ud30c\ud2b8",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 37.4977233,
+      "lon": 127.023703,
+      "osm_id": 357898417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc7a5\uaf2c\ubc29",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4983439,
+      "lon": 127.0237479,
+      "osm_id": 3112617170,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c61\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc138\ube10\uc77c\ub808\ube10",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 37.4984769,
+      "lon": 127.0239464,
+      "osm_id": 3112617171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc624\ub5bc\ub974\uce74\ud398",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 37.4982951,
+      "lon": 127.0243614,
+      "osm_id": 12074520987,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c61\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uac15\ub0a8\uc5ed \ub77c\uba74\uc9d1",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4985165,
+      "lon": 127.0246699,
+      "osm_id": 12074557501,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c61\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc11c\uc77c\uc2a4\ud3ec\uce20\uc13c\ud130",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 37.4980164,
+      "lon": 127.0222244,
+      "osm_id": 12372983172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc11c\ucd08\ucd08\ub4f1\ud559\uad50 \ud6c4\ubb38",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 37.4989281,
+      "lon": 127.0247269,
+      "osm_id": 12372984740,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

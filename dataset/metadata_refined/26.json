@@ -1,63 +1,65 @@
 {
   "image": "dataset/images/26.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.99256161364428,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.08733501661706788,
   "bbox": [
-    -73.99404929091543,
-    40.80225225225225,
-    -73.99107393637314,
-    40.80450450450451
+    -0.08914429995748675,
+    51.50725225225226,
+    -0.085525733276649,
+    51.50950450450451
   ],
   "unique_categories": [
-    "amenity.townhall",
-    "amenity.fast_food"
+    "highway.bus_stop",
+    "tourism.information",
+    "tourism.hostel"
   ],
   "poi_count_per_category": {
-    "amenity.townhall": 1,
-    "amenity.fast_food": 2
+    "highway.bus_stop": 1,
+    "tourism.information": 1,
+    "tourism.hostel": 1
   },
   "poi_count": 3,
   "pois": [
     {
-      "name": "Five Guys",
+      "name": "Monument Station",
       "category": [
-        "amenity.fast_food"
+        "highway.bus_stop"
       ],
-      "lat": 40.8038398,
-      "lon": -73.9921527,
-      "osm_id": 5285152846,
-      "osm_type": "node",
-      "address": "River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Edgewater City Hall",
-      "category": [
-        "amenity.townhall"
-      ],
-      "lat": 40.8039812,
-      "lon": -73.9928626,
-      "osm_id": 9896577689,
+      "lat": 51.5094616,
+      "lon": -0.086998,
+      "osm_id": 469774019,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Dunkin'",
+      "name": "Pop & Rest",
       "category": [
-        "amenity.fast_food"
+        "tourism.hostel"
       ],
-      "lat": 40.803518,
-      "lon": -73.9913815,
-      "osm_id": 12205927168,
+      "lat": 51.5089378,
+      "lon": -0.0858043,
+      "osm_id": 5244369201,
+      "osm_type": "node",
+      "address": "Lower Thames Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Thames Path",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5093832,
+      "lon": -0.0858955,
+      "osm_id": 10306423501,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 4,
-    "removed_count": 1,
+    "original_poi_count": 3,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1023.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.98065297202999,
+  "bbox": [
+    -73.98214120495075,
+    40.82702702702706,
+    -73.97916473910921,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "shop.beauty",
+    "shop.grocery"
+  ],
+  "poi_count_per_category": {
+    "shop.beauty": 1,
+    "shop.grocery": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Cozy Foot Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8287889,
+      "lon": -73.9805585,
+      "osm_id": 8975290938,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "mini mart",
+      "category": [
+        "shop.grocery"
+      ],
+      "lat": 40.8287454,
+      "lon": -73.9805767,
+      "osm_id": 8975290939,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    }
+  ]
+}

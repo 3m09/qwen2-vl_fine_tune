@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1069.png",
+  "center_lat": 40.83265765765769,
+  "center_lon": -73.98660499379773,
+  "bbox": [
+    -73.9880933278202,
+    40.83153153153157,
+    -73.98511665977524,
+    40.83378378378382
+  ],
+  "unique_categories": [
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "First Baptist Church of Cliffside Park",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8316907,
+      "lon": -73.98538,
+      "osm_id": 357743015,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

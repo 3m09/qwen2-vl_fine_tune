@@ -1,0 +1,956 @@
+{
+  "image": "dataset/images/385.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.1758202204369,
+  "bbox": [
+    114.17460328040329,
+    22.275,
+    114.1770371604705,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.deli",
+    "amenity.cafe",
+    "shop.jewelry",
+    "amenity.toilets",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.tea",
+    "shop.convenience",
+    "shop.laundry",
+    "highway.bus_stop",
+    "shop.sports",
+    "amenity.fast_food",
+    "shop.butcher",
+    "shop.beverages",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "amenity.parking",
+    "shop.religion",
+    "shop.pet",
+    "leisure.playground",
+    "shop.furniture",
+    "shop.seafood",
+    "tourism.guest_house",
+    "amenity.pharmacy",
+    "shop.bakery",
+    "shop.hardware",
+    "railway.tram_stop",
+    "amenity.bank",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 2,
+    "amenity.restaurant": 18,
+    "shop.deli": 1,
+    "amenity.cafe": 2,
+    "shop.jewelry": 1,
+    "amenity.toilets": 1,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 1,
+    "shop.tea": 2,
+    "shop.convenience": 3,
+    "shop.laundry": 2,
+    "highway.bus_stop": 7,
+    "shop.sports": 1,
+    "amenity.fast_food": 6,
+    "shop.butcher": 1,
+    "shop.beverages": 1,
+    "shop.clothes": 4,
+    "amenity.bureau_de_change": 1,
+    "amenity.parking": 1,
+    "shop.religion": 1,
+    "shop.pet": 2,
+    "leisure.playground": 1,
+    "shop.furniture": 1,
+    "shop.seafood": 1,
+    "tourism.guest_house": 1,
+    "amenity.pharmacy": 1,
+    "shop.bakery": 4,
+    "shop.hardware": 1,
+    "railway.tram_stop": 1,
+    "amenity.bank": 2,
+    "shop.mall": 1
+  },
+  "poi_count": 73,
+  "pois": [
+    {
+      "name": "\u4ea4\u52a0\u91cc\u516c\u5ec1 Cross Lane Public Toilet",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 22.2763417,
+      "lon": 114.1760616,
+      "osm_id": 1025363926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Times Media Centre",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2765646,
+      "lon": 114.1761554,
+      "osm_id": 1025363929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u86cb\u7cd5",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2766945,
+      "lon": 114.1755376,
+      "osm_id": 1298704665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2769307,
+      "lon": 114.1756038,
+      "osm_id": 1923127724,
+      "osm_type": "node",
+      "address": "Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2769883,
+      "lon": 114.1753516,
+      "osm_id": 2498627238,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u666e\u6a02\u91cc Bullock Lane",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.276782,
+      "lon": 114.175962,
+      "osm_id": 2585382682,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u99ac\u516d Malacca Cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.27668,
+      "lon": 114.17656,
+      "osm_id": 2585382683,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5df4\u8def\u58eb\u8857 Burrows Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2770439,
+      "lon": 114.1768158,
+      "osm_id": 2585382685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2770134,
+      "lon": 114.1749421,
+      "osm_id": 2585382690,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2771049,
+      "lon": 114.1749307,
+      "osm_id": 2585382691,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u4e16\u7d00\u5ee3\u5834 New Century Plaza",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2768595,
+      "lon": 114.1767835,
+      "osm_id": 2585382692,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "WasHours",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 22.2764743,
+      "lon": 114.1761737,
+      "osm_id": 2585382766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Flow & Roll",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 22.2772029,
+      "lon": 114.1768327,
+      "osm_id": 2585383148,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5617\u6a02",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2760649,
+      "lon": 114.1746353,
+      "osm_id": 3664216569,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a19\u8a18\u96f2\u541e\u9eb5",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2767057,
+      "lon": 114.1756504,
+      "osm_id": 3664258325,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2769102,
+      "lon": 114.1747054,
+      "osm_id": 3667211310,
+      "osm_type": "node",
+      "address": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5efa\u8a2d\u9280\u884c\uff08\u4e9e\u6d32\uff09 CCB (Asia)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.277159,
+      "lon": 114.1749749,
+      "osm_id": 3667272409,
+      "osm_type": "node",
+      "address": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2767895,
+      "lon": 114.1765744,
+      "osm_id": 3667320222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u4e0a\u6d77 Shanghai Shanghai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769658,
+      "lon": 114.1770272,
+      "osm_id": 3667331034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u767e\u4e8b\u5409\u9905\u5e97",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2761408,
+      "lon": 114.1746802,
+      "osm_id": 3667339420,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u9903\u5b50 Queen\u2019s Dumpling",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2770578,
+      "lon": 114.1767074,
+      "osm_id": 3667341868,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2765378,
+      "lon": 114.1749702,
+      "osm_id": 3667349295,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u96c5\u5712\u8336\u9910\u5ef3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771583,
+      "lon": 114.1759971,
+      "osm_id": 3668093735,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u539f\u6c41\u539f\u5473 The Yuan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2767643,
+      "lon": 114.1762565,
+      "osm_id": 3668094045,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6d77\u6fe4\u5bf5\u7269\u5c4b",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2770478,
+      "lon": 114.1757919,
+      "osm_id": 3668108823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60e0\u5eb7 Wellcome",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2771856,
+      "lon": 114.1760467,
+      "osm_id": 3668114075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8208\u696d\u627e\u63db\u6ed9\u6b3e\u516c\u53f8",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.276855,
+      "lon": 114.1754663,
+      "osm_id": 3668123384,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u559c\u842c\u5e74\u9152\u6a13 Asiania Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.27721,
+      "lon": 114.17703,
+      "osm_id": 3668127567,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u51a0\u8ecd\u5821\u5bf5\u7269\u7528\u54c1\u5e97",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2763634,
+      "lon": 114.1764068,
+      "osm_id": 3668141211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2763634,
+      "lon": 114.17649,
+      "osm_id": 3668142410,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bcc\u660e\u897f\u85e5\u623f Fu Ming Dispensary",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2763507,
+      "lon": 114.1748274,
+      "osm_id": 3668419286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New 21 Sport",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2761757,
+      "lon": 114.1747058,
+      "osm_id": 4169383489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8208\u8a18\u5c71\u8ca8",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 22.2762008,
+      "lon": 114.1747238,
+      "osm_id": 4169383689,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "JR8",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2762411,
+      "lon": 114.1747508,
+      "osm_id": 4169503189,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b89\u5357 An Nam Pho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771239,
+      "lon": 114.1746812,
+      "osm_id": 4172508389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uncle 4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769391,
+      "lon": 114.1762393,
+      "osm_id": 4172640204,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7965\u9999\u5712\u9910\u5ef3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769555,
+      "lon": 114.1763636,
+      "osm_id": 4172660294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u73ed\u5c3c\u8def Baleno",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2770154,
+      "lon": 114.1750033,
+      "osm_id": 4172660296,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5feb\u6d3b Fairwood",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2769347,
+      "lon": 114.1762062,
+      "osm_id": 4172674889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516b\u65b9\u96f2\u96c6 Bafang Dumpling",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2769437,
+      "lon": 114.1762865,
+      "osm_id": 4172732090,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u676d\u5dde\u9152\u5bb6 Hong Zhou Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769354,
+      "lon": 114.1755852,
+      "osm_id": 4172760389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u5bb6\u6a02 Caf\u00e9 de Coral",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2767402,
+      "lon": 114.1765723,
+      "osm_id": 4172762289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5de5\u5546\u9280\u884c\uff08\u4e9e\u6d32\uff09 ICBC (Asia)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.276651,
+      "lon": 114.1763281,
+      "osm_id": 4172762290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mingle Place",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.2767301,
+      "lon": 114.1762562,
+      "osm_id": 4172762389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u982d\u9ce5\u7c73\u7dda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2770604,
+      "lon": 114.1752062,
+      "osm_id": 4206815013,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6625\u65e5\u8336\u820d",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 22.2770347,
+      "lon": 114.1764097,
+      "osm_id": 4265607989,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Megan's Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769101,
+      "lon": 114.1770143,
+      "osm_id": 4265608189,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kung Fu Supplies",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 22.2771132,
+      "lon": 114.1758334,
+      "osm_id": 4265860189,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.275184,
+      "lon": 114.1768644,
+      "osm_id": 4361279422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ki Chan Tea Co.",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 22.2766067,
+      "lon": 114.1746916,
+      "osm_id": 4856188737,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Gourami",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2769229,
+      "lon": 114.1754697,
+      "osm_id": 4856188740,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fitter",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2770114,
+      "lon": 114.1756254,
+      "osm_id": 4856188741,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Manfook Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2765979,
+      "lon": 114.1746234,
+      "osm_id": 4856515412,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ying Kee Tea House",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 22.2766026,
+      "lon": 114.1746412,
+      "osm_id": 4856515413,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "In & Out",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2767002,
+      "lon": 114.1756057,
+      "osm_id": 4922388221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2766913,
+      "lon": 114.1755059,
+      "osm_id": 5143400422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u751c\u980c Sweet To Joy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771358,
+      "lon": 114.176364,
+      "osm_id": 5255082722,
+      "osm_type": "node",
+      "address": "\u5df4\u8def\u58eb\u8857 Burrows Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u722d\u9bae Sushi Take-out",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2770371,
+      "lon": 114.1766589,
+      "osm_id": 5895790785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ba5\u6cf0 Yau Tai",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.277095,
+      "lon": 114.1763836,
+      "osm_id": 6837265051,
+      "osm_type": "node",
+      "address": "\u5df4\u8def\u58eb\u8857 Burrows Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u98ef\u4e38\u5c4b",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2767076,
+      "lon": 114.1756779,
+      "osm_id": 8353799787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u654f\u83ef\u51b0\u5ef3 Men Wah Bing Teng",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2766833,
+      "lon": 114.1752267,
+      "osm_id": 9245822202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7aaf\u96de\u738b Kiln Chicken King",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771094,
+      "lon": 114.1768301,
+      "osm_id": 10108397316,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u9ea5\u591a\u98fd\u9905\u5c4b Fresh Wheat Bakery",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2770996,
+      "lon": 114.1768066,
+      "osm_id": 10841464408,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u745e\u8349\u5802",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2764027,
+      "lon": 114.1746737,
+      "osm_id": 11189311449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u69ae\u767c\u6d77\u5473",
+      "category": [
+        "shop.seafood"
+      ],
+      "lat": 22.2763884,
+      "lon": 114.1746613,
+      "osm_id": 11189311450,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u660c\u76db\u6a80\u9999\u838a",
+      "category": [
+        "shop.religion"
+      ],
+      "lat": 22.2763093,
+      "lon": 114.174605,
+      "osm_id": 11189311451,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5b8f\u767c\u71d2\u81d8",
+      "category": [
+        "shop.butcher"
+      ],
+      "lat": 22.2766143,
+      "lon": 114.1750204,
+      "osm_id": 11189311552,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u5b89\u5a1c\u9905\u5c4b Saint Honore",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2765021,
+      "lon": 114.1749437,
+      "osm_id": 11243416015,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ba8\u8cc0\u65e5\u672c\u6599\u7406 Sushi Yoshi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.276559,
+      "lon": 114.1757655,
+      "osm_id": 11936946447,
+      "osm_type": "node",
+      "address": "\u666e\u6a02\u91cc Bullock Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2751915,
+      "lon": 114.1769317,
+      "osm_id": 12161483594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u82e5\u745f\u5c0f\u5b78 St. Joseph's Primary School",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2751877,
+      "lon": 114.1768971,
+      "osm_id": 12161483595,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u51a0\u74b0\u7403 | \u738b\u724c\u7cfb\u5217 Kun Van Kau | Signature Collection",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 22.276856,
+      "lon": 114.1754818,
+      "osm_id": 12209059023,
+      "osm_type": "node",
+      "address": "\u7063\u4ed4\u9053 Wan Chai Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u516c\u5712 Wan Chai Park",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 22.2752064,
+      "lon": 114.1757598,
+      "osm_id": 13686456978,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

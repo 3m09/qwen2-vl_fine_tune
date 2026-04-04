@@ -1,0 +1,101 @@
+{
+  "image": "dataset/images/386.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.17825410050412,
+  "bbox": [
+    114.1770371604705,
+    22.275,
+    114.17947104053772,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.supermarket",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.supermarket": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "\u514b\u8857 Heard Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2772434,
+      "lon": 114.17726,
+      "osm_id": 3064991891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u514b\u8857 Heard Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2772012,
+      "lon": 114.177159,
+      "osm_id": 3064991892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u514b\u8857 Heard Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277164,
+      "lon": 114.17707,
+      "osm_id": 3064991893,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60e0\u5eb7 Wellcome",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2769776,
+      "lon": 114.1770563,
+      "osm_id": 3480454781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u84b2\u7530\u65e5\u672c\u6599\u7406 Kabata Japanese Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.277183,
+      "lon": 114.177806,
+      "osm_id": 6445151607,
+      "osm_type": "node",
+      "address": "\u6d3b\u9053 Wood Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mr. Maki",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.276918,
+      "lon": 114.1773861,
+      "osm_id": 11773292731,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

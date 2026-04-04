@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1022.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.98362943787153,
+  "bbox": [
+    -73.98511767079229,
+    40.82702702702706,
+    -73.98214120495075,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "amenity.library",
+    "amenity.place_of_worship",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.library": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Epithany School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8287962,
+      "lon": -73.9837699,
+      "osm_id": 357721375,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Epiphany Roman Catholic Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8279807,
+      "lon": -73.9833511,
+      "osm_id": 357743012,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "mosque Cami",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.827154,
+      "lon": -73.9838748,
+      "osm_id": 6700362586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

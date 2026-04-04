@@ -1,0 +1,105 @@
+{
+  "image": "dataset/images/473.png",
+  "center_lat": 22.294144144144138,
+  "center_lon": 114.17582225936063,
+  "bbox": [
+    114.17460516248673,
+    22.29301801801801,
+    114.17703935623452,
+    22.29527027027026
+  ],
+  "unique_categories": [
+    "amenity.ice_cream",
+    "amenity.cinema",
+    "highway.bus_stop",
+    "shop.clothes",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "amenity.cinema": 1,
+    "highway.bus_stop": 2,
+    "shop.clothes": 1,
+    "tourism.hotel": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "\u9999\u6e2f\u7470\u9e97\u9152\u5e97 Rosewood Hong Kong",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2947013,
+      "lon": 114.1758053,
+      "osm_id": 6257572900,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6771\u7ad9 East Tsim Sha Tsui Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2952412,
+      "lon": 114.1746137,
+      "osm_id": 8140840211,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "G.Bar Gelato",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 22.2938569,
+      "lon": 114.1753448,
+      "osm_id": 10053511910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gucci",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.293972,
+      "lon": 114.1751328,
+      "osm_id": 10053511912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "K11 Art House",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 22.2942249,
+      "lon": 114.174753,
+      "osm_id": 10207532086,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6771\u7ad9 East Tsim Sha Tsui Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2948521,
+      "lon": 114.1746428,
+      "osm_id": 10928948451,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

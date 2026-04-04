@@ -1,75 +1,195 @@
 {
   "image": "dataset/images/46.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.93305452279856,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.09095224150758449,
   "bbox": [
-    -73.9345422000697,
-    40.80225225225225,
-    -73.93156684552741,
-    40.80450450450451
+    -0.09276179320606759,
+    51.51400900900902,
+    -0.08914268980910138,
+    51.51626126126128
   ],
   "unique_categories": [
-    "amenity.hospital",
-    "highway.bus_stop"
+    "amenity.pub",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "amenity.bank",
+    "tourism.artwork",
+    "amenity.library",
+    "amenity.doctors"
   ],
   "poi_count_per_category": {
-    "amenity.hospital": 1,
-    "highway.bus_stop": 3
+    "amenity.pub": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 4,
+    "amenity.bank": 1,
+    "tourism.artwork": 1,
+    "amenity.library": 1,
+    "amenity.doctors": 2
   },
-  "poi_count": 4,
+  "poi_count": 13,
   "pois": [
     {
-      "name": "East 125th Street & 2nd Avenue",
+      "name": "London Wall",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.80321,
-      "lon": -73.9343752,
-      "osm_id": 5235605497,
+      "lat": 51.515584,
+      "lon": -0.0894348,
+      "osm_id": 469774548,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 2nd Avenue",
+      "name": "Bank Station / Princes Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8031179,
-      "lon": -73.9341903,
-      "osm_id": 5235606179,
+      "lat": 51.5142474,
+      "lon": -0.0896183,
+      "osm_id": 469777308,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 2nd Avenue",
+      "name": "Browns",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8028069,
-      "lon": -73.9339375,
-      "osm_id": 5235606230,
+      "lat": 51.5140407,
+      "lon": -0.0908026,
+      "osm_id": 1717643485,
+      "osm_type": "node",
+      "address": "Old Jewry",
+      "road_geometry": null
+    },
+    {
+      "name": "BOC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5145539,
+      "lon": -0.090534,
+      "osm_id": 1717643541,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "New York Proton Center",
+      "name": "Guildhall Library",
       "category": [
-        "amenity.hospital"
+        "amenity.library"
       ],
-      "lat": 40.804048,
-      "lon": -73.9342033,
-      "osm_id": 5599581921,
+      "lat": 51.5161758,
+      "lon": -0.0925982,
+      "osm_id": 2672118121,
       "osm_type": "node",
-      "address": "East 126th Street",
+      "address": "Aldermanbury",
+      "road_geometry": null
+    },
+    {
+      "name": "Goodmans City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5142317,
+      "lon": -0.0907172,
+      "osm_id": 3280460982,
+      "osm_type": "node",
+      "address": "Old Jewry",
+      "road_geometry": null
+    },
+    {
+      "name": "The Trading House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5150841,
+      "lon": -0.091359,
+      "osm_id": 4498589343,
+      "osm_type": "node",
+      "address": "Gresham Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5149983,
+      "lon": -0.0905988,
+      "osm_id": 4500620450,
+      "osm_type": "node",
+      "address": "Gresham Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Sir John Soane statue",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146522,
+      "lon": -0.089174,
+      "osm_id": 4502146356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hawksmoor",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5155389,
+      "lon": -0.0907643,
+      "osm_id": 11249260237,
+      "osm_type": "node",
+      "address": "Basinghall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Goldwood",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5145461,
+      "lon": -0.0908832,
+      "osm_id": 12250692107,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Mole Clinic",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5152261,
+      "lon": -0.089718,
+      "osm_id": 12858003960,
+      "osm_type": "node",
+      "address": "Moorgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Bupa Health Centre - Basinghall",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5151711,
+      "lon": -0.0909095,
+      "osm_id": 12858003963,
+      "osm_type": "node",
+      "address": "Basinghall Street",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 12,
-    "removed_count": 8,
+    "original_poi_count": 20,
+    "removed_count": 7,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/562.png",
+  "center_lat": 41.010135135135144,
+  "center_lon": 28.98238503619033,
+  "bbox": [
+    28.980892700444308,
+    41.00900900900902,
+    28.98387737193635,
+    41.011261261261275
+  ],
+  "unique_categories": [
+    "shop.gift",
+    "shop.kiosk",
+    "tourism.information",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "shop.gift": 1,
+    "shop.kiosk": 1,
+    "tourism.information": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Karakol Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0092963,
+      "lon": 28.9810833,
+      "osm_id": 1784925344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Museum Kiosk",
+      "category": [
+        "shop.kiosk"
+      ],
+      "lat": 41.0098028,
+      "lon": 28.9814916,
+      "osm_id": 3660214030,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "M\u00fcze ma\u011fazas\u0131",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0108152,
+      "lon": 28.9834893,
+      "osm_id": 5113620597,
+      "osm_type": "node",
+      "address": "G\u00fclhane park",
+      "road_geometry": null
+    },
+    {
+      "name": "1. Avalu",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 41.0092006,
+      "lon": 28.9815726,
+      "osm_id": 12151282096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

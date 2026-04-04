@@ -1,0 +1,108 @@
+{
+  "image": "dataset/images/1033.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.95088831361457,
+  "bbox": [
+    -73.95237654653533,
+    40.82702702702706,
+    -73.94940008069379,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "amenity.restaurant": 3,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Broadway & West 147th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.827562,
+      "lon": -73.9498827,
+      "osm_id": 5281934116,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Riverside Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8270987,
+      "lon": -73.9516993,
+      "osm_id": 5798771852,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tacos Azteca Food Truck",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8272038,
+      "lon": -73.949673,
+      "osm_id": 8333828575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sing Wah Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8276305,
+      "lon": -73.9499637,
+      "osm_id": 8333828576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mamasushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8274612,
+      "lon": -73.9502495,
+      "osm_id": 8333828577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Riverside Dr & W 148 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8291278,
+      "lon": -73.9504324,
+      "osm_id": 13226729526,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Riverside Dr & W 145 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8273236,
+      "lon": -73.9519666,
+      "osm_id": 13226773980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

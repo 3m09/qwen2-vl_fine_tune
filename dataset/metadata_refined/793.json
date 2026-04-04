@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/793.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.95090498404848,
+  "bbox": [
+    -73.95239271180458,
+    40.80450450450451,
+    -73.94941725629236,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "shop.deli",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 1,
+    "shop.deli": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Junior High School 81",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8059341,
+      "lon": -73.9518045,
+      "osm_id": 357567590,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & West 121st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.806608,
+      "lon": -73.9498303,
+      "osm_id": 5187017437,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr. Boulevard & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8053104,
+      "lon": -73.9507936,
+      "osm_id": 5274260981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ali Deli Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8064436,
+      "lon": -73.9498479,
+      "osm_id": 8333828582,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Minton's Playhouse",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8047396,
+      "lon": -73.9523755,
+      "osm_id": 9482649821,
+      "osm_type": "node",
+      "address": "West 118th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/202.png",
+  "center_lat": 31.237882882882882,
+  "center_lon": 121.4913170576625,
+  "bbox": [
+    121.49,
+    31.236756756756755,
+    121.492634115325,
+    31.239009009009006
+  ],
+  "unique_categories": [
+    "amenity.ice_cream",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u54c8\u6839\u8fbe\u65af",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 31.237651,
+      "lon": 121.4918311,
+      "osm_id": 1317252176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "1886\u5fb7\u56fd\u6c7d\u8f66\u9910\u5385",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2375443,
+      "lon": 121.4923536,
+      "osm_id": 6358151225,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chili's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2374016,
+      "lon": 121.4925349,
+      "osm_id": 11221719094,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

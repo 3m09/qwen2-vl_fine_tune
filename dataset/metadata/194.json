@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/194.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.49658513132158,
+  "bbox": [
+    121.49526810505726,
+    31.234504504504503,
+    121.4979021575859,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "tourism.museum",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.fast_food",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "tourism.museum": 1,
+    "highway.bus_stop": 1,
+    "amenity.cafe": 1,
+    "amenity.fast_food": 1,
+    "amenity.bank": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "\u9707\u65e6\u7f8e\u672f\u9986",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 31.2365031,
+      "lon": 121.495396,
+      "osm_id": 1489398730,
+      "osm_type": "node",
+      "address": "\u5bcc\u57ce\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9646\u5bb6\u5634\u73af\u8def\u82b1\u56ed\u77f3\u6865\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2364011,
+      "lon": 121.4967713,
+      "osm_id": 1489404198,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2365695,
+      "lon": 121.4953171,
+      "osm_id": 8920840216,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u4fe1\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2364152,
+      "lon": 121.4953011,
+      "osm_id": 8920873717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.236192,
+      "lon": 121.495899,
+      "osm_id": 8920873718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2361302,
+      "lon": 121.4965551,
+      "osm_id": 8920873719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8d5b\u767e\u5473",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.235673,
+      "lon": 121.4958243,
+      "osm_id": 8920873720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

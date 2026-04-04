@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1339.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.96873329966743,
+  "bbox": [
+    -73.97022219015946,
+    40.85630630630637,
+    -73.96724440917541,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "shop.optician",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "shop.optician": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Fort Lee Vision Optical",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8564716,
+      "lon": -73.9675999,
+      "osm_id": 8514846274,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pho Today",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8563859,
+      "lon": -73.9673062,
+      "osm_id": 8514846279,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

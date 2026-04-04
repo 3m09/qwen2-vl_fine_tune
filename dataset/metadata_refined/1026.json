@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1026.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.97172357450536,
+  "bbox": [
+    -73.97321180742613,
+    40.82702702702706,
+    -73.97023534158458,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "amenity.fast_food",
+    "leisure.marina"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1,
+    "leisure.marina": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Edgewater Marina",
+      "category": [
+        "leisure.marina"
+      ],
+      "lat": 40.8285956,
+      "lon": -73.9711688,
+      "osm_id": 2159553239,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8280768,
+      "lon": -73.9721399,
+      "osm_id": 9700890359,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

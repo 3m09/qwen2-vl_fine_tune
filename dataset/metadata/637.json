@@ -1,0 +1,778 @@
+{
+  "image": "dataset/images/637.png",
+  "center_lat": 41.02590090090093,
+  "center_lon": 28.976419622597533,
+  "bbox": [
+    28.97492692963412,
+    41.024774774774805,
+    28.977912315560943,
+    41.02702702702706
+  ],
+  "unique_categories": [
+    "shop.musical_instrument",
+    "amenity.restaurant",
+    "shop.gift",
+    "amenity.school",
+    "amenity.cafe",
+    "shop.toys",
+    "tourism.hostel",
+    "shop.bicycle",
+    "shop.hairdresser",
+    "shop.art",
+    "amenity.atm",
+    "shop.doityourself",
+    "highway.bus_stop",
+    "shop.confectionery",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.beverages",
+    "shop.clothes",
+    "leisure.fitness_centre",
+    "shop.craft",
+    "amenity.pharmacy",
+    "shop.electronics",
+    "shop.bakery",
+    "leisure.swimming_pool",
+    "amenity.bar",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.musical_instrument": 2,
+    "amenity.restaurant": 5,
+    "shop.gift": 2,
+    "amenity.school": 1,
+    "amenity.cafe": 8,
+    "shop.toys": 1,
+    "tourism.hostel": 1,
+    "shop.bicycle": 1,
+    "shop.hairdresser": 3,
+    "shop.art": 1,
+    "amenity.atm": 2,
+    "shop.doityourself": 2,
+    "highway.bus_stop": 1,
+    "shop.confectionery": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 1,
+    "shop.beverages": 1,
+    "shop.clothes": 10,
+    "leisure.fitness_centre": 1,
+    "shop.craft": 3,
+    "amenity.pharmacy": 1,
+    "shop.electronics": 3,
+    "shop.bakery": 2,
+    "leisure.swimming_pool": 1,
+    "amenity.bar": 2,
+    "amenity.bank": 1
+  },
+  "poi_count": 59,
+  "pois": [
+    {
+      "name": "Hic Contemporary Crafts",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0263043,
+      "lon": 28.9775326,
+      "osm_id": 1640181175,
+      "osm_type": "node",
+      "address": "Luleci Hendek Sok",
+      "road_geometry": null
+    },
+    {
+      "name": "Bahar Kor\u00e7an Butik",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0266038,
+      "lon": 28.9750422,
+      "osm_id": 1651382512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sa\u00e7 Kuaf\u00f6r",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0266362,
+      "lon": 28.9751334,
+      "osm_id": 1651386310,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lilipud Boutique",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0268299,
+      "lon": 28.9755672,
+      "osm_id": 1651394614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arzu Kaprol Boutique",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0264932,
+      "lon": 28.9751976,
+      "osm_id": 1651507170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kuledibi Hamam\u0131",
+      "category": [
+        "leisure.swimming_pool"
+      ],
+      "lat": 41.02488,
+      "lon": 28.975152,
+      "osm_id": 1651582024,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boutique de luminaires",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 41.0267621,
+      "lon": 28.9752172,
+      "osm_id": 1652805071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "otantik shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0254094,
+      "lon": 28.9750067,
+      "osm_id": 1772575291,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "galata pilavcisi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0253719,
+      "lon": 28.975004,
+      "osm_id": 1772575295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sumocat Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 41.0260398,
+      "lon": 28.9762229,
+      "osm_id": 1789462058,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "gaspar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0249705,
+      "lon": 28.9774073,
+      "osm_id": 2901761815,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Finn",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0248906,
+      "lon": 28.9775293,
+      "osm_id": 2901761818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Isik Bisiklet",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 41.0248437,
+      "lon": 28.9749736,
+      "osm_id": 3452205489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ottoman Lukum",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 41.0255835,
+      "lon": 28.9749857,
+      "osm_id": 3817806756,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Qzey",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0248024,
+      "lon": 28.976579,
+      "osm_id": 4357242201,
+      "osm_type": "node",
+      "address": "Kemeralt\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kemeralt\u0131",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 41.0250078,
+      "lon": 28.9769423,
+      "osm_id": 4357242202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0645\u0637\u0639\u0645 The Gounmand \u0641\u064a \u063a\u0627\u0644\u0627\u062a\u0627",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0265382,
+      "lon": 28.9752464,
+      "osm_id": 4537356492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elit Eczanesi",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 41.0251487,
+      "lon": 28.9770238,
+      "osm_id": 4829213722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Star B\u00fcfe",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 41.0260931,
+      "lon": 28.9749674,
+      "osm_id": 5112351822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ArtSmyrna Cafe & Gallery",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0255517,
+      "lon": 28.9753044,
+      "osm_id": 5285610421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papadopoulos Coffee & Cake",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0261026,
+      "lon": 28.9772237,
+      "osm_id": 5397662737,
+      "osm_type": "node",
+      "address": "L\u00fcleci hendek Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Galata Kitchen",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0257414,
+      "lon": 28.9753681,
+      "osm_id": 5545370912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0254838,
+      "lon": 28.9749863,
+      "osm_id": 5552596851,
+      "osm_type": "node",
+      "address": "Galip Dede Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "G\u00fczel Kelimeler D\u00fckkan\u0131",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 41.0256126,
+      "lon": 28.9754028,
+      "osm_id": 5588490977,
+      "osm_type": "node",
+      "address": "Tatar Beyi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "galata pop up store",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 41.0257218,
+      "lon": 28.9750474,
+      "osm_id": 6185578556,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ipek klis",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 41.0250412,
+      "lon": 28.9749815,
+      "osm_id": 6185578557,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "amanturc",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 41.0259961,
+      "lon": 28.9749826,
+      "osm_id": 6185578558,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "multivision",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0247767,
+      "lon": 28.9749766,
+      "osm_id": 6185578560,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ibrahim",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0250845,
+      "lon": 28.9749555,
+      "osm_id": 6185578562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "galata toys",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 41.0249432,
+      "lon": 28.9750049,
+      "osm_id": 6185578563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "aponia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0258343,
+      "lon": 28.9750331,
+      "osm_id": 6185578566,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "beauty salon luxus",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 41.0259444,
+      "lon": 28.9750119,
+      "osm_id": 6185578568,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "naturel music",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 41.0257642,
+      "lon": 28.9750506,
+      "osm_id": 6185578569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "bbt",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0249803,
+      "lon": 28.9749936,
+      "osm_id": 6185578570,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "crazy covers",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0249125,
+      "lon": 28.9750075,
+      "osm_id": 6185578571,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "kervan",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0251353,
+      "lon": 28.9749363,
+      "osm_id": 6185578573,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "kervan",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0252087,
+      "lon": 28.9749497,
+      "osm_id": 6185578577,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "netses",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 41.0257961,
+      "lon": 28.9750202,
+      "osm_id": 6185578578,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luxus +",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 41.0259558,
+      "lon": 28.9750108,
+      "osm_id": 6185844129,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NOA Gym",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 41.0261338,
+      "lon": 28.9761697,
+      "osm_id": 6848335485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galata Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0264651,
+      "lon": 28.9756746,
+      "osm_id": 6850778085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bonne Nuit",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0263383,
+      "lon": 28.9757438,
+      "osm_id": 6850778485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00d6zel Saint Benoit Frans\u0131z Lisesi",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 41.0250078,
+      "lon": 28.9767683,
+      "osm_id": 6920278586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anadolubank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0249841,
+      "lon": 28.9773412,
+      "osm_id": 8058776785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Route Burger House Karak\u00f6y",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0251659,
+      "lon": 28.97787,
+      "osm_id": 8613551118,
+      "osm_type": "node",
+      "address": "Vekilhar\u00e7 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Halkbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0248995,
+      "lon": 28.9772201,
+      "osm_id": 9043773918,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Abuka Butik",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0261197,
+      "lon": 28.977054,
+      "osm_id": 9055816717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hub 962",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0253029,
+      "lon": 28.9771366,
+      "osm_id": 9056325317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Bread",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0259615,
+      "lon": 28.9766717,
+      "osm_id": 9056589548,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dukkan Galata",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0259828,
+      "lon": 28.9754357,
+      "osm_id": 9073660217,
+      "osm_type": "node",
+      "address": "Tatar Beyi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Galata Lily Caf\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.025589,
+      "lon": 28.9750379,
+      "osm_id": 9080785017,
+      "osm_type": "node",
+      "address": "L\u00fcleci Hendek Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Urban Bread",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0259222,
+      "lon": 28.9765793,
+      "osm_id": 9085856917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galata Popup Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0255533,
+      "lon": 28.9750276,
+      "osm_id": 9286889918,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aseka Karakoy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0249867,
+      "lon": 28.9774646,
+      "osm_id": 10086548323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Goodies",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0267716,
+      "lon": 28.975275,
+      "osm_id": 10183104126,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vintage Underground",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0264317,
+      "lon": 28.9751915,
+      "osm_id": 10183104127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Civan",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0266178,
+      "lon": 28.9753674,
+      "osm_id": 11241235238,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oses gurme",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0247899,
+      "lon": 28.9776912,
+      "osm_id": 11385655624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wilson Galata Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0269716,
+      "lon": 28.9754865,
+      "osm_id": 12035343061,
+      "osm_type": "node",
+      "address": "Serdar-\u0131 Ekrem Caddesi",
+      "road_geometry": null
+    }
+  ]
+}

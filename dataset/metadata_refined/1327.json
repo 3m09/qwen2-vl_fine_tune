@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/1327.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.93300220561662,
+  "bbox": [
+    -73.9344910454918,
+    40.85405405405412,
+    -73.93151336574142,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.place_of_worship",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.place_of_worship": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Mount Sinai Jewish Center",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8545347,
+      "lon": -73.934201,
+      "osm_id": 357624578,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chan's Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8557131,
+      "lon": -73.9333898,
+      "osm_id": 3623472008,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "La Cabana Salvadorena",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8542688,
+      "lon": -73.9334615,
+      "osm_id": 3623507882,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 189th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8550996,
+      "lon": -73.9335184,
+      "osm_id": 11594925630,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 189th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8555708,
+      "lon": -73.9331011,
+      "osm_id": 11594925632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

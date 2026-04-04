@@ -1,0 +1,154 @@
+{
+  "image": "dataset/images/868.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.94197270943124,
+  "bbox": [
+    -73.94346058867659,
+    40.81126126126127,
+    -73.94048483018588,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.doityourself",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "amenity.pharmacy"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2,
+    "shop.convenience": 1,
+    "shop.doityourself": 1,
+    "amenity.fast_food": 2,
+    "shop.supermarket": 1,
+    "amenity.pharmacy": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8122296,
+      "lon": -73.9418363,
+      "osm_id": 1740707014,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Associated Supermarket",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8123399,
+      "lon": -73.9417629,
+      "osm_id": 2562438629,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Revolution Books",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.812132,
+      "lon": -73.9426527,
+      "osm_id": 2767552427,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8123761,
+      "lon": -73.941887,
+      "osm_id": 5235584757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8119898,
+      "lon": -73.9426697,
+      "osm_id": 5235585640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arkan Food Corp",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8134445,
+      "lon": -73.9417023,
+      "osm_id": 10969505900,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "BLG Hardware",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 40.8122021,
+      "lon": -73.9426138,
+      "osm_id": 10969601635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Life Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8132341,
+      "lon": -73.9418383,
+      "osm_id": 13133487853,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Tex's Chicken & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8131954,
+      "lon": -73.941872,
+      "osm_id": 13133487854,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lenox Ave & W 133 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8129719,
+      "lon": -73.9418855,
+      "osm_id": 13243987827,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

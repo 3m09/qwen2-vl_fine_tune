@@ -1,0 +1,145 @@
+{
+  "image": "dataset/images/770.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.94793129550999,
+  "bbox": [
+    -73.94941897278113,
+    40.80225225225225,
+    -73.94644361823885,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "highway.bus_stop",
+    "shop.bakery",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.mobile_phone",
+    "shop.toys"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "highway.bus_stop": 2,
+    "shop.bakery": 1,
+    "amenity.restaurant": 2,
+    "amenity.bank": 1,
+    "shop.mobile_phone": 1,
+    "shop.toys": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Ristorante Settepani",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8043628,
+      "lon": -73.9476425,
+      "osm_id": 883337398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Public School 147",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8024876,
+      "lon": -73.9481015,
+      "osm_id": 3938132962,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8041191,
+      "lon": -73.9479544,
+      "osm_id": 5266905147,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8036389,
+      "lon": -73.9487437,
+      "osm_id": 5266905490,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grandma's Place",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 40.8042822,
+      "lon": -73.9474319,
+      "osm_id": 5972704270,
+      "osm_type": "node",
+      "address": "West 120th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "La Sweets",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8042478,
+      "lon": -73.9477261,
+      "osm_id": 5972704885,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Wells Fargo",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8029195,
+      "lon": -73.9493836,
+      "osm_id": 5972704904,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "T-Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8024052,
+      "lon": -73.9490379,
+      "osm_id": 6799248313,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "L'encanto de Lola 2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8039558,
+      "lon": -73.9486227,
+      "osm_id": 10969587131,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 18,
+    "removed_count": 9,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/920.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.93006492745931,
+  "bbox": [
+    -73.93155290772613,
+    40.81576576576578,
+    -73.92857694719248,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.storage_rental"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.storage_rental": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Public Storage",
+      "category": [
+        "shop.storage_rental"
+      ],
+      "lat": 40.8165381,
+      "lon": -73.9305727,
+      "osm_id": 8969257182,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Gerard Ave & E 146 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8177635,
+      "lon": -73.9296412,
+      "osm_id": 13243990037,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

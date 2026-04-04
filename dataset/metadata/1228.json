@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1228.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.9419431388555,
+  "bbox": [
+    -73.94343177632075,
+    40.8450450450451,
+    -73.94045450139026,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "leisure.playground",
+    "tourism.artwork",
+    "amenity.bicycle_rental"
+  ],
+  "poi_count_per_category": {
+    "leisure.playground": 1,
+    "tourism.artwork": 1,
+    "amenity.bicycle_rental": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "3000 A.D. Diffusion Piece",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8471692,
+      "lon": -73.9420363,
+      "osm_id": 2270245977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "(J. Hood Wright Park Playground) Children's Play Area",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8460033,
+      "lon": -73.9408904,
+      "osm_id": 10665454496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Fort Washington Ave & W 173 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8452221,
+      "lon": -73.9405055,
+      "osm_id": 13146132206,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

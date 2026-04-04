@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/314.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.6465721626279,
+  "bbox": [
+    -46.64780068511937,
+    -23.558738738738743,
+    -46.645343640136424,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.bar",
+    "shop.convenience",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bar": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 3
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "MiniMercado Extra",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5575585,
+      "lon": -46.6456233,
+      "osm_id": 3722289716,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cantina C...Que Sabe!",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5571061,
+      "lon": -46.645685,
+      "osm_id": 3722289717,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    },
+    {
+      "name": "Lazarella",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5582883,
+      "lon": -46.6463456,
+      "osm_id": 3722298688,
+      "osm_type": "node",
+      "address": "Rua Treze de Maio",
+      "road_geometry": null
+    },
+    {
+      "name": "Cantina L'italiano",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5568553,
+      "lon": -46.6467266,
+      "osm_id": 3722298690,
+      "osm_type": "node",
+      "address": "Rua Treze de Maio",
+      "road_geometry": null
+    },
+    {
+      "name": "Central Panela\u00e7o",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5579204,
+      "lon": -46.6466053,
+      "osm_id": 5980471071,
+      "osm_type": "node",
+      "address": "Rua Conselheiro Carr\u00e3o",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

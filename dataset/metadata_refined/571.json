@@ -1,0 +1,689 @@
+{
+  "image": "dataset/images/571.png",
+  "center_lat": 41.0123873873874,
+  "center_lon": 28.976416254356607,
+  "bbox": [
+    28.974923867596917,
+    41.011261261261275,
+    28.9779086411163,
+    41.01351351351353
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.bakery",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.massage",
+    "shop.bicycle",
+    "railway.subway_entrance",
+    "amenity.bank",
+    "shop.books",
+    "shop.supermarket",
+    "shop.electronics",
+    "tourism.hostel",
+    "amenity.cafe",
+    "shop.clothes",
+    "amenity.library",
+    "shop.gift",
+    "railway.stop",
+    "shop.copyshop",
+    "tourism.hotel",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "shop.bakery": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 5,
+    "amenity.fast_food": 1,
+    "shop.massage": 1,
+    "shop.bicycle": 3,
+    "railway.subway_entrance": 1,
+    "amenity.bank": 1,
+    "shop.books": 2,
+    "shop.supermarket": 3,
+    "shop.electronics": 1,
+    "tourism.hostel": 2,
+    "amenity.cafe": 2,
+    "shop.clothes": 2,
+    "amenity.library": 1,
+    "shop.gift": 4,
+    "railway.stop": 1,
+    "shop.copyshop": 1,
+    "tourism.hotel": 17,
+    "amenity.clinic": 1
+  },
+  "poi_count": 52,
+  "pois": [
+    {
+      "name": "Turvan",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0132472,
+      "lon": 28.9777395,
+      "osm_id": 1995185644,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Levni Hotel & SPA",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0130358,
+      "lon": 28.9756727,
+      "osm_id": 2768450499,
+      "osm_type": "node",
+      "address": "Ebusuud Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Second Home Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 41.0128776,
+      "lon": 28.9763285,
+      "osm_id": 2793049082,
+      "osm_type": "node",
+      "address": "Ebussuud Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Atek Bike",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 41.0134365,
+      "lon": 28.9754335,
+      "osm_id": 3452205487,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Sultania",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0128034,
+      "lon": 28.9776457,
+      "osm_id": 3457689621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tadal Discount Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0133484,
+      "lon": 28.9773418,
+      "osm_id": 3499231828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sirkeci",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 41.0133917,
+      "lon": 28.9758834,
+      "osm_id": 4031703660,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sehir Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.013477,
+      "lon": 28.9762482,
+      "osm_id": 4248233899,
+      "osm_type": "node",
+      "address": "Orhaniye Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Erboy Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0126443,
+      "lon": 28.97722,
+      "osm_id": 4528413792,
+      "osm_type": "node",
+      "address": "Ebussuud Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Red River Pub",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0134842,
+      "lon": 28.9774524,
+      "osm_id": 5108828013,
+      "osm_type": "node",
+      "address": "H\u00fcdavendigar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Yasmak Comfort",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0123281,
+      "lon": 28.9778403,
+      "osm_id": 5108836340,
+      "osm_type": "node",
+      "address": "Erdo\u011fan Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "ezmcollection",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0125353,
+      "lon": 28.9772204,
+      "osm_id": 5108836354,
+      "osm_type": "node",
+      "address": "Mehmet Murat Sokak",
+      "road_geometry": null
+    },
+    {
+      "name": "Raymond Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0125016,
+      "lon": 28.9773387,
+      "osm_id": 5108836356,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Topkap\u0131 Gift Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0127517,
+      "lon": 28.9778118,
+      "osm_id": 5108836361,
+      "osm_type": "node",
+      "address": "H\u00fcdavendigar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Yasmak",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0125418,
+      "lon": 28.9777047,
+      "osm_id": 5108836363,
+      "osm_type": "node",
+      "address": "\u0130bni Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Sultania",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0126397,
+      "lon": 28.9775546,
+      "osm_id": 5108836364,
+      "osm_type": "node",
+      "address": "Ibn-I-Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Raymond Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.01261,
+      "lon": 28.9770049,
+      "osm_id": 5108836377,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Petit Palace Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0131325,
+      "lon": 28.9770273,
+      "osm_id": 5108836381,
+      "osm_type": "node",
+      "address": "Ibn-I-Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Evsen",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0128826,
+      "lon": 28.9771724,
+      "osm_id": 5108836382,
+      "osm_type": "node",
+      "address": "Ibn-I-Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sirkeci Ekmek ve Unlu Mamam\u00fclleri",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0129974,
+      "lon": 28.976863,
+      "osm_id": 5108836388,
+      "osm_type": "node",
+      "address": "\u0130bni Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Erbil Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0133284,
+      "lon": 28.9765037,
+      "osm_id": 5108836394,
+      "osm_type": "node",
+      "address": "\u0130bni Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Asur Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0133298,
+      "lon": 28.9765118,
+      "osm_id": 5108836395,
+      "osm_type": "node",
+      "address": "\u0130bni Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Atek Bisiklet",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 41.0134628,
+      "lon": 28.9753675,
+      "osm_id": 5108836412,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sirkeci Aile Sa\u011fl\u0131\u011f\u0131 Merkezi",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 41.0122926,
+      "lon": 28.9774548,
+      "osm_id": 5108838373,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenir Shop",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0123538,
+      "lon": 28.9772703,
+      "osm_id": 5108838374,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Duran",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0124814,
+      "lon": 28.9770205,
+      "osm_id": 5108838375,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Ottoman Art Istanbul",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0125962,
+      "lon": 28.9768566,
+      "osm_id": 5108838377,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Gallery Ebrar Gift Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0127255,
+      "lon": 28.9765855,
+      "osm_id": 5108838378,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Second Home Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 41.0129061,
+      "lon": 28.9762918,
+      "osm_id": 5108838380,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Levni Hotel and Spa",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0131167,
+      "lon": 28.9758913,
+      "osm_id": 5108838382,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sedona",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 41.0132313,
+      "lon": 28.9756732,
+      "osm_id": 5108838384,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eok",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0134143,
+      "lon": 28.9752376,
+      "osm_id": 5108838387,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Final foto\u011fraf\u00e7\u0131l\u0131k",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 41.0134391,
+      "lon": 28.9752012,
+      "osm_id": 5108838388,
+      "osm_type": "node",
+      "address": "Ebussuut Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Garanti Bankas\u0131",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0114436,
+      "lon": 28.9764279,
+      "osm_id": 5108843371,
+      "osm_type": "node",
+      "address": "H\u00fck\u00fcmet Kona\u011f\u0131 Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Tekin Yayinevi",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 41.0115303,
+      "lon": 28.9753629,
+      "osm_id": 5108843374,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kitap\u00e7\u0131l\u0131k",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 41.0129237,
+      "lon": 28.9749664,
+      "osm_id": 5110345096,
+      "osm_type": "node",
+      "address": "\u00c7akalo\u011flu yk\u015f",
+      "road_geometry": null
+    },
+    {
+      "name": "Migros",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0120301,
+      "lon": 28.9752653,
+      "osm_id": 5110345639,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Marmara Pastanesi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0121504,
+      "lon": 28.9752187,
+      "osm_id": 5110345640,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Garanti Bankas\u0131",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0120611,
+      "lon": 28.9753684,
+      "osm_id": 5110345641,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Tekin yay\u0131nevi",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 41.0124856,
+      "lon": 28.9753978,
+      "osm_id": 5110345643,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Bab\u0131 ali restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.012348,
+      "lon": 28.975416,
+      "osm_id": 5110345644,
+      "osm_type": "node",
+      "address": "Ankara Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hamle",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 41.0127629,
+      "lon": 28.9749796,
+      "osm_id": 5110345651,
+      "osm_type": "node",
+      "address": "\u00c7akalo\u011flu yk\u015f",
+      "road_geometry": null
+    },
+    {
+      "name": "Sar\u0131yer",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0131506,
+      "lon": 28.9751549,
+      "osm_id": 5969447787,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coffee Me",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0134145,
+      "lon": 28.974951,
+      "osm_id": 6325038686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eok",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 41.0134117,
+      "lon": 28.9754363,
+      "osm_id": 6448606494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Asur Hotel",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0132154,
+      "lon": 28.9767149,
+      "osm_id": 6960247785,
+      "osm_type": "node",
+      "address": "Ibn-I-Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Sirkeci",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 41.0134149,
+      "lon": 28.9773615,
+      "osm_id": 7716752866,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "My Dream Istanbul Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.013218,
+      "lon": 28.9773224,
+      "osm_id": 9920492532,
+      "osm_type": "node",
+      "address": "H\u00fcdavendigar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Downtown Sirkeci Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0133215,
+      "lon": 28.9778867,
+      "osm_id": 11694384222,
+      "osm_type": "node",
+      "address": "Karg\u0131l\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Horas",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.012802,
+      "lon": 28.9772888,
+      "osm_id": 12347693533,
+      "osm_type": "node",
+      "address": "Ibn-I-Kemal Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Empire palace Spa",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 41.0130119,
+      "lon": 28.9776919,
+      "osm_id": 12369647101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Asur Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0133461,
+      "lon": 28.976769,
+      "osm_id": 13396860951,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 146,
+    "removed_count": 94,
+    "model": "gemini-2.5-flash"
+  }
+}

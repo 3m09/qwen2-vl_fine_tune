@@ -1,37 +1,303 @@
 {
   "image": "dataset/images/180.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.96280049332942,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.512388379135,
   "bbox": [
-    -73.96428847359624,
-    40.81576576576578,
-    -73.9613125130626,
-    40.81801801801804
+    121.51107141565647,
+    31.23,
+    121.51370534261353,
+    31.232252252252252
   ],
   "unique_categories": [
-    "tourism.artwork"
+    "shop.shoes",
+    "amenity.ice_cream",
+    "amenity.cafe",
+    "shop.furniture",
+    "shop.chemist",
+    "shop.gift",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.sports",
+    "shop.clothes",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "tourism.hotel",
+    "shop.watches"
   ],
   "poi_count_per_category": {
-    "tourism.artwork": 1
+    "shop.shoes": 1,
+    "amenity.ice_cream": 1,
+    "amenity.cafe": 2,
+    "shop.furniture": 1,
+    "shop.chemist": 1,
+    "shop.gift": 1,
+    "shop.jewelry": 2,
+    "amenity.restaurant": 4,
+    "shop.sports": 1,
+    "shop.clothes": 2,
+    "amenity.fast_food": 2,
+    "shop.supermarket": 1,
+    "tourism.hotel": 1,
+    "shop.watches": 1
   },
-  "poi_count": 1,
+  "poi_count": 21,
   "pois": [
     {
-      "name": "Welcome to Harlem",
+      "name": "\u4e07\u8c6a\u9152\u5e97",
       "category": [
-        "tourism.artwork"
+        "tourism.hotel"
       ],
-      "lat": 40.8177329,
-      "lon": -73.9614422,
-      "osm_id": 12040786045,
+      "lat": 31.2318508,
+      "lon": 121.5119016,
+      "osm_id": 1317234409,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u897f\u8d1d\u839c\u9762\u6751",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2315878,
+      "lon": 121.5120254,
+      "osm_id": 3944763552,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CoCo\u58f9\u756a\u5c4b\u5496\u55b1",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2316605,
+      "lon": 121.5114514,
+      "osm_id": 3944764160,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "528 Nanquan Bei lu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2316947,
+      "lon": 121.5134181,
+      "osm_id": 4331713690,
+      "osm_type": "node",
+      "address": "\u5357\u6cc9\u5317\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 31.2305066,
+      "lon": 121.5124661,
+      "osm_id": 8953971269,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00e4agen-Dazs",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 31.2308803,
+      "lon": 121.5118563,
+      "osm_id": 8953971270,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fc5\u80dc\u5ba2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2307656,
+      "lon": 121.5118928,
+      "osm_id": 8953971271,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nike",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 31.2307673,
+      "lon": 121.5121896,
+      "osm_id": 8953971272,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vans",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 31.2308108,
+      "lon": 121.5123421,
+      "osm_id": 8953971273,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u963f\u8fea\u8fbe\u65af",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 31.2304475,
+      "lon": 121.5127974,
+      "osm_id": 8953971274,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8fea\u58eb\u5c3c",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 31.2305414,
+      "lon": 121.5122669,
+      "osm_id": 8953971275,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pandora",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 31.2302129,
+      "lon": 121.5131491,
+      "osm_id": 8953971277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2302563,
+      "lon": 121.5122567,
+      "osm_id": 8953971278,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 31.2305084,
+      "lon": 121.5126165,
+      "osm_id": 8953971280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f18\u8863\u5e93",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 31.2311185,
+      "lon": 121.5117221,
+      "osm_id": 8953971281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2313357,
+      "lon": 121.5116225,
+      "osm_id": 8953971282,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5473\u5343\u62c9\u9762",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2317616,
+      "lon": 121.5121713,
+      "osm_id": 8953971283,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8054\u534e\u8d85\u5e02",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 31.2321601,
+      "lon": 121.5131243,
+      "osm_id": 8953971284,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u56fd\u5927\u836f\u623f",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 31.2320391,
+      "lon": 121.5131331,
+      "osm_id": 8953971285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.230304,
+      "lon": 121.5111659,
+      "osm_id": 8971473680,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u514b\u7f8e\u5bb6",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 31.2304175,
+      "lon": 121.5111022,
+      "osm_id": 8971473682,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 1,
-    "removed_count": 0,
+    "original_poi_count": 26,
+    "removed_count": 5,
     "model": "gemini-2.5-flash"
   }
 }

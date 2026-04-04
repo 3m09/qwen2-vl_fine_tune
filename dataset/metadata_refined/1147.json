@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1147.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.96874179992112,
+  "bbox": [
+    -73.97023028563916,
+    40.83828828828833,
+    -73.96725331420308,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "leisure.marina"
+  ],
+  "poi_count_per_category": {
+    "leisure.marina": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Von Dohln Marina",
+      "category": [
+        "leisure.marina"
+      ],
+      "lat": 40.8398689,
+      "lon": -73.9696859,
+      "osm_id": 2159537773,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/280.png",
+  "center_lat": -23.56436936936937,
+  "center_lon": -46.663771414325836,
+  "bbox": [
+    -46.665,
+    -23.565495495495497,
+    -46.662542828651674,
+    -23.563243243243246
+  ],
+  "unique_categories": [
+    "shop.hardware",
+    "amenity.bank",
+    "amenity.taxi",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "shop.hardware": 1,
+    "amenity.bank": 1,
+    "amenity.taxi": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Jardim Am\u00e9rica Materiais de Constru\u00e7\u00e3o",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": -23.5648881,
+      "lon": -46.664952,
+      "osm_id": 4561911893,
+      "osm_type": "node",
+      "address": "Alameda Lorena",
+      "road_geometry": null
+    },
+    {
+      "name": "Bradesco",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5642818,
+      "lon": -46.6649173,
+      "osm_id": 5647917333,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Padre Jo\u00e3o manuel",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5639603,
+      "lon": -46.6643145,
+      "osm_id": 5647917342,
+      "osm_type": "node",
+      "address": "Rua Padre Jo\u00e3o Manuel",
+      "road_geometry": null
+    },
+    {
+      "name": "Primo Pastif\u00edcio",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5634389,
+      "lon": -46.6642884,
+      "osm_id": 6110674886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

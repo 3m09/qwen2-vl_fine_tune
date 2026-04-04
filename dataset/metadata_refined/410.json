@@ -1,0 +1,861 @@
+{
+  "image": "dataset/images/410.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.18312260534356,
+  "bbox": [
+    114.18190562611495,
+    22.2795045045045,
+    114.18433958457217,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "shop.bag",
+    "shop.pet",
+    "shop.convenience",
+    "shop.chemist",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "amenity.cinema",
+    "railway.subway_entrance",
+    "shop.optician",
+    "amenity.bank",
+    "shop.books",
+    "shop.supermarket",
+    "shop.electronics",
+    "shop.cosmetics",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.jewelry",
+    "shop.erotic",
+    "shop.clothes",
+    "shop.watches",
+    "shop.sports",
+    "railway.tram_stop",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.bag": 1,
+    "shop.pet": 2,
+    "shop.convenience": 3,
+    "shop.chemist": 2,
+    "amenity.restaurant": 6,
+    "amenity.fast_food": 2,
+    "amenity.cinema": 1,
+    "railway.subway_entrance": 7,
+    "shop.optician": 1,
+    "amenity.bank": 6,
+    "shop.books": 2,
+    "shop.supermarket": 1,
+    "shop.electronics": 1,
+    "shop.cosmetics": 2,
+    "highway.bus_stop": 20,
+    "amenity.cafe": 1,
+    "shop.jewelry": 2,
+    "shop.erotic": 1,
+    "shop.clothes": 1,
+    "shop.watches": 1,
+    "shop.sports": 1,
+    "railway.tram_stop": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 66,
+  "pois": [
+    {
+      "name": "\u666f\u9686\u8857 Cannon Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815777,
+      "lon": 114.1824424,
+      "osm_id": 288373407,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 SOGO",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2805978,
+      "lon": 114.1842425,
+      "osm_id": 1012176477,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u666f\u9686\u8857 Cannon Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815737,
+      "lon": 114.1824319,
+      "osm_id": 1030727496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u5fc3MX Maxim's MX",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2806735,
+      "lon": 114.182566,
+      "osm_id": 1298704811,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u570b\u5de5\u5546\u9280\u884c\uff08\u4e9e\u6d32\uff09 ICBC (Asia)",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2799053,
+      "lon": 114.1831141,
+      "osm_id": 1299465462,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u666f\u9686\u8857 Cannon Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815687,
+      "lon": 114.1824189,
+      "osm_id": 2090588024,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7e3d\u7d71\u6232\u9662 President Theatre",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 22.2812926,
+      "lon": 114.1835025,
+      "osm_id": 2090588088,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2800234,
+      "lon": 114.1829275,
+      "osm_id": 2300360770,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800127,
+      "lon": 114.18408,
+      "osm_id": 2300360776,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\u5ee3\u5834 Causeway Bay Plaza",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2802036,
+      "lon": 114.1829982,
+      "osm_id": 2556799121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 SOGO",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2804356,
+      "lon": 114.1843136,
+      "osm_id": 2556799125,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 SOGO",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2804322,
+      "lon": 114.1841881,
+      "osm_id": 2556799126,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802142,
+      "lon": 114.183779,
+      "osm_id": 2977109016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802184,
+      "lon": 114.183884,
+      "osm_id": 2977109017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.280225,
+      "lon": 114.184035,
+      "osm_id": 2977109018,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802396,
+      "lon": 114.18424,
+      "osm_id": 2977109019,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802255,
+      "lon": 114.184064,
+      "osm_id": 2977109020,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.280248,
+      "lon": 114.184311,
+      "osm_id": 2977109021,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279987,
+      "lon": 114.18343,
+      "osm_id": 2987691532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799921,
+      "lon": 114.18356,
+      "osm_id": 2987721133,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800048,
+      "lon": 114.18388,
+      "osm_id": 2987721134,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799976,
+      "lon": 114.1837,
+      "osm_id": 2987721135,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800024,
+      "lon": 114.18382,
+      "osm_id": 2987721136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5e0c\u614e\u5ee3\u5834 Causeway Bay - Hysan Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800064,
+      "lon": 114.18392,
+      "osm_id": 2987721137,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u666f\u9686\u8857 Cannon Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2817308,
+      "lon": 114.1828552,
+      "osm_id": 3049050065,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MaBelle",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2803839,
+      "lon": 114.1826716,
+      "osm_id": 4174607996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2802161,
+      "lon": 114.1823694,
+      "osm_id": 4174631192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.280157,
+      "lon": 114.1823455,
+      "osm_id": 4174631892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jasons Food & Living",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2798145,
+      "lon": 114.1837708,
+      "osm_id": 4459012990,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e94\u6307\u9593 Wu Zhi Jian",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2807206,
+      "lon": 114.1831398,
+      "osm_id": 4535452091,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Eslite",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 22.2797382,
+      "lon": 114.1839596,
+      "osm_id": 4557983689,
+      "osm_type": "node",
+      "address": "Leighton Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Caffe Habitu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2796213,
+      "lon": 114.1837943,
+      "osm_id": 4561588289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u55b5\u661f\u7403 Cats Planet",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2809336,
+      "lon": 114.1835742,
+      "osm_id": 4843375421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u65b0\u9280\u884c Dah Sing Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2797252,
+      "lon": 114.1826208,
+      "osm_id": 4855989709,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Outback Steakhouse",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2801651,
+      "lon": 114.1827656,
+      "osm_id": 4856146952,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5468\u5927\u798f Chow Tai Fook",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2802162,
+      "lon": 114.1829418,
+      "osm_id": 4856146953,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Breitling",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2802724,
+      "lon": 114.1836067,
+      "osm_id": 4856146957,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2802183,
+      "lon": 114.1821623,
+      "osm_id": 4858546116,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lego Pet",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2817126,
+      "lon": 114.1836565,
+      "osm_id": 4858562063,
+      "osm_type": "node",
+      "address": "\u666f\u9686\u8857 Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5584\u85e5\u5802",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2805274,
+      "lon": 114.182925,
+      "osm_id": 4858569262,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2805486,
+      "lon": 114.1831447,
+      "osm_id": 4858569264,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Omakase Toy",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": 22.2807912,
+      "lon": 114.1842188,
+      "osm_id": 4858569266,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u660e\u5927\u85e5\u574a",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2805621,
+      "lon": 114.1837246,
+      "osm_id": 4858569267,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Protop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2805532,
+      "lon": 114.1834269,
+      "osm_id": 4858569278,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2803995,
+      "lon": 114.1819564,
+      "osm_id": 4858617918,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2807301,
+      "lon": 114.1833873,
+      "osm_id": 4858618228,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "18",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2814872,
+      "lon": 114.1835845,
+      "osm_id": 4858620561,
+      "osm_type": "node",
+      "address": "\u666f\u9686\u8857 Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mega Pet",
+      "category": [
+        "shop.pet"
+      ],
+      "lat": 22.2815816,
+      "lon": 114.1834955,
+      "osm_id": 4858620562,
+      "osm_type": "node",
+      "address": "\u666f\u9686\u8857 Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "I-Care Optics",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2816992,
+      "lon": 114.1834367,
+      "osm_id": 4858620565,
+      "osm_type": "node",
+      "address": "\u666f\u9686\u8857 Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2805351,
+      "lon": 114.182237,
+      "osm_id": 4859935922,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Nike",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2796014,
+      "lon": 114.1827546,
+      "osm_id": 4859935927,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "ISA",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 22.2812774,
+      "lon": 114.1822565,
+      "osm_id": 4860027982,
+      "osm_type": "node",
+      "address": "\u6ce2\u65af\u5bcc\u8857 Percival Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u62db\u5546\u6c38\u9686\u9280\u884c CMB Wing Lung Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.279832,
+      "lon": 114.182919,
+      "osm_id": 4860027985,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Shelter Italian Bar & Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2796898,
+      "lon": 114.1835836,
+      "osm_id": 5160325222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DJI Flagship Store",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 22.2813109,
+      "lon": 114.1838667,
+      "osm_id": 6167420785,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a02\u6587\u66f8\u5e97",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 22.2805144,
+      "lon": 114.1833131,
+      "osm_id": 6261511289,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8fa3\u59b9 Hotgirls",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2797008,
+      "lon": 114.1832059,
+      "osm_id": 6594510977,
+      "osm_type": "node",
+      "address": "\u5229\u5712\u5c71\u9053 Lee Garden Road",
+      "road_geometry": null
+    },
+    {
+      "name": "8five2shop",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 22.2810219,
+      "lon": 114.1838993,
+      "osm_id": 6766871756,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff08\u8b1d\u6590\u9053\uff09 Causeway Bay (Jaffe Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.281032,
+      "lon": 114.182786,
+      "osm_id": 6778581525,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 SOGO",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2804322,
+      "lon": 114.1842454,
+      "osm_id": 6825575400,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 SOGO",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2802725,
+      "lon": 114.184257,
+      "osm_id": 7060166412,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e23\u7538\u574a Jardine's Crescent",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2799718,
+      "lon": 114.1840897,
+      "osm_id": 7060182527,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2810433,
+      "lon": 114.1841464,
+      "osm_id": 8244642345,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lojel",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2812188,
+      "lon": 114.1838149,
+      "osm_id": 8244642346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5d07\u5149\u767e\u8ca8 Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802461,
+      "lon": 114.184261,
+      "osm_id": 9956808159,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\uff0d\u5d07\u5149\u767e\u8ca8 Causeway Bay - Sogo Department Store",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2802263,
+      "lon": 114.184084,
+      "osm_id": 10846604784,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 208,
+    "removed_count": 142,
+    "model": "gemini-2.5-flash"
+  }
+}

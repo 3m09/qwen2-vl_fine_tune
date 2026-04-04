@@ -1,20 +1,239 @@
 {
   "image": "dataset/images/57.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.97173317263398,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.07647466473207734,
   "bbox": [
-    -73.97322090039007,
-    40.80450450450451,
-    -73.97024544487786,
-    40.80675675675676
+    -0.07828430590653293,
+    51.51626126126128,
+    -0.07466502355762175,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.guest_house",
+    "amenity.cafe",
+    "shop.outdoor",
+    "amenity.restaurant",
+    "shop.sports",
+    "amenity.fast_food",
+    "amenity.university",
+    "amenity.doctors",
+    "shop.massage",
+    "shop.bicycle",
+    "shop.dry_cleaning",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 1,
+    "amenity.cafe": 3,
+    "shop.outdoor": 1,
+    "amenity.restaurant": 2,
+    "shop.sports": 1,
+    "amenity.fast_food": 2,
+    "amenity.university": 1,
+    "amenity.doctors": 1,
+    "shop.massage": 1,
+    "shop.bicycle": 1,
+    "shop.dry_cleaning": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 16,
+  "pois": [
+    {
+      "name": "Jen Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5181847,
+      "lon": -0.0776879,
+      "osm_id": 347542399,
+      "osm_type": "node",
+      "address": "Artillery Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Swift Cycles",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 51.5172761,
+      "lon": -0.0764982,
+      "osm_id": 1736770860,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City of London Flats",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 51.5182651,
+      "lon": -0.0781456,
+      "osm_id": 1779504042,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pizza Union",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5177171,
+      "lon": -0.0773817,
+      "osm_id": 2639079549,
+      "osm_type": "node",
+      "address": "Sandy's Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Pod",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5166157,
+      "lon": -0.0782474,
+      "osm_id": 3068270488,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Kastner and Ovens",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.517867,
+      "lon": -0.0763379,
+      "osm_id": 3081640239,
+      "osm_type": "node",
+      "address": "Frying Pan Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "London Steakhouse Co",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5175765,
+      "lon": -0.0781411,
+      "osm_id": 3168534745,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Zen Clinic",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 51.5181616,
+      "lon": -0.0759319,
+      "osm_id": 3195416603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coventry University London Campus",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 51.5174721,
+      "lon": -0.0776604,
+      "osm_id": 3195441960,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Runners Need",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5172022,
+      "lon": -0.0760513,
+      "osm_id": 3274286626,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Historic Spitalfields",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5183199,
+      "lon": -0.0764377,
+      "osm_id": 3631355120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cotswold Outdoor",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 51.5170658,
+      "lon": -0.0758393,
+      "osm_id": 3928721758,
+      "osm_type": "node",
+      "address": "Leyden Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bean about Town",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5165527,
+      "lon": -0.0777513,
+      "osm_id": 4948602209,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "My Old Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5169008,
+      "lon": -0.0768855,
+      "osm_id": 11048383051,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Dry Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 51.518284,
+      "lon": -0.0747086,
+      "osm_id": 12543995832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LSDC Healthcare",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5181716,
+      "lon": -0.078274,
+      "osm_id": 12798202667,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 38,
+    "removed_count": 22,
     "model": "gemini-2.5-flash"
   }
 }

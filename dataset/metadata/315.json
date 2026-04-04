@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/315.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.64411511764495,
+  "bbox": [
+    -46.645343640136424,
+    -23.558738738738743,
+    -46.64288659515348,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "shop.lottery",
+    "amenity.bar",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 1,
+    "shop.lottery": 1,
+    "amenity.bar": 1,
+    "amenity.bank": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Caixa Econ\u00f4mica Federal",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5568258,
+      "lon": -46.6452907,
+      "osm_id": 3722289718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Banco Santander",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5569828,
+      "lon": -46.6452672,
+      "osm_id": 3722289719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lot\u00e9rica Bixiga",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5572807,
+      "lon": -46.6452424,
+      "osm_id": 3722289720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "luncheonette",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5574416,
+      "lon": -46.6442371,
+      "osm_id": 4425607793,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Al Janiah",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5574738,
+      "lon": -46.6452074,
+      "osm_id": 4919837924,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Rui Barbosa, 333",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5583799,
+      "lon": -46.6451739,
+      "osm_id": 8378420121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

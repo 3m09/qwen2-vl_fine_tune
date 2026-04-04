@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/961.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.95089331673012,
+  "bbox": [
+    -73.95238139804133,
+    40.82027027027029,
+    -73.94940523541891,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.food_court",
+    "amenity.restaurant",
+    "shop.hairdresser"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "amenity.food_court": 1,
+    "amenity.restaurant": 1,
+    "shop.hairdresser": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Caf\u00e9 One",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8220999,
+      "lon": -73.9496705,
+      "osm_id": 2758924029,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Virtual Eats",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 40.8222749,
+      "lon": -73.9495427,
+      "osm_id": 2758924035,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Triple A Barbershop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8221776,
+      "lon": -73.9496155,
+      "osm_id": 2768171697,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8205705,
+      "lon": -73.9511866,
+      "osm_id": 8736386214,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 138th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8210038,
+      "lon": -73.9505502,
+      "osm_id": 8736432170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fumo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8214295,
+      "lon": -73.9506464,
+      "osm_id": 11004300913,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,20 +1,63 @@
 {
   "image": "dataset/images/172.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.9866081775986,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.49131696347852,
   "bbox": [
-    -73.98809615786541,
-    40.81576576576578,
-    -73.98512019733177,
-    40.81801801801804
+    121.49,
+    31.23,
+    121.49263392695705,
+    31.232252252252252
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.parking"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.parking": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u5341\u516d\u94fa",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 31.231865,
+      "lon": 121.4914337,
+      "osm_id": 1888393403,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4eba\u6c11\u8def\u65b0\u5f00\u6cb3\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2303968,
+      "lon": 121.490719,
+      "osm_id": 9113968172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4eba\u6c11\u8def\u65b0\u5f00\u6cb3\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2307889,
+      "lon": 121.4906855,
+      "osm_id": 9113968174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 8,
+    "removed_count": 5,
     "model": "gemini-2.5-flash"
   }
 }

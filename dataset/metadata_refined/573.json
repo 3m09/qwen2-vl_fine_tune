@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/573.png",
+  "center_lat": 41.0123873873874,
+  "center_lon": 28.982385801395374,
+  "bbox": [
+    28.980893414635684,
+    41.011261261261275,
+    28.983878188155067,
+    41.01351351351353
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "tourism.museum",
+    "shop.gift",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "tourism.museum": 1,
+    "shop.gift": 1,
+    "tourism.information": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Topkapi",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0116004,
+      "lon": 28.9828241,
+      "osm_id": 5663545980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Muzenin kahves\u0131",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0114517,
+      "lon": 28.9822782,
+      "osm_id": 10033646139,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Topkapi Saray\u0131",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.011344,
+      "lon": 28.9832034,
+      "osm_id": 10284696709,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "II. AVLU D\u0130VAN - ADALET MEYDANI",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 41.0115874,
+      "lon": 28.983309,
+      "osm_id": 11812576773,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "image": "dataset/images/403.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.16608489614303,
+  "bbox": [
+    114.16486791691443,
+    22.2795045045045,
+    114.16730187537165,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.stationery"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "highway.bus_stop": 4,
+    "shop.stationery": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "\u6d77\u5bcc\u4e2d\u5fc3 Admiralty Centre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2795921,
+      "lon": 114.1651385,
+      "osm_id": 994194709,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u653f\u5e9c\u7e3d\u90e8 Central Government Offices",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2799791,
+      "lon": 114.165326,
+      "osm_id": 1906352517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2807397,
+      "lon": 114.167013,
+      "osm_id": 1952090009,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u653f\u5e9c\u7e3d\u90e8 Central Government Offices",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2800956,
+      "lon": 114.1651625,
+      "osm_id": 2496629561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u653f\u5e9c\u7e3d\u90e8 Central Government Offices",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2801714,
+      "lon": 114.1650559,
+      "osm_id": 2496629563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u57ce\u90a6\u6587\u5100 City Stationery",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 22.2795983,
+      "lon": 114.1648815,
+      "osm_id": 5294928112,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

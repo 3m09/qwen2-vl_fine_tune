@@ -1,0 +1,203 @@
+{
+  "image": "dataset/images/331.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.83964339712584,
+  "bbox": [
+    103.83851698196231,
+    1.298,
+    103.84076981228937,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.police",
+    "shop.convenience",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.travel_agency",
+    "railway.stop",
+    "shop.ticket",
+    "amenity.fast_food",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "amenity.police": 1,
+    "shop.convenience": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 2,
+    "shop.travel_agency": 1,
+    "railway.stop": 1,
+    "shop.ticket": 1,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Somerset Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.300226,
+      "lon": 103.8388973,
+      "osm_id": 410475691,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KPO",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 1.3001777,
+      "lon": 103.8407044,
+      "osm_id": 518295856,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Orchard Neighbourhood Police Centre",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 1.2989573,
+      "lon": 103.8398524,
+      "osm_id": 3973667108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Somerset",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 1.3002401,
+      "lon": 103.839004,
+      "osm_id": 4583991505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Killiney Kopitiam",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.2988102,
+      "lon": 103.8394544,
+      "osm_id": 4678660995,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sabre Travel Pte Ltd",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 1.2981086,
+      "lon": 103.8388539,
+      "osm_id": 4735257048,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Killiney Medical Clinic",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 1.298913,
+      "lon": 103.8395433,
+      "osm_id": 6259798704,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Killiney Curry Puff",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.2983815,
+      "lon": 103.8390587,
+      "osm_id": 6259798706,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.2985134,
+      "lon": 103.8391586,
+      "osm_id": 6259798710,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "#87 Just Thai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.2989896,
+      "lon": 103.8396011,
+      "osm_id": 6259798713,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Domino's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.2987184,
+      "lon": 103.8393549,
+      "osm_id": 6259798717,
+      "osm_type": "node",
+      "address": "Killiney Road",
+      "road_geometry": null
+    },
+    {
+      "name": "TransitLink Concession Card Replacement Office",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 1.2999127,
+      "lon": 103.8396227,
+      "osm_id": 8321094285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miele",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.2997526,
+      "lon": 103.8407635,
+      "osm_id": 11090494230,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 27,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

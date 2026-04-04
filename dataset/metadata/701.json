@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/701.png",
+  "center_lat": 19.439639639639637,
+  "center_lon": -99.13425223324195,
+  "bbox": [
+    -99.1354464295484,
+    19.43851351351351,
+    -99.1330580369355,
+    19.44076576576576
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "shop.convenience",
+    "amenity.community_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 2,
+    "shop.convenience": 1,
+    "amenity.community_centre": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Banco Santander",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4394498,
+      "lon": -99.1332145,
+      "osm_id": 5622802909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4397081,
+      "lon": -99.1338923,
+      "osm_id": 9939432254,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pilares Rockdrigo Gonz\u00e1lez",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 19.4399461,
+      "lon": -99.1342319,
+      "osm_id": 10828713415,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Per\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "BBVA",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 19.4392429,
+      "lon": -99.1331685,
+      "osm_id": 12009836100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

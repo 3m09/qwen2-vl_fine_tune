@@ -1,20 +1,145 @@
 {
-  "image": "g_dataset/images/0.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9985123732081,
+  "image": "dataset/images/0.png",
+  "center_lat": 35.65512612612613,
+  "center_lon": 139.69738591309348,
   "bbox": [
-    -74.0,
-    40.8,
-    -73.99702474641619,
-    40.80225225225225
+    139.696,
+    35.654,
+    139.69877182618694,
+    35.65625225225226
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.place_of_worship",
+    "amenity.cafe",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.bicycle_rental",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 3,
+    "amenity.cafe": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6550182,
+      "lon": 139.6966856,
+      "osm_id": 625563981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u798f\u97f3\u6559\u4f1a",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6543803,
+      "lon": 139.6981249,
+      "osm_id": 732207766,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8056\u30f6\u4e18\u6559\u4f1a",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6544404,
+      "lon": 139.6969705,
+      "osm_id": 732207809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60df\u795e\u6703\u672c\u90e8",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 35.6555774,
+      "lon": 139.697984,
+      "osm_id": 741609972,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5357\u5e73\u53f0\u753a",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6551671,
+      "lon": 139.6963836,
+      "osm_id": 2863970608,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30d9\u30ed\u30fc\u30c1\u30a7",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6560408,
+      "lon": 139.697903,
+      "osm_id": 3671389393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "nepalico",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6558308,
+      "lon": 139.6983683,
+      "osm_id": 4290999961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u30bd\u30e9\u30b9\u30bf",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 35.65618,
+      "lon": 139.69612,
+      "osm_id": 11436145751,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u307e\u3044\u3070\u3059\u3051\u3063\u3068",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 35.6547886,
+      "lon": 139.6981493,
+      "osm_id": 12163217510,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 15,
+    "removed_count": 6,
     "model": "gemini-2.5-flash"
   }
 }

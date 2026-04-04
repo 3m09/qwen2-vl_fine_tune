@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/756.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.989586259102,
+  "bbox": [
+    -73.99107393637314,
+    40.80225225225225,
+    -73.98809858183085,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.beauty": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "European Wax Center",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8036622,
+      "lon": -73.9909899,
+      "osm_id": 12205927167,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

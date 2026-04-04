@@ -1,0 +1,123 @@
+{
+  "image": "dataset/images/256.png",
+  "center_lat": 37.50088288288289,
+  "center_lon": 127.02909723146347,
+  "bbox": [
+    127.02767778517078,
+    37.49975675675677,
+    127.03051667775617,
+    37.50200900900902
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 7,
+    "amenity.school": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "\uad6d\uae30\uc6d0",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 37.5019759,
+      "lon": 127.0302111,
+      "osm_id": 4352439393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porridge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4998012,
+      "lon": 127.0292081,
+      "osm_id": 7206082885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "porridge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4997835,
+      "lon": 127.0291838,
+      "osm_id": 7206082886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "yoogane",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5000501,
+      "lon": 127.0276816,
+      "osm_id": 7206084285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uace0\uc218\ub2ed\uac08\ube44",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4998174,
+      "lon": 127.0281463,
+      "osm_id": 12073326408,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c96\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc2e0\ubd80\uc790\uc2dd\ub2f9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4998573,
+      "lon": 127.0277347,
+      "osm_id": 12074465845,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c96\uae38",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc54c\ubd80\uc790",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5006968,
+      "lon": 127.0278803,
+      "osm_id": 12074582642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "88\ub178\uac00\ub9ac \uac15\ub0a8",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.4998453,
+      "lon": 127.0284715,
+      "osm_id": 12074733257,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c96\uae38",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 28,
+    "removed_count": 20,
+    "model": "gemini-2.5-flash"
+  }
+}

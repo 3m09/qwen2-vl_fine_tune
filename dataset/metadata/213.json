@@ -1,0 +1,88 @@
+{
+  "image": "dataset/images/213.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.49395126719268,
+  "bbox": [
+    121.49263417812845,
+    31.239009009009006,
+    121.49526835625691,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.tram_stop",
+    "amenity.cinema",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.cafe": 1,
+    "railway.tram_stop": 1,
+    "amenity.cinema": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u661f\u7f8e\u56fd\u9645\u5f71\u57ce",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 31.2392375,
+      "lon": 121.4951449,
+      "osm_id": 4896289054,
+      "osm_type": "node",
+      "address": "\u9646\u5bb6\u5634\u897f\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c (\u9646\u5bb6\u5634)",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 31.2405754,
+      "lon": 121.4931402,
+      "osm_id": 5289202477,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8d5b\u767e\u5473",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2409049,
+      "lon": 121.4951005,
+      "osm_id": 7099661074,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Flower Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.240953,
+      "lon": 121.4952488,
+      "osm_id": 7099673664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u65b9\u660e\u73e0",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2407813,
+      "lon": 121.4951326,
+      "osm_id": 12025294828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

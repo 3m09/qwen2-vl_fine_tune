@@ -1,65 +1,51 @@
 {
   "image": "dataset/images/132.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.96280301886618,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.83095269694853,
   "bbox": [
-    -73.96429089811153,
-    40.81126126126127,
-    -73.96131513962082,
-    40.81351351351353
+    72.82976215755882,
+    18.93351351351351,
+    72.83214323633823,
+    18.935765765765762
   ],
   "unique_categories": [
-    "tourism.artwork",
-    "amenity.school",
-    "highway.bus_stop"
+    "highway.bus_stop",
+    "amenity.fast_food"
   ],
   "poi_count_per_category": {
-    "tourism.artwork": 1,
-    "amenity.school": 1,
-    "highway.bus_stop": 1
+    "highway.bus_stop": 1,
+    "amenity.fast_food": 1
   },
-  "poi_count": 3,
+  "poi_count": 2,
   "pois": [
     {
-      "name": "Riverside Church Week Day School",
+      "name": "bhelwala",
       "category": [
-        "amenity.school"
+        "amenity.fast_food"
       ],
-      "lat": 40.8113651,
-      "lon": -73.9635604,
-      "osm_id": 357621706,
+      "lat": 18.93526,
+      "lon": 72.83113,
+      "osm_id": 2166760742,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Riverside Drive & West 122nd Street",
+      "name": "Mumbai Gymkhana",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8128986,
-      "lon": -73.962725,
-      "osm_id": 4284126289,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "General Daniel Butterfield",
-      "category": [
-        "tourism.artwork"
-      ],
-      "lat": 40.8126196,
-      "lon": -73.9621121,
-      "osm_id": 6244980517,
+      "lat": 18.9349045,
+      "lon": 72.8310272,
+      "osm_id": 9788414503,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 3,
-    "removed_count": 0,
+    "original_poi_count": 6,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

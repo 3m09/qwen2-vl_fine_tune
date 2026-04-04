@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/266.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.653942349718434,
+  "bbox": [
+    -46.6551709775275,
+    -23.57,
+    -46.65271372190937,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "shop.newsagent",
+    "amenity.language_school"
+  ],
+  "poi_count_per_category": {
+    "shop.newsagent": 1,
+    "amenity.language_school": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Escola UNS de Ingl\u00eas",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": -23.5696672,
+      "lon": -46.6541592,
+      "osm_id": 1066868351,
+      "osm_type": "node",
+      "address": "Alameda Sarutai\u00e1",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Fern\u00e3o Cardim",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5684433,
+      "lon": -46.6536472,
+      "osm_id": 11406642502,
+      "osm_type": "node",
+      "address": "Alameda Fern\u00e3o Cardim",
+      "road_geometry": null
+    }
+  ]
+}

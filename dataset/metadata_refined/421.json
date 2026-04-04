@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/421.png",
+  "center_lat": 22.28288288288288,
+  "center_lon": 114.18312297776762,
+  "bbox": [
+    114.18190597893775,
+    22.281756756756753,
+    114.1843399765975,
+    22.284009009009004
+  ],
+  "unique_categories": [
+    "tourism.attraction",
+    "amenity.cafe",
+    "shop.sports"
+  ],
+  "poi_count_per_category": {
+    "tourism.attraction": 1,
+    "amenity.cafe": 1,
+    "shop.sports": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2820743,
+      "lon": 114.1840392,
+      "osm_id": 456737917,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6021\u548c\u5348\u7832 Noonday Gun",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 22.282598,
+      "lon": 114.183816,
+      "osm_id": 1019305706,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Atlas Sports",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 22.2819592,
+      "lon": 114.183677,
+      "osm_id": 4850169213,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 8,
+    "model": "gemini-2.5-flash"
+  }
+}

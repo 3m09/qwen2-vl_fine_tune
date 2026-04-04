@@ -1,0 +1,193 @@
+{
+  "image": "dataset/images/1009.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.95088998150896,
+  "bbox": [
+    -73.95237816388749,
+    40.8247747747748,
+    -73.94940179913046,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "shop.tobacco",
+    "shop.car",
+    "highway.bus_stop",
+    "shop.chemist",
+    "amenity.restaurant",
+    "amenity.bank",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "shop.tobacco": 1,
+    "shop.car": 1,
+    "highway.bus_stop": 7,
+    "shop.chemist": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "CityMD",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8268934,
+      "lon": -73.9497877,
+      "osm_id": 4928962212,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8263866,
+      "lon": -73.9500775,
+      "osm_id": 5281928940,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8260738,
+      "lon": -73.9498475,
+      "osm_id": 5281929160,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8267211,
+      "lon": -73.9504794,
+      "osm_id": 5281931376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.826687,
+      "lon": -73.9500376,
+      "osm_id": 5281932782,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 144th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8266115,
+      "lon": -73.9522576,
+      "osm_id": 5798759825,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8268476,
+      "lon": -73.952322,
+      "osm_id": 5798760778,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Riverside Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8268154,
+      "lon": -73.9516354,
+      "osm_id": 5798773617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Discount Car Lease",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 40.825531,
+      "lon": -73.9498536,
+      "osm_id": 6825007395,
+      "osm_type": "node",
+      "address": "West 144th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Big Apple Smoke Shop",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 40.8265445,
+      "lon": -73.9500352,
+      "osm_id": 9702179031,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "The Chick Inn Harlem",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8252449,
+      "lon": -73.9509886,
+      "osm_id": 10106777980,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "CVS Pharmacy",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.8261153,
+      "lon": -73.9502787,
+      "osm_id": 10106807582,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8257782,
+      "lon": -73.951296,
+      "osm_id": 12209947213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 22,
+    "removed_count": 9,
+    "model": "gemini-2.5-flash"
+  }
+}

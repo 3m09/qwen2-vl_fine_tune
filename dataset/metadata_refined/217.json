@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/217.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.50448797970652,
+  "bbox": [
+    121.5031708906423,
+    31.239009009009006,
+    121.50580506877075,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 2,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u62db\u5546\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.239431,
+      "lon": 121.5046595,
+      "osm_id": 8927436922,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5bb6",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2412344,
+      "lon": 121.5039595,
+      "osm_id": 8927437056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u56fd\u5efa\u8bbe\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2404962,
+      "lon": 121.5039941,
+      "osm_id": 8927437221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u57ce\u8def\u9646\u5bb6\u5634\u73af\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2409315,
+      "lon": 121.5040965,
+      "osm_id": 11068733840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

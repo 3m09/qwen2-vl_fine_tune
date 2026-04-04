@@ -1,0 +1,147 @@
+{
+  "image": "dataset/images/275.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.65394253933728,
+  "bbox": [
+    -46.655171146077585,
+    -23.56774774774775,
+    -46.65271393259698,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.taxi",
+    "amenity.cafe",
+    "shop.bakery",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.bar",
+    "shop.hairdresser",
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "amenity.taxi": 1,
+    "amenity.cafe": 1,
+    "shop.bakery": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.bar": 1,
+    "shop.hairdresser": 1,
+    "amenity.clinic": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Soho Profissional",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.5656925,
+      "lon": -46.6532729,
+      "osm_id": 1041882848,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5659178,
+      "lon": -46.6530161,
+      "osm_id": 1059506161,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "La Cabaleriza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5660082,
+      "lon": -46.6535446,
+      "osm_id": 1059511085,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "The Fifties",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5662733,
+      "lon": -46.6528977,
+      "osm_id": 4746795694,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "The View Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5665034,
+      "lon": -46.6529085,
+      "osm_id": 5627420103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.567507,
+      "lon": -46.6546703,
+      "osm_id": 10274148853,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Cl\u00ednica Tovo",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5675818,
+      "lon": -46.6547127,
+      "osm_id": 10276420006,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Fioretta",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5665527,
+      "lon": -46.6539733,
+      "osm_id": 10276563331,
+      "osm_type": "node",
+      "address": "Alameda Campinas",
+      "road_geometry": null
+    },
+    {
+      "name": "Ponto de T\u00e1xi Estan\u00b4laza",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": -23.5666153,
+      "lon": -46.6543812,
+      "osm_id": 11252834350,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1038.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.93600598440686,
+  "bbox": [
+    -73.93749421732763,
+    40.82702702702706,
+    -73.93451775148608,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.post_office"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.post_office": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Colonial Park Station New York Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.8277778,
+      "lon": -73.9366667,
+      "osm_id": 357621232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr Boulevard & Macombs Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8274285,
+      "lon": -73.9353946,
+      "osm_id": 5296084266,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

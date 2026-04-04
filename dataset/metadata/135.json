@@ -1,99 +1,43 @@
 {
   "image": "dataset/images/135.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.95387574339406,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.83809593328675,
   "bbox": [
-    -73.95536362263941,
-    40.81126126126127,
-    -73.9523878641487,
-    40.81351351351353
+    72.83690539389704,
+    18.93351351351351,
+    72.83928647267645,
+    18.935765765765762
   ],
   "unique_categories": [
-    "amenity.fast_food",
-    "tourism.artwork",
-    "shop.hairdresser",
-    "highway.bus_stop",
-    "leisure.pitch"
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "amenity.fast_food": 1,
-    "tourism.artwork": 1,
-    "shop.hairdresser": 1,
-    "highway.bus_stop": 2,
-    "leisure.pitch": 1
+    "amenity.restaurant": 2
   },
-  "poi_count": 6,
+  "poi_count": 2,
   "pois": [
     {
-      "name": "Union African Hair Brading",
+      "name": "Excellency Restaurant",
       "category": [
-        "shop.hairdresser"
+        "amenity.restaurant"
       ],
-      "lat": 40.8122123,
-      "lon": -73.9536193,
-      "osm_id": 2768245722,
-      "osm_type": "node",
-      "address": "Morningside Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Morningside Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8115649,
-      "lon": -73.9540185,
-      "osm_id": 5972713773,
+      "lat": 18.9352567,
+      "lon": 72.8373924,
+      "osm_id": 662488870,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 125th Street & Morningside Avenue",
+      "name": "The Clearing House",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8113767,
-      "lon": -73.9542668,
-      "osm_id": 6823995479,
+      "lat": 18.935257,
+      "lon": 72.8382231,
+      "osm_id": 12451248603,
       "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Presto Fresh Cafe",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8122183,
-      "lon": -73.9549914,
-      "osm_id": 9902852319,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem Hybrid",
-      "category": [
-        "tourism.artwork"
-      ],
-      "lat": 40.8113239,
-      "lon": -73.9543327,
-      "osm_id": 11979323611,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Mink Padel",
-      "category": [
-        "leisure.pitch"
-      ],
-      "lat": 40.8134849,
-      "lon": -73.9547794,
-      "osm_id": 13233839848,
-      "osm_type": "node",
-      "address": "West 127th Street",
+      "address": "Calicut Street",
       "road_geometry": null
     }
   ]

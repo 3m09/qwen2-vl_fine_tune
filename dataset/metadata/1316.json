@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1316.png",
+  "center_lat": 40.85518018018024,
+  "center_lon": -73.96575668287072,
+  "bbox": [
+    -73.9672455227459,
+    40.85405405405412,
+    -73.96426784299553,
+    40.85630630630637
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.fuel"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "amenity.fuel": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8561334,
+      "lon": -73.9654125,
+      "osm_id": 1952071262,
+      "osm_type": "node",
+      "address": "Lemoine Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Sunoco",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 40.8556399,
+      "lon": -73.9670419,
+      "osm_id": 2270766965,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

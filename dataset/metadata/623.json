@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/623.png",
+  "center_lat": 41.023648648648674,
+  "center_lon": 28.967463209574834,
+  "bbox": [
+    28.965970567659866,
+    41.02252252252255,
+    28.9689558514898,
+    41.024774774774805
+  ],
+  "unique_categories": [
+    "tourism.artwork",
+    "railway.stop",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "railway.stop": 2,
+    "railway.station": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Hali\u00e7",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 41.022621,
+      "lon": 28.9666429,
+      "osm_id": 2680421192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mimar Sinan",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 41.0240778,
+      "lon": 28.968949,
+      "osm_id": 7405842849,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hali\u00e7",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 41.0226507,
+      "lon": 28.9665946,
+      "osm_id": 7596051532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hali\u00e7",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 41.02269,
+      "lon": 28.9666792,
+      "osm_id": 7721147946,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

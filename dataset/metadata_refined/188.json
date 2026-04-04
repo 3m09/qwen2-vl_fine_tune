@@ -1,105 +1,51 @@
 {
   "image": "dataset/images/188.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.93899280906025,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.5071209333055,
   "bbox": [
-    -73.94048078932707,
-    40.81576576576578,
-    -73.93750482879342,
-    40.81801801801804
+    121.50580393843585,
+    31.232252252252252,
+    121.50843792817516,
+    31.234504504504503
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "amenity.school",
-    "shop.car",
-    "shop.supermarket",
-    "shop.convenience"
+    "tourism.hotel",
+    "amenity.post_box"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 1,
-    "amenity.school": 1,
-    "shop.car": 1,
-    "shop.supermarket": 1,
-    "shop.convenience": 2
+    "tourism.hotel": 1,
+    "amenity.post_box": 1
   },
-  "poi_count": 6,
+  "poi_count": 2,
   "pois": [
     {
-      "name": "Junior High School 139",
+      "name": "\u4e1c\u56ed\u65c5\u9986",
       "category": [
-        "amenity.school"
+        "tourism.hotel"
       ],
-      "lat": 40.8176007,
-      "lon": -73.9401375,
-      "osm_id": 357567265,
+      "lat": 31.2332778,
+      "lon": 121.5075869,
+      "osm_id": 3748512261,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Esam Deli",
+      "name": "\u4e1c\u660c\u8def\uff08\u6d66\u4e1c\u5357\u8def\uff09",
       "category": [
-        "shop.convenience"
+        "amenity.post_box"
       ],
-      "lat": 40.8174709,
-      "lon": -73.9387241,
-      "osm_id": 2767778130,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Right Way City",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8179115,
-      "lon": -73.9384039,
-      "osm_id": 2767778168,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 138th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.815826,
-      "lon": -73.9393735,
-      "osm_id": 5274258292,
+      "lat": 31.2344619,
+      "lon": 121.5075404,
+      "osm_id": 4569960590,
       "osm_type": "node",
       "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Car Dealer NY",
-      "category": [
-        "shop.car"
-      ],
-      "lat": 40.8168971,
-      "lon": -73.9401414,
-      "osm_id": 6822486482,
-      "osm_type": "node",
-      "address": "West 139th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Key Food",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8170044,
-      "lon": -73.9383736,
-      "osm_id": 10570594107,
-      "osm_type": "node",
-      "address": "Lenox Avenue",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 8,
-    "removed_count": 2,
+    "original_poi_count": 6,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

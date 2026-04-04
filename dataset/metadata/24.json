@@ -1,15 +1,110 @@
 {
   "image": "dataset/images/24.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.99851232272886,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.09457214997874339,
   "bbox": [
-    -74.0,
-    40.80225225225225,
-    -73.99702464545771,
-    40.80450450450451
+    -0.09638143331916225,
+    51.50725225225226,
+    -0.0927628666383245,
+    51.50950450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 4
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "The Real Greek",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5080629,
+      "lon": -0.0951957,
+      "osm_id": 296491138,
+      "osm_type": "node",
+      "address": "Southwark Bridge Road",
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5081984,
+      "lon": -0.096,
+      "osm_id": 296491141,
+      "osm_type": "node",
+      "address": "New Globe Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Shakespeare's Globe Theatre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5077042,
+      "lon": -0.0946312,
+      "osm_id": 469781910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zizzi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.507982,
+      "lon": -0.09491,
+      "osm_id": 2808228603,
+      "osm_type": "node",
+      "address": "Southwark Bridge Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Frost Fair",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5078343,
+      "lon": -0.094708,
+      "osm_id": 5713379471,
+      "osm_type": "node",
+      "address": "Bankside",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.508029,
+      "lon": -0.095034,
+      "osm_id": 10814720916,
+      "osm_type": "node",
+      "address": "Southwark Bridge Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Crosby & Hope",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5073347,
+      "lon": -0.0960008,
+      "osm_id": 11189252856,
+      "osm_type": "node",
+      "address": "Bear Gardens",
+      "road_geometry": null
+    }
+  ]
 }

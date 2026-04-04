@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/928.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.97767953820777,
+  "bbox": [
+    -73.97916756899392,
+    40.81801801801804,
+    -73.97619150742162,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.dentist",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.dentist": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Sushi Cruise",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8183409,
+      "lon": -73.9772752,
+      "osm_id": 9700890401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dental & Implant Center of Edgewater",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8182622,
+      "lon": -73.9771107,
+      "osm_id": 10214563640,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

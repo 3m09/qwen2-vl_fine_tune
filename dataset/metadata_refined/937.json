@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/937.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.95089498405709,
+  "bbox": [
+    -73.95238301484324,
+    40.81801801801804,
+    -73.94940695327094,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Home Sweet Harlem",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8193775,
+      "lon": -73.9522582,
+      "osm_id": 4176537295,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

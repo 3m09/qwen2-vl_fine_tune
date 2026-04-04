@@ -1,20 +1,358 @@
 {
   "image": "dataset/images/43.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.94198058642542,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.07647699095599593,
   "bbox": [
-    -73.94346826369656,
-    40.80225225225225,
-    -73.94049290915427,
-    40.80450450450451
+    -0.0782864531901501,
+    51.51175675675677,
+    -0.07466752872184178,
+    51.51400900900902
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.pub",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.photo",
+    "shop.convenience",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.optician",
+    "amenity.bicycle_rental",
+    "amenity.post_office",
+    "tourism.artwork",
+    "amenity.fast_food",
+    "shop.copyshop",
+    "shop.hairdresser",
+    "tourism.hotel",
+    "amenity.bank",
+    "amenity.nightclub"
+  ],
+  "poi_count_per_category": {
+    "amenity.pub": 1,
+    "highway.bus_stop": 3,
+    "amenity.cafe": 2,
+    "shop.photo": 1,
+    "shop.convenience": 2,
+    "amenity.bar": 1,
+    "amenity.restaurant": 4,
+    "shop.optician": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.post_office": 1,
+    "tourism.artwork": 1,
+    "amenity.fast_food": 1,
+    "shop.copyshop": 2,
+    "shop.hairdresser": 1,
+    "tourism.hotel": 2,
+    "amenity.bank": 1,
+    "amenity.nightclub": 1
+  },
+  "poi_count": 25,
+  "pois": [
+    {
+      "name": "Minories",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5127663,
+      "lon": -0.0755596,
+      "osm_id": 469759895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Chamberlain",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5121747,
+      "lon": -0.0757376,
+      "osm_id": 666918951,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Dirty Martini Minories",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5118709,
+      "lon": -0.0756786,
+      "osm_id": 666918952,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.513777,
+      "lon": -0.0755619,
+      "osm_id": 666920753,
+      "osm_type": "node",
+      "address": "Aldgate High Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Chamberlain",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.5121008,
+      "lon": -0.0756938,
+      "osm_id": 675734360,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Thai Square",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.512412,
+      "lon": -0.075709,
+      "osm_id": 826482370,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Jewry Street",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 51.513419,
+      "lon": -0.076789,
+      "osm_id": 826488381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Snappy Snaps",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 51.5135407,
+      "lon": -0.0763148,
+      "osm_id": 1682512977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Bus Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.513866,
+      "lon": -0.0753367,
+      "osm_id": 3231501610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Omnino",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5133839,
+      "lon": -0.0782334,
+      "osm_id": 4542454225,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "One Stop",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5133443,
+      "lon": -0.0756348,
+      "osm_id": 4548309989,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 51.5134315,
+      "lon": -0.0759575,
+      "osm_id": 5401946303,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Climb",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5138717,
+      "lon": -0.0781166,
+      "osm_id": 5768339781,
+      "osm_type": "node",
+      "address": "Mitre Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Co-op Food",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5131281,
+      "lon": -0.0781027,
+      "osm_id": 6206722380,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Leightons",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5133244,
+      "lon": -0.0781027,
+      "osm_id": 6245313485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5135255,
+      "lon": -0.0752231,
+      "osm_id": 6548782931,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cococure",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 51.5134732,
+      "lon": -0.0757268,
+      "osm_id": 6548960314,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Flame & Steel",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5131479,
+      "lon": -0.077419,
+      "osm_id": 7191045140,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5132137,
+      "lon": -0.0771634,
+      "osm_id": 7191053934,
+      "osm_type": "node",
+      "address": "Aldgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Nationwide",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5132659,
+      "lon": -0.0769275,
+      "osm_id": 7191114550,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canopy by Hilton London City",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.51293,
+      "lon": -0.0752867,
+      "osm_id": 9211258351,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Farmer J",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129613,
+      "lon": -0.0778583,
+      "osm_id": 11648626569,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cloud Land",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129655,
+      "lon": -0.0758579,
+      "osm_id": 11941064745,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Aldgate Print by Atlantis Print",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 51.513389,
+      "lon": -0.0763143,
+      "osm_id": 12205017878,
+      "osm_type": "node",
+      "address": "Minories",
+      "road_geometry": null
+    },
+    {
+      "name": "Nosh",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5120869,
+      "lon": -0.075276,
+      "osm_id": 12942455781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 3,
-    "removed_count": 3,
+    "original_poi_count": 38,
+    "removed_count": 13,
     "model": "gemini-2.5-flash"
   }
 }

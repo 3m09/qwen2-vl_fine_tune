@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/200.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.51238944649339,
+  "bbox": [
+    121.51107242022907,
+    31.234504504504503,
+    121.5137064727577,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "tourism.artwork": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u4e16\u7eaa\u8fb0\u5149",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 31.2353523,
+      "lon": 121.5124666,
+      "osm_id": 8861104610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e73\u5c71\u8def\u5357\u6cc9\u5317\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2359056,
+      "lon": 121.5133461,
+      "osm_id": 12252772133,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

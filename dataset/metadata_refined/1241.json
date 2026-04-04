@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1241.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.97469230299498,
+  "bbox": [
+    -73.9761809910541,
+    40.84729729729735,
+    -73.97320361493585,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Sephardic Congregation of Fort Lee",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8491093,
+      "lon": -73.9749351,
+      "osm_id": 357742943,
+      "osm_type": "node",
+      "address": "Tom Hunter Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

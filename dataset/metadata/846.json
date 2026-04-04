@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/846.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.93602336404204,
+  "bbox": [
+    -73.93751119278525,
+    40.80900900900902,
+    -73.93453553529883,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "tourism.artwork",
+    "amenity.bicycle_rental",
+    "amenity.community_centre",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.community_centre": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Lincoln East Senior Center",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 40.8112136,
+      "lon": -73.9353331,
+      "osm_id": 5171042767,
+      "osm_type": "node",
+      "address": "East 135th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Madison Avenue & East 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.810333,
+      "lon": -73.9372179,
+      "osm_id": 5235612062,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lincoln Holding a Child",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 40.8110316,
+      "lon": -73.9365295,
+      "osm_id": 8226173442,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - E 132 St & Madison Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8102323,
+      "lon": -73.9372011,
+      "osm_id": 13244016619,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

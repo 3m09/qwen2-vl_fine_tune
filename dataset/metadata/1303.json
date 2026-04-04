@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/1303.png",
+  "center_lat": 40.852927927927986,
+  "center_lon": -73.93300448311608,
+  "bbox": [
+    -73.93449327238017,
+    40.85180180180186,
+    -73.93151569385199,
+    40.85405405405412
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.stationery",
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "shop.supermarket",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.stationery": 1,
+    "amenity.restaurant": 1,
+    "amenity.place_of_worship": 2,
+    "shop.supermarket": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Saint Elizabeth School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8533333,
+      "lon": -73.9319444,
+      "osm_id": 357616357,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort George Presbyterian Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8527521,
+      "lon": -73.9315475,
+      "osm_id": 357624558,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Roman Catholic Church of Saint Elizabeth",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.853611,
+      "lon": -73.9327779,
+      "osm_id": 357624586,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Staples",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 40.8523252,
+      "lon": -73.9344176,
+      "osm_id": 2797548073,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Key Food",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8540162,
+      "lon": -73.9339891,
+      "osm_id": 2797604475,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Marisco Centro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8519185,
+      "lon": -73.932054,
+      "osm_id": 4175145190,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & W 185 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8525505,
+      "lon": -73.934429,
+      "osm_id": 13244009029,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

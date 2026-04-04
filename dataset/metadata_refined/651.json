@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/651.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.12470035188741,
+  "bbox": [
+    -99.12589444883521,
+    19.425,
+    -99.12350625493961,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "railway.station",
+    "highway.bus_stop",
+    "railway.subway_entrance"
+  ],
+  "poi_count_per_category": {
+    "railway.station": 1,
+    "highway.bus_stop": 1,
+    "railway.subway_entrance": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Merced",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 19.4255407,
+      "lon": -99.1255053,
+      "osm_id": 1155680835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Merced",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4250471,
+      "lon": -99.1257192,
+      "osm_id": 4208310390,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Merced",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4254424,
+      "lon": -99.1255219,
+      "osm_id": 5168244666,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

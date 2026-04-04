@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1235.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.99255655970441,
+  "bbox": [
+    -73.99404524776352,
+    40.84729729729735,
+    -73.99106787164528,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "leisure.park",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "leisure.park": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Lindbergh Elementary School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8484333,
+      "lon": -73.9920832,
+      "osm_id": 357724939,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lindbergh Field",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 40.8493436,
+      "lon": -73.9921001,
+      "osm_id": 5973407801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

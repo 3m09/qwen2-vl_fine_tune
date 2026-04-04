@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/302.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.653943108052246,
+  "bbox": [
+    -46.655171651602,
+    -23.560990990990994,
+    -46.652714564502496,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "amenity.clinic"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Mater Prime",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": -23.5604909,
+      "lon": -46.6536101,
+      "osm_id": 4274204113,
+      "osm_type": "node",
+      "address": "Rua Itapeva",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

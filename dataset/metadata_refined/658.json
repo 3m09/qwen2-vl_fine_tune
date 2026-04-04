@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/658.png",
+  "center_lat": 19.42837837837838,
+  "center_lon": -99.12947652447637,
+  "bbox": [
+    -99.13067063797818,
+    19.427252252252252,
+    -99.12828241097455,
+    19.429504504504504
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "shop.convenience",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "al-Andalus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4277282,
+      "lon": -99.1290975,
+      "osm_id": 2596191615,
+      "osm_type": "node",
+      "address": "Mesones",
+      "road_geometry": null
+    },
+    {
+      "name": "Helus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4286004,
+      "lon": -99.1298986,
+      "osm_id": 4476096260,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de El Salvador",
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacias del Ahorro",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4293683,
+      "lon": -99.1292441,
+      "osm_id": 11004264460,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.42942,
+      "lon": -99.1283021,
+      "osm_id": 11004267210,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

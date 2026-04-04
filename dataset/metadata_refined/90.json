@@ -1,395 +1,103 @@
 {
   "image": "dataset/images/90.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.94495220486849,
+  "center_lat": 18.92112612612613,
+  "center_lon": 72.83095221554726,
   "bbox": [
-    -73.94643998311528,
-    40.80675675675676,
-    -73.94346442662169,
-    40.80900900900902
+    72.8297617724378,
+    18.92,
+    72.83214265865671,
+    18.922252252252253
   ],
   "unique_categories": [
-    "shop.jewelry",
-    "amenity.bank",
-    "highway.bus_stop",
-    "amenity.place_of_worship",
-    "amenity.fast_food",
-    "shop.cosmetics",
-    "amenity.school",
-    "shop.stationery",
-    "shop.furniture",
-    "shop.mobile_phone",
-    "shop.car",
-    "amenity.pharmacy",
-    "shop.supermarket",
-    "amenity.restaurant",
-    "shop.clothes",
-    "amenity.clinic",
-    "tourism.attraction",
-    "shop.department_store"
+    "shop.shoes",
+    "tourism.hostel",
+    "amenity.bus_station",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "shop.jewelry": 1,
-    "amenity.bank": 3,
-    "highway.bus_stop": 4,
-    "amenity.place_of_worship": 1,
-    "amenity.fast_food": 2,
-    "shop.cosmetics": 1,
-    "amenity.school": 1,
-    "shop.stationery": 1,
-    "shop.furniture": 1,
-    "shop.mobile_phone": 1,
-    "shop.car": 1,
-    "amenity.pharmacy": 2,
-    "shop.supermarket": 1,
-    "amenity.restaurant": 3,
-    "shop.clothes": 1,
-    "amenity.clinic": 1,
-    "tourism.attraction": 1,
-    "shop.department_store": 2
+    "shop.shoes": 2,
+    "tourism.hostel": 1,
+    "amenity.bus_station": 1,
+    "amenity.restaurant": 2
   },
-  "poi_count": 28,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "Baptist House of Prayer",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8080151,
-      "lon": -73.9447421,
-      "osm_id": 357621102,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Fellowship of Learning School",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8077778,
-      "lon": -73.9444444,
-      "osm_id": 357621375,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "AT&T",
-      "category": [
-        "shop.mobile_phone"
-      ],
-      "lat": 40.8077868,
-      "lon": -73.9449933,
-      "osm_id": 2562438626,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "CVS Pharmacy",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8080704,
-      "lon": -73.945659,
-      "osm_id": 2562438630,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Corner Social",
+      "name": "Kamat Restaurant",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8086893,
-      "lon": -73.9451659,
-      "osm_id": 2562438634,
+      "lat": 18.9215278,
+      "lon": 72.8312063,
+      "osm_id": 670270299,
       "osm_type": "node",
-      "address": "Lenox Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Caribbean Starr",
+      "name": "Bata",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 18.9201305,
+      "lon": 72.8302145,
+      "osm_id": 1544412336,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bed & Breakfast at Colaba",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 18.9207351,
+      "lon": 72.8306987,
+      "osm_id": 5441002023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Food Inn",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8070737,
-      "lon": -73.9456305,
-      "osm_id": 2562438637,
+      "lat": 18.9220889,
+      "lon": 72.8313971,
+      "osm_id": 7139457486,
       "osm_type": "node",
-      "address": "Lenox Avenue",
+      "address": "Colaba Causeway",
       "road_geometry": null
     },
     {
-      "name": "Harlem Shake",
+      "name": "Colaba Bus Depot",
       "category": [
-        "amenity.fast_food"
+        "amenity.bus_station"
       ],
-      "lat": 40.8071119,
-      "lon": -73.9463524,
-      "osm_id": 2562438638,
-      "osm_type": "node",
-      "address": "West 124th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Wells Fargo",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.807238,
-      "lon": -73.9455502,
-      "osm_id": 2767369969,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Marshalls",
-      "category": [
-        "shop.department_store"
-      ],
-      "lat": 40.8081402,
-      "lon": -73.9458769,
-      "osm_id": 2883793011,
+      "lat": 18.9209635,
+      "lon": 72.8305483,
+      "osm_id": 10257874073,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Staples",
+      "name": "Mochi",
       "category": [
-        "shop.stationery"
+        "shop.shoes"
       ],
-      "lat": 40.8081849,
-      "lon": -73.9459886,
-      "osm_id": 2883793012,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Malcolm X Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8074252,
-      "lon": -73.944901,
-      "osm_id": 5206203187,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8076296,
-      "lon": -73.9458004,
-      "osm_id": 5206203855,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8079584,
-      "lon": -73.9451863,
-      "osm_id": 5206203860,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Malcolm X Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8081236,
-      "lon": -73.9461053,
-      "osm_id": 5206207700,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Wingstop",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.80756,
-      "lon": -73.9445108,
-      "osm_id": 5266902651,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Carver Federal Savings Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8076644,
-      "lon": -73.9447636,
-      "osm_id": 5266902652,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Whole Foods Market",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8077449,
-      "lon": -73.9459069,
-      "osm_id": 5317574169,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Raymour & Flanigan",
-      "category": [
-        "shop.furniture"
-      ],
-      "lat": 40.8079097,
-      "lon": -73.9462451,
-      "osm_id": 5317574170,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Burlington",
-      "category": [
-        "shop.department_store"
-      ],
-      "lat": 40.8077792,
-      "lon": -73.9462736,
-      "osm_id": 5317574171,
-      "osm_type": "node",
-      "address": "Martin Luther King Drive",
-      "road_geometry": null
-    },
-    {
-      "name": "H&M",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8078374,
-      "lon": -73.9460878,
-      "osm_id": 5317574172,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "TD Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8073876,
-      "lon": -73.9461497,
-      "osm_id": 5317574174,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "CityMD",
-      "category": [
-        "amenity.clinic"
-      ],
-      "lat": 40.8074566,
-      "lon": -73.9452125,
-      "osm_id": 5855850397,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Rite Aid",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8072317,
-      "lon": -73.9437819,
-      "osm_id": 5972702850,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Taste Harlem Tour",
-      "category": [
-        "tourism.attraction"
-      ],
-      "lat": 40.8086259,
-      "lon": -73.9443965,
-      "osm_id": 6622078088,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lease With Bad Credit",
-      "category": [
-        "shop.car"
-      ],
-      "lat": 40.8080836,
-      "lon": -73.943588,
-      "osm_id": 6825047287,
-      "osm_type": "node",
-      "address": "West 126th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Babbalucci",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8088971,
-      "lon": -73.9450332,
-      "osm_id": 7554344636,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Sephora",
-      "category": [
-        "shop.cosmetics"
-      ],
-      "lat": 40.8082993,
-      "lon": -73.9462173,
-      "osm_id": 12887631688,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Pandora",
-      "category": [
-        "shop.jewelry"
-      ],
-      "lat": 40.8083439,
-      "lon": -73.9463436,
-      "osm_id": 12887631689,
+      "lat": 18.9212225,
+      "lon": 72.8309788,
+      "osm_id": 12895361745,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 49,
-    "removed_count": 21,
+    "original_poi_count": 10,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

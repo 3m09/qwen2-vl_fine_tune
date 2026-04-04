@@ -1,0 +1,1148 @@
+{
+  "image": "dataset/images/394.png",
+  "center_lat": 22.278378378378378,
+  "center_lon": 114.17095263666866,
+  "bbox": [
+    114.1697356770388,
+    22.27725225225225,
+    114.1721695962985,
+    22.2795045045045
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.houseware",
+    "amenity.cafe",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.alcohol",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.beverages",
+    "amenity.bureau_de_change",
+    "amenity.pub",
+    "shop.wine",
+    "amenity.nightclub",
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "shop.car",
+    "amenity.bar",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 1,
+    "amenity.restaurant": 22,
+    "shop.houseware": 1,
+    "amenity.cafe": 3,
+    "shop.convenience": 6,
+    "highway.bus_stop": 25,
+    "shop.alcohol": 1,
+    "amenity.fast_food": 3,
+    "tourism.hotel": 1,
+    "shop.beverages": 1,
+    "amenity.bureau_de_change": 1,
+    "amenity.pub": 1,
+    "shop.wine": 1,
+    "amenity.nightclub": 1,
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 1,
+    "shop.car": 5,
+    "amenity.bar": 11,
+    "amenity.bank": 5
+  },
+  "poi_count": 91,
+  "pois": [
+    {
+      "name": "Outback",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780099,
+      "lon": 114.170474,
+      "osm_id": 1022059619,
+      "osm_type": "node",
+      "address": "Fenwick Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The White Stag",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 22.2780656,
+      "lon": 114.1707275,
+      "osm_id": 1106574324,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u82b1\u65d7\u9280\u884c Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2776683,
+      "lon": 114.1720751,
+      "osm_id": 1298359473,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2777268,
+      "lon": 114.1714226,
+      "osm_id": 1298359475,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "ilbelPaese",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2778198,
+      "lon": 114.1707502,
+      "osm_id": 1298359476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5e73\u6d0b\u5496\u5561 Pacific Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2783887,
+      "lon": 114.1705242,
+      "osm_id": 1299465453,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi One",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.278622,
+      "lon": 114.1705541,
+      "osm_id": 1299465481,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.27809,
+      "lon": 114.17049,
+      "osm_id": 1299465491,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5679\u5679\u9938",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.277434,
+      "lon": 114.1713049,
+      "osm_id": 1299465495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2774734,
+      "lon": 114.1704348,
+      "osm_id": 1299465502,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5faa\u9053\u885b\u7406\u806f\u5408\u6559\u6703\u9999\u6e2f\u5802 Chinese Methodist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 22.2773924,
+      "lon": 114.1701147,
+      "osm_id": 2102319100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Wanch",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.278666,
+      "lon": 114.1701437,
+      "osm_id": 2247820098,
+      "osm_type": "node",
+      "address": "Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Trafalgar Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.278055,
+      "lon": 114.1708616,
+      "osm_id": 2247849935,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5faa\u9053\u885b\u7406\u5927\u5ec8 Methodist House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775718,
+      "lon": 114.1698342,
+      "osm_id": 2498627226,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u661f\u5927\u5ec8 Golden Star Building",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.278205,
+      "lon": 114.16977,
+      "osm_id": 2498627247,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4e9e\u9280\u884c BEA",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2789914,
+      "lon": 114.1710662,
+      "osm_id": 2503648877,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2790845,
+      "lon": 114.1707909,
+      "osm_id": 2503648878,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2790832,
+      "lon": 114.1708065,
+      "osm_id": 2503648879,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.279084,
+      "lon": 114.1707967,
+      "osm_id": 2503648880,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2791447,
+      "lon": 114.1709546,
+      "osm_id": 2503648881,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2791453,
+      "lon": 114.170947,
+      "osm_id": 2503648882,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5206\u57df\u8857 Fenwick Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2791564,
+      "lon": 114.1708133,
+      "osm_id": 2503648883,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277692,
+      "lon": 114.17118,
+      "osm_id": 2503648884,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777015,
+      "lon": 114.171063,
+      "osm_id": 2503648885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777074,
+      "lon": 114.17099,
+      "osm_id": 2503648886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2784704,
+      "lon": 114.1716165,
+      "osm_id": 2503648888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774577,
+      "lon": 114.17122,
+      "osm_id": 2504565048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774585,
+      "lon": 114.17121,
+      "osm_id": 2504565049,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774626,
+      "lon": 114.17116,
+      "osm_id": 2504565050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774049,
+      "lon": 114.17206,
+      "osm_id": 2579834388,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774164,
+      "lon": 114.1718983,
+      "osm_id": 2579834389,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774176,
+      "lon": 114.1718812,
+      "osm_id": 2579834390,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carnegie's",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2783206,
+      "lon": 114.1707867,
+      "osm_id": 3781017541,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dusk till Dawn",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2785974,
+      "lon": 114.1709157,
+      "osm_id": 4149638360,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bar Amazonia",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2784739,
+      "lon": 114.1715806,
+      "osm_id": 4149638361,
+      "osm_type": "node",
+      "address": "\u76e7\u62bc\u9053 Luard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ebeneezers's Kebab",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2783214,
+      "lon": 114.1718186,
+      "osm_id": 4149638362,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Che \u00b4s cantonese restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780013,
+      "lon": 114.1708548,
+      "osm_id": 4265835789,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u660e\u660e\u8eca\u4ed4\u9eb5\u5c08\u9580\u5e97 Ming Ming Cart Noodle Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.277694,
+      "lon": 114.171822,
+      "osm_id": 4281425790,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Taboo",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.27847,
+      "lon": 114.17185,
+      "osm_id": 4778090434,
+      "osm_type": "node",
+      "address": "\u76e7\u62bc\u9053 Luard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.277682,
+      "lon": 114.17195,
+      "osm_id": 4856203922,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.27769,
+      "lon": 114.17187,
+      "osm_id": 4856203923,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Fifty V",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2777751,
+      "lon": 114.1706338,
+      "osm_id": 4856219488,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u90fd\u53ef Coco",
+      "category": [
+        "shop.beverages"
+      ],
+      "lat": 22.2773879,
+      "lon": 114.171456,
+      "osm_id": 4856288643,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kokoro Tokyo Mazesoba",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2774465,
+      "lon": 114.1712545,
+      "osm_id": 4856288645,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "HK Liquor Store",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 22.2774291,
+      "lon": 114.1710172,
+      "osm_id": 4856288646,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u76ca\u65b0\u7f8e\u98df\u9928 Yixin Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2774539,
+      "lon": 114.1707006,
+      "osm_id": 4856288647,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u65e5\u672c\u57ce JHC",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 22.2773101,
+      "lon": 114.1704131,
+      "osm_id": 4857802424,
+      "osm_type": "node",
+      "address": "\u5206\u57df\u8857 Fenwick Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Madison Wine",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 22.2789625,
+      "lon": 114.1719142,
+      "osm_id": 4858340231,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Mini Clubman",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2789769,
+      "lon": 114.1711732,
+      "osm_id": 4858340232,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nissan",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2789756,
+      "lon": 114.1706556,
+      "osm_id": 4858340233,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lexus",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2790595,
+      "lon": 114.1703258,
+      "osm_id": 4858340234,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ford",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2790753,
+      "lon": 114.1701743,
+      "osm_id": 4858340235,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Toyota - Crown Motors",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 22.2791052,
+      "lon": 114.1700126,
+      "osm_id": 4858340236,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger Joys",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780869,
+      "lon": 114.1705406,
+      "osm_id": 4858417122,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2780514,
+      "lon": 114.1709901,
+      "osm_id": 4858417123,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hay-Hay Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780006,
+      "lon": 114.1714813,
+      "osm_id": 4858417124,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2780083,
+      "lon": 114.1713914,
+      "osm_id": 4858417125,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "L&P Company",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.2779865,
+      "lon": 114.1717874,
+      "osm_id": 4858417126,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chili Club",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2779717,
+      "lon": 114.1718823,
+      "osm_id": 4858417127,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pub-Pine Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2779339,
+      "lon": 114.1719432,
+      "osm_id": 4858417128,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hawaii Club",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2779928,
+      "lon": 114.1721538,
+      "osm_id": 4858417129,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Club Venus",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 22.2782313,
+      "lon": 114.1718123,
+      "osm_id": 4858455471,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Scratch",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2782294,
+      "lon": 114.1718871,
+      "osm_id": 4858455472,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Players",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2782116,
+      "lon": 114.1719801,
+      "osm_id": 4858455473,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Agave",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2782056,
+      "lon": 114.172089,
+      "osm_id": 4858455474,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chili Club",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2779862,
+      "lon": 114.1718467,
+      "osm_id": 5502200121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f6e\u798f\u9152\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2779363,
+      "lon": 114.1712933,
+      "osm_id": 5610890622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277486,
+      "lon": 114.17087,
+      "osm_id": 5695031815,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7559\u5712\u96c5\u6558",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2780418,
+      "lon": 114.170805,
+      "osm_id": 6018853685,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Seventh Son",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2783384,
+      "lon": 114.1709929,
+      "osm_id": 6673666986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fb7\u5eb7\u5927\u85e5\u623f Health Peace Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.2776739,
+      "lon": 114.1720157,
+      "osm_id": 6715363688,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2786778,
+      "lon": 114.1718557,
+      "osm_id": 6728746249,
+      "osm_type": "node",
+      "address": "\u76e7\u62bc\u9053 Luard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Station",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2786512,
+      "lon": 114.1720053,
+      "osm_id": 6728746253,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Big Pizza",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2783574,
+      "lon": 114.1718218,
+      "osm_id": 6728746258,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "El Gordo Tacos & Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2783761,
+      "lon": 114.1702359,
+      "osm_id": 6773403307,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u798f\u5ddd\u9435\u677f\u71d2 Fukukawa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2783791,
+      "lon": 114.1700931,
+      "osm_id": 6773403308,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Woodlands (Wan Chai) Indian Vegetarian Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2786751,
+      "lon": 114.1718915,
+      "osm_id": 6778469674,
+      "osm_type": "node",
+      "address": "\u76e7\u62bc\u9053 Luard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Thai Hut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2782631,
+      "lon": 114.1718124,
+      "osm_id": 6778469675,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u5712\u9152\u5bb6\u5bb4\u6703\u5ef3 Tung Yuen Banquet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2777385,
+      "lon": 114.1711686,
+      "osm_id": 6792406536,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e0a\u6d77\u5546\u696d\u9280\u884c Shanghai Commercial Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2778546,
+      "lon": 114.1697713,
+      "osm_id": 6857211707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2778417,
+      "lon": 114.1699384,
+      "osm_id": 6857211712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2784877,
+      "lon": 114.1716186,
+      "osm_id": 7016155435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2789075,
+      "lon": 114.1716585,
+      "osm_id": 7016155439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5faa\u9053\u885b\u7406\u5927\u5ec8 Methodist House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775694,
+      "lon": 114.169859,
+      "osm_id": 7291554275,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jojo Indian Cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2784328,
+      "lon": 114.1702269,
+      "osm_id": 7310062285,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\uff08\u5206\u57df\u8857\uff09 Wan Chai (Fenwick Street)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2781154,
+      "lon": 114.1708728,
+      "osm_id": 7990606716,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5357\u5e9c",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2781448,
+      "lon": 114.1697999,
+      "osm_id": 9327291260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u534a\u5cf6\u6e14\u6e2f",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2777563,
+      "lon": 114.1713478,
+      "osm_id": 11533130172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kew Green Hotel Wanchai",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 22.2778189,
+      "lon": 114.1705733,
+      "osm_id": 12082870574,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2776965,
+      "lon": 114.1711247,
+      "osm_id": 12740842349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2784572,
+      "lon": 114.1716157,
+      "osm_id": 12740842353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

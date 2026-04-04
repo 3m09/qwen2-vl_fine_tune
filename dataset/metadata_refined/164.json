@@ -1,79 +1,20 @@
 {
   "image": "dataset/images/164.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93899488011779,
+  "center_lat": 18.943648648648644,
+  "center_lon": 72.84047784708591,
   "bbox": [
-    -73.94048280987101,
-    40.81351351351353,
-    -73.93750695036456,
-    40.81576576576578
+    72.83928724346391,
+    18.942522522522516,
+    72.8416684507079,
+    18.944774774774768
   ],
-  "unique_categories": [
-    "shop.convenience",
-    "amenity.school",
-    "amenity.fast_food",
-    "amenity.place_of_worship"
-  ],
-  "poi_count_per_category": {
-    "shop.convenience": 1,
-    "amenity.school": 1,
-    "amenity.fast_food": 1,
-    "amenity.place_of_worship": 1
-  },
-  "poi_count": 4,
-  "pois": [
-    {
-      "name": "Union Congregational Church",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8154954,
-      "lon": -73.9392632,
-      "osm_id": 357621124,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Saint Mark the Evangelist School",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8157285,
-      "lon": -73.938129,
-      "osm_id": 357621742,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "NYCity Grill Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.815615,
-      "lon": -73.9401039,
-      "osm_id": 10969603645,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Dunkin'",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8150983,
-      "lon": -73.94047,
-      "osm_id": 10969605150,
-      "osm_type": "node",
-      "address": "Lenox Avenue",
-      "road_geometry": null
-    }
-  ],
+  "unique_categories": [],
+  "poi_count_per_category": {},
+  "poi_count": 0,
+  "pois": [],
   "refinement": {
-    "original_poi_count": 9,
-    "removed_count": 5,
+    "original_poi_count": 0,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

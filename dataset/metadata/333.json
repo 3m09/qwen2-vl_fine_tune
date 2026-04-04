@@ -1,0 +1,478 @@
+{
+  "image": "dataset/images/333.png",
+  "center_lat": 1.2991261261261262,
+  "center_lon": 103.84414905777994,
+  "bbox": [
+    103.84302264261642,
+    1.298,
+    103.84527547294347,
+    1.3002522522522524
+  ],
+  "unique_categories": [
+    "shop.variety_store",
+    "railway.subway_entrance",
+    "amenity.atm",
+    "shop.musical_instrument",
+    "shop.watches",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "leisure.escape_game",
+    "amenity.cafe",
+    "shop.bed",
+    "amenity.fast_food",
+    "amenity.bank",
+    "amenity.food_court",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.variety_store": 1,
+    "railway.subway_entrance": 3,
+    "amenity.atm": 1,
+    "shop.musical_instrument": 1,
+    "shop.watches": 1,
+    "amenity.restaurant": 11,
+    "highway.bus_stop": 2,
+    "leisure.escape_game": 1,
+    "amenity.cafe": 3,
+    "shop.bed": 1,
+    "amenity.fast_food": 5,
+    "amenity.bank": 3,
+    "amenity.food_court": 1,
+    "shop.jewelry": 2
+  },
+  "poi_count": 36,
+  "pois": [
+    {
+      "name": "Dhoby Ghaut Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.2993331,
+      "lon": 103.8452336,
+      "osm_id": 410468328,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dhoby Ghaut Station Exit B",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.2982955,
+      "lon": 103.8452598,
+      "osm_id": 410471106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dhoby Ghaut (NSL/CCL/NEL) Exit E",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.2995312,
+      "lon": 103.8450774,
+      "osm_id": 1839603990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Daiso Japan",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 1.3000674,
+      "lon": 103.8447026,
+      "osm_id": 2402536812,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3001118,
+      "lon": 103.8449291,
+      "osm_id": 2402536814,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3000112,
+      "lon": 103.8448902,
+      "osm_id": 2402536816,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MOS Burger",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3001427,
+      "lon": 103.8445573,
+      "osm_id": 2402536817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tim Ho Wan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.2998171,
+      "lon": 103.8452525,
+      "osm_id": 2402536818,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "DBS",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3000913,
+      "lon": 103.8446334,
+      "osm_id": 3009713259,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dhoby Ghaut (NSL/CCL/NEL) Exit D",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.3000226,
+      "lon": 103.8450401,
+      "osm_id": 3288605478,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pizza Hut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3000931,
+      "lon": 103.8444797,
+      "osm_id": 3771293491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Five Guys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.2999437,
+      "lon": 103.8448848,
+      "osm_id": 4571495990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nana's Green Tea",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3000157,
+      "lon": 103.8451828,
+      "osm_id": 4729498289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swensen's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3001747,
+      "lon": 103.8448853,
+      "osm_id": 5825269285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tissot",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3002011,
+      "lon": 103.8450176,
+      "osm_id": 5825269289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old Chang Kee",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3002184,
+      "lon": 103.8445336,
+      "osm_id": 6313523686,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OCBC",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 1.2999708,
+      "lon": 103.8449853,
+      "osm_id": 6337266886,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paper Rice",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3000468,
+      "lon": 103.8450315,
+      "osm_id": 6419937086,
+      "osm_type": "node",
+      "address": "Orchard Road Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "Pandora",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.2999569,
+      "lon": 103.8451456,
+      "osm_id": 6712105639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swarovski",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3002346,
+      "lon": 103.8448037,
+      "osm_id": 6810843106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dhoby Ghaut (NSL/CCL/NEL) Exit C",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 1.2996005,
+      "lon": 103.8448235,
+      "osm_id": 6917722569,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akimitsu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.2997509,
+      "lon": 103.8451783,
+      "osm_id": 7079427336,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.2998912,
+      "lon": 103.8450289,
+      "osm_id": 7079430421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Din Tai Fung",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3000571,
+      "lon": 103.8448187,
+      "osm_id": 8260836843,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nam Kee Pau",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3001551,
+      "lon": 103.8449056,
+      "osm_id": 8334263632,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Wow Tako",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3001337,
+      "lon": 103.8448519,
+      "osm_id": 8334263634,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Killiney Bagus",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.2980803,
+      "lon": 103.84507,
+      "osm_id": 8526792783,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LiHO TEA",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.2998292,
+      "lon": 103.8452066,
+      "osm_id": 8539678301,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yamaha",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 1.300104,
+      "lon": 103.844732,
+      "osm_id": 8808928570,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Simmons Studio",
+      "category": [
+        "shop.bed"
+      ],
+      "lat": 1.3000931,
+      "lon": 103.8448898,
+      "osm_id": 8808928571,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Shrimp Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.300126,
+      "lon": 103.8445417,
+      "osm_id": 9299316679,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Canton Paradise",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3001003,
+      "lon": 103.84453,
+      "osm_id": 9299316680,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "UBS",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.2980084,
+      "lon": 103.8447647,
+      "osm_id": 9794867834,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Captivate Escape Rooms",
+      "category": [
+        "leisure.escape_game"
+      ],
+      "lat": 1.2982466,
+      "lon": 103.8441257,
+      "osm_id": 10011361404,
+      "osm_type": "node",
+      "address": "Clemenceau Avenue Singapore Shopping Centre",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3000895,
+      "lon": 103.8451917,
+      "osm_id": 10833425669,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Black Society",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.2981053,
+      "lon": 103.8447476,
+      "osm_id": 12257169236,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

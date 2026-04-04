@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/898.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.99553605919954,
+  "bbox": [
+    -73.99702403946635,
+    40.81576576576578,
+    -73.9940480789327,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.place_of_worship",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.place_of_worship": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Saint Johns School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8164895,
+      "lon": -73.9956946,
+      "osm_id": 357728740,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint John the Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8167673,
+      "lon": -73.9951391,
+      "osm_id": 357743063,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

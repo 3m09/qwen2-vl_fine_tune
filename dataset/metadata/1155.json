@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1155.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.94492602843245,
+  "bbox": [
+    -73.94641451415049,
+    40.83828828828833,
+    -73.9434375427144,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.social_facility",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.social_facility": 1,
+    "highway.bus_stop": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Riverstone Senior Life Services",
+      "category": [
+        "amenity.social_facility"
+      ],
+      "lat": 40.839267,
+      "lon": -73.9445819,
+      "osm_id": 357556376,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Avenue & West 164th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8388257,
+      "lon": -73.9437182,
+      "osm_id": 8725182309,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 163 St & Riverside Dr",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8392991,
+      "lon": -73.9454368,
+      "osm_id": 13146097153,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

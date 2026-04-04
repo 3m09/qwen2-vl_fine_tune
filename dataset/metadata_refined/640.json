@@ -1,0 +1,132 @@
+{
+  "image": "dataset/images/640.png",
+  "center_lat": 41.02590090090093,
+  "center_lon": 28.985375780378003,
+  "bbox": [
+    28.98388308741459,
+    41.024774774774805,
+    28.986868473341413,
+    41.02702702702706
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "amenity.cafe",
+    "shop.bakery",
+    "amenity.restaurant",
+    "shop.mobile_phone",
+    "shop.clothes"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 1,
+    "amenity.cafe": 2,
+    "shop.bakery": 1,
+    "amenity.restaurant": 2,
+    "shop.mobile_phone": 1,
+    "shop.clothes": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Prince Coffee House",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.026403,
+      "lon": 28.9843766,
+      "osm_id": 9524261417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Birkenstock",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0264847,
+      "lon": 28.9841911,
+      "osm_id": 11336662713,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0265618,
+      "lon": 28.9840312,
+      "osm_id": 11336685616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vandal",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0268668,
+      "lon": 28.9854243,
+      "osm_id": 11385598761,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kiva",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0267647,
+      "lon": 28.9851018,
+      "osm_id": 11385598762,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Under Armour",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0266746,
+      "lon": 28.9849436,
+      "osm_id": 11385598764,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Turkcell",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 41.0265411,
+      "lon": 28.9846697,
+      "osm_id": 11385598767,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Simit Saray\u0131",
+      "category": [
+        "amenity.cafe",
+        "shop.bakery"
+      ],
+      "lat": 41.0270219,
+      "lon": 28.9846163,
+      "osm_id": 12722501061,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 27,
+    "removed_count": 19,
+    "model": "gemini-2.5-flash"
+  }
+}

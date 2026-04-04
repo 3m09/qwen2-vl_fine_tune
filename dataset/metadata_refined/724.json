@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/724.png",
+  "center_lat": 25.19563063063063,
+  "center_lon": 55.26624451993785,
+  "bbox": [
+    55.265,
+    25.194504504504504,
+    55.2674890398757,
+    25.196756756756756
+  ],
+  "unique_categories": [
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.supermarket": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Foodland Supermarket",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 25.1950953,
+      "lon": 55.2659376,
+      "osm_id": 4417198894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/273.png",
+  "center_lat": -23.56662162162162,
+  "center_lon": -46.65885696629849,
+  "bbox": [
+    -46.66008557303879,
+    -23.56774774774775,
+    -46.65762835955819,
+    -23.565495495495497
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "highway.bus_stop",
+    "tourism.museum",
+    "amenity.cafe"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "highway.bus_stop": 1,
+    "tourism.museum": 1,
+    "amenity.cafe": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Parada Jos\u00e9 Maria Lisboa",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5673908,
+      "lon": -46.6593413,
+      "osm_id": 4062167669,
+      "osm_type": "node",
+      "address": "Avenida Nove de Julho",
+      "road_geometry": null
+    },
+    {
+      "name": "Museu Xingu",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": -23.5664017,
+      "lon": -46.6592644,
+      "osm_id": 11394310889,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C6",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5668732,
+      "lon": -46.6585552,
+      "osm_id": 12132476845,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alameda",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5667784,
+      "lon": -46.6591443,
+      "osm_id": 12132528520,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

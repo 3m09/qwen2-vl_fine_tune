@@ -1,0 +1,114 @@
+{
+  "image": "dataset/images/322.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.64902948133436,
+  "bbox": [
+    -46.65025798277018,
+    -23.55648648648649,
+    -46.64780097989854,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "tourism.hotel",
+    "amenity.police"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "amenity.restaurant": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 1,
+    "tourism.hotel": 1,
+    "amenity.police": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Mercado da Villa",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5555706,
+      "lon": -46.6483118,
+      "osm_id": 4946143588,
+      "osm_type": "node",
+      "address": "Rua Manoel Dutra",
+      "road_geometry": null
+    },
+    {
+      "name": "New Point",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": -23.5564709,
+      "lon": -46.6496982,
+      "osm_id": 6960238977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parada 14 Bis B/C",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5558316,
+      "lon": -46.6498244,
+      "osm_id": 7344926828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parada 14 Bis C/B",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5557556,
+      "lon": -46.6500452,
+      "osm_id": 7344926841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bella paim",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5547468,
+      "lon": -46.6499394,
+      "osm_id": 12077264895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Parada 14 bis",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5544732,
+      "lon": -46.6500126,
+      "osm_id": 12077306707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Base Comunit\u00e1ria de Seguran\u00e7a",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": -23.55543,
+      "lon": -46.65017,
+      "osm_id": 12622174301,
+      "osm_type": "node",
+      "address": "Pra\u00e7a 14 Bis",
+      "road_geometry": null
+    }
+  ]
+}

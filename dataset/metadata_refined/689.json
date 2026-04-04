@@ -1,0 +1,157 @@
+{
+  "image": "dataset/images/689.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.14141746077725,
+  "bbox": [
+    -99.14261164051817,
+    19.436261261261258,
+    -99.14022328103634,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.gift",
+    "amenity.bar",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "railway.stop",
+    "tourism.artwork"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.gift": 1,
+    "amenity.bar": 1,
+    "railway.subway_entrance": 1,
+    "amenity.restaurant": 1,
+    "railway.stop": 1,
+    "tourism.artwork": 2
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Metro Bellas Artes L2",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4367425,
+      "lon": -99.1421432,
+      "osm_id": 2811958302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bellas Artes",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4363633,
+      "lon": -99.1417199,
+      "osm_id": 4154583490,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Pelusa",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.43791,
+      "lon": -99.141822,
+      "osm_id": 4375605205,
+      "osm_type": "node",
+      "address": "Calle 2 de Abril",
+      "road_geometry": null
+    },
+    {
+      "name": "Sanborns",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 19.4366391,
+      "lon": -99.1403833,
+      "osm_id": 4888398723,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bellas Artes",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 19.4369031,
+      "lon": -99.1404083,
+      "osm_id": 5339558998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bellas Artes",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4367425,
+      "lon": -99.1403754,
+      "osm_id": 10583040946,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bellas Artes",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4371658,
+      "lon": -99.1405279,
+      "osm_id": 10592409234,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aquiles Serd\u00e1n",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4379539,
+      "lon": -99.1405638,
+      "osm_id": 12010374744,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mar\u00eda Victoria",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4384603,
+      "lon": -99.1404856,
+      "osm_id": 12010374745,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Bar Hidalgo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4373717,
+      "lon": -99.1421091,
+      "osm_id": 13145539546,
+      "osm_type": "node",
+      "address": "Calle Santa Veracruz",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 23,
+    "removed_count": 13,
+    "model": "gemini-2.5-flash"
+  }
+}

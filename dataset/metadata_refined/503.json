@@ -1,0 +1,129 @@
+{
+  "image": "dataset/images/503.png",
+  "center_lat": 22.300900900900892,
+  "center_lon": 114.1685200901132,
+  "bbox": [
+    114.16730293438275,
+    22.299774774774765,
+    114.16973724584366,
+    22.302027027027016
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "highway.bus_stop",
+    "shop.jewelry",
+    "amenity.parking",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "highway.bus_stop": 4,
+    "shop.jewelry": 1,
+    "amenity.parking": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "\u4e2d\u6e2f\u57ce China Hong Kong City",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.300869,
+      "lon": 114.1674652,
+      "osm_id": 1187352818,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6e2f\u57ce China Hong Kong City",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3005341,
+      "lon": 114.1680971,
+      "osm_id": 1705682814,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6e2f\u57ce China Hong Kong City",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.3005738,
+      "lon": 114.1680824,
+      "osm_id": 3182653561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Market Place by Jasons",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.3002539,
+      "lon": 114.16771,
+      "osm_id": 4115973050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516d\u798f\u73e0\u5bf6 Lukfook Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.3001803,
+      "lon": 114.1682032,
+      "osm_id": 4849804175,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u842c\u5be7 Mannings",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 22.3003096,
+      "lon": 114.1679508,
+      "osm_id": 5177632721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6e2f\u57ce China Hong Kong City",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2998981,
+      "lon": 114.1689064,
+      "osm_id": 8140840212,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6e2f\u57ce China Hong Kong City",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2998879,
+      "lon": 114.1689158,
+      "osm_id": 8140840215,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 13,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/776.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.93007916825627,
+  "bbox": [
+    -73.93156684552741,
+    40.80225225225225,
+    -73.92859149098513,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "shop.car_repair"
+  ],
+  "poi_count_per_category": {
+    "shop.car_repair": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Manhattan Auto Body Repair",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 40.8024176,
+      "lon": -73.9312974,
+      "osm_id": 11837001596,
+      "osm_type": "node",
+      "address": "1st Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

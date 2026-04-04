@@ -1,0 +1,373 @@
+{
+  "image": "dataset/images/1209.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.99851136253476,
+  "bbox": [
+    -74.0,
+    40.8450450450451,
+    -73.99702272506951,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "shop.laundry",
+    "shop.tailor",
+    "shop.bakery",
+    "shop.convenience",
+    "amenity.restaurant",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "shop.car_repair",
+    "shop.hairdresser",
+    "shop.optician",
+    "amenity.bank",
+    "shop.books",
+    "shop.supermarket",
+    "amenity.cafe",
+    "shop.beauty",
+    "shop.alcohol",
+    "amenity.pharmacy",
+    "amenity.place_of_worship",
+    "amenity.food_court"
+  ],
+  "poi_count_per_category": {
+    "shop.laundry": 1,
+    "shop.tailor": 1,
+    "shop.bakery": 2,
+    "shop.convenience": 1,
+    "amenity.restaurant": 6,
+    "tourism.gallery": 1,
+    "amenity.fast_food": 1,
+    "shop.car_repair": 1,
+    "shop.hairdresser": 1,
+    "shop.optician": 1,
+    "amenity.bank": 2,
+    "shop.books": 1,
+    "shop.supermarket": 1,
+    "amenity.cafe": 1,
+    "shop.beauty": 1,
+    "shop.alcohol": 1,
+    "amenity.pharmacy": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.food_court": 1
+  },
+  "poi_count": 26,
+  "pois": [
+    {
+      "name": "Salon 9",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 40.8470036,
+      "lon": -73.9983833,
+      "osm_id": 6167135398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Forever Yours",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8471068,
+      "lon": -73.9982955,
+      "osm_id": 6167135400,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mama Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8472522,
+      "lon": -73.9981584,
+      "osm_id": 6167135402,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "K&S Auto Body",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 40.8471114,
+      "lon": -73.9978035,
+      "osm_id": 6167135412,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Millenium",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8452028,
+      "lon": -73.999581,
+      "osm_id": 6167330334,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tofu & Noodles",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8453713,
+      "lon": -73.9999413,
+      "osm_id": 6167330335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DuPan",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.8457426,
+      "lon": -73.9998397,
+      "osm_id": 6167330337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grace Evangelical Lutheran Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.845523,
+      "lon": -73.9992211,
+      "osm_id": 6167330338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Noon & Eye",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8458032,
+      "lon": -73.9997003,
+      "osm_id": 6167330340,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Richard's",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8458927,
+      "lon": -73.9997518,
+      "osm_id": 6167330341,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pal Park Art Center",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 40.8459346,
+      "lon": -73.9995399,
+      "osm_id": 6167330342,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cap Udon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8457093,
+      "lon": -73.999265,
+      "osm_id": 6167330343,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tospia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8460184,
+      "lon": -73.9994827,
+      "osm_id": 6167330345,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Christian Books & Supplies",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8458263,
+      "lon": -73.9991715,
+      "osm_id": 6167330347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Price",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8462179,
+      "lon": -73.9993359,
+      "osm_id": 6167330361,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Leah",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8464697,
+      "lon": -73.9991697,
+      "osm_id": 6171872893,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mr. Burger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8463265,
+      "lon": -73.9995353,
+      "osm_id": 6171872894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hanmi",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8462465,
+      "lon": -73.9988245,
+      "osm_id": 6171872895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Woori America",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8465666,
+      "lon": -73.9991103,
+      "osm_id": 6171872896,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Rocks",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 40.8466382,
+      "lon": -73.9993367,
+      "osm_id": 6171872897,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "First Barber Shop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8464108,
+      "lon": -73.9987744,
+      "osm_id": 6171872898,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grand Shilla",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.846481,
+      "lon": -73.9986835,
+      "osm_id": 6171872899,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "So Moon Nan Jip",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8465876,
+      "lon": -73.9985759,
+      "osm_id": 6171872900,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Crown",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8469147,
+      "lon": -73.9988134,
+      "osm_id": 6171872901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kang's",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 40.846707,
+      "lon": -73.9985388,
+      "osm_id": 6171872903,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MGM Cleaners",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": 40.8471632,
+      "lon": -73.9986687,
+      "osm_id": 6171872905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 37,
+    "removed_count": 11,
+    "model": "gemini-2.5-flash"
+  }
+}

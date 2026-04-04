@@ -1,437 +1,579 @@
 {
   "image": "dataset/images/35.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.9657834227637,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.08009689940386576,
   "bbox": [
-    -73.96727110003485,
-    40.80225225225225,
-    -73.96429574549256,
-    40.80450450450451
+    -0.08190627218533252,
+    51.50950450450451,
+    -0.07828752662239902,
+    51.51175675675677
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "shop.copyshop",
-    "railway.stop",
-    "amenity.bank",
-    "railway.station",
-    "amenity.veterinary",
-    "amenity.school",
-    "amenity.fast_food",
-    "amenity.post_box",
-    "shop.chemist",
+    "amenity.pub",
+    "shop.bag",
+    "shop.convenience",
+    "tourism.artwork",
+    "shop.beauty",
     "amenity.restaurant",
     "highway.bus_stop",
-    "amenity.pub",
-    "amenity.bicycle_rental",
-    "shop.hairdresser",
-    "shop.convenience",
-    "shop.tobacco",
-    "amenity.cafe"
+    "shop.gift",
+    "amenity.bank",
+    "amenity.cafe",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "leisure.fitness_centre",
+    "amenity.bar",
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.dry_cleaning"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 2,
-    "shop.copyshop": 1,
-    "railway.stop": 1,
-    "amenity.bank": 2,
-    "railway.station": 1,
-    "amenity.veterinary": 1,
-    "amenity.school": 1,
-    "amenity.fast_food": 5,
-    "amenity.post_box": 1,
-    "shop.chemist": 1,
-    "amenity.restaurant": 5,
-    "highway.bus_stop": 3,
-    "amenity.pub": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.hairdresser": 1,
+    "amenity.pub": 8,
+    "shop.bag": 1,
     "shop.convenience": 2,
-    "shop.tobacco": 1,
-    "amenity.cafe": 2
+    "tourism.artwork": 2,
+    "shop.beauty": 1,
+    "amenity.restaurant": 13,
+    "highway.bus_stop": 2,
+    "shop.gift": 1,
+    "amenity.bank": 1,
+    "amenity.cafe": 4,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 3,
+    "leisure.fitness_centre": 1,
+    "amenity.bar": 1,
+    "tourism.hotel": 1,
+    "shop.clothes": 1,
+    "shop.dry_cleaning": 1
   },
-  "poi_count": 32,
+  "poi_count": 44,
   "pois": [
     {
-      "name": "Chase",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8035649,
-      "lon": -73.9667771,
-      "osm_id": 1994680554,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "H Mart",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8038856,
-      "lon": -73.9665484,
-      "osm_id": 1994680557,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "TD Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8039041,
-      "lon": -73.9672394,
-      "osm_id": 1994680563,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway / Cathedral Parkway",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8039773,
-      "lon": -73.9670823,
-      "osm_id": 1994680574,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Raising Cane's",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8044959,
-      "lon": -73.9661283,
-      "osm_id": 2707983903,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway Tobacco House",
-      "category": [
-        "shop.tobacco"
-      ],
-      "lat": 40.8029579,
-      "lon": -73.9672398,
-      "osm_id": 2761671631,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Columbia Copy",
-      "category": [
-        "shop.copyshop"
-      ],
-      "lat": 40.8031105,
-      "lon": -73.9671303,
-      "osm_id": 2761671632,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Gong Cha",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8031673,
-      "lon": -73.9670896,
-      "osm_id": 2761671634,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Amity Hall Uptown",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.802258,
-      "lon": -73.9646355,
-      "osm_id": 2761671640,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "109 Spicy Gourmet Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.802353,
-      "lon": -73.9645686,
-      "osm_id": 2761671642,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Suite",
+      "name": "The Liberty Bounds",
       "category": [
         "amenity.pub"
       ],
-      "lat": 40.8025473,
-      "lon": -73.9644019,
-      "osm_id": 2761677763,
+      "lat": 51.509731,
+      "lon": -0.0785318,
+      "osm_id": 25473538,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Trinity Square",
       "road_geometry": null
     },
     {
-      "name": "Roti Roll (Bombay Frankie)",
+      "name": "Agenda",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5108908,
+      "lon": -0.0811851,
+      "osm_id": 259248888,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8025909,
-      "lon": -73.9643696,
-      "osm_id": 2761677767,
+      "lat": 51.509793,
+      "lon": -0.0803017,
+      "osm_id": 296614811,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Byward Street",
       "road_geometry": null
     },
     {
-      "name": "Koronet Pizza",
+      "name": "Balls Brothers",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5108903,
+      "lon": -0.0808223,
+      "osm_id": 296614817,
+      "osm_type": "node",
+      "address": "Minster Pavement",
+      "road_geometry": null
+    },
+    {
+      "name": "Kirin",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8044412,
-      "lon": -73.9661746,
-      "osm_id": 2765266916,
+      "lat": 51.5112388,
+      "lon": -0.0794148,
+      "osm_id": 296614820,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": "New London Street",
       "road_geometry": null
     },
     {
-      "name": "Westside Market",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8042614,
-      "lon": -73.9662829,
-      "osm_id": 2765266922,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway & West 108th Street",
+      "name": "Great Tower Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8030822,
-      "lon": -73.9672711,
-      "osm_id": 3271250924,
+      "lat": 51.509925,
+      "lon": -0.0811685,
+      "osm_id": 469770107,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway & Broadway",
+      "name": "Great Tower Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8038417,
-      "lon": -73.9661562,
-      "osm_id": 3271250927,
+      "lat": 51.5099515,
+      "lon": -0.0815005,
+      "osm_id": 469770109,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Playa Bowls",
+      "name": "Traveler",
       "category": [
-        "amenity.fast_food"
+        "shop.bag"
       ],
-      "lat": 40.8044414,
-      "lon": -73.9668661,
-      "osm_id": 3907629284,
+      "lat": 51.5117523,
+      "lon": -0.0818305,
+      "osm_id": 471488494,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": "Fenchurch Street",
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway\u2013110th Street",
+      "name": "Next",
       "category": [
-        "railway.station"
+        "shop.clothes"
       ],
-      "lat": 40.8042494,
-      "lon": -73.9665992,
-      "osm_id": 4460385049,
+      "lat": 51.5114748,
+      "lon": -0.0818917,
+      "osm_id": 668834653,
       "osm_type": "node",
-      "address": null,
+      "address": "Fenchurch Street",
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway\u2013110th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8036065,
-      "lon": -73.967177,
-      "osm_id": 4460385050,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Himalayan Curry House",
+      "name": "Traitor's Gate",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8026396,
-      "lon": -73.9671313,
-      "osm_id": 5978745721,
+      "lat": 51.5098153,
+      "lon": -0.0783932,
+      "osm_id": 688688992,
       "osm_type": "node",
-      "address": "West 108th Street",
+      "address": "Trinity Square",
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Cathedral Pkwy & Broadway",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8042321,
-      "lon": -73.9670394,
-      "osm_id": 6086890320,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "USPS",
-      "category": [
-        "amenity.post_box"
-      ],
-      "lat": 40.8041251,
-      "lon": -73.9669703,
-      "osm_id": 7022723855,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Grab & Go",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8032748,
-      "lon": -73.9670125,
-      "osm_id": 7024236394,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Xi'an Famous Foods",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8033169,
-      "lon": -73.9669798,
-      "osm_id": 7024236397,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "CVS Pharmacy",
-      "category": [
-        "shop.chemist"
-      ],
-      "lat": 40.8041247,
-      "lon": -73.9670996,
-      "osm_id": 11223279872,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Riverside Animal Hospital",
-      "category": [
-        "amenity.veterinary"
-      ],
-      "lat": 40.8025712,
-      "lon": -73.9669924,
-      "osm_id": 11411602502,
-      "osm_type": "node",
-      "address": "West 108th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Dunkin'",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8029162,
-      "lon": -73.9672696,
-      "osm_id": 11414268878,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "The 9th Barbershop",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8026514,
-      "lon": -73.9643235,
-      "osm_id": 11418737771,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Durar Caf\u00e9",
+      "name": "Carter's",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8026229,
-      "lon": -73.9643443,
-      "osm_id": 11418737772,
+      "lat": 51.5097893,
+      "lon": -0.0794907,
+      "osm_id": 691387452,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": "Byward Street",
       "road_geometry": null
     },
     {
-      "name": "Atlas Kitchen",
+      "name": "China Delight",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8032937,
-      "lon": -73.9667641,
-      "osm_id": 11447982727,
+      "lat": 51.51072,
+      "lon": -0.080403,
+      "osm_id": 696927640,
       "osm_type": "node",
-      "address": "West 109th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "The School at Columbia",
+      "name": "Apex City of London",
       "category": [
-        "amenity.school"
+        "tourism.hotel"
       ],
-      "lat": 40.8037681,
-      "lon": -73.9662334,
-      "osm_id": 11633796008,
+      "lat": 51.5106067,
+      "lon": -0.0793789,
+      "osm_id": 795788290,
       "osm_type": "node",
-      "address": "West 110th Street",
+      "address": "Seething Lane",
       "road_geometry": null
     },
     {
-      "name": "Ebru Halal Food",
+      "name": "The Lampery",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5105459,
+      "lon": -0.0793701,
+      "osm_id": 796777946,
+      "osm_type": "node",
+      "address": "Seething Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "The Windsor",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5113698,
+      "lon": -0.0794105,
+      "osm_id": 1547392947,
+      "osm_type": "node",
+      "address": "New London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bodean's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5097295,
+      "lon": -0.0787496,
+      "osm_id": 1556324751,
+      "osm_type": "node",
+      "address": "Byward Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hung, Drawn and Quartered",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5095282,
+      "lon": -0.0807865,
+      "osm_id": 1561417481,
+      "osm_type": "node",
+      "address": "Great Tower Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Basils Sandwiches",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.80392,
-      "lon": -73.9666973,
-      "osm_id": 11955118212,
+      "lat": 51.5111437,
+      "lon": -0.079414,
+      "osm_id": 1689475265,
+      "osm_type": "node",
+      "address": "New London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fenchurch Shoe Care",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 51.5111196,
+      "lon": -0.0791407,
+      "osm_id": 1689475286,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Paris Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.511151,
+      "lon": -0.0790157,
+      "osm_id": 1689475301,
+      "osm_type": "node",
+      "address": "Crutched Friars",
+      "road_geometry": null
+    },
+    {
+      "name": "Cards Galore",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5097916,
+      "lon": -0.0800037,
+      "osm_id": 2313255279,
+      "osm_type": "node",
+      "address": "Byward Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Camino",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5109803,
+      "lon": -0.0816178,
+      "osm_id": 2334237323,
+      "osm_type": "node",
+      "address": "Mincing Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Balls Brothers",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.510937,
+      "lon": -0.0803664,
+      "osm_id": 2935383884,
+      "osm_type": "node",
+      "address": "Minster Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Davy\u2019s at Plantation Place",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5107359,
+      "lon": -0.0816565,
+      "osm_id": 2935383885,
+      "osm_type": "node",
+      "address": "Mincing Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Haz Plantation Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5113168,
+      "lon": -0.0816323,
+      "osm_id": 2935424558,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Chop'd",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5109978,
+      "lon": -0.0800148,
+      "osm_id": 4559429891,
+      "osm_type": "node",
+      "address": "Mark Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Honi Poke",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5111047,
+      "lon": -0.0796233,
+      "osm_id": 4559430147,
+      "osm_type": "node",
+      "address": "New London Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Marks and Spencer to Go",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5115946,
+      "lon": -0.0791547,
+      "osm_id": 4718553522,
+      "osm_type": "node",
+      "address": "Fenchurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5117059,
+      "lon": -0.0791296,
+      "osm_id": 5137417058,
+      "osm_type": "node",
+      "address": "Fenchurch Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Wrapchic",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5097906,
+      "lon": -0.0797791,
+      "osm_id": 5164928746,
+      "osm_type": "node",
+      "address": "Byward Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Patsons",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5097898,
+      "lon": -0.0795877,
+      "osm_id": 5167206748,
+      "osm_type": "node",
+      "address": "Byward Street",
+      "road_geometry": null
+    },
+    {
+      "name": "K10",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5106651,
+      "lon": -0.0807214,
+      "osm_id": 5329414521,
+      "osm_type": "node",
+      "address": "Minster Court",
+      "road_geometry": null
+    },
+    {
+      "name": "BrewDog",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5099031,
+      "lon": -0.0807577,
+      "osm_id": 5593327043,
+      "osm_type": "node",
+      "address": "Great Tower Street",
+      "road_geometry": null
+    },
+    {
+      "name": "BanhMi City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5096348,
+      "lon": -0.0810362,
+      "osm_id": 6482358885,
+      "osm_type": "node",
+      "address": "Great Tower Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Birleys",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5108969,
+      "lon": -0.0800937,
+      "osm_id": 6885993201,
+      "osm_type": "node",
+      "address": "Mark Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Pure Spa & Beauty",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5107481,
+      "lon": -0.080134,
+      "osm_id": 6885999773,
+      "osm_type": "node",
+      "address": "Mark Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Santander",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5100703,
+      "lon": -0.08034,
+      "osm_id": 6886019846,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Third Space",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5102447,
+      "lon": -0.0805639,
+      "osm_id": 6886019847,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Skewered",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5098598,
+      "lon": -0.0803913,
+      "osm_id": 9170573255,
+      "osm_type": "node",
+      "address": "Mark Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Tank & Paddle Minster Court",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.510923,
+      "lon": -0.081332,
+      "osm_id": 9306966309,
+      "osm_type": "node",
+      "address": "Mincing Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Ashtray Plant",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5101077,
+      "lon": -0.0791099,
+      "osm_id": 10543148271,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Samuel Pepys",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5102627,
+      "lon": -0.0789482,
+      "osm_id": 10544409969,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HAZ Plantation Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5105439,
+      "lon": -0.081697,
+      "osm_id": 11017728428,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "TDSML",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5104068,
+      "lon": -0.0802413,
+      "osm_id": 12866448584,
+      "osm_type": "node",
+      "address": "Mark Lane",
       "road_geometry": null
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1088.png",
+  "center_lat": 40.83265765765769,
+  "center_lon": -73.93004830094365,
+  "bbox": [
+    -73.93153663496612,
+    40.83153153153157,
+    -73.92855996692117,
+    40.83378378378382
+  ],
+  "unique_categories": [
+    "leisure.park",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "leisure.park": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Summit Avenue Park",
+      "category": [
+        "leisure.park"
+      ],
+      "lat": 40.8333333,
+      "lon": -73.9305556,
+      "osm_id": 357635248,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Friendly Gospel Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8320372,
+      "lon": -73.9296583,
+      "osm_id": 5019124221,
+      "osm_type": "node",
+      "address": "Ogden Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

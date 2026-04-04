@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/199.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.50975539396475,
+  "bbox": [
+    121.50843836770044,
+    31.234504504504503,
+    121.51107242022907,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "tourism.hotel",
+    "highway.bus_stop",
+    "amenity.post_box",
+    "railway.stop",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1,
+    "highway.bus_stop": 2,
+    "amenity.post_box": 1,
+    "railway.stop": 1,
+    "amenity.bank": 2
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 31.2353384,
+      "lon": 121.511049,
+      "osm_id": 3800385615,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def\uff08\u4e1c\u660c\u8def\uff09",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 31.2349113,
+      "lon": 121.5092998,
+      "osm_id": 4569769693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5357\u6d0b\u5546\u4e1a\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2350225,
+      "lon": 121.5099571,
+      "osm_id": 8150330117,
+      "osm_type": "node",
+      "address": "\u4e16\u7eaa\u5927\u9053",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5168\u5b63\u9152\u5e97",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 31.2345628,
+      "lon": 121.5108563,
+      "osm_id": 8841112983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4ea4\u901a\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2347535,
+      "lon": 121.5092714,
+      "osm_id": 8859447802,
+      "osm_type": "node",
+      "address": "\u6d66\u4e1c\u5357\u8def",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e1c\u660c\u8def\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2350112,
+      "lon": 121.5086898,
+      "osm_id": 11438429346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e16\u7eaa\u5927\u9053\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2359423,
+      "lon": 121.5099263,
+      "osm_id": 11982568978,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

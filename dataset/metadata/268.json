@@ -1,0 +1,720 @@
+{
+  "image": "dataset/images/268.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.64902783848218,
+  "bbox": [
+    -46.650256466291246,
+    -23.57,
+    -46.64779921067312,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "shop.books",
+    "amenity.restaurant",
+    "shop.lottery",
+    "amenity.cafe",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "shop.laundry",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.confectionery",
+    "amenity.fast_food",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "amenity.parking",
+    "amenity.post_office",
+    "shop.newsagent",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 2,
+    "amenity.restaurant": 12,
+    "shop.lottery": 1,
+    "amenity.cafe": 4,
+    "shop.supermarket": 1,
+    "shop.hairdresser": 2,
+    "railway.subway_entrance": 2,
+    "shop.convenience": 1,
+    "shop.laundry": 1,
+    "amenity.bicycle_rental": 3,
+    "highway.bus_stop": 3,
+    "shop.confectionery": 2,
+    "amenity.fast_food": 3,
+    "shop.clothes": 3,
+    "amenity.bureau_de_change": 1,
+    "amenity.parking": 2,
+    "amenity.post_office": 1,
+    "shop.newsagent": 3,
+    "amenity.bar": 2,
+    "amenity.bank": 1,
+    "shop.shoes": 5
+  },
+  "poi_count": 55,
+  "pois": [
+    {
+      "name": "Bols\u00e3o para motos",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5680741,
+      "lon": -46.6490241,
+      "osm_id": 856729087,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Livraria Martins Fontes",
+      "category": [
+        "shop.books"
+      ],
+      "lat": -23.5682361,
+      "lon": -46.6486354,
+      "osm_id": 1056786843,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Cabeleireiros Junkos Hair Design",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.568465,
+      "lon": -46.6489945,
+      "osm_id": 1056786844,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Lavanderia My Landry",
+      "category": [
+        "shop.laundry"
+      ],
+      "lat": -23.5688603,
+      "lon": -46.6490758,
+      "osm_id": 1056786848,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Washoi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5686122,
+      "lon": -46.649197,
+      "osm_id": 1056786853,
+      "osm_type": "node",
+      "address": "Rua Manuel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Diner\u00b4s",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5689928,
+      "lon": -46.6491029,
+      "osm_id": 1056786855,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Baroni",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.568465,
+      "lon": -46.6491709,
+      "osm_id": 1059192994,
+      "osm_type": "node",
+      "address": "Rua Manuel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Estacionamento Fac Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5686822,
+      "lon": -46.6492094,
+      "osm_id": 1059193002,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Natural Da Terra",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5695453,
+      "lon": -46.6494263,
+      "osm_id": 1059201626,
+      "osm_type": "node",
+      "address": "Rua Manuel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Cabeleleiros New Century",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": -23.56942,
+      "lon": -46.6490638,
+      "osm_id": 1059223560,
+      "osm_type": "node",
+      "address": "Al. Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Bomboni\u00e9re",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": -23.569313,
+      "lon": -46.6492,
+      "osm_id": 1059223568,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Comida Chinesa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5682526,
+      "lon": -46.6502366,
+      "osm_id": 1059492730,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Correios",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": -23.5684762,
+      "lon": -46.6495509,
+      "osm_id": 1069542770,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Alameda",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5687223,
+      "lon": -46.6497165,
+      "osm_id": 2740812883,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5679321,
+      "lon": -46.6493765,
+      "osm_id": 3614315878,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Ita\u00fa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5686493,
+      "lon": -46.648073,
+      "osm_id": 3621336504,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Bomboniere Brigadeiro",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": -23.5686003,
+      "lon": -46.6497113,
+      "osm_id": 3890672457,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f2 Brigadeiro",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5681099,
+      "lon": -46.6486487,
+      "osm_id": 3892325894,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Ismael",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5678085,
+      "lon": -46.6484898,
+      "osm_id": 4128749469,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Metro Brigadeiro",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": -23.5682841,
+      "lon": -46.6478837,
+      "osm_id": 4128749470,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5679649,
+      "lon": -46.6480845,
+      "osm_id": 4528875793,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5681911,
+      "lon": -46.6489224,
+      "osm_id": 4528907391,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.56777,
+      "lon": -46.6493222,
+      "osm_id": 4899871477,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "TNG",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5681775,
+      "lon": -46.6496845,
+      "osm_id": 4899871482,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Deck 484",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5692097,
+      "lon": -46.6490287,
+      "osm_id": 4956890676,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Sensa\u00e7\u00e3o",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5689394,
+      "lon": -46.6490888,
+      "osm_id": 4956890677,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurante Oliveira",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5690723,
+      "lon": -46.6491229,
+      "osm_id": 4956890679,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Aquele Caf\u00e9 da Rua",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5688138,
+      "lon": -46.6490682,
+      "osm_id": 4956890680,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Martins Fontes",
+      "category": [
+        "shop.books"
+      ],
+      "lat": -23.5684226,
+      "lon": -46.6489834,
+      "osm_id": 4956890684,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Martinez",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5682682,
+      "lon": -46.6489427,
+      "osm_id": 4956890687,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Sport Shoes",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5680509,
+      "lon": -46.6488592,
+      "osm_id": 4956890690,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "TTC Turismo e C\u00e2mbio",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": -23.5680788,
+      "lon": -46.6487999,
+      "osm_id": 4956890691,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Fatty Cal\u00e7ados",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5681073,
+      "lon": -46.6487637,
+      "osm_id": 4956890692,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Fatty Cal\u00e7ados",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5681959,
+      "lon": -46.6486871,
+      "osm_id": 4956890695,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "SpielBerg",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5682478,
+      "lon": -46.6485846,
+      "osm_id": 4956890697,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Dom\u00ednio Lanches e Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5682785,
+      "lon": -46.6485455,
+      "osm_id": 4956890698,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banca Paulista News",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5680924,
+      "lon": -46.6487826,
+      "osm_id": 4956890699,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Camisaria Colombo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5685001,
+      "lon": -46.6483254,
+      "osm_id": 4956890702,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "La B\u00e1rbara Forneria",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5682545,
+      "lon": -46.6491336,
+      "osm_id": 4964500735,
+      "osm_type": "node",
+      "address": "Rua Manoel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Loterica Nancy",
+      "category": [
+        "shop.lottery"
+      ],
+      "lat": -23.5682676,
+      "lon": -46.6494231,
+      "osm_id": 4964500749,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Ragazzo",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5682446,
+      "lon": -46.6494036,
+      "osm_id": 4964500750,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Snoppy Restaurante e Lanchonete",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5682212,
+      "lon": -46.6493837,
+      "osm_id": 4964500751,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Paulista",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.568166,
+      "lon": -46.6493369,
+      "osm_id": 4964500753,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Paulista, 500",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5680175,
+      "lon": -46.6483159,
+      "osm_id": 4970563258,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Yakitori Mizusaka",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5685103,
+      "lon": -46.6494564,
+      "osm_id": 5059317749,
+      "osm_type": "node",
+      "address": "Galeria Artur Guimar\u00e3es",
+      "road_geometry": null
+    },
+    {
+      "name": "The Punch bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5685499,
+      "lon": -46.6494058,
+      "osm_id": 5065241356,
+      "osm_type": "node",
+      "address": "Galeria Artur Guimar\u00e3es",
+      "road_geometry": null
+    },
+    {
+      "name": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio, 2344",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5683282,
+      "lon": -46.6497363,
+      "osm_id": 5691703352,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Kan Suke",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5685031,
+      "lon": -46.6494886,
+      "osm_id": 5770937953,
+      "osm_type": "node",
+      "address": "Galeria Artur Guimar\u00e3es",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e9 Latte",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.568424,
+      "lon": -46.6491693,
+      "osm_id": 5796105156,
+      "osm_type": "node",
+      "address": "Rua Manuel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Urca Chopp e Frios",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5689003,
+      "lon": -46.6493457,
+      "osm_id": 5802163996,
+      "osm_type": "node",
+      "address": "Rua Manuel da N\u00f3brega",
+      "road_geometry": null
+    },
+    {
+      "name": "Esta\u00e7\u00e3o 92 Brigadeiro",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5681715,
+      "lon": -46.6486063,
+      "osm_id": 6916298624,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Atithi Devo Bhava",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.56913,
+      "lon": -46.6501813,
+      "osm_id": 8346059580,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Halabi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5689076,
+      "lon": -46.6490783,
+      "osm_id": 10296015505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R. Manoel da N\u00f3brega",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5681587,
+      "lon": -46.6489778,
+      "osm_id": 11135381329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Metr\u00f4 Brigadeiro",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5681059,
+      "lon": -46.6486744,
+      "osm_id": 11135381331,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

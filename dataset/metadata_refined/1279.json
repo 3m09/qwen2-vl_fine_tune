@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/1279.png",
+  "center_lat": 40.85067567567573,
+  "center_lon": -73.93300676035688,
+  "bbox": [
+    -73.93449549901561,
+    40.84954954954961,
+    -73.93151802169814,
+    40.85180180180186
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "highway.bus_stop",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.mobile_phone"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 2,
+    "highway.bus_stop": 2,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 1,
+    "shop.mobile_phone": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Farmacia San Rafael",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8512953,
+      "lon": -73.9324946,
+      "osm_id": 2797541153,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Viva Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8514842,
+      "lon": -73.9319242,
+      "osm_id": 2797609313,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "La Casa Del Mofongo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.850444,
+      "lon": -73.9331798,
+      "osm_id": 5413492269,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 184th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8513522,
+      "lon": -73.9321303,
+      "osm_id": 5797594344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 184th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8508909,
+      "lon": -73.9327312,
+      "osm_id": 5797594422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joyeria Elizabeth III",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 40.8511281,
+      "lon": -73.9321475,
+      "osm_id": 6527644600,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Boost Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8514599,
+      "lon": -73.9323937,
+      "osm_id": 11484274748,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 13,
+    "removed_count": 6,
+    "model": "gemini-2.5-flash"
+  }
+}

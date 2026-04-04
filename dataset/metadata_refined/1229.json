@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/1229.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.93896586392502,
+  "bbox": [
+    -73.94045450139026,
+    40.8450450450451,
+    -73.93747722645978,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "amenity.parking",
+    "amenity.restaurant",
+    "amenity.theatre",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.parking": 2,
+    "amenity.restaurant": 2,
+    "amenity.theatre": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "United Palace",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8465626,
+      "lon": -73.9381268,
+      "osm_id": 357621192,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Public School 210",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.845226,
+      "lon": -73.9391679,
+      "osm_id": 357621672,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malecon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8463658,
+      "lon": -73.9386007,
+      "osm_id": 2797260699,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Manolo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.847173,
+      "lon": -73.938357,
+      "osm_id": 2797261799,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Centerpark Broadway Parking Garage",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 40.8471417,
+      "lon": -73.9377827,
+      "osm_id": 12384513430,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Centerpark Broadway Parking Garage",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 40.8470293,
+      "lon": -73.9377911,
+      "osm_id": 12481647703,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 28,
+    "removed_count": 22,
+    "model": "gemini-2.5-flash"
+  }
+}

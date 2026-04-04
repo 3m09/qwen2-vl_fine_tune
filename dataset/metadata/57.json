@@ -1,15 +1,520 @@
 {
   "image": "dataset/images/57.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.97173317263398,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.07647466473207734,
   "bbox": [
-    -73.97322090039007,
-    40.80450450450451,
-    -73.97024544487786,
-    40.80675675675676
+    -0.07828430590653293,
+    51.51626126126128,
+    -0.07466502355762175,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.karaoke_box",
+    "amenity.cafe",
+    "shop.bicycle",
+    "tourism.information",
+    "shop.optician",
+    "shop.hairdresser",
+    "shop.sports",
+    "amenity.university",
+    "amenity.fast_food",
+    "leisure.fitness_centre",
+    "shop.perfumery",
+    "shop.massage",
+    "amenity.doctors",
+    "tourism.attraction",
+    "shop.outdoor",
+    "shop.pastry",
+    "amenity.taxi",
+    "tourism.guest_house",
+    "leisure.sports_centre",
+    "shop.fabric",
+    "amenity.bar",
+    "shop.dry_cleaning"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 6,
+    "amenity.karaoke_box": 1,
+    "amenity.cafe": 4,
+    "shop.bicycle": 2,
+    "tourism.information": 1,
+    "shop.optician": 1,
+    "shop.hairdresser": 4,
+    "shop.sports": 1,
+    "amenity.university": 2,
+    "amenity.fast_food": 3,
+    "leisure.fitness_centre": 1,
+    "shop.perfumery": 1,
+    "shop.massage": 1,
+    "amenity.doctors": 1,
+    "tourism.attraction": 1,
+    "shop.outdoor": 1,
+    "shop.pastry": 1,
+    "amenity.taxi": 1,
+    "tourism.guest_house": 1,
+    "leisure.sports_centre": 1,
+    "shop.fabric": 1,
+    "amenity.bar": 1,
+    "shop.dry_cleaning": 1
+  },
+  "poi_count": 38,
+  "pois": [
+    {
+      "name": "Jen Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5181847,
+      "lon": -0.0776879,
+      "osm_id": 347542399,
+      "osm_type": "node",
+      "address": "Artillery Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "New Euro Carriages",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 51.5168993,
+      "lon": -0.0755397,
+      "osm_id": 1736770859,
+      "osm_type": "node",
+      "address": "Bell Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Swift Cycles",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 51.5172761,
+      "lon": -0.0764982,
+      "osm_id": 1736770860,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City of London Flats",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 51.5182651,
+      "lon": -0.0781456,
+      "osm_id": 1779504042,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pizza Union",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5177171,
+      "lon": -0.0773817,
+      "osm_id": 2639079549,
+      "osm_type": "node",
+      "address": "Sandy's Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Pod",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5166157,
+      "lon": -0.0782474,
+      "osm_id": 3068270488,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Hummingbird Bakery",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 51.5178054,
+      "lon": -0.0765556,
+      "osm_id": 3081640236,
+      "osm_type": "node",
+      "address": "Frying Pan Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "Kastner and Ovens",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.517867,
+      "lon": -0.0763379,
+      "osm_id": 3081640239,
+      "osm_type": "node",
+      "address": "Frying Pan Alley",
+      "road_geometry": null
+    },
+    {
+      "name": "Ignite PT",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5168845,
+      "lon": -0.076444,
+      "osm_id": 3118263525,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Steakhouse Co",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5175765,
+      "lon": -0.0781411,
+      "osm_id": 3168534745,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Zen Clinic",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 51.5181616,
+      "lon": -0.0759319,
+      "osm_id": 3195416603,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coventry University London Campus",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 51.5174721,
+      "lon": -0.0776604,
+      "osm_id": 3195441960,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Northumbria University London Campus",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": 51.5177926,
+      "lon": -0.0778041,
+      "osm_id": 3195444561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Runners Need",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5172022,
+      "lon": -0.0760513,
+      "osm_id": 3274286626,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yeye's Noodle & Dumpling",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5181994,
+      "lon": -0.0775556,
+      "osm_id": 3305890127,
+      "osm_type": "node",
+      "address": "Artillery Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Angela Flanders",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 51.5181277,
+      "lon": -0.0773945,
+      "osm_id": 3419583665,
+      "osm_type": "node",
+      "address": "Artillery Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Historic Spitalfields",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5183199,
+      "lon": -0.0764377,
+      "osm_id": 3631355120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jonnys Place Hairshop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.516295,
+      "lon": -0.0777139,
+      "osm_id": 3665546925,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chew Fun",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5168658,
+      "lon": -0.0755169,
+      "osm_id": 3706490527,
+      "osm_type": "node",
+      "address": "Bell Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Blow Dry Express",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5181783,
+      "lon": -0.0768757,
+      "osm_id": 3727546022,
+      "osm_type": "node",
+      "address": "Artillery Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Happy Days",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5164666,
+      "lon": -0.0750155,
+      "osm_id": 3728278239,
+      "osm_type": "node",
+      "address": "Goulston Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cotswold Outdoor",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 51.5170658,
+      "lon": -0.0758393,
+      "osm_id": 3928721758,
+      "osm_type": "node",
+      "address": "Leyden Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Into Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5175477,
+      "lon": -0.0773066,
+      "osm_id": 4422754931,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Discount Suit Company",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5167766,
+      "lon": -0.0754483,
+      "osm_id": 4620456890,
+      "osm_type": "node",
+      "address": "Bell Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Bean about Town",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5165527,
+      "lon": -0.0777513,
+      "osm_id": 4948602209,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "F45 Training",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5166653,
+      "lon": -0.0765148,
+      "osm_id": 6657733201,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Reign",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5182674,
+      "lon": -0.0766476,
+      "osm_id": 7902587456,
+      "osm_type": "node",
+      "address": "Artillery Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Javi Cycle Repair",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 51.5164479,
+      "lon": -0.0754721,
+      "osm_id": 8021965436,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jack the Clipper",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5181896,
+      "lon": -0.0746717,
+      "osm_id": 8528066113,
+      "osm_type": "node",
+      "address": "Toynbee Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Noodle & Beer",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5176649,
+      "lon": -0.0761916,
+      "osm_id": 9013950368,
+      "osm_type": "node",
+      "address": "Bell Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Sheraton",
+      "category": [
+        "shop.fabric"
+      ],
+      "lat": 51.5168451,
+      "lon": -0.0758507,
+      "osm_id": 9014282999,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alexis Amor",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5181295,
+      "lon": -0.078028,
+      "osm_id": 10651215494,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "My Old Place",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5169008,
+      "lon": -0.0768855,
+      "osm_id": 11048383051,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gunpowder",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5182784,
+      "lon": -0.0747759,
+      "osm_id": 12543995831,
+      "osm_type": "node",
+      "address": "White's Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Dry Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 51.518284,
+      "lon": -0.0747086,
+      "osm_id": 12543995832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LSDC Healthcare",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5181716,
+      "lon": -0.078274,
+      "osm_id": 12798202667,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucky Voice",
+      "category": [
+        "amenity.karaoke_box"
+      ],
+      "lat": 51.5164619,
+      "lon": -0.0782,
+      "osm_id": 13527144664,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "old jewish soup kitchen",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5180438,
+      "lon": -0.0753167,
+      "osm_id": 13536418801,
+      "osm_type": "node",
+      "address": "Brune Street",
+      "road_geometry": null
+    }
+  ]
 }

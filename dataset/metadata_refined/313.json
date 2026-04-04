@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/313.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.649029207610845,
+  "bbox": [
+    -46.65025773010232,
+    -23.558738738738743,
+    -46.64780068511937,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "shop.car_repair",
+    "shop.books",
+    "amenity.bar"
+  ],
+  "poi_count_per_category": {
+    "shop.car_repair": 1,
+    "shop.books": 1,
+    "amenity.bar": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Injet Auto Center",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": -23.5566012,
+      "lon": -46.6499804,
+      "osm_id": 7826275695,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Livraria Simples",
+      "category": [
+        "shop.books"
+      ],
+      "lat": -23.5585246,
+      "lon": -46.6495631,
+      "osm_id": 12065302096,
+      "osm_type": "node",
+      "address": "Rua Rocha",
+      "road_geometry": null
+    },
+    {
+      "name": "Bar do Manoel",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5579634,
+      "lon": -46.6498256,
+      "osm_id": 12780040822,
+      "osm_type": "node",
+      "address": "R. Rocha",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

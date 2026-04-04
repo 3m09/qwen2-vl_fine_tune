@@ -1,15 +1,310 @@
 {
   "image": "dataset/images/28.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.98661090455971,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.08009788325539238,
   "bbox": [
-    -73.98809858183085,
-    40.80225225225225,
-    -73.98512322728857,
-    40.80450450450451
+    -0.08190716659581125,
+    51.50725225225226,
+    -0.0782885999149735,
+    51.50950450450451
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.ice_cream",
+    "tourism.artwork",
+    "amenity.restaurant",
+    "shop.gift",
+    "amenity.parking",
+    "amenity.events_venue",
+    "amenity.cafe",
+    "shop.bakery",
+    "shop.ticket",
+    "amenity.fast_food",
+    "amenity.ferry_terminal",
+    "amenity.bar",
+    "tourism.hotel",
+    "amenity.bureau_de_change"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 3,
+    "shop.gift": 2,
+    "amenity.parking": 1,
+    "amenity.events_venue": 1,
+    "amenity.cafe": 2,
+    "shop.bakery": 1,
+    "shop.ticket": 1,
+    "amenity.fast_food": 5,
+    "amenity.ferry_terminal": 1,
+    "amenity.bar": 1,
+    "tourism.hotel": 1,
+    "amenity.bureau_de_change": 1
+  },
+  "poi_count": 22,
+  "pois": [
+    {
+      "name": "Travelex",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 51.5078959,
+      "lon": -0.0789018,
+      "osm_id": 689094476,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5084656,
+      "lon": -0.0792217,
+      "osm_id": 689097130,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Wagamama",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5088796,
+      "lon": -0.0789428,
+      "osm_id": 694510208,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Dream Xi'an",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5089063,
+      "lon": -0.0790823,
+      "osm_id": 694510269,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5093973,
+      "lon": -0.0786133,
+      "osm_id": 694824539,
+      "osm_type": "node",
+      "address": "Tower Hill Terrace",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5085291,
+      "lon": -0.079136,
+      "osm_id": 694824545,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Ben & Jerry's",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 51.5086158,
+      "lon": -0.0790608,
+      "osm_id": 694824549,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Hill Car & Coach Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 51.5088339,
+      "lon": -0.0801071,
+      "osm_id": 1203623751,
+      "osm_type": "node",
+      "address": "Lower Thames Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Millennium Pier",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 51.5072719,
+      "lon": -0.0788908,
+      "osm_id": 2131782103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zizzi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.509227,
+      "lon": -0.0800317,
+      "osm_id": 2189991994,
+      "osm_type": "node",
+      "address": "Tower Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Paul",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5080066,
+      "lon": -0.0793773,
+      "osm_id": 4200057917,
+      "osm_type": "node",
+      "address": "Lower Thames Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tickets Tower of London",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 51.5090026,
+      "lon": -0.0784057,
+      "osm_id": 4200057921,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.509065,
+      "lon": -0.0784681,
+      "osm_id": 4326052223,
+      "osm_type": "node",
+      "address": "Tower Hill Terrace",
+      "road_geometry": null
+    },
+    {
+      "name": "hub by Premier Inn (Tower Bridge)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.5093691,
+      "lon": -0.0808455,
+      "osm_id": 4340748003,
+      "osm_type": "node",
+      "address": "Great Tower Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5081795,
+      "lon": -0.0792529,
+      "osm_id": 4452603011,
+      "osm_type": "node",
+      "address": "Three Quays Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Coppa Club",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5080209,
+      "lon": -0.0797169,
+      "osm_id": 4452603012,
+      "osm_type": "node",
+      "address": "Three Quays Walk",
+      "road_geometry": null
+    },
+    {
+      "name": "Traditional Fish and Chips",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5086001,
+      "lon": -0.0787511,
+      "osm_id": 6017839008,
+      "osm_type": "node",
+      "address": "Tower Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Great British Fish and Chips",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5086618,
+      "lon": -0.0787079,
+      "osm_id": 6017839704,
+      "osm_type": "node",
+      "address": "Tower Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Thames River Perch",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5078924,
+      "lon": -0.0794649,
+      "osm_id": 10576390275,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Souvenirs",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5093384,
+      "lon": -0.0786651,
+      "osm_id": 11316386042,
+      "osm_type": "node",
+      "address": "Tower Vault",
+      "road_geometry": null
+    },
+    {
+      "name": "London Souvenirs",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5092797,
+      "lon": -0.0783837,
+      "osm_id": 11396731499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bakers' Hall",
+      "category": [
+        "amenity.events_venue"
+      ],
+      "lat": 51.50939,
+      "lon": -0.0815549,
+      "osm_id": 12192729997,
+      "osm_type": "node",
+      "address": "Harp Lane",
+      "road_geometry": null
+    }
+  ]
 }

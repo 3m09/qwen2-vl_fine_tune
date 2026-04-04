@@ -1,20 +1,874 @@
 {
   "image": "dataset/images/79.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.97768332629803,
+  "center_lat": 48.862882882882886,
+  "center_lon": 2.3469822853421887,
   "bbox": [
-    -73.97917110454483,
-    40.80675675675676,
-    -73.97619554805124,
-    40.80900900900902
+    2.3452705302933046,
+    48.86175675675676,
+    2.3486940403910728,
+    48.86400900900902
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "shop.fashion_accessories",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "amenity.ice_cream",
+    "railway.subway_entrance",
+    "shop.optician",
+    "amenity.bank",
+    "shop.hairdresser",
+    "shop.video_games",
+    "shop.cosmetics",
+    "shop.interior_decoration",
+    "amenity.community_centre",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.jewelry",
+    "amenity.bar",
+    "shop.clothes",
+    "amenity.library",
+    "shop.beauty",
+    "shop.watches",
+    "amenity.arts_centre",
+    "shop.shoes",
+    "leisure.amusement_arcade",
+    "amenity.parcel_locker",
+    "shop.sports",
+    "railway.stop",
+    "shop.department_store",
+    "railway.station",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "shop.fashion_accessories": 1,
+    "amenity.restaurant": 6,
+    "amenity.fast_food": 3,
+    "amenity.ice_cream": 1,
+    "railway.subway_entrance": 5,
+    "shop.optician": 1,
+    "amenity.bank": 1,
+    "shop.hairdresser": 1,
+    "shop.video_games": 1,
+    "shop.cosmetics": 3,
+    "shop.interior_decoration": 1,
+    "amenity.community_centre": 1,
+    "highway.bus_stop": 1,
+    "amenity.cafe": 2,
+    "shop.jewelry": 1,
+    "amenity.bar": 3,
+    "shop.clothes": 16,
+    "amenity.library": 2,
+    "shop.beauty": 2,
+    "shop.watches": 1,
+    "amenity.arts_centre": 1,
+    "shop.shoes": 3,
+    "leisure.amusement_arcade": 1,
+    "amenity.parcel_locker": 1,
+    "shop.sports": 1,
+    "railway.stop": 2,
+    "shop.department_store": 2,
+    "railway.station": 1,
+    "tourism.information": 2
+  },
+  "poi_count": 66,
+  "pois": [
+    {
+      "name": "Les Halles",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8621646,
+      "lon": 2.3458801,
+      "osm_id": 264513655,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porte Saint-Eustache",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8629498,
+      "lon": 2.3456147,
+      "osm_id": 663713699,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Perla",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8634417,
+      "lon": 2.3462535,
+      "osm_id": 681293895,
+      "osm_type": "node",
+      "address": "Rue Montorgueil",
+      "road_geometry": null
+    },
+    {
+      "name": "Forum des images",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": 48.8625016,
+      "lon": 2.3453019,
+      "osm_id": 1028569468,
+      "osm_type": "node",
+      "address": "Rue du Cin\u00e9ma",
+      "road_geometry": null
+    },
+    {
+      "name": "Turbigo - \u00c9tienne Marcel",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8639357,
+      "lon": 2.3484173,
+      "osm_id": 2042462220,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Centre Paris Anim' Ruth Bader Ginsburg",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 48.8623048,
+      "lon": 2.3457035,
+      "osm_id": 2997913296,
+      "osm_type": "node",
+      "address": "Place Carr\u00e9e",
+      "road_geometry": null
+    },
+    {
+      "name": "CIC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 48.8638593,
+      "lon": 2.3484566,
+      "osm_id": 3205829181,
+      "osm_type": "node",
+      "address": "Rue de Turbigo",
+      "road_geometry": null
+    },
+    {
+      "name": "Jap&Tha\u00ef",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8638375,
+      "lon": 2.3455186,
+      "osm_id": 3205849647,
+      "osm_type": "node",
+      "address": "Rue Montmartre",
+      "road_geometry": null
+    },
+    {
+      "name": "Les P\u00e2tes Vivantes",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.863555,
+      "lon": 2.3471565,
+      "osm_id": 3205859761,
+      "osm_type": "node",
+      "address": "Rue de Turbigo",
+      "road_geometry": null
+    },
+    {
+      "name": "Timberland",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8628183,
+      "lon": 2.3468347,
+      "osm_id": 3501273078,
+      "osm_type": "node",
+      "address": "Rue Rambuteau",
+      "road_geometry": null
+    },
+    {
+      "name": "Le Max Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8627989,
+      "lon": 2.3483063,
+      "osm_id": 3588251096,
+      "osm_type": "node",
+      "address": "Rue de la Petite-Truanderie",
+      "road_geometry": null
+    },
+    {
+      "name": "Body Minute",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.863708,
+      "lon": 2.3475524,
+      "osm_id": 3680774399,
+      "osm_type": "node",
+      "address": "Rue Fran\u00e7aise",
+      "road_geometry": null
+    },
+    {
+      "name": "MAC Cosmetics",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 48.8625071,
+      "lon": 2.348312,
+      "osm_id": 3759479038,
+      "osm_type": "node",
+      "address": "Rue Pierre Lescot",
+      "road_geometry": null
+    },
+    {
+      "name": "HEMA",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 48.8626448,
+      "lon": 2.347606,
+      "osm_id": 3759491975,
+      "osm_type": "node",
+      "address": "Rue Rambuteau",
+      "road_geometry": null
+    },
+    {
+      "name": "Belgian WIC",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 48.8625575,
+      "lon": 2.347952,
+      "osm_id": 3759491976,
+      "osm_type": "node",
+      "address": "Rue Rambuteau",
+      "road_geometry": null
+    },
+    {
+      "name": "Dr. Martens",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 48.8619147,
+      "lon": 2.3483823,
+      "osm_id": 3841554957,
+      "osm_type": "node",
+      "address": "Rue Pierre Lescot",
+      "road_geometry": null
+    },
+    {
+      "name": "Pop mart",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8625608,
+      "lon": 2.3471958,
+      "osm_id": 4110161158,
+      "osm_type": "node",
+      "address": "Rue Rambuteau",
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8619547,
+      "lon": 2.3458867,
+      "osm_id": 4246118167,
+      "osm_type": "node",
+      "address": "Rue de l'Arc en Ciel",
+      "road_geometry": null
+    },
+    {
+      "name": "Reset",
+      "category": [
+        "amenity.bar",
+        "leisure.amusement_arcade"
+      ],
+      "lat": 48.86337,
+      "lon": 2.3482808,
+      "osm_id": 4782745121,
+      "osm_type": "node",
+      "address": "Rue du Cygne",
+      "road_geometry": null
+    },
+    {
+      "name": "Intersport",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 48.8621662,
+      "lon": 2.3479002,
+      "osm_id": 5009327635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue Montorgueil",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.862845,
+      "lon": 2.3465872,
+      "osm_id": 5321652780,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ba&sh",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8639551,
+      "lon": 2.3481318,
+      "osm_id": 5381388480,
+      "osm_type": "node",
+      "address": "Rue \u00c9tienne Marcel",
+      "road_geometry": null
+    },
+    {
+      "name": "M\u00e9diath\u00e8que de la Canop\u00e9e la fontaine",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 48.8624488,
+      "lon": 2.34682,
+      "osm_id": 5423023020,
+      "osm_type": "node",
+      "address": "Passage de la Canop\u00e9e",
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 48.8624547,
+      "lon": 2.3460596,
+      "osm_id": 5527816419,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8626996,
+      "lon": 2.346214,
+      "osm_id": 5527818022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Celtic Clover",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8630396,
+      "lon": 2.348336,
+      "osm_id": 5816402898,
+      "osm_type": "node",
+      "address": "Rue de la Grande Truanderie",
+      "road_geometry": null
+    },
+    {
+      "name": "Porte Lescot",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8619291,
+      "lon": 2.3481377,
+      "osm_id": 5954227798,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Victoria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8635917,
+      "lon": 2.3465187,
+      "osm_id": 5955060116,
+      "osm_type": "node",
+      "address": "Rue Montorgueil",
+      "road_geometry": null
+    },
+    {
+      "name": "Cr\u00eapes et Gaufres",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8634818,
+      "lon": 2.3464644,
+      "osm_id": 5955100620,
+      "osm_type": "node",
+      "address": "Rue Montorgueil",
+      "road_geometry": null
+    },
+    {
+      "name": "L'Esplanade Saint-Eustache",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8634032,
+      "lon": 2.3464799,
+      "osm_id": 5955294567,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Presto Fresco",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8638346,
+      "lon": 2.3457657,
+      "osm_id": 5955313737,
+      "osm_type": "node",
+      "address": "Rue Montmartre",
+      "road_geometry": null
+    },
+    {
+      "name": "Zango Les Halles",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8633232,
+      "lon": 2.3484968,
+      "osm_id": 6222442393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jacadi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8635636,
+      "lon": 2.3459733,
+      "osm_id": 7995599798,
+      "osm_type": "node",
+      "address": "Rue Montmartre",
+      "road_geometry": null
+    },
+    {
+      "name": "Sagone",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 48.8631068,
+      "lon": 2.3481063,
+      "osm_id": 9089019644,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leho",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8638999,
+      "lon": 2.3464104,
+      "osm_id": 9349200778,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les Halles",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8620687,
+      "lon": 2.3457916,
+      "osm_id": 9476641342,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ba&sh",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8639897,
+      "lon": 2.3452837,
+      "osm_id": 9530484372,
+      "osm_type": "node",
+      "address": "Rue du Jour",
+      "road_geometry": null
+    },
+    {
+      "name": "Porte Saint-Eustache",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8624385,
+      "lon": 2.3456578,
+      "osm_id": 9554596026,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porte Lescot",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8618343,
+      "lon": 2.3477173,
+      "osm_id": 9554596027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Porte Lescot",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8618386,
+      "lon": 2.3476992,
+      "osm_id": 9554596028,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lovisa",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8624181,
+      "lon": 2.3486473,
+      "osm_id": 9560681489,
+      "osm_type": "node",
+      "address": "Rue Rambuteau",
+      "road_geometry": null
+    },
+    {
+      "name": "Lucille Brunette",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.8638254,
+      "lon": 2.3465493,
+      "osm_id": 9573432417,
+      "osm_type": "node",
+      "address": "Rue Montorgueil",
+      "road_geometry": null
+    },
+    {
+      "name": "Draeger",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8621284,
+      "lon": 2.3474102,
+      "osm_id": 9657852217,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Victoria Secret",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8624959,
+      "lon": 2.3463764,
+      "osm_id": 9664231417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sandro",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8622877,
+      "lon": 2.3470442,
+      "osm_id": 9686819201,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HEMA",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 48.8627697,
+      "lon": 2.3478514,
+      "osm_id": 9766907567,
+      "osm_type": "node",
+      "address": "Rue Mond\u00e9tour",
+      "road_geometry": null
+    },
+    {
+      "name": "Vogue Optique",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 48.8636778,
+      "lon": 2.3456089,
+      "osm_id": 10005223529,
+      "osm_type": "node",
+      "address": "Rue Montmartre",
+      "road_geometry": null
+    },
+    {
+      "name": "Foot Locker",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 48.8619644,
+      "lon": 2.3454932,
+      "osm_id": 10057428984,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gap",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8625468,
+      "lon": 2.3468946,
+      "osm_id": 10617293014,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pickup Station",
+      "category": [
+        "amenity.parcel_locker"
+      ],
+      "lat": 48.8626433,
+      "lon": 2.3468286,
+      "osm_id": 10820266782,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gong Cha",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8626007,
+      "lon": 2.3477523,
+      "osm_id": 10940447902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Di Me",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.863754,
+      "lon": 2.3473797,
+      "osm_id": 11587687878,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Denim Studio",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8639764,
+      "lon": 2.347308,
+      "osm_id": 11587690177,
+      "osm_type": "node",
+      "address": "Rue Mauconseil",
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenir machine",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8637322,
+      "lon": 2.3479581,
+      "osm_id": 11587732135,
+      "osm_type": "node",
+      "address": "Rue de Turbigo",
+      "road_geometry": null
+    },
+    {
+      "name": "M\u00e9diath\u00e8que musicale de Paris",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 48.8626842,
+      "lon": 2.345789,
+      "osm_id": 12782079808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Micromania",
+      "category": [
+        "shop.video_games"
+      ],
+      "lat": 48.8619224,
+      "lon": 2.3473902,
+      "osm_id": 12798267932,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Celio",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8626451,
+      "lon": 2.3470746,
+      "osm_id": 12856935737,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nocib\u00e9",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 48.8621995,
+      "lon": 2.3468551,
+      "osm_id": 12899742727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Etam",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8624165,
+      "lon": 2.347118,
+      "osm_id": 13041652197,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KIKO Milano",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 48.862308,
+      "lon": 2.3466727,
+      "osm_id": 13049539167,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tempka",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 48.862005,
+      "lon": 2.3457706,
+      "osm_id": 13071165663,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lovisa",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 48.8619812,
+      "lon": 2.345865,
+      "osm_id": 13071165664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oka\u00efdi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8621721,
+      "lon": 2.3469865,
+      "osm_id": 13084881177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Momen'Tea",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8619718,
+      "lon": 2.3471609,
+      "osm_id": 13101011957,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mango",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8622689,
+      "lon": 2.3474245,
+      "osm_id": 13103108664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Undiz",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8621222,
+      "lon": 2.3476188,
+      "osm_id": 13232247302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 181,
+    "removed_count": 115,
     "model": "gemini-2.5-flash"
   }
 }

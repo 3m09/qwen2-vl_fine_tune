@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/1036.png",
+  "center_lat": 40.82815315315318,
+  "center_lon": -73.94195891608994,
+  "bbox": [
+    -73.94344714901071,
+    40.82702702702706,
+    -73.94047068316917,
+    40.82927927927931
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.place_of_worship",
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.place_of_worship": 1,
+    "highway.bus_stop": 2,
+    "shop.convenience": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Saint John's Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8288889,
+      "lon": -73.9433333,
+      "osm_id": 357620994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 150th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8274861,
+      "lon": -73.9428563,
+      "osm_id": 5281916121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 153rd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8292788,
+      "lon": -73.9421151,
+      "osm_id": 5281917476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "840 St Nicholas Food Corp",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8287742,
+      "lon": -73.9420185,
+      "osm_id": 11221649168,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - St Nicholas Ave & W 150 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8272201,
+      "lon": -73.9427264,
+      "osm_id": 13226755599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

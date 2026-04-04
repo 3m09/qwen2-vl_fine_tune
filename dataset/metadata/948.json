@@ -1,0 +1,74 @@
+{
+  "image": "dataset/images/948.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.98958343082154,
+  "bbox": [
+    -73.99107151213275,
+    40.82027027027029,
+    -73.98809534951033,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "amenity.fire_station",
+    "amenity.police",
+    "amenity.restaurant",
+    "amenity.courthouse"
+  ],
+  "poi_count_per_category": {
+    "amenity.fire_station": 1,
+    "amenity.police": 1,
+    "amenity.restaurant": 1,
+    "amenity.courthouse": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Cliffside Park Police Department",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 40.8212772,
+      "lon": -73.9884347,
+      "osm_id": 2274572753,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Cliffside Park Fire Department",
+      "category": [
+        "amenity.fire_station"
+      ],
+      "lat": 40.8214276,
+      "lon": -73.9882574,
+      "osm_id": 2274573028,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Cliffside Park Municipal Court",
+      "category": [
+        "amenity.courthouse"
+      ],
+      "lat": 40.8213252,
+      "lon": -73.9884013,
+      "osm_id": 11018270210,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Don Jose Taqueria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8222348,
+      "lon": -73.9900551,
+      "osm_id": 13370931774,
+      "osm_type": "node",
+      "address": "Anderson Avenue",
+      "road_geometry": null
+    }
+  ]
+}

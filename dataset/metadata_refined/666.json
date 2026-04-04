@@ -1,0 +1,195 @@
+{
+  "image": "dataset/images/666.png",
+  "center_lat": 19.43063063063063,
+  "center_lon": -99.13186456936054,
+  "bbox": [
+    -99.13305869941868,
+    19.429504504504504,
+    -99.13067043930242,
+    19.431756756756755
+  ],
+  "unique_categories": [
+    "shop.doityourself",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "shop.florist",
+    "amenity.bicycle_rental",
+    "shop.clothes",
+    "amenity.fast_food",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "shop.doityourself": 1,
+    "railway.subway_entrance": 4,
+    "amenity.restaurant": 2,
+    "shop.florist": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.clothes": 1,
+    "amenity.fast_food": 1,
+    "tourism.hotel": 2
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4313341,
+      "lon": -99.1309816,
+      "osm_id": 2409358341,
+      "osm_type": "node",
+      "address": "Corregidora",
+      "road_geometry": null
+    },
+    {
+      "name": "Migliano Hermanos",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 19.4300147,
+      "lon": -99.132085,
+      "osm_id": 2808845270,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Z\u00f3calo",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.431513,
+      "lon": -99.1325176,
+      "osm_id": 2811939111,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici Jos\u00e9 Mar\u00eda Pino Su\u00e1rez / Corregidora",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4314715,
+      "lon": -99.1325569,
+      "osm_id": 2812628977,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Floricentro",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 19.4307121,
+      "lon": -99.131031,
+      "osm_id": 4049515323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zocalo Rooms",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4304094,
+      "lon": -99.1325453,
+      "osm_id": 4676965991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roble",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 19.4298939,
+      "lon": -99.1327841,
+      "osm_id": 4687361081,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "Los tacos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.429777,
+      "lon": -99.1318518,
+      "osm_id": 5168260321,
+      "osm_type": "node",
+      "address": "Rep\u00fablica de Uruguay",
+      "road_geometry": null
+    },
+    {
+      "name": "sombreros",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4304451,
+      "lon": -99.131507,
+      "osm_id": 7262530387,
+      "osm_type": "node",
+      "address": "Calle Tabaque\u00f1os",
+      "road_geometry": null
+    },
+    {
+      "name": "Los Tacos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.430222,
+      "lon": -99.1323792,
+      "osm_id": 8041155085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Z\u00f3calo",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4314338,
+      "lon": -99.1325286,
+      "osm_id": 11635655998,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Z\u00f3calo",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4314695,
+      "lon": -99.1321695,
+      "osm_id": 11635656007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Z\u00f3calo",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4313905,
+      "lon": -99.132181,
+      "osm_id": 11635656008,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

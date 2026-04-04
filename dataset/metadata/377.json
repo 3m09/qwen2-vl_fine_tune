@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/377.png",
+  "center_lat": 1.310387387387388,
+  "center_lon": 103.84189630302508,
+  "bbox": [
+    103.84076988282341,
+    1.3092612612612617,
+    103.84302272322675,
+    1.311513513513514
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Before Winstedt Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.3109897,
+      "lon": 103.8428426,
+      "osm_id": 410462650,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Malayan Council cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3100216,
+      "lon": 103.8417166,
+      "osm_id": 10962644933,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "10 Winstedt Road",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3099384,
+      "lon": 103.8421646,
+      "osm_id": 10962644934,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

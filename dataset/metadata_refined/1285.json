@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1285.png",
+  "center_lat": 40.852927927927986,
+  "center_lon": -73.98660089662322,
+  "bbox": [
+    -73.9880896858873,
+    40.85180180180186,
+    -73.98511210735913,
+    40.85405405405412
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "shop.alcohol": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Wine and Spirts",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8524467,
+      "lon": -73.986318,
+      "osm_id": 2023735536,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CVS Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.851927,
+      "lon": -73.986771,
+      "osm_id": 8530362369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

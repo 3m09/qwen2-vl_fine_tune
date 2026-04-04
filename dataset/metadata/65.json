@@ -1,167 +1,317 @@
 {
   "image": "dataset/images/65.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.94792952853626,
+  "center_lat": 48.858378378378376,
+  "center_lon": 2.3401348030268316,
   "bbox": [
-    -73.94941725629236,
-    40.80450450450451,
-    -73.94644180078015,
-    40.80675675675676
+    2.338423202017888,
+    48.85725225225225,
+    2.341846404035776,
+    48.85950450450451
   ],
   "unique_categories": [
-    "amenity.bar",
-    "tourism.apartment",
+    "shop.bag",
     "amenity.restaurant",
     "highway.bus_stop",
-    "shop.deli",
-    "tourism.hotel",
-    "shop.clothes",
-    "shop.dry_cleaning",
-    "shop.funeral_directors"
+    "shop.gift",
+    "amenity.cafe",
+    "railway.stop",
+    "tourism.apartment",
+    "shop.antiques",
+    "amenity.fast_food",
+    "tourism.information",
+    "amenity.hospital",
+    "tourism.hotel"
   ],
   "poi_count_per_category": {
-    "amenity.bar": 1,
+    "shop.bag": 1,
+    "amenity.restaurant": 4,
+    "highway.bus_stop": 3,
+    "shop.gift": 5,
+    "amenity.cafe": 1,
+    "railway.stop": 1,
     "tourism.apartment": 1,
-    "amenity.restaurant": 2,
-    "highway.bus_stop": 2,
-    "shop.deli": 1,
-    "tourism.hotel": 1,
-    "shop.clothes": 1,
-    "shop.dry_cleaning": 1,
-    "shop.funeral_directors": 1
+    "shop.antiques": 1,
+    "amenity.fast_food": 2,
+    "tourism.information": 1,
+    "amenity.hospital": 1,
+    "tourism.hotel": 2
   },
-  "poi_count": 11,
+  "poi_count": 23,
   "pois": [
     {
-      "name": "Barawine",
+      "name": "Pont Neuf",
       "category": [
-        "amenity.bar"
+        "railway.stop"
       ],
-      "lat": 40.80454,
-      "lon": -73.9474459,
-      "osm_id": 2765742254,
-      "osm_type": "node",
-      "address": "West 120th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Efuru Guest House",
-      "category": [
-        "tourism.hotel"
-      ],
-      "lat": 40.8047139,
-      "lon": -73.9485671,
-      "osm_id": 4213565912,
+      "lat": 48.8586746,
+      "lon": 2.3418394,
+      "osm_id": 264784170,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Harlem Haberdashery",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8061428,
-      "lon": -73.9470016,
-      "osm_id": 5186870455,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Owens Funeral Home",
-      "category": [
-        "shop.funeral_directors"
-      ],
-      "lat": 40.8049903,
-      "lon": -73.9471507,
-      "osm_id": 5266904159,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "121 Lenox Gourmet Deli",
-      "category": [
-        "shop.deli"
-      ],
-      "lat": 40.8052132,
-      "lon": -73.9476498,
-      "osm_id": 5266905082,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Hi Dry Cleaners",
-      "category": [
-        "shop.dry_cleaning"
-      ],
-      "lat": 40.8051958,
-      "lon": -73.947668,
-      "osm_id": 5266905471,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "BLVD Bistro",
+      "name": "Caf\u00e9 du Pont Neuf",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8058627,
-      "lon": -73.9472248,
-      "osm_id": 5266905521,
+      "lat": 48.8588694,
+      "lon": 2.3415282,
+      "osm_id": 678892211,
       "osm_type": "node",
-      "address": "Malcolm X Boulevard",
+      "address": "Quai du Louvre",
       "road_geometry": null
     },
     {
-      "name": "Malcolm X Boulevard & West 122nd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8060878,
-      "lon": -73.946509,
-      "osm_id": 5274250261,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 122nd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8056803,
-      "lon": -73.9472661,
-      "osm_id": 5274255386,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Green\u2019s house",
+      "name": "Sweet Inn",
       "category": [
         "tourism.apartment"
       ],
-      "lat": 40.8061378,
-      "lon": -73.94739,
-      "osm_id": 5911756385,
+      "lat": 48.8592331,
+      "lon": 2.3402217,
+      "osm_id": 678898286,
+      "osm_type": "node",
+      "address": "Rue de l'Amiral de Coligny",
+      "road_geometry": null
+    },
+    {
+      "name": "Pont des Arts",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8590803,
+      "lon": 2.3385053,
+      "osm_id": 2039206117,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Sottocasa Pizzeria",
+      "name": "Pont Neuf - Quai du Louvre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8586156,
+      "lon": 2.3413668,
+      "osm_id": 2039737163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Art auction",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8593762,
+      "lon": 2.3403098,
+      "osm_id": 3396586045,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le relais du Louvre",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8592501,
+      "lon": 2.3409933,
+      "osm_id": 3396586046,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel de la Place du Louvre",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8592411,
+      "lon": 2.3408997,
+      "osm_id": 3396587250,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 des Arts",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.859096,
+      "lon": 2.3402013,
+      "osm_id": 3396587307,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai du Louvre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8585895,
+      "lon": 2.3415054,
+      "osm_id": 4879118835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenir",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8589001,
+      "lon": 2.3411332,
+      "osm_id": 5014754680,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cadeaux - Souvenirs",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.85904,
+      "lon": 2.3404495,
+      "osm_id": 5014845609,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Foroh",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8589234,
+      "lon": 2.3409954,
+      "osm_id": 5014845610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luncha",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.805587,
-      "lon": -73.9475248,
-      "osm_id": 7048004285,
+      "lat": 48.858872,
+      "lon": 2.3413443,
+      "osm_id": 5014845611,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coffee Cr\u00eapes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8589549,
+      "lon": 2.3408275,
+      "osm_id": 5014847508,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Cr\u00eaperie Parisienne",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8588885,
+      "lon": 2.3412331,
+      "osm_id": 5014847509,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Resto Louvre",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.858966,
+      "lon": 2.3407499,
+      "osm_id": 5014848347,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Square du Vert-Galant",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8572551,
+      "lon": 2.3406945,
+      "osm_id": 8493135684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Loland",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8590302,
+      "lon": 2.3405072,
+      "osm_id": 8636225792,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Piou Piou Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8590147,
+      "lon": 2.3406045,
+      "osm_id": 9731436457,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Clinique du Louvre",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 48.8592105,
+      "lon": 2.3411286,
+      "osm_id": 10594499020,
+      "osm_type": "node",
+      "address": "Rue des Pr\u00eatres Saint-Germain l'Auxerrois",
+      "road_geometry": null
+    },
+    {
+      "name": "Oskar",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 48.8589468,
+      "lon": 2.3409069,
+      "osm_id": 10820157616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bonne Table sur Seine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8584895,
+      "lon": 2.3417342,
+      "osm_id": 12879504103,
+      "osm_type": "node",
+      "address": "Parc Rives de Seine - Georges Pompidou",
       "road_geometry": null
     }
   ]

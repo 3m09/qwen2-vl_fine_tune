@@ -1,0 +1,167 @@
+{
+  "image": "dataset/images/1253.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.93896378957612,
+  "bbox": [
+    -73.94045247763523,
+    40.84729729729735,
+    -73.937475101517,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "amenity.dentist"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "highway.bus_stop": 4,
+    "amenity.restaurant": 3,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "amenity.dentist": 1
+  },
+  "poi_count": 11,
+  "pois": [
+    {
+      "name": "Poci\u00f3n Lounge",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.847528,
+      "lon": -73.938419,
+      "osm_id": 2797261820,
+      "osm_type": "node",
+      "address": "West 177th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "IHOP",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8475193,
+      "lon": -73.9378226,
+      "osm_id": 4798955921,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Avenue & West 177th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8475561,
+      "lon": -73.9397434,
+      "osm_id": 5400493007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Avenue & West 177th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8480962,
+      "lon": -73.9393586,
+      "osm_id": 5400493104,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kazza Wine Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8475475,
+      "lon": -73.9387283,
+      "osm_id": 5413543118,
+      "osm_type": "node",
+      "address": "West 177th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 178th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8485305,
+      "lon": -73.9376879,
+      "osm_id": 5798628929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Avenue & West 178th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8488816,
+      "lon": -73.9391751,
+      "osm_id": 7950920097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Diamond Braces",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8488365,
+      "lon": -73.9387994,
+      "osm_id": 12925573354,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Buunni Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8489667,
+      "lon": -73.9388443,
+      "osm_id": 12925573358,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8483172,
+      "lon": -73.9379462,
+      "osm_id": 12925573363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fine Fare Gold",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.848202,
+      "lon": -73.9375466,
+      "osm_id": 12925573393,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 21,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

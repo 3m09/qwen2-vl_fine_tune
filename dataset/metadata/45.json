@@ -1,285 +1,309 @@
 {
   "image": "dataset/images/45.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.93602987734084,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.09457134490455069,
   "bbox": [
-    -73.93751755461199,
-    40.80225225225225,
-    -73.9345422000697,
-    40.80450450450451
+    -0.0963808966030338,
+    51.51400900900902,
+    -0.09276179320606759,
+    51.51626126126128
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "railway.station",
-    "amenity.bank",
-    "shop.shoes",
-    "shop.nutrition_supplements",
-    "amenity.clinic",
-    "amenity.pharmacy",
-    "amenity.fast_food",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
     "amenity.restaurant",
     "highway.bus_stop",
+    "amenity.doctors",
+    "amenity.cafe",
+    "shop.coffee",
+    "tourism.gallery",
+    "shop.bicycle",
+    "amenity.fast_food",
+    "amenity.bar",
+    "amenity.bank",
     "shop.clothes",
-    "amenity.place_of_worship",
-    "shop.pet",
-    "amenity.social_facility"
+    "amenity.livery_hall"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "railway.station": 1,
-    "amenity.bank": 2,
-    "shop.shoes": 1,
-    "shop.nutrition_supplements": 1,
-    "amenity.clinic": 1,
-    "amenity.pharmacy": 1,
-    "amenity.fast_food": 2,
-    "amenity.restaurant": 1,
-    "highway.bus_stop": 5,
-    "shop.clothes": 1,
-    "amenity.place_of_worship": 1,
-    "shop.pet": 1,
-    "amenity.social_facility": 1
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 1,
+    "amenity.restaurant": 2,
+    "highway.bus_stop": 2,
+    "amenity.doctors": 1,
+    "amenity.cafe": 2,
+    "shop.coffee": 1,
+    "tourism.gallery": 2,
+    "shop.bicycle": 1,
+    "amenity.fast_food": 3,
+    "amenity.bar": 2,
+    "amenity.bank": 1,
+    "shop.clothes": 2,
+    "amenity.livery_hall": 1
   },
-  "poi_count": 20,
+  "poi_count": 22,
   "pois": [
     {
-      "name": "125th Street",
+      "name": "Dirty Martini St. Pauls",
       "category": [
-        "railway.station"
+        "amenity.bar"
       ],
-      "lat": 40.8043494,
-      "lon": -73.937411,
-      "osm_id": 2012627858,
+      "lat": 51.5145419,
+      "lon": -0.0948116,
+      "osm_id": 316763495,
+      "osm_type": "node",
+      "address": "Wood Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Balls Brothers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5153585,
+      "lon": -0.0956641,
+      "osm_id": 316763576,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "The Salvation Army Manhattan Citadel Corps Community Center",
+      "name": "Saddlers' Hall",
       "category": [
-        "amenity.social_facility"
+        "amenity.livery_hall"
       ],
-      "lat": 40.8044048,
-      "lon": -73.9370707,
-      "osm_id": 2765578547,
+      "lat": 51.5149109,
+      "lon": -0.0955757,
+      "osm_id": 316763577,
       "osm_type": "node",
-      "address": "East 125th Street",
+      "address": "Gutter Lane",
       "road_geometry": null
     },
     {
-      "name": "The Children's Place",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8043147,
-      "lon": -73.9368122,
-      "osm_id": 2765578587,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Bank of America",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8042749,
-      "lon": -73.9367044,
-      "osm_id": 2765578595,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Footaction",
-      "category": [
-        "shop.shoes"
-      ],
-      "lat": 40.8041597,
-      "lon": -73.9364188,
-      "osm_id": 2765578605,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Petland Discounts",
-      "category": [
-        "shop.pet"
-      ],
-      "lat": 40.8040526,
-      "lon": -73.9362468,
-      "osm_id": 2765578609,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Apple Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8040311,
-      "lon": -73.9361953,
-      "osm_id": 2765578612,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "GNC",
-      "category": [
-        "shop.nutrition_supplements"
-      ],
-      "lat": 40.804192,
-      "lon": -73.9365157,
-      "osm_id": 2883793306,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "East 125th Street & Lexington Avenue",
+      "name": "St Paul's Station",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8040516,
-      "lon": -73.9368918,
-      "osm_id": 5123007599,
+      "lat": 51.5144294,
+      "lon": -0.0956865,
+      "osm_id": 469761244,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 3rd Avenue",
+      "name": "Bread Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8040925,
-      "lon": -73.9364736,
-      "osm_id": 5136636541,
+      "lat": 51.5141957,
+      "lon": -0.0949795,
+      "osm_id": 469786650,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 3rd Avenue",
+      "name": "The Guildhall",
       "category": [
-        "highway.bus_stop"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8035201,
-      "lon": -73.9354626,
-      "osm_id": 5171179042,
+      "lat": 51.5158929,
+      "lon": -0.0930433,
+      "osm_id": 854360954,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Church of Scientology",
+      "name": "Blank Street Coffee",
       "category": [
-        "amenity.place_of_worship"
+        "amenity.cafe"
       ],
-      "lat": 40.8031437,
-      "lon": -73.9349597,
-      "osm_id": 5171179241,
+      "lat": 51.5147303,
+      "lon": -0.0962884,
+      "osm_id": 1312335328,
       "osm_type": "node",
-      "address": "East 125th Street",
+      "address": "Cheapside",
       "road_geometry": null
     },
     {
-      "name": "3rd Avenue & East 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8039794,
-      "lon": -73.9354847,
-      "osm_id": 5269044276,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "East 124th Street & 3rd Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8030605,
-      "lon": -73.9365452,
-      "osm_id": 5269089546,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Enexia Pharmacy",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8033818,
-      "lon": -73.9355044,
-      "osm_id": 5981255820,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Burger King",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8034524,
-      "lon": -73.9357042,
-      "osm_id": 5981262800,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Taco Bell",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8042603,
-      "lon": -73.9366585,
-      "osm_id": 11255243799,
-      "osm_type": "node",
-      "address": "East 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Teriyaki Madness",
+      "name": "Madison",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8037045,
-      "lon": -73.9354025,
-      "osm_id": 11255243806,
+      "lat": 51.5140183,
+      "lon": -0.0950175,
+      "osm_id": 3269520661,
+      "osm_type": "node",
+      "address": "New Change",
+      "road_geometry": null
+    },
+    {
+      "name": "New London Architecture",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 51.5160542,
+      "lon": -0.092855,
+      "osm_id": 4030635565,
+      "osm_type": "node",
+      "address": "Aldermanbury",
+      "road_geometry": null
+    },
+    {
+      "name": "Three Printers",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5160533,
+      "lon": -0.0954645,
+      "osm_id": 4494071041,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Food Bazaar",
+      "name": "Rustichino",
       "category": [
-        "shop.supermarket"
+        "amenity.fast_food"
       ],
-      "lat": 40.8037632,
-      "lon": -73.935539,
-      "osm_id": 11255243809,
+      "lat": 51.5151037,
+      "lon": -0.096285,
+      "osm_id": 4982761834,
+      "osm_type": "node",
+      "address": "Foster Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Rucoletta Deli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5151522,
+      "lon": -0.0962783,
+      "osm_id": 4982761835,
+      "osm_type": "node",
+      "address": "Foster Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Nespresso",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 51.5142264,
+      "lon": -0.0954143,
+      "osm_id": 5318827188,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Century Medical & Dental Center",
+      "name": "Bespoke Cycling",
       "category": [
-        "amenity.clinic"
+        "shop.bicycle"
       ],
-      "lat": 40.8040944,
-      "lon": -73.9352742,
-      "osm_id": 12921493565,
+      "lat": 51.5146576,
+      "lon": -0.0937197,
+      "osm_id": 6976586585,
       "osm_type": "node",
-      "address": "3rd Avenue",
+      "address": "Gresham Street",
+      "road_geometry": null
+    },
+    {
+      "name": "V69 Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5146048,
+      "lon": -0.0935979,
+      "osm_id": 6976603085,
+      "osm_type": "node",
+      "address": "Gresham Street",
+      "road_geometry": null
+    },
+    {
+      "name": "ICBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5150448,
+      "lon": -0.0939055,
+      "osm_id": 7783123002,
+      "osm_type": "node",
+      "address": "Gresham Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The London Centre",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 51.5161194,
+      "lon": -0.0928707,
+      "osm_id": 10925177276,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pure Sports Medicine Limited",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5141746,
+      "lon": -0.0955187,
+      "osm_id": 12866683213,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "Krispy Kreme",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5143131,
+      "lon": -0.0960838,
+      "osm_id": 12959502950,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hino Poke",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5146385,
+      "lon": -0.0961326,
+      "osm_id": 12959502952,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "John Henric",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5142179,
+      "lon": -0.0956446,
+      "osm_id": 12959568352,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zara",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.514347,
+      "lon": -0.0962845,
+      "osm_id": 12959568355,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

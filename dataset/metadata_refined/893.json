@@ -1,0 +1,79 @@
+{
+  "image": "dataset/images/893.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.93899488011779,
+  "bbox": [
+    -73.94048280987101,
+    40.81351351351353,
+    -73.93750695036456,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.fast_food",
+    "shop.convenience",
+    "amenity.place_of_worship",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.fast_food": 1,
+    "shop.convenience": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Union Congregational Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8154954,
+      "lon": -73.9392632,
+      "osm_id": 357621124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Mark the Evangelist School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8157285,
+      "lon": -73.938129,
+      "osm_id": 357621742,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NYCity Grill Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.815615,
+      "lon": -73.9401039,
+      "osm_id": 10969603645,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8150983,
+      "lon": -73.94047,
+      "osm_id": 10969605150,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

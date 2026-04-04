@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/205.png",
+  "center_lat": 31.237882882882882,
+  "center_lon": 121.49921940363753,
+  "bbox": [
+    121.49790234597502,
+    31.236756756756755,
+    121.50053646130003,
+    31.239009009009006
+  ],
+  "unique_categories": [
+    "amenity.cinema",
+    "shop.clothes",
+    "railway.stop",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "amenity.cinema": 1,
+    "shop.clothes": 2,
+    "railway.stop": 1,
+    "railway.station": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Palace IFC",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 31.2382358,
+      "lon": 121.4984438,
+      "osm_id": 4882493349,
+      "osm_type": "node",
+      "address": "\u4e16\u7eaa\u5927\u9053",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9646\u5bb6\u5634",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 31.2368877,
+      "lon": 121.4980003,
+      "osm_id": 6898405748,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gucci",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 31.2388654,
+      "lon": 121.4984289,
+      "osm_id": 7099705178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 31.2377879,
+      "lon": 121.4987602,
+      "osm_id": 7099716427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9646\u5bb6\u5634",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 31.2369216,
+      "lon": 121.4979194,
+      "osm_id": 9381985702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

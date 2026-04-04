@@ -1,0 +1,116 @@
+{
+  "image": "dataset/images/942.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.9360146761956,
+  "bbox": [
+    -73.93750270698175,
+    40.81801801801804,
+    -73.93452664540945,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "railway.subway_entrance",
+    "railway.stop",
+    "leisure.playground",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 1,
+    "railway.stop": 1,
+    "leisure.playground": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Lenox Avenue & 145th Street at Southeast Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8202023,
+      "lon": -73.93623,
+      "osm_id": 3584384842,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Colonel Charles Young Playground",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8196119,
+      "lon": -73.9362239,
+      "osm_id": 4111168996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8200772,
+      "lon": -73.9365423,
+      "osm_id": 5104151878,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8202156,
+      "lon": -73.9365922,
+      "osm_id": 8454752561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sweet Mama's Soul Food & Salad Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8201562,
+      "lon": -73.9367899,
+      "osm_id": 10570629806,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lenox Five Star Deli Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.81998,
+      "lon": -73.9369224,
+      "osm_id": 12574374150,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lenox Ave & W 144 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.819798,
+      "lon": -73.9365325,
+      "osm_id": 13244024517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

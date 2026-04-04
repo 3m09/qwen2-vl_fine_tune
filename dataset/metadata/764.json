@@ -1,0 +1,438 @@
+{
+  "image": "dataset/images/764.png",
+  "center_lat": 40.803378378378376,
+  "center_lon": -73.9657834227637,
+  "bbox": [
+    -73.96727110003485,
+    40.80225225225225,
+    -73.96429574549256,
+    40.80450450450451
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.school",
+    "amenity.veterinary",
+    "highway.bus_stop",
+    "shop.copyshop",
+    "shop.convenience",
+    "amenity.cafe",
+    "shop.chemist",
+    "railway.stop",
+    "amenity.bank",
+    "railway.station",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.post_box",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.tobacco",
+    "amenity.pub"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.school": 1,
+    "amenity.veterinary": 1,
+    "highway.bus_stop": 3,
+    "shop.copyshop": 1,
+    "shop.convenience": 2,
+    "amenity.cafe": 2,
+    "shop.chemist": 1,
+    "railway.stop": 1,
+    "amenity.bank": 2,
+    "railway.station": 1,
+    "amenity.fast_food": 5,
+    "amenity.restaurant": 5,
+    "amenity.post_box": 1,
+    "shop.supermarket": 2,
+    "shop.hairdresser": 1,
+    "shop.tobacco": 1,
+    "amenity.pub": 1
+  },
+  "poi_count": 32,
+  "pois": [
+    {
+      "name": "Chase",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8035649,
+      "lon": -73.9667771,
+      "osm_id": 1994680554,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "H Mart",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8038856,
+      "lon": -73.9665484,
+      "osm_id": 1994680557,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "TD Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8039041,
+      "lon": -73.9672394,
+      "osm_id": 1994680563,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway / Cathedral Parkway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8039773,
+      "lon": -73.9670823,
+      "osm_id": 1994680574,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Raising Cane's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8044959,
+      "lon": -73.9661283,
+      "osm_id": 2707983903,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway Tobacco House",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 40.8029579,
+      "lon": -73.9672398,
+      "osm_id": 2761671631,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Columbia Copy",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 40.8031105,
+      "lon": -73.9671303,
+      "osm_id": 2761671632,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Gong Cha",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8031673,
+      "lon": -73.9670896,
+      "osm_id": 2761671634,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Amity Hall Uptown",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.802258,
+      "lon": -73.9646355,
+      "osm_id": 2761671640,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "109 Spicy Gourmet Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.802353,
+      "lon": -73.9645686,
+      "osm_id": 2761671642,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Suite",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 40.8025473,
+      "lon": -73.9644019,
+      "osm_id": 2761677763,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Roti Roll (Bombay Frankie)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8025909,
+      "lon": -73.9643696,
+      "osm_id": 2761677767,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Koronet Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8044412,
+      "lon": -73.9661746,
+      "osm_id": 2765266916,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Westside Market",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8042614,
+      "lon": -73.9662829,
+      "osm_id": 2765266922,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 108th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8030822,
+      "lon": -73.9672711,
+      "osm_id": 3271250924,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8038417,
+      "lon": -73.9661562,
+      "osm_id": 3271250927,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Playa Bowls",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8044414,
+      "lon": -73.9668661,
+      "osm_id": 3907629284,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway\u2013110th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8042494,
+      "lon": -73.9665992,
+      "osm_id": 4460385049,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway\u2013110th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8036065,
+      "lon": -73.967177,
+      "osm_id": 4460385050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Himalayan Curry House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8026396,
+      "lon": -73.9671313,
+      "osm_id": 5978745721,
+      "osm_type": "node",
+      "address": "West 108th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Cathedral Pkwy & Broadway",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8042321,
+      "lon": -73.9670394,
+      "osm_id": 6086890320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "USPS",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 40.8041251,
+      "lon": -73.9669703,
+      "osm_id": 7022723855,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grab & Go",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8032748,
+      "lon": -73.9670125,
+      "osm_id": 7024236394,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Xi'an Famous Foods",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8033169,
+      "lon": -73.9669798,
+      "osm_id": 7024236397,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "CVS Pharmacy",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 40.8041247,
+      "lon": -73.9670996,
+      "osm_id": 11223279872,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Animal Hospital",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": 40.8025712,
+      "lon": -73.9669924,
+      "osm_id": 11411602502,
+      "osm_type": "node",
+      "address": "West 108th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8029162,
+      "lon": -73.9672696,
+      "osm_id": 11414268878,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "The 9th Barbershop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8026514,
+      "lon": -73.9643235,
+      "osm_id": 11418737771,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Durar Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8026229,
+      "lon": -73.9643443,
+      "osm_id": 11418737772,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Atlas Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8032937,
+      "lon": -73.9667641,
+      "osm_id": 11447982727,
+      "osm_type": "node",
+      "address": "West 109th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The School at Columbia",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8037681,
+      "lon": -73.9662334,
+      "osm_id": 11633796008,
+      "osm_type": "node",
+      "address": "West 110th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ebru Halal Food",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.80392,
+      "lon": -73.9666973,
+      "osm_id": 11955118212,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

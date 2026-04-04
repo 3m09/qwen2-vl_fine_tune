@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/1204.png",
+  "center_lat": 40.843918918918966,
+  "center_lon": -73.94194511179303,
+  "bbox": [
+    -73.94343369867013,
+    40.84279279279284,
+    -73.94045652491593,
+    40.8450450450451
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.dentist",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 3,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Esthetix Dentist, NYC's Dental Implant & Cosmetic Specialist",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8449733,
+      "lon": -73.9410295,
+      "osm_id": 5610061465,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Hilltop Perk",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8442897,
+      "lon": -73.9424117,
+      "osm_id": 5984058502,
+      "osm_type": "node",
+      "address": "Haven Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Prestige Cafe & Deli",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8429363,
+      "lon": -73.9418091,
+      "osm_id": 11963599308,
+      "osm_type": "node",
+      "address": "Fort Washington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8428747,
+      "lon": -73.9418371,
+      "osm_id": 11963599309,
+      "osm_type": "node",
+      "address": "West 169th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Barnes & Noble CUIMC Bookstore Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8428438,
+      "lon": -73.942848,
+      "osm_id": 11963636514,
+      "osm_type": "node",
+      "address": "West 168th Street",
+      "road_geometry": null
+    }
+  ]
+}

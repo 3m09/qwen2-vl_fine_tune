@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1289.png",
+  "center_lat": 40.852927927927986,
+  "center_lon": -73.97469058251052,
+  "bbox": [
+    -73.9761793717746,
+    40.85180180180186,
+    -73.97320179324643,
+    40.85405405405412
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.place_of_worship"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.place_of_worship": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Bethany United Methodist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8534295,
+      "lon": -73.9746563,
+      "osm_id": 357742951,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gamja Tang Tang Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8536147,
+      "lon": -73.9749085,
+      "osm_id": 11935609527,
+      "osm_type": "node",
+      "address": "Main Street",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "image": "dataset/images/481.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.16851981543167,
+  "bbox": [
+    114.16730269894143,
+    22.29527027027026,
+    114.1697369319219,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "shop.furniture",
+    "shop.watches",
+    "amenity.restaurant",
+    "highway.bus_stop",
+    "amenity.parking",
+    "shop.cosmetics",
+    "amenity.parking_entrance",
+    "amenity.cafe",
+    "shop.coffee",
+    "shop.department_store",
+    "tourism.information",
+    "shop.perfumery",
+    "amenity.bank",
+    "shop.clothes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.furniture": 1,
+    "shop.watches": 1,
+    "amenity.restaurant": 2,
+    "highway.bus_stop": 4,
+    "amenity.parking": 1,
+    "shop.cosmetics": 1,
+    "amenity.parking_entrance": 1,
+    "amenity.cafe": 2,
+    "shop.coffee": 1,
+    "shop.department_store": 1,
+    "tourism.information": 1,
+    "shop.perfumery": 1,
+    "amenity.bank": 1,
+    "shop.clothes": 8,
+    "shop.jewelry": 8
+  },
+  "poi_count": 34,
+  "pois": [
+    {
+      "name": "\u5317\u4eac\u9053\u4e00\u865f\u505c\u8eca\u5834 One Peking Car Park",
+      "category": [
+        "amenity.parking_entrance"
+      ],
+      "lat": 22.2958837,
+      "lon": 114.1694019,
+      "osm_id": 1187352632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lippo Sun Plaza",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2970227,
+      "lon": 114.169482,
+      "osm_id": 1187352983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6ed9\u8c50\u9280\u884c HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2958213,
+      "lon": 114.1691105,
+      "osm_id": 1950761785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6e2f\u4e2d\u5fc3 Silvercord",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.29751,
+      "lon": 114.1690033,
+      "osm_id": 3780732091,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5317\u4eac\u9053 Peking Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2956447,
+      "lon": 114.1694303,
+      "osm_id": 3780737618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u6e2f\u4e2d\u5fc3 Silvercord",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.297465,
+      "lon": 114.1690132,
+      "osm_id": 3912040163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f0e\u6cf0\u8c50 Din Tai Fung",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2973849,
+      "lon": 114.1692823,
+      "osm_id": 4149643552,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Lady M Hong Kong",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2952899,
+      "lon": 114.1677889,
+      "osm_id": 4229410393,
+      "osm_type": "node",
+      "address": "\u6d77\u904b\u5927\u5ec8\u4e8c\u968eOT215K\u865f\u92ea",
+      "road_geometry": null
+    },
+    {
+      "name": "JCB\u30d7\u30e9\u30b6\u30e9\u30a6\u30f3\u30b8",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 22.2961961,
+      "lon": 114.1693023,
+      "osm_id": 4305985593,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H&M",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2971782,
+      "lon": 114.1691692,
+      "osm_id": 4848264303,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u68b5\u514b\u96c5\u5bf6 Van Cleef & Arpels",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2954289,
+      "lon": 114.1695674,
+      "osm_id": 4848266418,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u842c\u5bf6\u9f8d Mont Blanc",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.295519,
+      "lon": 114.1695495,
+      "osm_id": 4848266419,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Dior",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 22.2959642,
+      "lon": 114.1694243,
+      "osm_id": 4848267121,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Panerai",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2962385,
+      "lon": 114.169376,
+      "osm_id": 4848270228,
+      "osm_type": "node",
+      "address": "\u5317\u4eac\u9053 Peking Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u82f1\u7687\u9418\u9336\u73e0\u5bf6 Emperor Watch & Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2963241,
+      "lon": 114.1693571,
+      "osm_id": 4848270229,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Omega",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2964494,
+      "lon": 114.1693296,
+      "osm_id": 4848270230,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fendi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2967911,
+      "lon": 114.1682802,
+      "osm_id": 4848291197,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Prada",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2973712,
+      "lon": 114.1688055,
+      "osm_id": 4848291199,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Gucci",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2969106,
+      "lon": 114.1689079,
+      "osm_id": 4848291200,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bvlgari",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.296595,
+      "lon": 114.1689781,
+      "osm_id": 4848291201,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2963395,
+      "lon": 114.1690349,
+      "osm_id": 4848291202,
+      "osm_type": "node",
+      "address": "\u5ee3\u6771\u9053 Canton Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u516d\u798f\u73e0\u5bf6 Lukfook Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2973047,
+      "lon": 114.1691413,
+      "osm_id": 4850175019,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2960602,
+      "lon": 114.1688074,
+      "osm_id": 6824463595,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2968961,
+      "lon": 114.1688318,
+      "osm_id": 6824463599,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7121\u5370\u826f\u54c1 Muji",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 22.295814,
+      "lon": 114.1690724,
+      "osm_id": 6824463600,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5317\u4eac\u9053 Peking Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2956328,
+      "lon": 114.1694323,
+      "osm_id": 6980052369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "T Galleria",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2968825,
+      "lon": 114.1692342,
+      "osm_id": 10875906427,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u674e\u5b81",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2974313,
+      "lon": 114.1691135,
+      "osm_id": 10875906437,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "De Beers",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2970396,
+      "lon": 114.1688792,
+      "osm_id": 10875906442,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Christian Dior",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2958285,
+      "lon": 114.1691485,
+      "osm_id": 10875906448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chanel",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2959989,
+      "lon": 114.1691106,
+      "osm_id": 10875906449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cova",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2973964,
+      "lon": 114.1681229,
+      "osm_id": 12014966926,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cupping Room Coffee Roasters",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 22.2963753,
+      "lon": 114.1682485,
+      "osm_id": 12438333801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OSIM",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.2963264,
+      "lon": 114.1685429,
+      "osm_id": 12643507763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

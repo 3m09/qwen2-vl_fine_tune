@@ -1,0 +1,89 @@
+{
+  "image": "dataset/images/647.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.1342531274698,
+  "bbox": [
+    -99.1354472244176,
+    19.425,
+    -99.133059030522,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "railway.subway_entrance"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Ecobici San Jer\u00f3nimo / Jos\u00e9 Mar\u00eda Pino Suarez",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4264684,
+      "lon": -99.133542,
+      "osm_id": 5064886396,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici San Jer\u00f3nimo / 5 de Febrero",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4267545,
+      "lon": -99.1349901,
+      "osm_id": 5064887478,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4262231,
+      "lon": -99.1332265,
+      "osm_id": 5167845579,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pino Su\u00e1rez",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4261524,
+      "lon": -99.1334735,
+      "osm_id": 5167845580,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4254628,
+      "lon": -99.1345349,
+      "osm_id": 6045220885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 7,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

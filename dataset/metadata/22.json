@@ -1,67 +1,141 @@
 {
   "image": "dataset/images/22.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.93305679436422,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.07648047915688916,
   "bbox": [
-    -73.93454442115612,
-    40.8,
-    -73.9315691675723,
-    40.80225225225225
+    -0.07828967306789769,
+    51.505,
+    -0.07467128524588064,
+    51.50725225225226
   ],
   "unique_categories": [
-    "highway.bus_stop",
-    "amenity.post_box"
+    "tourism.viewpoint",
+    "tourism.attraction",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 3,
-    "amenity.post_box": 1
+    "tourism.viewpoint": 1,
+    "tourism.attraction": 1,
+    "tourism.information": 8
   },
-  "poi_count": 4,
+  "poi_count": 10,
   "pois": [
     {
-      "name": "2nd Avenue & East 124th Street",
+      "name": "Tower Bridge",
       "category": [
-        "highway.bus_stop"
+        "tourism.attraction"
       ],
-      "lat": 40.8022038,
-      "lon": -73.9341174,
-      "osm_id": 5269095676,
+      "lat": 51.5055166,
+      "lon": -0.0753662,
+      "osm_id": 2079674503,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 124th Street & 2nd Avenue",
+      "name": "Tower Bridge",
       "category": [
-        "highway.bus_stop"
+        "tourism.viewpoint"
       ],
-      "lat": 40.8021334,
-      "lon": -73.934323,
-      "osm_id": 5338921227,
+      "lat": 51.5055748,
+      "lon": -0.0754722,
+      "osm_id": 5352812330,
+      "osm_type": "node",
+      "address": "Tower Bridge",
+      "road_geometry": null
+    },
+    {
+      "name": "The Middle Drawbridge",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5072349,
+      "lon": -0.0763434,
+      "osm_id": 11942067314,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "1st Avenue & Paladino Avenue",
+      "name": "Craddle Tower",
       "category": [
-        "highway.bus_stop"
+        "tourism.information"
       ],
-      "lat": 40.8003141,
-      "lon": -73.9321098,
-      "osm_id": 5415639216,
+      "lat": 51.5070935,
+      "lon": -0.0756667,
+      "osm_id": 11942067315,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "USPS",
+      "name": "Escape from the Tower",
       "category": [
-        "amenity.post_box"
+        "tourism.information"
       ],
-      "lat": 40.8022419,
-      "lon": -73.9341225,
-      "osm_id": 7658594665,
+      "lat": 51.507087,
+      "lon": -0.0754889,
+      "osm_id": 11942067316,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The East Gate",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5069989,
+      "lon": -0.0752951,
+      "osm_id": 11942067317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iron 18-inch mortar",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5069988,
+      "lon": -0.0751814,
+      "osm_id": 11942067319,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Poet and the Wharf",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5069774,
+      "lon": -0.0752113,
+      "osm_id": 11942067320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tower Bridge",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5059141,
+      "lon": -0.0754179,
+      "osm_id": 11942071563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Discover the Fortress story",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5070843,
+      "lon": -0.0761815,
+      "osm_id": 12466993303,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

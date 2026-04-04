@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/831.png",
+  "center_lat": 40.81013513513514,
+  "center_lon": -73.98065822633829,
+  "bbox": [
+    -73.9821460550815,
+    40.80900900900902,
+    -73.97917039759508,
+    40.81126126126127
+  ],
+  "unique_categories": [
+    "shop.party",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.party": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Marshalls",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 40.8110682,
+      "lon": -73.9821122,
+      "osm_id": 8530362502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Party City",
+      "category": [
+        "shop.party"
+      ],
+      "lat": 40.8112331,
+      "lon": -73.9819845,
+      "osm_id": 9181495787,
+      "osm_type": "node",
+      "address": "River Road",
+      "road_geometry": null
+    }
+  ]
+}

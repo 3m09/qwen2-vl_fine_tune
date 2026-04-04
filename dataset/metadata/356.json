@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/356.png",
+  "center_lat": 1.3058828828828832,
+  "center_lon": 103.83513776363068,
+  "bbox": [
+    103.8340113454495,
+    1.304756756756757,
+    103.83626418181187,
+    1.3070090090090094
+  ],
+  "unique_categories": [
+    "amenity.clinic",
+    "tourism.hotel",
+    "amenity.bank"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1,
+    "tourism.hotel": 1,
+    "amenity.bank": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "York Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3069254,
+      "lon": 103.8351875,
+      "osm_id": 4302906624,
+      "osm_type": "node",
+      "address": "Mount Elizabeth",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.30544,
+      "lon": 103.83555,
+      "osm_id": 4869134406,
+      "osm_type": "node",
+      "address": "Mount Elizabeth Medical Centre",
+      "road_geometry": null
+    },
+    {
+      "name": "Parkway Cancer Centre",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 1.3050898,
+      "lon": 103.8353997,
+      "osm_id": 6542055685,
+      "osm_type": "node",
+      "address": "3 Mount Elizabeth, Mount Elizabeth Hospital Level 2",
+      "road_geometry": null
+    }
+  ]
+}

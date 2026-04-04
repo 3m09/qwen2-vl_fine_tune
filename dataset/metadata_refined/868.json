@@ -1,0 +1,103 @@
+{
+  "image": "dataset/images/868.png",
+  "center_lat": 40.812387387387396,
+  "center_lon": -73.94197270943124,
+  "bbox": [
+    -73.94346058867659,
+    40.81126126126127,
+    -73.94048483018588,
+    40.81351351351353
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.books",
+    "shop.convenience",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "shop.books": 1,
+    "shop.convenience": 1,
+    "amenity.fast_food": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8122296,
+      "lon": -73.9418363,
+      "osm_id": 1740707014,
+      "osm_type": "node",
+      "address": "Lenox Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Revolution Books",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.812132,
+      "lon": -73.9426527,
+      "osm_id": 2767552427,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8123761,
+      "lon": -73.941887,
+      "osm_id": 5235584757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Malcolm X Boulevard & West 132nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8119898,
+      "lon": -73.9426697,
+      "osm_id": 5235585640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arkan Food Corp",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8134445,
+      "lon": -73.9417023,
+      "osm_id": 10969505900,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tex's Chicken & Burgers",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8131954,
+      "lon": -73.941872,
+      "osm_id": 13133487854,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

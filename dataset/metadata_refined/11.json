@@ -1,353 +1,429 @@
 {
   "image": "dataset/images/11.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.96578458378616,
+  "center_lat": 35.65963063063064,
+  "center_lon": 139.7057019388487,
   "bbox": [
-    -73.96727221057806,
-    40.8,
-    -73.96429695699425,
-    40.80225225225225
+    139.7043159475846,
+    35.65850450450451,
+    139.7070879301128,
+    35.66075675675677
   ],
   "unique_categories": [
-    "shop.dry_cleaning",
-    "shop.laundry",
-    "leisure.hackerspace",
-    "shop.hardware",
-    "amenity.restaurant",
-    "shop.tobacco",
-    "shop.convenience",
-    "amenity.fast_food",
+    "amenity.bicycle_parking",
+    "shop.shoes",
+    "amenity.cinema",
+    "amenity.cafe",
     "highway.bus_stop",
-    "amenity.bar",
-    "amenity.bicycle_rental",
-    "amenity.doctors",
+    "shop.convenience",
+    "amenity.fuel",
+    "shop.photo",
+    "amenity.restaurant",
     "shop.hairdresser",
+    "shop.stationery",
+    "shop.clothes",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "shop.copyshop",
     "shop.massage",
-    "amenity.cafe"
+    "amenity.clinic"
   ],
   "poi_count_per_category": {
-    "shop.dry_cleaning": 1,
-    "shop.laundry": 2,
-    "leisure.hackerspace": 1,
-    "shop.hardware": 1,
-    "amenity.restaurant": 4,
-    "shop.tobacco": 1,
-    "shop.convenience": 2,
-    "amenity.fast_food": 4,
+    "amenity.bicycle_parking": 2,
+    "shop.shoes": 2,
+    "amenity.cinema": 1,
+    "amenity.cafe": 5,
     "highway.bus_stop": 2,
-    "amenity.bar": 2,
-    "amenity.bicycle_rental": 1,
-    "amenity.doctors": 1,
+    "shop.convenience": 3,
+    "amenity.fuel": 1,
+    "shop.photo": 1,
+    "amenity.restaurant": 3,
     "shop.hairdresser": 1,
-    "shop.massage": 1,
-    "amenity.cafe": 1
+    "shop.stationery": 1,
+    "shop.clothes": 2,
+    "amenity.bicycle_rental": 1,
+    "amenity.fast_food": 2,
+    "shop.copyshop": 1,
+    "shop.massage": 2,
+    "amenity.clinic": 1
   },
-  "poi_count": 25,
+  "poi_count": 31,
   "pois": [
     {
-      "name": "Acosta Restaurant",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8003312,
-      "lon": -73.9660124,
-      "osm_id": 2535746162,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "DDY Minimarket & Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8009409,
-      "lon": -73.9651057,
-      "osm_id": 2535746170,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Dynasty Dry Cleaners",
-      "category": [
-        "shop.dry_cleaning"
-      ],
-      "lat": 40.8011399,
-      "lon": -73.9649631,
-      "osm_id": 2761641646,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Super Nice Pizza",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8015676,
-      "lon": -73.9646575,
-      "osm_id": 2761641649,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Uptown Dermatology",
-      "category": [
-        "amenity.doctors"
-      ],
-      "lat": 40.8017643,
-      "lon": -73.9644909,
-      "osm_id": 2761651130,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "All Fresh Laundry & Cleaners",
-      "category": [
-        "shop.laundry"
-      ],
-      "lat": 40.8009093,
-      "lon": -73.9655986,
-      "osm_id": 2761663414,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "West 106th Street & Amsterdam Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8002004,
-      "lon": -73.9653942,
-      "osm_id": 3271250959,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Skill Mill",
-      "category": [
-        "leisure.hackerspace"
-      ],
-      "lat": 40.8007427,
-      "lon": -73.9652361,
-      "osm_id": 6604808750,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Columbia Deli",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8006329,
-      "lon": -73.965322,
-      "osm_id": 6958893263,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Anar",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8002094,
-      "lon": -73.9656338,
-      "osm_id": 7040362186,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Living Thai",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8000987,
-      "lon": -73.9657163,
-      "osm_id": 7041983091,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Nobody Told Me",
-      "category": [
-        "amenity.bar"
-      ],
-      "lat": 40.8008066,
-      "lon": -73.9651977,
-      "osm_id": 7159068915,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 106th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.800686,
-      "lon": -73.9654047,
-      "osm_id": 8402020627,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Dive 106",
-      "category": [
-        "amenity.bar"
-      ],
-      "lat": 40.8007289,
-      "lon": -73.9657309,
-      "osm_id": 8438585854,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Metro II Hair Studio",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8010499,
-      "lon": -73.9655013,
-      "osm_id": 11402028475,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "PokeDoke",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8004754,
-      "lon": -73.9661976,
-      "osm_id": 11413565317,
-      "osm_type": "node",
-      "address": "West 106th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "965 Laundromat",
-      "category": [
-        "shop.laundry"
-      ],
-      "lat": 40.8012521,
-      "lon": -73.9648829,
-      "osm_id": 11413866655,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Domino's",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8013353,
-      "lon": -73.9648235,
-      "osm_id": 11413866656,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Super Nice Coffee and Bakery",
+      "name": "\u30b9\u30bf\u30fc\u30d0\u30c3\u30af\u30b9",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8015058,
-      "lon": -73.9644654,
-      "osm_id": 11413869531,
+      "lat": 35.6587425,
+      "lon": 139.7052337,
+      "osm_id": 1249538662,
       "osm_type": "node",
-      "address": "West 108th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Pancho's Antojitos Mexicano",
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
       "category": [
-        "amenity.restaurant"
+        "shop.convenience"
       ],
-      "lat": 40.8013901,
-      "lon": -73.965234,
-      "osm_id": 11415714612,
+      "lat": 35.6586549,
+      "lon": 139.7053851,
+      "osm_id": 1249538676,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "3 Times",
+      "name": "ENEOS",
+      "category": [
+        "amenity.fuel"
+      ],
+      "lat": 35.6598787,
+      "lon": 139.7053135,
+      "osm_id": 1886283112,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "KUA`AINA",
       "category": [
         "amenity.fast_food"
       ],
-      "lat": 40.8014845,
-      "lon": -73.9651629,
-      "osm_id": 11415714614,
+      "lat": 35.660553,
+      "lon": 139.7053058,
+      "osm_id": 2171172103,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Columbia Smoke Shop",
+      "name": "\u677e\u5c4b",
       "category": [
-        "shop.tobacco"
+        "amenity.fast_food"
       ],
-      "lat": 40.8017214,
-      "lon": -73.9650059,
-      "osm_id": 11418605766,
+      "lat": 35.660266,
+      "lon": 139.7055992,
+      "osm_id": 2171172104,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Iglarsh Supply",
+      "name": "\u30ab\u30d5\u30a7\u30fb\u30d9\u30ed\u30fc\u30c1\u30a7",
       "category": [
-        "shop.hardware"
+        "amenity.cafe"
       ],
-      "lat": 40.8018973,
-      "lon": -73.9643964,
-      "osm_id": 11419259548,
+      "lat": 35.659921,
+      "lon": 139.706066,
+      "osm_id": 2356783794,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Long Teng Body Work",
+      "name": "\u91d1\u738b\u5742\u4e2d\u592e\u7b2c\u4e00",
+      "category": [
+        "amenity.bicycle_parking"
+      ],
+      "lat": 35.6586715,
+      "lon": 139.7048443,
+      "osm_id": 3369975054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u738b\u5742\u4e2d\u592e\u7b2c\u4e8c",
+      "category": [
+        "amenity.bicycle_parking"
+      ],
+      "lat": 35.6588405,
+      "lon": 139.7045917,
+      "osm_id": 3369975055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b9\u30bf\u30fc\u30d0\u30c3\u30af\u30b9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6605531,
+      "lon": 139.7070323,
+      "osm_id": 3614062368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "glitter",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 35.6602434,
+      "lon": 139.7053719,
+      "osm_id": 3674490206,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6601877,
+      "lon": 139.7064917,
+      "osm_id": 3756763378,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b3\u30e1\u30c0\u73c8\u7432\u5e97",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6607231,
+      "lon": 139.7054703,
+      "osm_id": 4907015224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f22\u4e00\u30af\u30ea\u30cb\u30c3\u30af",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 35.6598486,
+      "lon": 139.7049744,
+      "osm_id": 5000995275,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30a4\u30bc\u30ea\u30e4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6597628,
+      "lon": 139.7059025,
+      "osm_id": 5000995277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "illy",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 35.6601328,
+      "lon": 139.7049004,
+      "osm_id": 5000995278,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CONTRAST",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 35.6606149,
+      "lon": 139.705166,
+      "osm_id": 5000997574,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yinega",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6607027,
+      "lon": 139.7050712,
+      "osm_id": 5000997576,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ad\u30f3\u30b3\u30fc\u30ba",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 35.6601544,
+      "lon": 139.7050251,
+      "osm_id": 5020289763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u307b\u3050\u3057\u306e\u9054\u4eba",
       "category": [
         "shop.massage"
       ],
-      "lat": 40.800554,
-      "lon": -73.9653891,
-      "osm_id": 11447975607,
+      "lat": 35.6600912,
+      "lon": 139.7046737,
+      "osm_id": 5020289767,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - W 106 St & Amsterdam Ave",
+      "name": "\u30aa\u30f3\u30c7\u30a3\u30fc\u30cc",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 35.6603091,
+      "lon": 139.7050868,
+      "osm_id": 5020289826,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ASICS",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 35.6601816,
+      "lon": 139.7051123,
+      "osm_id": 5020289830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Whoopi Goldburger",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6604143,
+      "lon": 139.7043767,
+      "osm_id": 5072661386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MARY QUANT",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 35.6606012,
+      "lon": 139.7061704,
+      "osm_id": 5132218718,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6606306,
+      "lon": 139.7062643,
+      "osm_id": 5132218719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30e2\u30fc\u30cf\u30a6\u30b9",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 35.660429,
+      "lon": 139.7068329,
+      "osm_id": 5133105805,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ad\u30f3\u30b3\u30fc\u30ba",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 35.6600988,
+      "lon": 139.705016,
+      "osm_id": 5488031022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fb3\u771f\u4f1aQUARTZ TOWER",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8007117,
-      "lon": -73.9661511,
-      "osm_id": 11873613000,
+      "lat": 35.6600905,
+      "lon": 139.7062394,
+      "osm_id": 6711164610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u4e8c\u4e01\u76ee",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6606507,
+      "lon": 139.70645,
+      "osm_id": 6939181498,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c372\u4e01\u76ee",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6606629,
+      "lon": 139.7064645,
+      "osm_id": 9429677694,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b7\u30a2\u30bf\u30fc\uff65\u30a4\u30e1\u30fc\u30b8\u30d5\u30a9\u30fc\u30e9\u30e0",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 35.6603034,
+      "lon": 139.7070219,
+      "osm_id": 9734075711,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u540d\u524d\u306e\u306a\u3044SPA",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 35.6597234,
+      "lon": 139.7045881,
+      "osm_id": 12265954501,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 54,
-    "removed_count": 29,
+    "original_poi_count": 67,
+    "removed_count": 36,
     "model": "gemini-2.5-flash"
   }
 }

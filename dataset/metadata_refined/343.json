@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/343.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.82612641717355,
+  "bbox": [
+    103.825,
+    1.3025045045045047,
+    103.8272528343471,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Before Tomlinson Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.30376,
+      "lon": 103.826712,
+      "osm_id": 410468224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 2,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

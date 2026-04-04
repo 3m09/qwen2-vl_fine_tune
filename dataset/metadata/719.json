@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/719.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.276200472319985,
+  "bbox": [
+    55.27495597539554,
+    25.192252252252253,
+    55.27744496924443,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "tourism.artwork",
+    "amenity.car_rental",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "amenity.car_rental": 1,
+    "amenity.restaurant": 3
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "The Meat Co.",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1944225,
+      "lon": 55.2761711,
+      "osm_id": 838297999,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Asado",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1938689,
+      "lon": 55.2760197,
+      "osm_id": 1412984502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rental Cars UAE - Dubai Mall",
+      "category": [
+        "amenity.car_rental"
+      ],
+      "lat": 25.1940695,
+      "lon": 55.2771568,
+      "osm_id": 5121975841,
+      "osm_type": "node",
+      "address": "Burj Khalifa, Dubai Mall, Downtown",
+      "road_geometry": null
+    },
+    {
+      "name": "Horse",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 25.1930186,
+      "lon": 55.2765535,
+      "osm_id": 10679988378,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arabeska Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1936625,
+      "lon": 55.2763977,
+      "osm_id": 12402816895,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,259 +1,1225 @@
 {
   "image": "dataset/images/41.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.94793129550999,
+  "center_lat": 51.51288288288289,
+  "center_lon": -0.08371483989261257,
   "bbox": [
-    -73.94941897278113,
-    40.80225225225225,
-    -73.94644361823885,
-    40.80450450450451
+    -0.08552430212676673,
+    51.51175675675677,
+    -0.08190537765845841,
+    51.51400900900902
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "railway.stop",
-    "amenity.bank",
-    "amenity.ice_cream",
-    "shop.bakery",
-    "shop.toys",
-    "shop.mobile_phone",
+    "shop.books",
     "amenity.restaurant",
+    "shop.gift",
+    "shop.deli",
+    "amenity.cafe",
+    "shop.photo",
+    "shop.supermarket",
+    "shop.hairdresser",
+    "shop.optician",
+    "shop.locksmith",
+    "shop.pawnbroker",
     "highway.bus_stop",
-    "amenity.animal_shelter",
-    "amenity.bicycle_rental",
-    "amenity.school",
-    "amenity.cafe"
+    "amenity.events_venue",
+    "shop.alcohol",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.stationery",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "amenity.pub",
+    "shop.variety_store",
+    "tourism.artwork",
+    "shop.bookmaker",
+    "shop.wine",
+    "amenity.doctors",
+    "shop.shoes",
+    "leisure.sports_centre",
+    "shop.department_store",
+    "shop.newsagent",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.dry_cleaning",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
+    "shop.books": 1,
+    "amenity.restaurant": 14,
+    "shop.gift": 2,
+    "shop.deli": 1,
+    "amenity.cafe": 5,
+    "shop.photo": 1,
     "shop.supermarket": 1,
-    "railway.stop": 1,
-    "amenity.bank": 3,
-    "amenity.ice_cream": 1,
-    "shop.bakery": 1,
-    "shop.toys": 1,
-    "shop.mobile_phone": 1,
-    "amenity.restaurant": 2,
-    "highway.bus_stop": 3,
-    "amenity.animal_shelter": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.school": 1,
-    "amenity.cafe": 1
+    "shop.hairdresser": 3,
+    "shop.optician": 2,
+    "shop.locksmith": 1,
+    "shop.pawnbroker": 1,
+    "highway.bus_stop": 5,
+    "amenity.events_venue": 1,
+    "shop.alcohol": 2,
+    "amenity.dentist": 1,
+    "amenity.fast_food": 14,
+    "tourism.hotel": 1,
+    "shop.stationery": 1,
+    "shop.clothes": 13,
+    "amenity.bureau_de_change": 1,
+    "amenity.pub": 4,
+    "shop.variety_store": 1,
+    "tourism.artwork": 3,
+    "shop.bookmaker": 1,
+    "shop.wine": 1,
+    "amenity.doctors": 2,
+    "shop.shoes": 2,
+    "leisure.sports_centre": 1,
+    "shop.department_store": 1,
+    "shop.newsagent": 1,
+    "amenity.bar": 4,
+    "amenity.bank": 1,
+    "shop.dry_cleaning": 1,
+    "shop.jewelry": 1
   },
-  "poi_count": 18,
+  "poi_count": 95,
   "pois": [
     {
-      "name": "Ristorante Settepani",
+      "name": "The New Moon",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5128537,
+      "lon": -0.0842485,
+      "osm_id": 295975604,
+      "osm_type": "node",
+      "address": "Gracechurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "PizzaExpress",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8043628,
-      "lon": -73.9476425,
-      "osm_id": 883337398,
+      "lat": 51.5127516,
+      "lon": -0.083609,
+      "osm_id": 369121154,
       "osm_type": "node",
-      "address": null,
+      "address": "Leadenhall Market",
       "road_geometry": null
     },
     {
-      "name": "Carver Federal Savings Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8024331,
-      "lon": -73.9490146,
-      "osm_id": 2714230679,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 116th Street",
+      "name": "Fenchurch Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8022874,
-      "lon": -73.94929,
-      "osm_id": 3273383623,
+      "lat": 51.5122502,
+      "lon": -0.0849754,
+      "osm_id": 469760420,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Public School 147",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8024876,
-      "lon": -73.9481015,
-      "osm_id": 3938132962,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "116th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8028357,
-      "lon": -73.9491422,
-      "osm_id": 4460385051,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem Animal Hospital",
-      "category": [
-        "amenity.animal_shelter"
-      ],
-      "lat": 40.8044039,
-      "lon": -73.9482728,
-      "osm_id": 5266904158,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Malcolm X Boulevard & West 119th Street",
+      "name": "Threadneedle Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8041191,
-      "lon": -73.9479544,
-      "osm_id": 5266905147,
+      "lat": 51.5138411,
+      "lon": -0.0838991,
+      "osm_id": 469774063,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Malcolm X Boulevard & West 119th Street",
+      "name": "St Mary Axe",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8036389,
-      "lon": -73.9487437,
-      "osm_id": 5266905490,
+      "lat": 51.5135215,
+      "lon": -0.082698,
+      "osm_id": 469781266,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Sugar Hill Creamery",
+      "name": "St Mary Axe",
       "category": [
-        "amenity.ice_cream"
+        "highway.bus_stop"
       ],
-      "lat": 40.8040727,
-      "lon": -73.9478588,
-      "osm_id": 5266906021,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Grandma's Place",
-      "category": [
-        "shop.toys"
-      ],
-      "lat": 40.8042822,
-      "lon": -73.9474319,
-      "osm_id": 5972704270,
-      "osm_type": "node",
-      "address": "West 120th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "La Sweets",
-      "category": [
-        "shop.bakery"
-      ],
-      "lat": 40.8042478,
-      "lon": -73.9477261,
-      "osm_id": 5972704885,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Wells Fargo",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8029195,
-      "lon": -73.9493836,
-      "osm_id": 5972704904,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "T-Mobile",
-      "category": [
-        "shop.mobile_phone"
-      ],
-      "lat": 40.8024052,
-      "lon": -73.9490379,
-      "osm_id": 6799248313,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Carver Federal Savings Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8024849,
-      "lon": -73.9489635,
-      "osm_id": 6863378285,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "L'encanto de Lola 2",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8039558,
-      "lon": -73.9486227,
-      "osm_id": 10969587131,
+      "lat": 51.5134381,
+      "lon": -0.0824137,
+      "osm_id": 469781267,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Fine Fare Supermarket ",
+      "name": "Bishopsgate",
       "category": [
-        "shop.supermarket"
+        "highway.bus_stop"
       ],
-      "lat": 40.8023211,
-      "lon": -73.9490789,
-      "osm_id": 11040269752,
-      "osm_type": "node",
-      "address": "Malcolm X Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Lenox Ave & W 117 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8025418,
-      "lon": -73.9490551,
-      "osm_id": 13226791515,
+      "lat": 51.5134486,
+      "lon": -0.0849933,
+      "osm_id": 469786574,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Kaafi",
+      "name": "City Slickers",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 51.5122296,
+      "lon": -0.0824945,
+      "osm_id": 471488483,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120298,
+      "lon": -0.0820738,
+      "osm_id": 471488490,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Coral",
+      "category": [
+        "shop.bookmaker"
+      ],
+      "lat": 51.511819,
+      "lon": -0.0820322,
+      "osm_id": 471488491,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Claudio's",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8038597,
-      "lon": -73.9487211,
-      "osm_id": 13541547191,
+      "lat": 51.5117851,
+      "lon": -0.0820271,
+      "osm_id": 471488492,
       "osm_type": "node",
-      "address": "Malcolm X Boulevard",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gaucho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5127258,
+      "lon": -0.0852031,
+      "osm_id": 692162500,
+      "osm_type": "node",
+      "address": "Bell Inn Yard",
+      "road_geometry": null
+    },
+    {
+      "name": "Amazon Fresh",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 51.5125242,
+      "lon": -0.0848775,
+      "osm_id": 692162503,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Club Quarters",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 51.5127056,
+      "lon": -0.0849374,
+      "osm_id": 692162507,
+      "osm_type": "node",
+      "address": "Gracechurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "We Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5125079,
+      "lon": -0.0831888,
+      "osm_id": 692162524,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "La Tasca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5127036,
+      "lon": -0.0832797,
+      "osm_id": 692162534,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Lamb Tavern",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5128384,
+      "lon": -0.0832871,
+      "osm_id": 692162535,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Reiss",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5127285,
+      "lon": -0.0834079,
+      "osm_id": 692162537,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beau Gems",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5126307,
+      "lon": -0.0830471,
+      "osm_id": 692162540,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Osteria del Mercato",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5127807,
+      "lon": -0.0833059,
+      "osm_id": 692162550,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Cards Galore",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5127449,
+      "lon": -0.0832147,
+      "osm_id": 692162553,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Waterstones",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 51.5129756,
+      "lon": -0.0832909,
+      "osm_id": 692162564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grace Hall",
+      "category": [
+        "amenity.events_venue"
+      ],
+      "lat": 51.5135099,
+      "lon": -0.0832315,
+      "osm_id": 692162587,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Chamberlain's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5126115,
+      "lon": -0.0836564,
+      "osm_id": 708866091,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Giorgio",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5121986,
+      "lon": -0.083673,
+      "osm_id": 710474270,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Amathus",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5128075,
+      "lon": -0.0839577,
+      "osm_id": 796929017,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Corney & Barrow",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5126831,
+      "lon": -0.0827842,
+      "osm_id": 796931869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tortilla",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5126506,
+      "lon": -0.0831657,
+      "osm_id": 1446080708,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "TK Maxx",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 51.5117968,
+      "lon": -0.0854771,
+      "osm_id": 1569215828,
+      "osm_type": "node",
+      "address": "Gracechurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Posh Pawn",
+      "category": [
+        "shop.pawnbroker"
+      ],
+      "lat": 51.5130765,
+      "lon": -0.0844276,
+      "osm_id": 1678245223,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Poncho 8",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120722,
+      "lon": -0.0824273,
+      "osm_id": 2541065237,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Stone",
+      "category": [
+        "leisure.sports_centre"
+      ],
+      "lat": 51.5133316,
+      "lon": -0.0849272,
+      "osm_id": 2793892926,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Pod",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5128315,
+      "lon": -0.0845788,
+      "osm_id": 2793892943,
+      "osm_type": "node",
+      "address": "Gracechurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Adam",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5134334,
+      "lon": -0.0854419,
+      "osm_id": 2793904916,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "Nando's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5120075,
+      "lon": -0.0834784,
+      "osm_id": 2967342477,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Roderick Charles",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5124442,
+      "lon": -0.0825558,
+      "osm_id": 2967342478,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Barcelona",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.511838,
+      "lon": -0.0835891,
+      "osm_id": 2967342480,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hawes & Curtis",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5117577,
+      "lon": -0.083603,
+      "osm_id": 2967342481,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Vital Ingredient",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.511876,
+      "lon": -0.0822405,
+      "osm_id": 3147137124,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Curators Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5120791,
+      "lon": -0.0825066,
+      "osm_id": 3147137125,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Blades",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5120649,
+      "lon": -0.082346,
+      "osm_id": 3147137126,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Earls",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120598,
+      "lon": -0.0822819,
+      "osm_id": 3147137127,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Temples",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5119533,
+      "lon": -0.0824914,
+      "osm_id": 3147324127,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "McCann Bespoke",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5121061,
+      "lon": -0.08269,
+      "osm_id": 3147324128,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c8sclot",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5123114,
+      "lon": -0.0829052,
+      "osm_id": 3328182092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles Tyrwhitt",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5123391,
+      "lon": -0.0827893,
+      "osm_id": 3328183693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joseph Cheaney & Sons",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5123874,
+      "lon": -0.0826497,
+      "osm_id": 3329612221,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Loake Shoemakers",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 51.5120454,
+      "lon": -0.0833906,
+      "osm_id": 3333896730,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Smile Pod",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5119611,
+      "lon": -0.082585,
+      "osm_id": 4402594984,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Shirts & Ties Venice",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5119862,
+      "lon": -0.0827756,
+      "osm_id": 4402594985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Solo Homo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5118902,
+      "lon": -0.082041,
+      "osm_id": 4402602484,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jeffery West",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 51.5119754,
+      "lon": -0.0826828,
+      "osm_id": 4402602533,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bolton's Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5120426,
+      "lon": -0.0829876,
+      "osm_id": 4402602706,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Factory Store",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.512506,
+      "lon": -0.0826806,
+      "osm_id": 4404528131,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oliver Brown",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5135146,
+      "lon": -0.0847535,
+      "osm_id": 4534328536,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "City Forex",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 51.5135131,
+      "lon": -0.0831718,
+      "osm_id": 4552494180,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Butcher",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129085,
+      "lon": -0.0837349,
+      "osm_id": 4566426324,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "The Pen Shop",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 51.5128824,
+      "lon": -0.0835762,
+      "osm_id": 4566427235,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brokers",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5129047,
+      "lon": -0.0835323,
+      "osm_id": 4566427252,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Barbour",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5126022,
+      "lon": -0.0834782,
+      "osm_id": 4566430653,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Regis Snack Bar",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5126186,
+      "lon": -0.0829603,
+      "osm_id": 4566432251,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Hobbs",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5124746,
+      "lon": -0.0834889,
+      "osm_id": 4566433452,
+      "osm_type": "node",
+      "address": "Lime Street Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Snappy Snaps",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 51.5125324,
+      "lon": -0.0836957,
+      "osm_id": 4566475410,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bibimbap",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5124419,
+      "lon": -0.083746,
+      "osm_id": 4566488874,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Knots & Socks",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5125121,
+      "lon": -0.0837893,
+      "osm_id": 4566874103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Glass House",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5125556,
+      "lon": -0.0840255,
+      "osm_id": 4566889578,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bangalore Express",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5129237,
+      "lon": -0.0850193,
+      "osm_id": 4584951680,
+      "osm_type": "node",
+      "address": "Corbet Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Wasabi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5118044,
+      "lon": -0.0839259,
+      "osm_id": 4802012330,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Lloyd's Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.5126694,
+      "lon": -0.0823281,
+      "osm_id": 5051453441,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coco di Mama",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5120916,
+      "lon": -0.0836395,
+      "osm_id": 5051453728,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Gino d'Acampo",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 51.5122674,
+      "lon": -0.083482,
+      "osm_id": 5333988441,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Timpson",
+      "category": [
+        "shop.locksmith"
+      ],
+      "lat": 51.5122984,
+      "lon": -0.083503,
+      "osm_id": 5333988909,
+      "osm_type": "node",
+      "address": "Lime Street Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Flying Tiger Copenhagen",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 51.5123625,
+      "lon": -0.0835404,
+      "osm_id": 5333989372,
+      "osm_type": "node",
+      "address": "Lime Street Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Kandies",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": 51.5123184,
+      "lon": -0.0837504,
+      "osm_id": 5335199669,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Hawkes & Wainer",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5122188,
+      "lon": -0.0838082,
+      "osm_id": 5335199670,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pilpel",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5121801,
+      "lon": -0.0840874,
+      "osm_id": 5335199671,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Chequers Hair and Beauty Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5122791,
+      "lon": -0.0840075,
+      "osm_id": 5335199672,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rocca",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5122664,
+      "lon": -0.0837451,
+      "osm_id": 5335200242,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Badolina",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5122026,
+      "lon": -0.0839984,
+      "osm_id": 5335200244,
+      "osm_type": "node",
+      "address": "Lime Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Good Yard",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5123368,
+      "lon": -0.0838095,
+      "osm_id": 5344789323,
+      "osm_type": "node",
+      "address": "Bull's Head Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "One Under Lime",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5129709,
+      "lon": -0.0828055,
+      "osm_id": 5641663540,
+      "osm_type": "node",
+      "address": "Leadenhall Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Series Industrial Windows 1",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5120818,
+      "lon": -0.0829023,
+      "osm_id": 5767987409,
+      "osm_type": "node",
+      "address": "Cullum Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Numen (Shifting Votive One & Two)",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5137545,
+      "lon": -0.0820782,
+      "osm_id": 5767987410,
+      "osm_type": "node",
+      "address": "Leadenhall Street",
+      "road_geometry": null
+    },
+    {
+      "name": "I'M STAYING",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5125689,
+      "lon": -0.0836145,
+      "osm_id": 5768339815,
+      "osm_type": "node",
+      "address": "Lime Street Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Old Toms Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5128774,
+      "lon": -0.0833484,
+      "osm_id": 6558486186,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Planet Of The Grapes",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 51.5124465,
+      "lon": -0.0841503,
+      "osm_id": 12142316544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boom Bap Burger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5126485,
+      "lon": -0.0832616,
+      "osm_id": 12340014904,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "The London Migraine Clinic",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5125178,
+      "lon": -0.0841346,
+      "osm_id": 12866448579,
+      "osm_type": "node",
+      "address": "Bull's Head Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Askinology",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.512579,
+      "lon": -0.0828927,
+      "osm_id": 12866448580,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Goose",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5127425,
+      "lon": -0.0830857,
+      "osm_id": 12877542100,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
+      "road_geometry": null
+    },
+    {
+      "name": "Argentina Grill",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5125084,
+      "lon": -0.0837094,
+      "osm_id": 12892590664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baba Ganoush",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5124773,
+      "lon": -0.08373,
+      "osm_id": 12892590665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Corner Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5135196,
+      "lon": -0.0837609,
+      "osm_id": 13033494671,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Shanghai Commercial Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5135197,
+      "lon": -0.0846422,
+      "osm_id": 13035061967,
+      "osm_type": "node",
+      "address": "Cornhill",
+      "road_geometry": null
+    },
+    {
+      "name": "MRBL",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5126506,
+      "lon": -0.083647,
+      "osm_id": 13665282779,
+      "osm_type": "node",
+      "address": "Leadenhall Market",
       "road_geometry": null
     }
   ]

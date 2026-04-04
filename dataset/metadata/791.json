@@ -1,0 +1,96 @@
+{
+  "image": "dataset/images/791.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.9568558950729,
+  "bbox": [
+    -73.958343622829,
+    40.80450450450451,
+    -73.95536816731679,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "shop.hairdresser",
+    "highway.bus_stop",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "shop.hairdresser": 1,
+    "highway.bus_stop": 4,
+    "shop.convenience": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Sunny Deli & Grill",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8049571,
+      "lon": -73.9570766,
+      "osm_id": 2762571608,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Carissa's Beauty Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8050043,
+      "lon": -73.957175,
+      "osm_id": 2762571610,
+      "osm_type": "node",
+      "address": "West 116th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 119th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.806715,
+      "lon": -73.9556855,
+      "osm_id": 5263699275,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8048215,
+      "lon": -73.9568783,
+      "osm_id": 5972709376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.805303,
+      "lon": -73.9565277,
+      "osm_id": 5972709472,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Manhattan Avenue & West 116th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8047569,
+      "lon": -73.9571289,
+      "osm_id": 5972709799,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

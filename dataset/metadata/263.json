@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/263.png",
+  "center_lat": -23.568873873873873,
+  "center_lon": -46.66131411657281,
+  "bbox": [
+    -46.662542744381874,
+    -23.57,
+    -46.66008548876375,
+    -23.56774774774775
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "leisure.fitness_centre",
+    "amenity.doctors"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "leisure.fitness_centre": 1,
+    "amenity.doctors": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Estados Unidos B/C",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5699068,
+      "lon": -46.6617937,
+      "osm_id": 7344926820,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Top Form Academia",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": -23.5678637,
+      "lon": -46.6620233,
+      "osm_id": 10273923729,
+      "osm_type": "node",
+      "address": "Alameda Casa Branca",
+      "road_geometry": null
+    },
+    {
+      "name": "MedVita S\u00e3o Paulo",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": -23.5690197,
+      "lon": -46.6612566,
+      "osm_id": 12070411402,
+      "osm_type": "node",
+      "address": "Avenida Nove de Julho",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "image": "dataset/images/417.png",
+  "center_lat": 22.28288288288288,
+  "center_lon": 114.17338698712862,
+  "bbox": [
+    114.17216998829875,
+    22.281756756756753,
+    114.1746039859585,
+    22.284009009009004
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.ticket"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 4,
+    "shop.ticket": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u7063\u4ed4 (\u6703\u5c55\u65b0\u7ffc) Wan Chai (HKCEC Extension)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2839572,
+      "lon": 114.1742375,
+      "osm_id": 290330442,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u6703\u5c55\u5df4\u58eb\u7e3d\u7ad9 Wan Chai (HKCEC) Bus Terminus",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2840008,
+      "lon": 114.1741806,
+      "osm_id": 4539759202,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6703\u8b70\u9053 Convention Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2826948,
+      "lon": 114.1743174,
+      "osm_id": 4605721727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6703\u8b70\u9053 Convention Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2828636,
+      "lon": 114.1743079,
+      "osm_id": 4605729163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f8d\u73e0\u904a\u8239\u78bc\u982d",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 22.2838762,
+      "lon": 114.1743235,
+      "osm_id": 4770871621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

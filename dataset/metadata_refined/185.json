@@ -1,165 +1,61 @@
 {
   "image": "dataset/images/185.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.94792069066119,
+  "center_lat": 31.23337837837838,
+  "center_lon": 121.49921896408758,
   "bbox": [
-    -73.94940867092801,
-    40.81576576576578,
-    -73.94643271039436,
-    40.81801801801804
+    121.49790196921792,
+    31.232252252252252,
+    121.50053595895723,
+    31.234504504504503
   ],
   "unique_categories": [
-    "amenity.bank",
-    "shop.dry_cleaning",
-    "highway.bus_stop",
-    "amenity.school",
-    "amenity.restaurant"
+    "highway.bus_stop"
   ],
   "poi_count_per_category": {
-    "amenity.bank": 1,
-    "shop.dry_cleaning": 1,
-    "highway.bus_stop": 5,
-    "amenity.school": 2,
-    "amenity.restaurant": 2
+    "highway.bus_stop": 3
   },
-  "poi_count": 11,
+  "poi_count": 3,
   "pois": [
     {
-      "name": "Junior High School 136",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8173228,
-      "lon": -73.9470821,
-      "osm_id": 357567260,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Bread and Roses Integrated Arts High School",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8172558,
-      "lon": -73.947496,
-      "osm_id": 357621301,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Ima's Dry Cleaning",
-      "category": [
-        "shop.dry_cleaning"
-      ],
-      "lat": 40.8167752,
-      "lon": -73.9465861,
-      "osm_id": 3545220718,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "West 135th Street & Saint Nicholas Avenue",
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8167883,
-      "lon": -73.947612,
-      "osm_id": 5235600932,
+      "lat": 31.2325045,
+      "lon": 121.4996642,
+      "osm_id": 10302136238,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 135th Street & Saint Nicholas Avenue",
+      "name": "\u9646\u5bb6\u5634\u73af\u8def\u94f6\u57ce\u4e2d\u8def",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.817109,
-      "lon": -73.9477561,
-      "osm_id": 5235601066,
+      "lat": 31.234431,
+      "lon": 121.499168,
+      "osm_id": 10302173137,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 135th Street & Frederick Douglass Boulevard",
+      "name": "\u4e1c\u660c\u8def\u6e21\u53e3",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8167171,
-      "lon": -73.9468213,
-      "osm_id": 5235602053,
+      "lat": 31.2323875,
+      "lon": 121.4991948,
+      "osm_id": 12025294838,
       "osm_type": "node",
       "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "A Taste of Seafood",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8162289,
-      "lon": -73.9465284,
-      "osm_id": 5235602684,
-      "osm_type": "node",
-      "address": "Frederick Douglas Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Frederick Douglass Boulevard & West 135th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8162822,
-      "lon": -73.9468446,
-      "osm_id": 5235603193,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Chase",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8163761,
-      "lon": -73.9469041,
-      "osm_id": 5235604703,
-      "osm_type": "node",
-      "address": "Frederick Douglas Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Saint Nicholas Avenue & West 135th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8172787,
-      "lon": -73.9480455,
-      "osm_id": 5274250255,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Jaahlookova",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8168689,
-      "lon": -73.9465164,
-      "osm_id": 6511840938,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 17,
-    "removed_count": 6,
+    "original_poi_count": 3,
+    "removed_count": 0,
     "model": "gemini-2.5-flash"
   }
 }

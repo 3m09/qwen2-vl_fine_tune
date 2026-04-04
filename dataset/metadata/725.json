@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/725.png",
+  "center_lat": 25.19563063063063,
+  "center_lon": 55.26873355981355,
+  "bbox": [
+    55.2674890398757,
+    25.194504504504504,
+    55.2699780797514,
+    25.196756756756756
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.atm",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.atm": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Tche-Tche",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1963209,
+      "lon": 55.2695703,
+      "osm_id": 7218732867,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Commercial Bank of Dubai CBD ATM",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 25.195071,
+      "lon": 55.2699672,
+      "osm_id": 9633201081,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Careem Bike",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 25.1959728,
+      "lon": 55.2697134,
+      "osm_id": 11355905447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

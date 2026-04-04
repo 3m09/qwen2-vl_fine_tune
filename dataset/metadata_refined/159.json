@@ -1,37 +1,79 @@
 {
   "image": "dataset/images/159.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.95387417765004,
+  "center_lat": 18.943648648648644,
+  "center_lon": 72.82857181086598,
   "bbox": [
-    -73.95536210740326,
-    40.81351351351353,
-    -73.95238624789681,
-    40.81576576576578
+    72.82738120724399,
+    18.942522522522516,
+    72.82976241448797,
+    18.944774774774768
   ],
   "unique_categories": [
-    "amenity.school"
+    "tourism.hotel",
+    "amenity.fast_food",
+    "amenity.library",
+    "amenity.parking"
   ],
   "poi_count_per_category": {
-    "amenity.school": 1
+    "tourism.hotel": 1,
+    "amenity.fast_food": 1,
+    "amenity.library": 1,
+    "amenity.parking": 1
   },
-  "poi_count": 1,
+  "poi_count": 4,
   "pois": [
     {
-      "name": "Academy for Social Action: A College Board School (M367)",
+      "name": "Great Punjab Hotel",
       "category": [
-        "amenity.school"
+        "tourism.hotel"
       ],
-      "lat": 40.8152265,
-      "lon": -73.9542041,
-      "osm_id": 357631909,
+      "lat": 18.9440303,
+      "lon": 72.829059,
+      "osm_id": 485966125,
       "osm_type": "node",
-      "address": "West 129th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Metro BIG Cinema",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 18.9429658,
+      "lon": 72.8288401,
+      "osm_id": 605221364,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rajdhani",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.9429607,
+      "lon": 72.8291513,
+      "osm_id": 605222674,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The People's Free Reading Room & Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 18.9436588,
+      "lon": 72.8285931,
+      "osm_id": 6335029685,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 1,
+    "original_poi_count": 8,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

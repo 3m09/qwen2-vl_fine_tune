@@ -1,15 +1,86 @@
 {
   "image": "dataset/images/153.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.97172933468873,
+  "center_lat": 18.941396396396392,
+  "center_lon": 72.83095293780258,
   "bbox": [
-    -73.97321726444196,
-    40.81351351351353,
-    -73.9702414049355,
-    40.81576576576578
+    72.82976235024206,
+    18.940270270270265,
+    72.8321435253631,
+    18.942522522522516
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "railway.station",
+    "railway.stop",
+    "shop.travel_agency"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "railway.station": 1,
+    "railway.stop": 2,
+    "shop.travel_agency": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Kadamba Transport Corporation",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9424345,
+      "lon": 72.8311921,
+      "osm_id": 3413851445,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.940795,
+      "lon": 72.8318243,
+      "osm_id": 5777542365,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9408731,
+      "lon": 72.8319001,
+      "osm_id": 13207029321,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.9408329,
+      "lon": 72.831861,
+      "osm_id": 13207029322,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ahar Restaurant & Cafe",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9415152,
+      "lon": 72.832065,
+      "osm_id": 13700581244,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

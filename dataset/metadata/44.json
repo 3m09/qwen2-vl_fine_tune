@@ -1,161 +1,593 @@
 {
   "image": "dataset/images/44.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.93900523188313,
+  "center_lat": 51.51513513513515,
+  "center_lon": -0.09819044830151691,
   "bbox": [
-    -73.94049290915427,
-    40.80225225225225,
-    -73.93751755461199,
-    40.80450450450451
+    -0.1,
+    51.51400900900902,
+    -0.0963808966030338,
+    51.51626126126128
   ],
   "unique_categories": [
-    "amenity.pharmacy",
-    "amenity.fast_food",
     "amenity.restaurant",
-    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "shop.optician",
+    "shop.hairdresser",
     "amenity.bicycle_rental",
-    "railway.stop"
+    "railway.subway_entrance",
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.events_venue",
+    "amenity.post_box",
+    "shop.alcohol",
+    "amenity.clock",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "shop.clothes",
+    "amenity.pub",
+    "tourism.artwork",
+    "shop.outdoor",
+    "amenity.pharmacy",
+    "shop.bakery",
+    "amenity.bar",
+    "amenity.bank"
   ],
   "poi_count_per_category": {
-    "amenity.pharmacy": 1,
-    "amenity.fast_food": 2,
-    "amenity.restaurant": 1,
-    "highway.bus_stop": 1,
+    "amenity.restaurant": 3,
+    "amenity.cafe": 3,
+    "railway.stop": 2,
+    "railway.station": 1,
+    "shop.optician": 1,
+    "shop.hairdresser": 1,
     "amenity.bicycle_rental": 1,
-    "railway.stop": 5
+    "railway.subway_entrance": 3,
+    "shop.convenience": 2,
+    "highway.bus_stop": 5,
+    "amenity.events_venue": 1,
+    "amenity.post_box": 1,
+    "shop.alcohol": 1,
+    "amenity.clock": 1,
+    "amenity.fast_food": 4,
+    "amenity.clinic": 1,
+    "shop.clothes": 1,
+    "amenity.pub": 1,
+    "tourism.artwork": 5,
+    "shop.outdoor": 1,
+    "amenity.pharmacy": 1,
+    "shop.bakery": 1,
+    "amenity.bar": 2,
+    "amenity.bank": 1
   },
-  "poi_count": 11,
+  "poi_count": 44,
   "pois": [
     {
-      "name": "Harlem\u2013125th Street",
+      "name": "The Saint",
       "category": [
-        "railway.stop"
+        "amenity.bar"
       ],
-      "lat": 40.8041896,
-      "lon": -73.9397048,
-      "osm_id": 596775762,
+      "lat": 51.5150736,
+      "lon": -0.0997325,
+      "osm_id": 21693791,
       "osm_type": "node",
-      "address": null,
+      "address": "Rose Steet",
       "road_geometry": null
     },
     {
-      "name": "Harlem\u2013125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8042256,
-      "lon": -73.9397951,
-      "osm_id": 1912138232,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Popeyes",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8044651,
-      "lon": -73.9380441,
-      "osm_id": 3661038129,
-      "osm_type": "node",
-      "address": "East 125 Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Lexington Avenue & East 124th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8038265,
-      "lon": -73.9379289,
-      "osm_id": 5172779264,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "The Famous Jimbo's Hamburgers Palace",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8035129,
-      "lon": -73.9378803,
-      "osm_id": 5972697424,
-      "osm_type": "node",
-      "address": "Lexington Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Dallas Chicken & Biscuits",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8035481,
-      "lon": -73.9378506,
-      "osm_id": 5972697822,
-      "osm_type": "node",
-      "address": "Lexington Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Harlem\u2013125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8041742,
-      "lon": -73.9396617,
-      "osm_id": 7100222071,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.8037293,
-      "lon": -73.9378451,
-      "osm_id": 7630334244,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.stop"
-      ],
-      "lat": 40.803762,
-      "lon": -73.9379235,
-      "osm_id": 7630334247,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lexington Avenue Pharmacy",
+      "name": "Superdrug",
       "category": [
         "amenity.pharmacy"
       ],
-      "lat": 40.8040936,
-      "lon": -73.9378101,
-      "osm_id": 9726158587,
+      "lat": 51.5145339,
+      "lon": -0.0981903,
+      "osm_id": 255396266,
       "osm_type": "node",
-      "address": "Lexington Avenue",
+      "address": "St. Paul's Churchyard",
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - E 123 St & Lexington Ave",
+      "name": "The Paternoster",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5150683,
+      "lon": -0.0983225,
+      "osm_id": 316763478,
+      "osm_type": "node",
+      "address": "Queens Head Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5152356,
+      "lon": -0.0984732,
+      "osm_id": 441966148,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King Edward Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5157403,
+      "lon": -0.0999169,
+      "osm_id": 469761239,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5150449,
+      "lon": -0.0978521,
+      "osm_id": 469761241,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.515543,
+      "lon": -0.0970327,
+      "osm_id": 469761242,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Angel Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5161403,
+      "lon": -0.0975379,
+      "osm_id": 469762729,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Go Outdoors Express",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 51.5141942,
+      "lon": -0.0997143,
+      "osm_id": 488443291,
+      "osm_type": "node",
+      "address": "Saint Paul's Church Yard",
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5149324,
+      "lon": -0.0977564,
+      "osm_id": 534907516,
+      "osm_type": "node",
+      "address": "Newgate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Newgate Street",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8029276,
-      "lon": -73.9379092,
-      "osm_id": 13243877773,
+      "lat": 51.5154128,
+      "lon": -0.0988718,
+      "osm_id": 859317501,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paternoster Chop House",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5145763,
+      "lon": -0.0996723,
+      "osm_id": 1163954998,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Shepherd and Sheep",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146457,
+      "lon": -0.0989129,
+      "osm_id": 1163955043,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Paul's Cross",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5142318,
+      "lon": -0.0976987,
+      "osm_id": 1163955070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5155459,
+      "lon": -0.0991304,
+      "osm_id": 1637578467,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5149482,
+      "lon": -0.0976011,
+      "osm_id": 1649365732,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Haz St Paul's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5151325,
+      "lon": -0.0965337,
+      "osm_id": 1830558949,
+      "osm_type": "node",
+      "address": "Foster Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Joy",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5145632,
+      "lon": -0.0979581,
+      "osm_id": 2288601864,
+      "osm_type": "node",
+      "address": "Paternoster Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Newgate Street Clock",
+      "category": [
+        "amenity.clock"
+      ],
+      "lat": 51.5155404,
+      "lon": -0.0990006,
+      "osm_id": 2398924840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5154842,
+      "lon": -0.0991571,
+      "osm_id": 2761481019,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CREATE Fertility",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 51.514924,
+      "lon": -0.0969288,
+      "osm_id": 3227939099,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "Notes",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5143931,
+      "lon": -0.0985154,
+      "osm_id": 3340674786,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Paul",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5142527,
+      "lon": -0.0993329,
+      "osm_id": 3340683302,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Dion",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5144559,
+      "lon": -0.0977899,
+      "osm_id": 3340684901,
+      "osm_type": "node",
+      "address": "St. Paul's Churchyard",
+      "road_geometry": null
+    },
+    {
+      "name": "Tesco Express",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.515233,
+      "lon": -0.0970086,
+      "osm_id": 3356875069,
+      "osm_type": "node",
+      "address": "St. Martin's Le Grand",
+      "road_geometry": null
+    },
+    {
+      "name": "Co-op Food",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5147619,
+      "lon": -0.0973304,
+      "osm_id": 3356884658,
+      "osm_type": "node",
+      "address": "Cheapside",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5147687,
+      "lon": -0.0978044,
+      "osm_id": 4231921521,
+      "osm_type": "node",
+      "address": "Paternoster Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Birley",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5146786,
+      "lon": -0.0998232,
+      "osm_id": 4260079401,
+      "osm_type": "node",
+      "address": "Paternoster Square",
+      "road_geometry": null
+    },
+    {
+      "name": "The Penfold Postbox",
+      "category": [
+        "amenity.post_box"
+      ],
+      "lat": 51.5161156,
+      "lon": -0.0971396,
+      "osm_id": 4402475492,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "John Wesley",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5142402,
+      "lon": -0.0985689,
+      "osm_id": 4686831452,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Goldman Sachs",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5152546,
+      "lon": -0.0997738,
+      "osm_id": 5006742548,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boots Opticians",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5147569,
+      "lon": -0.0982032,
+      "osm_id": 5028504176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "artistic bench",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5146885,
+      "lon": -0.0966928,
+      "osm_id": 5353112531,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5149144,
+      "lon": -0.0975883,
+      "osm_id": 5475675298,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5149649,
+      "lon": -0.0970955,
+      "osm_id": 5475684862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St. Paul's",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5150872,
+      "lon": -0.0971399,
+      "osm_id": 5475684864,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coco di Mama",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5151179,
+      "lon": -0.0970201,
+      "osm_id": 6875761530,
+      "osm_type": "node",
+      "address": "St. Martin's Le Grand",
+      "road_geometry": null
+    },
+    {
+      "name": "rolled",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.51519,
+      "lon": -0.0970151,
+      "osm_id": 6875761531,
+      "osm_type": "node",
+      "address": "St. Martin's Le Grand",
+      "road_geometry": null
+    },
+    {
+      "name": "Poncho 8",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5148625,
+      "lon": -0.0986188,
+      "osm_id": 7617755231,
+      "osm_type": "node",
+      "address": "Queens Head Passage",
+      "road_geometry": null
+    },
+    {
+      "name": "Christ's Hospital",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5157372,
+      "lon": -0.0988741,
+      "osm_id": 11795229277,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ADAM",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5145079,
+      "lon": -0.0984932,
+      "osm_id": 12167953417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Whisky Shop",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5148954,
+      "lon": -0.0986078,
+      "osm_id": 12167960780,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "pilpel",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5149593,
+      "lon": -0.0986129,
+      "osm_id": 12167960781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Convene Sancroft St. Paul's",
+      "category": [
+        "amenity.events_venue"
+      ],
+      "lat": 51.5153586,
+      "lon": -0.0998608,
+      "osm_id": 12558556101,
+      "osm_type": "node",
+      "address": "Rose Steet",
       "road_geometry": null
     }
   ]

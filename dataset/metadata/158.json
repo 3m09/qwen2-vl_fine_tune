@@ -1,361 +1,85 @@
 {
   "image": "dataset/images/158.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.95685003715649,
+  "center_lat": 18.943648648648644,
+  "center_lon": 72.826190603622,
   "bbox": [
-    -73.95833796690971,
-    40.81351351351353,
-    -73.95536210740326,
-    40.81576576576578
+    72.825,
+    18.942522522522516,
+    72.82738120724399,
+    18.944774774774768
   ],
   "unique_categories": [
-    "shop.supermarket",
-    "railway.station",
-    "amenity.bank",
-    "amenity.clinic",
-    "amenity.pharmacy",
-    "amenity.fast_food",
-    "amenity.community_centre",
-    "amenity.money_transfer",
-    "highway.bus_stop",
-    "amenity.cafe",
-    "amenity.restaurant",
-    "shop.alcohol",
-    "amenity.childcare",
-    "amenity.school",
     "amenity.place_of_worship",
-    "shop.convenience"
+    "amenity.pharmacy",
+    "shop.bakery",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
-    "railway.station": 1,
-    "amenity.bank": 2,
-    "amenity.clinic": 1,
-    "amenity.pharmacy": 2,
-    "amenity.fast_food": 3,
-    "amenity.community_centre": 1,
-    "amenity.money_transfer": 1,
-    "highway.bus_stop": 4,
-    "amenity.cafe": 1,
-    "amenity.restaurant": 2,
-    "shop.alcohol": 1,
-    "amenity.childcare": 1,
-    "amenity.school": 3,
-    "amenity.place_of_worship": 1,
-    "shop.convenience": 1
+    "amenity.place_of_worship": 2,
+    "amenity.pharmacy": 1,
+    "shop.bakery": 1,
+    "amenity.restaurant": 1
   },
-  "poi_count": 26,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "The Urban Assembly Institute for New Technologies (M410)",
+      "name": "Bobby's",
       "category": [
-        "amenity.school"
+        "amenity.pharmacy"
       ],
-      "lat": 40.8156522,
-      "lon": -73.9558478,
-      "osm_id": 357621407,
-      "osm_type": "node",
-      "address": "West 129th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Speyer School (Historic Site)",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8144703,
-      "lon": -73.9562333,
-      "osm_id": 357624515,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "125th Street",
-      "category": [
-        "railway.station"
-      ],
-      "lat": 40.8157366,
-      "lon": -73.9582809,
-      "osm_id": 1638063666,
+      "lat": 18.9446858,
+      "lon": 72.8270162,
+      "osm_id": 605221678,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Empanadas Monumental",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8137873,
-      "lon": -73.9562105,
-      "osm_id": 2768392113,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "RiteCheck",
-      "category": [
-        "amenity.money_transfer"
-      ],
-      "lat": 40.8155844,
-      "lon": -73.9579278,
-      "osm_id": 2768392163,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "St. Mary's Center",
+      "name": "Our Lady of Seven Dolours",
       "category": [
         "amenity.place_of_worship"
       ],
-      "lat": 40.8144246,
-      "lon": -73.9563224,
-      "osm_id": 3222191717,
-      "osm_type": "node",
-      "address": "West 126th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Manhattan Community Board 9",
-      "category": [
-        "amenity.community_centre"
-      ],
-      "lat": 40.8155438,
-      "lon": -73.9572693,
-      "osm_id": 4922099536,
+      "lat": 18.9439146,
+      "lon": 72.8258253,
+      "osm_id": 605221860,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Junior High School 43",
+      "name": "Gol Masjid",
       "category": [
-        "amenity.school"
+        "amenity.place_of_worship"
       ],
-      "lat": 40.8157206,
-      "lon": -73.9554612,
-      "osm_id": 5319268727,
+      "lat": 18.9427438,
+      "lon": 72.8272693,
+      "osm_id": 605222669,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Red Olive Deli",
+      "name": "Paris Bakery",
       "category": [
-        "shop.convenience"
+        "shop.bakery"
       ],
-      "lat": 40.8154688,
-      "lon": -73.9578278,
-      "osm_id": 5399812753,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Amsterdam Avenue & West 125th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8136612,
-      "lon": -73.9559188,
-      "osm_id": 5402622147,
+      "lat": 18.9445101,
+      "lon": 72.8262529,
+      "osm_id": 1033530554,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 125th Street & Amsterdam Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8138451,
-      "lon": -73.9565034,
-      "osm_id": 5972713588,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "C-Town",
-      "category": [
-        "shop.supermarket"
-      ],
-      "lat": 40.8146913,
-      "lon": -73.9577661,
-      "osm_id": 7598923198,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Broadway",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8152555,
-      "lon": -73.9580743,
-      "osm_id": 8736432119,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Old Broadway",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8150994,
-      "lon": -73.9576052,
-      "osm_id": 8736432132,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Better Health Pharmacy",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8137475,
-      "lon": -73.9563324,
-      "osm_id": 10195646154,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Charm Thai Express",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8138643,
-      "lon": -73.9561495,
-      "osm_id": 10195646156,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Plowshares Coffee Roasters",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8137808,
-      "lon": -73.9557256,
-      "osm_id": 10798119179,
-      "osm_type": "node",
-      "address": "Amsterdam Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Subway",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8152329,
-      "lon": -73.9581647,
-      "osm_id": 10798127337,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Duane Reade",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8151027,
-      "lon": -73.9580489,
-      "osm_id": 11181174755,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Bank of America",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8152992,
-      "lon": -73.9582237,
-      "osm_id": 11772965583,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Island Grill",
+      "name": "Sassanian",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8151875,
-      "lon": -73.9581244,
-      "osm_id": 11772965584,
+      "lat": 18.9427789,
+      "lon": 72.8269322,
+      "osm_id": 9574698658,
       "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Lala Wine & Liquor",
-      "category": [
-        "shop.alcohol"
-      ],
-      "lat": 40.8150334,
-      "lon": -73.9579873,
-      "osm_id": 11772965585,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "City Prime Health",
-      "category": [
-        "amenity.clinic"
-      ],
-      "lat": 40.8153704,
-      "lon": -73.9577427,
-      "osm_id": 11772978388,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Chase",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8156413,
-      "lon": -73.957977,
-      "osm_id": 11772978389,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Antioch Day Care",
-      "category": [
-        "amenity.childcare"
-      ],
-      "lat": 40.8141712,
-      "lon": -73.9567035,
-      "osm_id": 12389252857,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Columbia Deli & Cafe",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.815329,
-      "lon": -73.9582622,
-      "osm_id": 13324400764,
-      "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     }
   ]

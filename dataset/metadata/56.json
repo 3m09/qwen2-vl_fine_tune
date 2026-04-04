@@ -1,15 +1,1213 @@
 {
   "image": "dataset/images/56.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.97470862814619,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.08009394708098852,
   "bbox": [
-    -73.97619635590229,
-    40.80450450450451,
-    -73.97322090039007,
-    40.80675675675676
+    -0.08190358825544411,
+    51.51626126126128,
+    -0.07828430590653293,
+    51.51851351351353
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "railway.site",
+    "shop.optician",
+    "shop.hairdresser",
+    "highway.bus_stop",
+    "shop.confectionery",
+    "shop.alcohol",
+    "railway.train_station_entrance",
+    "amenity.dentist",
+    "amenity.fast_food",
+    "amenity.photo_booth",
+    "shop.stationery",
+    "shop.clothes",
+    "leisure.fitness_centre",
+    "amenity.bureau_de_change",
+    "amenity.pub",
+    "tourism.artwork",
+    "shop.massage",
+    "amenity.shoe_shine",
+    "shop.wine",
+    "amenity.doctors",
+    "amenity.post_office",
+    "tourism.attraction",
+    "amenity.left_luggage",
+    "shop.beauty",
+    "amenity.construction",
+    "tourism.apartment",
+    "amenity.bar",
+    "amenity.bank",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 21,
+    "amenity.cafe": 5,
+    "railway.stop": 12,
+    "railway.station": 1,
+    "railway.site": 1,
+    "shop.optician": 1,
+    "shop.hairdresser": 3,
+    "highway.bus_stop": 4,
+    "shop.confectionery": 1,
+    "shop.alcohol": 1,
+    "railway.train_station_entrance": 1,
+    "amenity.dentist": 2,
+    "amenity.fast_food": 9,
+    "amenity.photo_booth": 1,
+    "shop.stationery": 2,
+    "shop.clothes": 2,
+    "leisure.fitness_centre": 2,
+    "amenity.bureau_de_change": 1,
+    "amenity.pub": 2,
+    "tourism.artwork": 1,
+    "shop.massage": 1,
+    "amenity.shoe_shine": 1,
+    "shop.wine": 1,
+    "amenity.doctors": 3,
+    "amenity.post_office": 1,
+    "tourism.attraction": 1,
+    "amenity.left_luggage": 1,
+    "shop.beauty": 1,
+    "amenity.construction": 1,
+    "tourism.apartment": 1,
+    "amenity.bar": 7,
+    "amenity.bank": 2,
+    "shop.jewelry": 1
+  },
+  "poi_count": 94,
+  "pois": [
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5174349,
+      "lon": -0.0806135,
+      "osm_id": 25477351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Bull",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.516962,
+      "lon": -0.0803573,
+      "osm_id": 302013654,
+      "osm_type": "node",
+      "address": "Devonshire Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Hamilton Hall",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5174006,
+      "lon": -0.0809601,
+      "osm_id": 366073245,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Subway",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5168332,
+      "lon": -0.0799452,
+      "osm_id": 377502618,
+      "osm_type": "node",
+      "address": "Devonshire Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5180772,
+      "lon": -0.0799586,
+      "osm_id": 469760988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5172636,
+      "lon": -0.0805711,
+      "osm_id": 469761435,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bishopsgate (East)",
+      "category": [
+        "railway.train_station_entrance"
+      ],
+      "lat": 51.5173672,
+      "lon": -0.080354,
+      "osm_id": 560720541,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West Cornwall Pasty Co.",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5175271,
+      "lon": -0.080849,
+      "osm_id": 567015764,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dirty Martini",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5171077,
+      "lon": -0.0805965,
+      "osm_id": 1039290554,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5178099,
+      "lon": -0.0807691,
+      "osm_id": 1271716489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5177601,
+      "lon": -0.0805319,
+      "osm_id": 1271716491,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5179412,
+      "lon": -0.081401,
+      "osm_id": 1271716494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5179917,
+      "lon": -0.0816517,
+      "osm_id": 1271716495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5180068,
+      "lon": -0.0817232,
+      "osm_id": 1271716497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5177975,
+      "lon": -0.0807268,
+      "osm_id": 1271716499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5180384,
+      "lon": -0.081894,
+      "osm_id": 1271716500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5179578,
+      "lon": -0.0814636,
+      "osm_id": 1271716501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Drift Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5162765,
+      "lon": -0.0808289,
+      "osm_id": 1695378571,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Eat Viet",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5169324,
+      "lon": -0.0802106,
+      "osm_id": 1695378709,
+      "osm_type": "node",
+      "address": "Devonshire Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Cross Rail",
+      "category": [
+        "railway.site"
+      ],
+      "lat": 51.5172234,
+      "lon": -0.081472,
+      "osm_id": 1796468731,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fitness First",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5169937,
+      "lon": -0.0787735,
+      "osm_id": 2914392296,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Appennino",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5164859,
+      "lon": -0.078969,
+      "osm_id": 2914392891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Specsavers",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 51.5173192,
+      "lon": -0.0800378,
+      "osm_id": 2914393692,
+      "osm_type": "node",
+      "address": "New Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Enoteca da Luca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.516441,
+      "lon": -0.0787985,
+      "osm_id": 2914399314,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Fish Market",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5171415,
+      "lon": -0.079769,
+      "osm_id": 2914561213,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "1901",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5173594,
+      "lon": -0.0816951,
+      "osm_id": 2917627044,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Eastway",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5173794,
+      "lon": -0.0817622,
+      "osm_id": 2917627045,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Champagne Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.517346,
+      "lon": -0.0808019,
+      "osm_id": 2917627046,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Catch Lounge",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5173227,
+      "lon": -0.0808609,
+      "osm_id": 2917627047,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Three Uncles",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5169075,
+      "lon": -0.0801505,
+      "osm_id": 2985830592,
+      "osm_type": "node",
+      "address": "Devonshire Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Cards Galore",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 51.5168188,
+      "lon": -0.0798728,
+      "osm_id": 3012160555,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anise",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5170285,
+      "lon": -0.0786661,
+      "osm_id": 3014236564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cinnamon Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5171424,
+      "lon": -0.078597,
+      "osm_id": 3014236565,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Devonshire Terrace",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5169755,
+      "lon": -0.0783952,
+      "osm_id": 3014236572,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Devonshire Barbers",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5168819,
+      "lon": -0.080056,
+      "osm_id": 3027177910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Street Wine Shop",
+      "category": [
+        "shop.wine"
+      ],
+      "lat": 51.5172594,
+      "lon": -0.0799068,
+      "osm_id": 3071846406,
+      "osm_type": "node",
+      "address": "New Street",
+      "road_geometry": null
+    },
+    {
+      "name": "New Street Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5170552,
+      "lon": -0.0794389,
+      "osm_id": 3086182493,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Ceylon",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5166221,
+      "lon": -0.0797444,
+      "osm_id": 3143555530,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shoe Shine",
+      "category": [
+        "amenity.shoe_shine"
+      ],
+      "lat": 51.5169137,
+      "lon": -0.078514,
+      "osm_id": 3186599410,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wasabi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5174337,
+      "lon": -0.0807033,
+      "osm_id": 3335140053,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Planet Organic",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5165414,
+      "lon": -0.0786865,
+      "osm_id": 3461553681,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Liverpool Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5178724,
+      "lon": -0.0799505,
+      "osm_id": 3507382907,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Honi Poke",
+      "category": [
+        "amenity.restaurant",
+        "shop.clothes"
+      ],
+      "lat": 51.518173,
+      "lon": -0.0802503,
+      "osm_id": 3636959726,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "JWD Lamian",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5182442,
+      "lon": -0.0802172,
+      "osm_id": 3636959727,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5182105,
+      "lon": -0.0814269,
+      "osm_id": 3637436408,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Five Guys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5178361,
+      "lon": -0.0798401,
+      "osm_id": 3735863288,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Talking Heads Hair Studio",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5176485,
+      "lon": -0.0801082,
+      "osm_id": 3735864420,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pure Periodontics",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.518176,
+      "lon": -0.0785455,
+      "osm_id": 3735864530,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Naniwa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5180574,
+      "lon": -0.0791882,
+      "osm_id": 3735867650,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Boisdale",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5179688,
+      "lon": -0.0792995,
+      "osm_id": 3735867878,
+      "osm_type": "node",
+      "address": "Bishopsgate",
+      "road_geometry": null
+    },
+    {
+      "name": "Toko Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 51.5176577,
+      "lon": -0.0810378,
+      "osm_id": 3794329185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Benito's Hat",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.517478,
+      "lon": -0.0808837,
+      "osm_id": 3794329186,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sweet Chariot",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 51.5175976,
+      "lon": -0.0810747,
+      "osm_id": 3794341943,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The English Wine & Spirits Company",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 51.5169401,
+      "lon": -0.0802938,
+      "osm_id": 3794341944,
+      "osm_type": "node",
+      "address": "Devonshire Row",
+      "road_geometry": null
+    },
+    {
+      "name": "Photobooth",
+      "category": [
+        "amenity.photo_booth"
+      ],
+      "lat": 51.5175,
+      "lon": -0.0807206,
+      "osm_id": 3794344634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fitness First",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5175023,
+      "lon": -0.0807859,
+      "osm_id": 3794345288,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Devonshire Row Hair",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5169372,
+      "lon": -0.0802824,
+      "osm_id": 3794345289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pan Pacific",
+      "category": [
+        "amenity.construction"
+      ],
+      "lat": 51.5165357,
+      "lon": -0.0805432,
+      "osm_id": 3985072936,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pitt Cue",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5163649,
+      "lon": -0.0782914,
+      "osm_id": 4061331068,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5176046,
+      "lon": -0.0808728,
+      "osm_id": 4118414598,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Left Luggage",
+      "category": [
+        "amenity.left_luggage"
+      ],
+      "lat": 51.5179691,
+      "lon": -0.0811961,
+      "osm_id": 4223940507,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Doddle",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 51.5175271,
+      "lon": -0.0808367,
+      "osm_id": 4281045108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Benugo",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5176333,
+      "lon": -0.0817231,
+      "osm_id": 4333851289,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Mayor of Scaredy Cat Town",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5183907,
+      "lon": -0.0786823,
+      "osm_id": 4475883290,
+      "osm_type": "node",
+      "address": "Artillery Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Old Bengal Bar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5169315,
+      "lon": -0.0791284,
+      "osm_id": 4520491034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mac and Wild",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.516899,
+      "lon": -0.0787171,
+      "osm_id": 4705711288,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "Franco Manca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5177431,
+      "lon": -0.07833,
+      "osm_id": 5206426138,
+      "osm_type": "node",
+      "address": "Middlesex Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Metro Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.5168074,
+      "lon": -0.0812842,
+      "osm_id": 5228581988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King Edgar",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5163994,
+      "lon": -0.0791932,
+      "osm_id": 5279739186,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Petticoat Lane Market",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.5179281,
+      "lon": -0.0790292,
+      "osm_id": 5520405422,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Greggs",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5176084,
+      "lon": -0.0817428,
+      "osm_id": 5767470563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moleskine",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 51.5175218,
+      "lon": -0.0813471,
+      "osm_id": 5767473654,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oliver Bonas",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5175701,
+      "lon": -0.0815774,
+      "osm_id": 5767474458,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5178392,
+      "lon": -0.0809326,
+      "osm_id": 6137852416,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5178528,
+      "lon": -0.0809937,
+      "osm_id": 6137852417,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5178868,
+      "lon": -0.0811457,
+      "osm_id": 6137852418,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Liverpool Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5179021,
+      "lon": -0.0812142,
+      "osm_id": 6137852419,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rake's Cafe Bar",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.517419,
+      "lon": -0.0807801,
+      "osm_id": 6445562551,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Street Greek",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5184305,
+      "lon": -0.0790288,
+      "osm_id": 7815143476,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Londoncryo",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5184009,
+      "lon": -0.078572,
+      "osm_id": 7815143513,
+      "osm_type": "node",
+      "address": "Artillery Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Longboys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.51716,
+      "lon": -0.0817986,
+      "osm_id": 8818118024,
+      "osm_type": "node",
+      "address": "Liverpool Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Thomas Exchange Global",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 51.5171058,
+      "lon": -0.0817376,
+      "osm_id": 8818128092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Luca",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5167675,
+      "lon": -0.079732,
+      "osm_id": 9240067517,
+      "osm_type": "node",
+      "address": "Devonshire Square",
+      "road_geometry": null
+    },
+    {
+      "name": "fusion medica",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5184554,
+      "lon": -0.078837,
+      "osm_id": 9691878117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beauty Springs Massage and Beauty",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 51.5180974,
+      "lon": -0.0793928,
+      "osm_id": 9692016318,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Truffle Burger",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5180985,
+      "lon": -0.0794328,
+      "osm_id": 9692016320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5168724,
+      "lon": -0.0807049,
+      "osm_id": 11359989172,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roti King",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5183819,
+      "lon": -0.0789866,
+      "osm_id": 12607702665,
+      "osm_type": "node",
+      "address": "Artillery Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Bupa Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 51.5168825,
+      "lon": -0.0795691,
+      "osm_id": 12857308542,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Doctors Clinic Group",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5172383,
+      "lon": -0.0793772,
+      "osm_id": 12857308543,
+      "osm_type": "node",
+      "address": "New Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Samedaydoctor",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5172196,
+      "lon": -0.0793343,
+      "osm_id": 12867023553,
+      "osm_type": "node",
+      "address": "New Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Widegate Apartments",
+      "category": [
+        "tourism.apartment"
+      ],
+      "lat": 51.5182003,
+      "lon": -0.0784774,
+      "osm_id": 13074783201,
+      "osm_type": "node",
+      "address": "Widegate Street",
+      "road_geometry": null
+    },
+    {
+      "name": "K\u00f6d",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5167743,
+      "lon": -0.0788213,
+      "osm_id": 13226171801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5176257,
+      "lon": -0.0807325,
+      "osm_id": 13418563678,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

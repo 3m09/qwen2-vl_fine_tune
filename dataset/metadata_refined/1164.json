@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1164.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.98958024593709,
+  "bbox": [
+    -73.99106878223179,
+    40.84054054054059,
+    -73.98809170964239,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Pelicana Chicken",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8412743,
+      "lon": -73.9882388,
+      "osm_id": 8530362376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

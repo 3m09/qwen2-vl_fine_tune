@@ -1,89 +1,143 @@
 {
   "image": "dataset/images/15.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.95388356945091,
+  "center_lat": 35.66188288288289,
+  "center_lon": 139.70570221249142,
   "bbox": [
-    -73.95537119624281,
-    40.8,
-    -73.952395942659,
-    40.80225225225225
+    139.7043161821355,
+    35.66075675675677,
+    139.70708824284733,
+    35.66300900900902
   ],
   "unique_categories": [
+    "amenity.school",
+    "shop.convenience",
+    "amenity.kindergarten",
+    "amenity.bar",
     "amenity.restaurant",
-    "highway.bus_stop",
-    "amenity.place_of_worship"
+    "shop.books"
   ],
   "poi_count_per_category": {
+    "amenity.school": 1,
+    "shop.convenience": 2,
+    "amenity.kindergarten": 1,
+    "amenity.bar": 2,
     "amenity.restaurant": 2,
-    "highway.bus_stop": 2,
-    "amenity.place_of_worship": 1
+    "shop.books": 1
   },
-  "poi_count": 5,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "Mount Nebo Baptist Church",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8019444,
-      "lon": -73.9530556,
-      "osm_id": 357621006,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Safari",
+      "name": "Beacon",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8005894,
-      "lon": -73.9527099,
-      "osm_id": 2762442267,
-      "osm_type": "node",
-      "address": "Saint Nicholas Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Adam Clayton Powell Jr. Boulevard & West 112th Steet",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8004669,
-      "lon": -73.9547877,
-      "osm_id": 5269102179,
+      "lat": 35.6617602,
+      "lon": 139.7069407,
+      "osm_id": 1892881205,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Adam Clayton Powell Jr Boulevard & West 114th Street",
+      "name": "\u30bb\u30b3",
       "category": [
-        "highway.bus_stop"
+        "amenity.bar"
       ],
-      "lat": 40.8021192,
-      "lon": -73.9531225,
-      "osm_id": 5296106553,
+      "lat": 35.6611023,
+      "lon": 139.7044128,
+      "osm_id": 2291177895,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Alke Caf\u00e9",
+      "name": "\u30bb\u30d6\u30f3-\u30a4\u30ec\u30d6\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6608161,
+      "lon": 139.7045373,
+      "osm_id": 2291177896,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b0\u30ce\u30fc\u30d6\u30eb",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 35.6608714,
+      "lon": 139.7053443,
+      "osm_id": 5020289823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "goo italiano",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8003369,
-      "lon": -73.9549778,
-      "osm_id": 12402813221,
+      "lat": 35.660906,
+      "lon": 139.7047345,
+      "osm_id": 5072661373,
       "osm_type": "node",
-      "address": "Adam Clayton Powell Jr. Boulevard",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u6751\u66f8\u5e97",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 35.660927,
+      "lon": 139.7067511,
+      "osm_id": 5132278976,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.660806,
+      "lon": 139.7049151,
+      "osm_id": 7006141885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SWIG",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6608897,
+      "lon": 139.7057208,
+      "osm_id": 12389541401,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d9\u30cd\u30c3\u30bb \u7f8e\u7af9\u306e\u4e18\u4fdd\u80b2\u5712",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 35.6618309,
+      "lon": 139.7045421,
+      "osm_id": 12914982265,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 1,
+    "original_poi_count": 29,
+    "removed_count": 20,
     "model": "gemini-2.5-flash"
   }
 }

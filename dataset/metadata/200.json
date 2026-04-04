@@ -1,0 +1,86 @@
+{
+  "image": "dataset/images/200.png",
+  "center_lat": 31.23563063063063,
+  "center_lon": 121.51238944649339,
+  "bbox": [
+    121.51107242022907,
+    31.234504504504503,
+    121.5137064727577,
+    31.236756756756755
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "tourism.artwork",
+    "amenity.cafe",
+    "railway.stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "tourism.artwork": 1,
+    "amenity.cafe": 1,
+    "railway.stop": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "\u6d66\u4e1c\u5357\u8def",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 31.235458,
+      "lon": 121.5111155,
+      "osm_id": 3800385616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e16\u7eaa\u8fb0\u5149",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 31.2353523,
+      "lon": 121.5124666,
+      "osm_id": 8861104610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e16\u7eaa\u5927\u9053\u4e73\u5c71\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2353369,
+      "lon": 121.5113452,
+      "osm_id": 11069276035,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e73\u5c71\u8def\u5357\u6cc9\u5317\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2359056,
+      "lon": 121.5133461,
+      "osm_id": 12252772133,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u871c\u96ea\u51b0\u57ce",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2361061,
+      "lon": 121.5132137,
+      "osm_id": 13019113790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

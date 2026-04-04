@@ -1,101 +1,363 @@
 {
   "image": "dataset/images/20.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.93900730153184,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.08371725480092326,
   "bbox": [
-    -73.94049492832374,
-    40.8,
-    -73.93751967473993,
-    40.80225225225225
+    -0.0855264487119318,
+    51.505,
+    -0.08190806088991474,
+    51.50725225225226
   ],
   "unique_categories": [
-    "shop.variety_store",
+    "shop.books",
+    "amenity.pub",
     "tourism.artwork",
+    "shop.convenience",
+    "amenity.restaurant",
     "highway.bus_stop",
-    "amenity.courthouse",
-    "amenity.bicycle_rental",
-    "shop.convenience"
+    "amenity.doctors",
+    "shop.bakery",
+    "amenity.cafe",
+    "railway.stop",
+    "shop.travel_agency",
+    "railway.train_station_entrance",
+    "amenity.fast_food",
+    "amenity.ferry_terminal",
+    "amenity.bar",
+    "shop.chemist",
+    "shop.fashion_accessories"
   ],
   "poi_count_per_category": {
-    "shop.variety_store": 1,
-    "tourism.artwork": 1,
+    "shop.books": 1,
+    "amenity.pub": 1,
+    "tourism.artwork": 2,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
     "highway.bus_stop": 1,
-    "amenity.courthouse": 1,
-    "amenity.bicycle_rental": 1,
-    "shop.convenience": 1
+    "amenity.doctors": 1,
+    "shop.bakery": 1,
+    "amenity.cafe": 3,
+    "railway.stop": 1,
+    "shop.travel_agency": 1,
+    "railway.train_station_entrance": 1,
+    "amenity.fast_food": 6,
+    "amenity.ferry_terminal": 1,
+    "amenity.bar": 1,
+    "shop.chemist": 1,
+    "shop.fashion_accessories": 1
   },
-  "poi_count": 6,
+  "poi_count": 26,
   "pois": [
     {
-      "name": "Harlem Courthouse",
+      "name": "London Bridge City Pier",
       "category": [
-        "amenity.courthouse"
+        "amenity.ferry_terminal"
       ],
-      "lat": 40.801285,
-      "lon": -73.9384443,
-      "osm_id": 368046295,
+      "lat": 51.5069462,
+      "lon": -0.0846373,
+      "osm_id": 64694457,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Growth",
+      "name": "The Horniman",
       "category": [
-        "tourism.artwork"
+        "amenity.pub"
       ],
-      "lat": 40.8011976,
-      "lon": -73.9389456,
-      "osm_id": 2339527552,
+      "lat": 51.5061115,
+      "lon": -0.0829214,
+      "osm_id": 247957492,
       "osm_type": "node",
-      "address": null,
+      "address": "Counter Street",
       "road_geometry": null
     },
     {
-      "name": "Dollar Tree",
-      "category": [
-        "shop.variety_store"
-      ],
-      "lat": 40.8000978,
-      "lon": -73.9386949,
-      "osm_id": 5540447045,
-      "osm_type": "node",
-      "address": "3rd Avenue",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - Lexington Ave & E 120 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8013344,
-      "lon": -73.9397478,
-      "osm_id": 5972695175,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Lexington Avenue & East 122nd Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8021529,
-      "lon": -73.9391604,
-      "osm_id": 5972697935,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Serie 56 Deli",
+      "name": "M&S Simply Food",
       "category": [
         "shop.convenience"
       ],
-      "lat": 40.8003943,
-      "lon": -73.9401453,
-      "osm_id": 13264118101,
+      "lat": 51.5050455,
+      "lon": -0.0829194,
+      "osm_id": 264523231,
       "osm_type": "node",
-      "address": "Lexington Avenue",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ole & Steen",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5050408,
+      "lon": -0.0833755,
+      "osm_id": 264523233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vivat Bacchus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5055547,
+      "lon": -0.0848633,
+      "osm_id": 338973780,
+      "osm_type": "node",
+      "address": "Hayes Lane",
+      "road_geometry": null
+    },
+    {
+      "name": "Boots",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 51.5056101,
+      "lon": -0.0841907,
+      "osm_id": 339155315,
+      "osm_type": "node",
+      "address": "Counter Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5055027,
+      "lon": -0.0849532,
+      "osm_id": 339156591,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hay's Galleria",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.505051,
+      "lon": -0.0840993,
+      "osm_id": 469770866,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.505021,
+      "lon": -0.0850515,
+      "osm_id": 500916114,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Navigators",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5059193,
+      "lon": -0.0834434,
+      "osm_id": 729896088,
+      "osm_type": "node",
+      "address": "Hays Galleria",
+      "road_geometry": null
+    },
+    {
+      "name": "Tossed",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5050444,
+      "lon": -0.0827142,
+      "osm_id": 1822127901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C\u00f4te Brasserie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5062517,
+      "lon": -0.0835132,
+      "osm_id": 3176893047,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "LEON",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5050186,
+      "lon": -0.083584,
+      "osm_id": 3543800768,
+      "osm_type": "node",
+      "address": "More London Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Walk in GP Centre",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.50571,
+      "lon": -0.0853788,
+      "osm_id": 3726486459,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Flight Centre",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 51.5058115,
+      "lon": -0.0838977,
+      "osm_id": 5211002733,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5057301,
+      "lon": -0.0833184,
+      "osm_id": 5211002735,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Piazza",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5056511,
+      "lon": -0.0834278,
+      "osm_id": 5211002736,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cinq",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5054881,
+      "lon": -0.083639,
+      "osm_id": 5211002737,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Accessorize",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 51.5050981,
+      "lon": -0.0849775,
+      "osm_id": 5585792994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Old London Bridge mosaic",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5062578,
+      "lon": -0.0833026,
+      "osm_id": 5713398210,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tooley Street",
+      "category": [
+        "railway.train_station_entrance"
+      ],
+      "lat": 51.5051359,
+      "lon": -0.084646,
+      "osm_id": 5971818069,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5052434,
+      "lon": -0.0849181,
+      "osm_id": 6329192111,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5054254,
+      "lon": -0.0853142,
+      "osm_id": 9961024708,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pure",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5053637,
+      "lon": -0.0851607,
+      "osm_id": 9961024709,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Wasabi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5053228,
+      "lon": -0.0850809,
+      "osm_id": 9961024710,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Riverside Bookshop.",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 51.5050828,
+      "lon": -0.0839482,
+      "osm_id": 13398061301,
+      "osm_type": "node",
+      "address": "Tooley Street",
       "road_geometry": null
     }
   ]

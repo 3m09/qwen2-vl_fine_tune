@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/644.png",
+  "center_lat": 19.426126126126128,
+  "center_lon": -99.1414177091566,
+  "bbox": [
+    -99.1426118061044,
+    19.425,
+    -99.1402236122088,
+    19.427252252252252
+  ],
+  "unique_categories": [
+    "amenity.community_centre",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.subway_entrance",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "amenity.community_centre": 2,
+    "highway.bus_stop": 1,
+    "amenity.cafe": 1,
+    "railway.subway_entrance": 2,
+    "railway.station": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 19.4267538,
+      "lon": -99.1420543,
+      "osm_id": 294088991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.427144,
+      "lon": -99.1420767,
+      "osm_id": 5186603169,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 19.4270782,
+      "lon": -99.1418168,
+      "osm_id": 5186603170,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Salto del Agua",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4263405,
+      "lon": -99.1420145,
+      "osm_id": 10582818894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pilares SEPI",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 19.4256253,
+      "lon": -99.1410143,
+      "osm_id": 10826196529,
+      "osm_type": "node",
+      "address": "Calle Nezahualc\u00f3yotl",
+      "road_geometry": null
+    },
+    {
+      "name": "HICHA",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4257845,
+      "lon": -99.1424868,
+      "osm_id": 11968134569,
+      "osm_type": "node",
+      "address": "Avenida L\u00e1zaro C\u00e1rdenas",
+      "road_geometry": null
+    },
+    {
+      "name": "Centro de Estudios Interculturales \"Nezahualc\u00f3yotl\"",
+      "category": [
+        "amenity.community_centre"
+      ],
+      "lat": 19.4255821,
+      "lon": -99.1408227,
+      "osm_id": 12569258002,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

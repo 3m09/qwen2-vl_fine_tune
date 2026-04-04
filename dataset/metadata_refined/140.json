@@ -1,51 +1,141 @@
 {
   "image": "dataset/images/140.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.93899695094053,
+  "center_lat": 18.93689189189189,
+  "center_lon": 72.83333388811057,
   "bbox": [
-    -73.94048483018588,
-    40.81126126126127,
-    -73.93750907169517,
-    40.81351351351353
+    72.8321433326662,
+    18.935765765765762,
+    72.83452444355494,
+    18.938018018018013
   ],
   "unique_categories": [
-    "amenity.pharmacy",
-    "amenity.community_centre"
+    "amenity.hospital",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "amenity.bank"
   ],
   "poi_count_per_category": {
-    "amenity.pharmacy": 1,
-    "amenity.community_centre": 1
+    "amenity.hospital": 1,
+    "highway.bus_stop": 5,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 1
   },
-  "poi_count": 2,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "Lenox Terrace",
+      "name": "Khadi Bhandar",
       "category": [
-        "amenity.pharmacy"
+        "highway.bus_stop"
       ],
-      "lat": 40.8130784,
-      "lon": -73.9390136,
-      "osm_id": 2767633739,
+      "lat": 18.9366238,
+      "lon": 72.833975,
+      "osm_id": 1597607870,
       "osm_type": "node",
-      "address": "West 135th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Lt. Joseph P. Kennedy Center",
+      "name": "Khadi Bhandar",
       "category": [
-        "amenity.community_centre"
+        "highway.bus_stop"
       ],
-      "lat": 40.8126493,
-      "lon": -73.9400429,
-      "osm_id": 3545220730,
+      "lat": 18.937299,
+      "lon": 72.834012,
+      "osm_id": 2166729327,
       "osm_type": "node",
-      "address": "West 134th Street",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Khadi Bhandar",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9361334,
+      "lon": 72.8336366,
+      "osm_id": 2166732234,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vijaya Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9377203,
+      "lon": 72.8331562,
+      "osm_id": 2166796346,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Creeda Board Game Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9374108,
+      "lon": 72.8331683,
+      "osm_id": 4225072291,
+      "osm_type": "node",
+      "address": "Wallace Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Banaji Eyesurgery and Laser Center",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 18.9358357,
+      "lon": 72.8332373,
+      "osm_id": 7047557038,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Excelsior",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9375389,
+      "lon": 72.8336457,
+      "osm_id": 9574735835,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Khadi Bhandar",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9366538,
+      "lon": 72.8339884,
+      "osm_id": 9739433171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Khadi Bhandar",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9366259,
+      "lon": 72.8338368,
+      "osm_id": 9739433172,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 3,
-    "removed_count": 1,
+    "original_poi_count": 15,
+    "removed_count": 6,
     "model": "gemini-2.5-flash"
   }
 }

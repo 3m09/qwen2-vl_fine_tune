@@ -1,0 +1,191 @@
+{
+  "image": "dataset/images/214.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.49658544532114,
+  "bbox": [
+    121.49526835625691,
+    31.239009009009006,
+    121.49790253438537,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "amenity.restaurant",
+    "railway.subway_entrance",
+    "shop.mobile_phone",
+    "amenity.fast_food",
+    "shop.computer"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 3,
+    "amenity.restaurant": 1,
+    "railway.subway_entrance": 2,
+    "shop.mobile_phone": 1,
+    "amenity.fast_food": 5,
+    "shop.computer": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "2",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 31.2405112,
+      "lon": 121.4976354,
+      "osm_id": 1779952830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea6\u5f53\u52b3",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2405521,
+      "lon": 121.4974666,
+      "osm_id": 1993253316,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "1",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 31.2407209,
+      "lon": 121.4971344,
+      "osm_id": 2703743734,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.240477,
+      "lon": 121.4977028,
+      "osm_id": 4731412071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taco Bell",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2404042,
+      "lon": 121.4974031,
+      "osm_id": 4784475722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c0f\u7c73\u4e4b\u5bb6",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 31.2411829,
+      "lon": 121.4962795,
+      "osm_id": 5330152423,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hana By Hatsune (Japanese Restaurant)",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2394929,
+      "lon": 121.4970056,
+      "osm_id": 5617486121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u559c\u8336",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2408219,
+      "lon": 121.4957398,
+      "osm_id": 7099668519,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dairy Queen",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2404401,
+      "lon": 121.4978384,
+      "osm_id": 7099721995,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 31.2408915,
+      "lon": 121.4959099,
+      "osm_id": 7099722501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shake Shack",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.239638,
+      "lon": 121.4970378,
+      "osm_id": 11221719093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ROG",
+      "category": [
+        "shop.computer"
+      ],
+      "lat": 31.2391137,
+      "lon": 121.4953085,
+      "osm_id": 11221719099,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea6\u5f53\u52b3",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 31.2390469,
+      "lon": 121.4954768,
+      "osm_id": 11221719100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 17,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

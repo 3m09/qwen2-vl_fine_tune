@@ -1,15 +1,84 @@
 {
   "image": "dataset/images/131.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.96577877735689,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.82857161816912,
   "bbox": [
-    -73.96726665660223,
-    40.81126126126127,
-    -73.96429089811153,
-    40.81351351351353
+    72.82738107877941,
+    18.93351351351351,
+    72.82976215755882,
+    18.935765765765762
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.clinic",
+    "railway.stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2,
+    "amenity.clinic": 1,
+    "railway.stop": 2
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9344455,
+      "lon": 72.8275534,
+      "osm_id": 1236334975,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9344286,
+      "lon": 72.8274374,
+      "osm_id": 1236335031,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate Stn(E) Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9337346,
+      "lon": 72.8279106,
+      "osm_id": 4857066551,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate Station(E)/ Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9337263,
+      "lon": 72.8277714,
+      "osm_id": 4857090122,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CGHS Dispensary No.1, C.G.O.",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 18.9353764,
+      "lon": 72.8281197,
+      "osm_id": 7072544657,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

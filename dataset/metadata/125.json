@@ -1,57 +1,199 @@
 {
   "image": "dataset/images/125.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98363332830112,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.83095261668657,
   "bbox": [
-    -73.98512120754647,
-    40.81126126126127,
-    -73.98214544905576,
-    40.81351351351353
+    72.82976209334926,
+    18.93126126126126,
+    72.83214314002389,
+    18.93351351351351
   ],
   "unique_categories": [
-    "shop.supermarket",
+    "shop.books",
+    "shop.watches",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.optician",
+    "amenity.bank",
     "shop.clothes",
-    "amenity.cafe"
+    "amenity.police"
   ],
   "poi_count_per_category": {
-    "shop.supermarket": 1,
+    "shop.books": 1,
+    "shop.watches": 1,
+    "highway.bus_stop": 5,
+    "amenity.cafe": 1,
+    "shop.optician": 2,
+    "amenity.bank": 2,
     "shop.clothes": 1,
-    "amenity.cafe": 1
+    "amenity.police": 1
   },
-  "poi_count": 3,
+  "poi_count": 14,
   "pois": [
     {
-      "name": "Starbucks",
+      "name": "Hutatma Chowk",
       "category": [
-        "amenity.cafe"
+        "highway.bus_stop"
       ],
-      "lat": 40.8130952,
-      "lon": -73.9843469,
-      "osm_id": 1950344608,
+      "lat": 18.933307,
+      "lon": 72.831377,
+      "osm_id": 2166748624,
       "osm_type": "node",
-      "address": "River Road",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Acme",
+      "name": "American Express Bank",
       "category": [
-        "shop.supermarket"
+        "amenity.bank"
       ],
-      "lat": 40.8117548,
-      "lon": -73.9844592,
-      "osm_id": 8168414833,
+      "lat": 18.9333406,
+      "lon": 72.8315526,
+      "osm_id": 2169130410,
       "osm_type": "node",
-      "address": "River Road",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Old Navy",
+      "name": "Kitab Khana",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 18.9320612,
+      "lon": 72.8318427,
+      "osm_id": 4133880897,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9334787,
+      "lon": 72.8318533,
+      "osm_id": 9739433173,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9316139,
+      "lon": 72.8313625,
+      "osm_id": 9739433174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9331362,
+      "lon": 72.8300294,
+      "osm_id": 9788414504,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9327506,
+      "lon": 72.8303513,
+      "osm_id": 9788414505,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pernia's Pop up studio",
       "category": [
         "shop.clothes"
       ],
-      "lat": 40.8113623,
-      "lon": -73.9834194,
-      "osm_id": 9181495786,
+      "lat": 18.9324984,
+      "lon": 72.832114,
+      "osm_id": 11375956174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nandan Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9317064,
+      "lon": 72.8319248,
+      "osm_id": 12848348712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Titan Eye+",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 18.932204,
+      "lon": 72.8320854,
+      "osm_id": 13514201449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "TITAN WORLD",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 18.9322165,
+      "lon": 72.8318815,
+      "osm_id": 13514203493,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saraswat Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9322065,
+      "lon": 72.8320234,
+      "osm_id": 13514206753,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mata Ramabai Ambedkar Marg Police Thaane",
+      "category": [
+        "amenity.police"
+      ],
+      "lat": 18.9325312,
+      "lon": 72.8318499,
+      "osm_id": 13514237453,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Phiroze M. Dastoor & Co.",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 18.9327906,
+      "lon": 72.8321375,
+      "osm_id": 13514257717,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

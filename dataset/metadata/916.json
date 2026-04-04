@@ -1,0 +1,102 @@
+{
+  "image": "dataset/images/916.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.9419687695939,
+  "bbox": [
+    -73.94345674986072,
+    40.81576576576578,
+    -73.94048078932707,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.bar",
+    "highway.bus_stop",
+    "amenity.theatre",
+    "amenity.restaurant",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.bar": 1,
+    "highway.bus_stop": 1,
+    "amenity.theatre": 1,
+    "amenity.restaurant": 1,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Renaissance Theater (historical)",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 40.8166549,
+      "lon": -73.9422704,
+      "osm_id": 368052784,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ponty Bistro",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8176235,
+      "lon": -73.9416508,
+      "osm_id": 6511917719,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Alibi Lounge",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8178209,
+      "lon": -73.9422219,
+      "osm_id": 7629823948,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr. Boulevard & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8180017,
+      "lon": -73.941505,
+      "osm_id": 8237387568,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Adam Clayton Powell Blvd & W 138 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8169501,
+      "lon": -73.9422247,
+      "osm_id": 9826254260,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8179503,
+      "lon": -73.9413546,
+      "osm_id": 12286201163,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    }
+  ]
+}

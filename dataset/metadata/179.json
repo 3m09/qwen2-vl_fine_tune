@@ -1,15 +1,46 @@
 {
   "image": "dataset/images/179.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.96577645386307,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.50975445217794,
   "bbox": [
-    -73.96726443412989,
-    40.81576576576578,
-    -73.96428847359624,
-    40.81801801801804
+    121.50843748869941,
+    31.23,
+    121.51107141565647,
+    31.232252252252252
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "amenity.bank",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "shop.convenience": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "\u534e\u590f\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2311444,
+      "lon": 121.5108019,
+      "osm_id": 8971473679,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u559c\u58eb\u591a",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.2303661,
+      "lon": 121.5104138,
+      "osm_id": 8971473681,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

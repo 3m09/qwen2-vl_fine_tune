@@ -1,0 +1,437 @@
+{
+  "image": "dataset/images/886.png",
+  "center_lat": 40.81463963963965,
+  "center_lon": -73.95982589666293,
+  "bbox": [
+    -73.96131382641616,
+    40.81351351351353,
+    -73.95833796690971,
+    40.81576576576578
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.deli",
+    "amenity.bar",
+    "shop.copyshop",
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "railway.stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "amenity.dentist",
+    "amenity.pharmacy",
+    "shop.alcohol",
+    "amenity.post_office",
+    "shop.dry_cleaning",
+    "shop.hairdresser",
+    "leisure.fitness_centre"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.deli": 3,
+    "amenity.bar": 3,
+    "shop.copyshop": 1,
+    "shop.convenience": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 2,
+    "railway.stop": 1,
+    "amenity.fast_food": 1,
+    "amenity.restaurant": 11,
+    "amenity.dentist": 1,
+    "amenity.pharmacy": 1,
+    "shop.alcohol": 1,
+    "amenity.post_office": 1,
+    "shop.dry_cleaning": 1,
+    "shop.hairdresser": 1,
+    "leisure.fitness_centre": 1
+  },
+  "poi_count": 32,
+  "pois": [
+    {
+      "name": "Bar 314",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8141651,
+      "lon": -73.9597532,
+      "osm_id": 2768418995,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Bahamas Deli Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8137515,
+      "lon": -73.96004,
+      "osm_id": 2768419049,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Kuro Kuma",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8140293,
+      "lon": -73.959994,
+      "osm_id": 2768451021,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pisticci",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8141743,
+      "lon": -73.9603481,
+      "osm_id": 2768451022,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway Liquors",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8139935,
+      "lon": -73.9598689,
+      "osm_id": 2768451028,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "La Salle Dumpling Room",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8140333,
+      "lon": -73.9598316,
+      "osm_id": 2768451029,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8150497,
+      "lon": -73.9590898,
+      "osm_id": 2768451031,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "The UPS Store",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 40.8151423,
+      "lon": -73.9591928,
+      "osm_id": 2768451039,
+      "osm_type": "node",
+      "address": "Tiemann Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Wilde & Co. Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8152608,
+      "lon": -73.9594573,
+      "osm_id": 2768451049,
+      "osm_type": "node",
+      "address": "Tiemann Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Organic Deli",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8152861,
+      "lon": -73.9595173,
+      "osm_id": 2768451050,
+      "osm_type": "node",
+      "address": "Tiemann Place",
+      "road_geometry": null
+    },
+    {
+      "name": "The Expat",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8154613,
+      "lon": -73.9600115,
+      "osm_id": 2768451052,
+      "osm_type": "node",
+      "address": "Tiemann Place",
+      "road_geometry": null
+    },
+    {
+      "name": "Jin Ramen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8153944,
+      "lon": -73.9588496,
+      "osm_id": 2768459581,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "125th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.814943,
+      "lon": -73.9588974,
+      "osm_id": 4254162539,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & Tiemann Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8148814,
+      "lon": -73.9586321,
+      "osm_id": 6798013349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & Tiemann Place",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8148457,
+      "lon": -73.9591535,
+      "osm_id": 6798013350,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Broadway & Moylan Place",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8142578,
+      "lon": -73.9590619,
+      "osm_id": 6798013351,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Craftsman",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8146576,
+      "lon": -73.9593713,
+      "osm_id": 8424054821,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Oasis Jimma Juice Bar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8149795,
+      "lon": -73.9591551,
+      "osm_id": 9509211693,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Peking Garden",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.814926,
+      "lon": -73.9591949,
+      "osm_id": 9509211694,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Joe's G-H Deli",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8148934,
+      "lon": -73.9592291,
+      "osm_id": 9509211695,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Trufa Pizzeria",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8148374,
+      "lon": -73.9592623,
+      "osm_id": 9509211696,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Toast",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8147613,
+      "lon": -73.9593075,
+      "osm_id": 9509211697,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Falafel on Broadway",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8144899,
+      "lon": -73.9595004,
+      "osm_id": 9509211698,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "El Porton",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8144371,
+      "lon": -73.959541,
+      "osm_id": 9509211699,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Thrifty Deli Supermarket",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8143629,
+      "lon": -73.9595938,
+      "osm_id": 9509211700,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cap't Loui",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8142658,
+      "lon": -73.9596702,
+      "osm_id": 9509211701,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Pilates",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8140805,
+      "lon": -73.960112,
+      "osm_id": 9509315841,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "La Salle Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8138225,
+      "lon": -73.9601752,
+      "osm_id": 9509315842,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Frozen Love",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8138324,
+      "lon": -73.9602013,
+      "osm_id": 9509315843,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Claremont Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8153657,
+      "lon": -73.9588901,
+      "osm_id": 9509327346,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Massawa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8145806,
+      "lon": -73.9594549,
+      "osm_id": 12118435378,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "FHL Dental Care",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8138519,
+      "lon": -73.9602311,
+      "osm_id": 13324386215,
+      "osm_type": "node",
+      "address": "La Salle Street",
+      "road_geometry": null
+    }
+  ]
+}

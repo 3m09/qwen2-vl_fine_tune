@@ -1,0 +1,418 @@
+{
+  "image": "dataset/images/639.png",
+  "center_lat": 41.02590090090093,
+  "center_lon": 28.98239039445118,
+  "bbox": [
+    28.980897701487766,
+    41.024774774774805,
+    28.98388308741459,
+    41.02702702702706
+  ],
+  "unique_categories": [
+    "amenity.ice_cream",
+    "tourism.museum",
+    "amenity.restaurant",
+    "amenity.taxi",
+    "amenity.cafe",
+    "shop.confectionery",
+    "shop.ticket",
+    "amenity.fast_food",
+    "tourism.information",
+    "amenity.bar",
+    "tourism.hotel",
+    "shop.optician",
+    "amenity.bureau_de_change",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "amenity.ice_cream": 1,
+    "tourism.museum": 1,
+    "amenity.restaurant": 5,
+    "amenity.taxi": 1,
+    "amenity.cafe": 11,
+    "shop.confectionery": 1,
+    "shop.ticket": 1,
+    "amenity.fast_food": 3,
+    "tourism.information": 1,
+    "amenity.bar": 2,
+    "tourism.hotel": 1,
+    "shop.optician": 1,
+    "amenity.bureau_de_change": 1,
+    "shop.jewelry": 1
+  },
+  "poi_count": 31,
+  "pois": [
+    {
+      "name": "Culture Romans",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0261695,
+      "lon": 28.9814634,
+      "osm_id": 1912249067,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pim Kitchen & Patisserie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.025723,
+      "lon": 28.980903,
+      "osm_id": 3137195629,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karak\u00f6y G\u00fcll\u00fco\u011flu",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 41.0248853,
+      "lon": 28.9809581,
+      "osm_id": 4548658690,
+      "osm_type": "node",
+      "address": "Kemanke\u015f Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "LOL Coffee Roasters",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0259603,
+      "lon": 28.9812597,
+      "osm_id": 4873776323,
+      "osm_type": "node",
+      "address": "K\u0131l\u0131\u00e7 Ali Pasa Mescidi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Bosnjak",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0257897,
+      "lon": 28.9812173,
+      "osm_id": 5171238821,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Muhit",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.0258298,
+      "lon": 28.9812686,
+      "osm_id": 5171238822,
+      "osm_type": "node",
+      "address": "K\u0131l\u0131\u00e7 Ali Pasa Mescidi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130stanbul Modern Sanat M\u00fczesi",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 41.025911,
+      "lon": 28.982812,
+      "osm_id": 5640069827,
+      "osm_type": "node",
+      "address": "Tophane \u0130skele Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Coffee Sapiens",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0259402,
+      "lon": 28.9812438,
+      "osm_id": 5640069828,
+      "osm_type": "node",
+      "address": "K\u0131l\u0131\u00e7 Ali Pasa Mescidi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Dandin",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0255952,
+      "lon": 28.9809465,
+      "osm_id": 5739131922,
+      "osm_type": "node",
+      "address": "K\u0131l\u0131\u00e7 Ali Pasa Mescidi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Wom Store Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0252698,
+      "lon": 28.9811574,
+      "osm_id": 6115765788,
+      "osm_type": "node",
+      "address": "Yuva Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Baltazar",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0259141,
+      "lon": 28.9812215,
+      "osm_id": 6116018285,
+      "osm_type": "node",
+      "address": "K\u0131l\u0131\u00e7 Ali Pasa Mescidi Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Creper Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0257156,
+      "lon": 28.9811245,
+      "osm_id": 6116196185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kervan Karak\u00f6y",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.026136,
+      "lon": 28.9814937,
+      "osm_id": 6185503007,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Insta Karak\u00f6y",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0258063,
+      "lon": 28.9811986,
+      "osm_id": 6185503008,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fasuli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0261611,
+      "lon": 28.9815268,
+      "osm_id": 6185503620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "So Chic",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0264449,
+      "lon": 28.9837917,
+      "osm_id": 11336684747,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.026342,
+      "lon": 28.9835759,
+      "osm_id": 11336685614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sekerci Cafer Erol",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.026343,
+      "lon": 28.9838825,
+      "osm_id": 11336685615,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Popeyes",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0263679,
+      "lon": 28.9836297,
+      "osm_id": 11336697540,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Opal Optik",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 41.0263882,
+      "lon": 28.9836856,
+      "osm_id": 11336703411,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0265635,
+      "lon": 28.9836693,
+      "osm_id": 11385675455,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paper Ship Coffee & Roasters",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0255362,
+      "lon": 28.9814512,
+      "osm_id": 12438467216,
+      "osm_type": "node",
+      "address": "Odun Meydan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Galataport Connect",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 41.0267623,
+      "lon": 28.9835832,
+      "osm_id": 12722501058,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "G\u00fcnayd\u0131n",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.02649,
+      "lon": 28.9834903,
+      "osm_id": 13245382593,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c7\u00f6z\u00fcm D\u00f6viz",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 41.0267418,
+      "lon": 28.9835173,
+      "osm_id": 13245401494,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Port LVM Bo\u011faz Turu",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 41.0267127,
+      "lon": 28.9834543,
+      "osm_id": 13245401495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Magnolia Bakery",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 41.0266574,
+      "lon": 28.9838595,
+      "osm_id": 13245419811,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u015eef Baklavari",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0249656,
+      "lon": 28.9812301,
+      "osm_id": 13396860936,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dream Inn Hotel",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0250695,
+      "lon": 28.9811456,
+      "osm_id": 13396860937,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hadt",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 41.025174,
+      "lon": 28.9810272,
+      "osm_id": 13396860938,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galataport Taxi",
+      "category": [
+        "amenity.taxi"
+      ],
+      "lat": 41.0253663,
+      "lon": 28.9822293,
+      "osm_id": 13442958120,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

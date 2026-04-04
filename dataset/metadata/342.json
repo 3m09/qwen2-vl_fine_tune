@@ -1,0 +1,646 @@
+{
+  "image": "dataset/images/342.png",
+  "center_lat": 1.3013783783783786,
+  "center_lon": 103.8441490748503,
+  "bbox": [
+    103.84302265868264,
+    1.3002522522522524,
+    103.84527549101797,
+    1.3025045045045047
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.karaoke_box",
+    "amenity.cafe",
+    "shop.toys",
+    "shop.supermarket",
+    "shop.optician",
+    "shop.hairdresser",
+    "leisure.amusement_arcade",
+    "shop.convenience",
+    "leisure.escape_game",
+    "amenity.cinema",
+    "amenity.fast_food",
+    "shop.stationery",
+    "shop.clothes",
+    "shop.variety_store",
+    "shop.anime",
+    "shop.video_games",
+    "amenity.food_court",
+    "shop.watches",
+    "shop.electronics",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.bakery",
+    "shop.department_store",
+    "shop.bed",
+    "shop.shoes"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 7,
+    "amenity.karaoke_box": 1,
+    "amenity.cafe": 4,
+    "shop.toys": 1,
+    "shop.supermarket": 2,
+    "shop.optician": 2,
+    "shop.hairdresser": 1,
+    "leisure.amusement_arcade": 1,
+    "shop.convenience": 1,
+    "leisure.escape_game": 1,
+    "amenity.cinema": 1,
+    "amenity.fast_food": 2,
+    "shop.stationery": 1,
+    "shop.clothes": 2,
+    "shop.variety_store": 2,
+    "shop.anime": 1,
+    "shop.video_games": 2,
+    "amenity.food_court": 1,
+    "shop.watches": 1,
+    "shop.electronics": 1,
+    "amenity.pharmacy": 2,
+    "shop.cosmetics": 3,
+    "shop.bakery": 1,
+    "shop.department_store": 3,
+    "shop.bed": 1,
+    "shop.shoes": 3
+  },
+  "poi_count": 48,
+  "pois": [
+    {
+      "name": "Cold Storage",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3010098,
+      "lon": 103.8450553,
+      "osm_id": 1839603987,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Marks & Spencer",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3008258,
+      "lon": 103.8452495,
+      "osm_id": 1932070070,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.30074,
+      "lon": 103.8447846,
+      "osm_id": 2402536811,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "GV Plaza",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": 1.3009372,
+      "lon": 103.8448504,
+      "osm_id": 2402539697,
+      "osm_type": "node",
+      "address": "68 Orchard Rd",
+      "road_geometry": null
+    },
+    {
+      "name": "Kopitiam",
+      "category": [
+        "amenity.food_court"
+      ],
+      "lat": 1.3010432,
+      "lon": 103.8451347,
+      "osm_id": 2402563790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Art Friend",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 1.3011065,
+      "lon": 103.8451031,
+      "osm_id": 5819447853,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sukiya \u3059\u304d\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3005963,
+      "lon": 103.8447319,
+      "osm_id": 5819447854,
+      "osm_type": "node",
+      "address": "Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "Challenger",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3007552,
+      "lon": 103.8452199,
+      "osm_id": 5819448053,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spotlight",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3005626,
+      "lon": 103.8451381,
+      "osm_id": 5819453853,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7121\u5370\u826f\u54c1",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3010269,
+      "lon": 103.8449715,
+      "osm_id": 5819453953,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nando's",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.30103,
+      "lon": 103.8451922,
+      "osm_id": 5820010054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Travel Store",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 1.3009001,
+      "lon": 103.8449049,
+      "osm_id": 5820023353,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Secret Recipe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3004991,
+      "lon": 103.8449609,
+      "osm_id": 5825269280,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iroha Mart",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 1.3008678,
+      "lon": 103.8452662,
+      "osm_id": 5825269281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Otaku House",
+      "category": [
+        "shop.anime"
+      ],
+      "lat": 1.3006588,
+      "lon": 103.8451478,
+      "osm_id": 5825269282,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3011094,
+      "lon": 103.8451577,
+      "osm_id": 5825269283,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Spectacle Hut",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 1.3003505,
+      "lon": 103.8450628,
+      "osm_id": 5825269284,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Toy Or Game",
+      "category": [
+        "shop.video_games"
+      ],
+      "lat": 1.300483,
+      "lon": 103.8447695,
+      "osm_id": 5825269287,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Owndays",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 1.3004875,
+      "lon": 103.8446735,
+      "osm_id": 5825269288,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Freeing Singapore",
+      "category": [
+        "leisure.escape_game"
+      ],
+      "lat": 1.3012252,
+      "lon": 103.8450291,
+      "osm_id": 5825269290,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3005937,
+      "lon": 103.8450019,
+      "osm_id": 5825269291,
+      "osm_type": "node",
+      "address": "68 Orchard Road, Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "GameMartZ",
+      "category": [
+        "shop.video_games"
+      ],
+      "lat": 1.3003918,
+      "lon": 103.8447492,
+      "osm_id": 5825269293,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Timezone",
+      "category": [
+        "leisure.amusement_arcade"
+      ],
+      "lat": 1.300317,
+      "lon": 103.8446355,
+      "osm_id": 5825269295,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Watsons",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.3003992,
+      "lon": 103.8446332,
+      "osm_id": 6267447185,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guardian",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.3010042,
+      "lon": 103.8448923,
+      "osm_id": 6267447285,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ToriQ",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3003023,
+      "lon": 103.8445856,
+      "osm_id": 6313526785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CHICHA San Chen \u5403\u8336\u4e09\u5343",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3009435,
+      "lon": 103.8449724,
+      "osm_id": 6466108295,
+      "osm_type": "node",
+      "address": "Orchard Road Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "KOI Th\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3008043,
+      "lon": 103.8448696,
+      "osm_id": 6516451885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sephora",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3004579,
+      "lon": 103.8448989,
+      "osm_id": 6690988754,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Etude House",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3003935,
+      "lon": 103.8448023,
+      "osm_id": 6704484329,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3003184,
+      "lon": 103.8448023,
+      "osm_id": 6704969532,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles & Keith",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3004941,
+      "lon": 103.8450591,
+      "osm_id": 6723224992,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "City Chain",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3003721,
+      "lon": 103.8449525,
+      "osm_id": 6787751366,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cotton On",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3007027,
+      "lon": 103.8448066,
+      "osm_id": 6789901024,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bata",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.30046,
+      "lon": 103.8450759,
+      "osm_id": 6798222559,
+      "osm_type": "node",
+      "address": "68 Orchard Road, Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "Toast Box",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3008381,
+      "lon": 103.844805,
+      "osm_id": 6816751718,
+      "osm_type": "node",
+      "address": "68 Orchard Road, Plaza Singapore",
+      "road_geometry": null
+    },
+    {
+      "name": "The Better Toy Store",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 1.3006946,
+      "lon": 103.8451372,
+      "osm_id": 7079427335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miniso",
+      "category": [
+        "shop.variety_store"
+      ],
+      "lat": 1.3005498,
+      "lon": 103.8450829,
+      "osm_id": 7079427341,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Genki Sushi",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3006708,
+      "lon": 103.8447839,
+      "osm_id": 8272681092,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Epid'Or",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 1.300296,
+      "lon": 103.845012,
+      "osm_id": 8733083934,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sealy Sleep Boutique",
+      "category": [
+        "shop.bed"
+      ],
+      "lat": 1.3007479,
+      "lon": 103.8448412,
+      "osm_id": 8808928572,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tamoya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3011105,
+      "lon": 103.8449984,
+      "osm_id": 8825080012,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "kcuts",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.3008565,
+      "lon": 103.8448885,
+      "osm_id": 9941734497,
+      "osm_type": "node",
+      "address": "Orchard Road Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "K.STAR @ Plaza Singapura",
+      "category": [
+        "amenity.karaoke_box"
+      ],
+      "lat": 1.3010338,
+      "lon": 103.8450973,
+      "osm_id": 11323077049,
+      "osm_type": "node",
+      "address": "Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "Crocs",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3009605,
+      "lon": 103.8449187,
+      "osm_id": 11323077050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Co Chung",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3007408,
+      "lon": 103.8452053,
+      "osm_id": 11323077051,
+      "osm_type": "node",
+      "address": "Plaza Singapura",
+      "road_geometry": null
+    },
+    {
+      "name": "Bangkok Jam - Plaza Singapura",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3003014,
+      "lon": 103.8449187,
+      "osm_id": 12032611869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3003064,
+      "lon": 103.8451663,
+      "osm_id": 13626465071,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    }
+  ]
+}

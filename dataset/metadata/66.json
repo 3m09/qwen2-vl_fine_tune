@@ -1,83 +1,644 @@
 {
   "image": "dataset/images/66.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.94495407302405,
+  "center_lat": 48.858378378378376,
+  "center_lon": 2.3435580050447196,
   "bbox": [
-    -73.94644180078015,
-    40.80450450450451,
-    -73.94346634526794,
-    40.80675675675676
+    2.341846404035776,
+    48.85725225225225,
+    2.3452696060536637,
+    48.85950450450451
   ],
   "unique_categories": [
-    "shop.deli",
+    "amenity.restaurant",
+    "shop.gift",
+    "shop.camera",
+    "amenity.cafe",
+    "railway.stop",
+    "railway.station",
+    "tourism.information",
+    "shop.hairdresser",
+    "shop.art",
+    "amenity.language_school",
+    "railway.subway_entrance",
     "highway.bus_stop",
-    "amenity.school",
-    "amenity.place_of_worship"
+    "shop.coffee",
+    "shop.interior_decoration",
+    "tourism.gallery",
+    "amenity.fast_food",
+    "tourism.hotel",
+    "shop.clothes",
+    "shop.pastry",
+    "shop.garden_centre",
+    "amenity.veterinary",
+    "shop.beauty",
+    "shop.bakery",
+    "shop.department_store",
+    "shop.bed",
+    "amenity.bar"
   ],
   "poi_count_per_category": {
-    "shop.deli": 1,
-    "highway.bus_stop": 1,
-    "amenity.school": 1,
-    "amenity.place_of_worship": 2
+    "amenity.restaurant": 6,
+    "shop.gift": 1,
+    "shop.camera": 1,
+    "amenity.cafe": 1,
+    "railway.stop": 1,
+    "railway.station": 1,
+    "tourism.information": 3,
+    "shop.hairdresser": 3,
+    "shop.art": 1,
+    "amenity.language_school": 1,
+    "railway.subway_entrance": 4,
+    "highway.bus_stop": 2,
+    "shop.coffee": 1,
+    "shop.interior_decoration": 1,
+    "tourism.gallery": 2,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 3,
+    "shop.clothes": 4,
+    "shop.pastry": 1,
+    "shop.garden_centre": 2,
+    "amenity.veterinary": 1,
+    "shop.beauty": 1,
+    "shop.bakery": 1,
+    "shop.department_store": 1,
+    "shop.bed": 1,
+    "amenity.bar": 3
   },
-  "poi_count": 5,
+  "poi_count": 48,
   "pois": [
     {
-      "name": "Mount Morris Ascension Presbyterian Church",
+      "name": "Pont Neuf (rue de la Monnaie)",
       "category": [
-        "amenity.place_of_worship"
+        "railway.subway_entrance"
       ],
-      "lat": 40.805,
-      "lon": -73.9458333,
-      "osm_id": 357621056,
+      "lat": 48.8586729,
+      "lon": 2.3422794,
+      "osm_id": 676821310,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Commandment Keepers Ethiopian Hebrew Congregation",
+      "name": "Rue Bertin Poir\u00e9e",
       "category": [
-        "amenity.place_of_worship"
+        "tourism.hotel",
+        "railway.subway_entrance"
       ],
-      "lat": 40.8061111,
-      "lon": -73.945,
-      "osm_id": 357621059,
+      "lat": 48.8593629,
+      "lon": 2.3451569,
+      "osm_id": 676821344,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Saint Benedict Day Nursery and Kindergarten",
+      "name": "Pont Neuf (quai de Louvre)",
       "category": [
-        "amenity.school"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8063889,
-      "lon": -73.9438889,
-      "osm_id": 357621718,
+      "lat": 48.858478,
+      "lon": 2.3421415,
+      "osm_id": 831854832,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "NYC Best Grocery",
+      "name": "Kong",
       "category": [
-        "shop.deli"
+        "amenity.restaurant"
       ],
-      "lat": 40.8064597,
-      "lon": -73.9461118,
-      "osm_id": 2767369948,
+      "lat": 48.8592431,
+      "lon": 2.3430986,
+      "osm_id": 2244508787,
       "osm_type": "node",
-      "address": "Lenox Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Mount Morris Park West & West 124th Street",
+      "name": "Yaoz",
+      "category": [
+        "shop.coffee"
+      ],
+      "lat": 48.8591882,
+      "lon": 2.3451519,
+      "osm_id": 2433812996,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00f4tel Flor Rivoli",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8591442,
+      "lon": 2.3451909,
+      "osm_id": 2433812997,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai du Louvre",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8061513,
-      "lon": -73.9446602,
-      "osm_id": 5269082561,
+      "lat": 48.8582252,
+      "lon": 2.34315,
+      "osm_id": 2880573971,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bershka",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8594053,
+      "lon": 2.3449946,
+      "osm_id": 3405072652,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pull & Bear",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8594621,
+      "lon": 2.3448512,
+      "osm_id": 3405085309,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "NAF NAF",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8593434,
+      "lon": 2.3452494,
+      "osm_id": 3405085310,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Auberge Caf\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8582612,
+      "lon": 2.3447141,
+      "osm_id": 3481919593,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c0 La Tour",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8584254,
+      "lon": 2.344581,
+      "osm_id": 3481919693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Atelier",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8584196,
+      "lon": 2.3447498,
+      "osm_id": 3481919694,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Scone Cafe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8581975,
+      "lon": 2.3441252,
+      "osm_id": 3481937594,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maslow",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8581541,
+      "lon": 2.3443239,
+      "osm_id": 3481937893,
+      "osm_type": "node",
+      "address": "Quai de la M\u00e9gisserie",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa nova",
+      "category": [
+        "shop.garden_centre"
+      ],
+      "lat": 48.8579537,
+      "lon": 2.3449818,
+      "osm_id": 3648006496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vilmorin",
+      "category": [
+        "shop.garden_centre"
+      ],
+      "lat": 48.857906,
+      "lon": 2.3452325,
+      "osm_id": 3648006497,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LV dream",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8585308,
+      "lon": 2.3429942,
+      "osm_id": 3655292001,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Association Culturelle franco-japonaise de TENRI",
+      "category": [
+        "amenity.language_school"
+      ],
+      "lat": 48.8585296,
+      "lon": 2.3448845,
+      "osm_id": 4675484590,
+      "osm_type": "node",
+      "address": "Rue Bertin Poir\u00e9e",
+      "road_geometry": null
+    },
+    {
+      "name": "La Barbi\u00e8re de Paris",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.858583,
+      "lon": 2.3446373,
+      "osm_id": 4685294220,
+      "osm_type": "node",
+      "address": "Rue Bertin Poir\u00e9e",
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai du Louvre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8581874,
+      "lon": 2.3432923,
+      "osm_id": 4879118832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C'est chouette",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8593356,
+      "lon": 2.3445974,
+      "osm_id": 4986721611,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Neat",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.8591417,
+      "lon": 2.3442854,
+      "osm_id": 4986721613,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Pont-Neuf",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8584649,
+      "lon": 2.3420567,
+      "osm_id": 5158464957,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Les bouquinistes de la Seine",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8584699,
+      "lon": 2.3420291,
+      "osm_id": 5158464958,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 48.8585776,
+      "lon": 2.3422202,
+      "osm_id": 5527702547,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8584929,
+      "lon": 2.342459,
+      "osm_id": 5527702556,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Altermundi",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8577182,
+      "lon": 2.3449467,
+      "osm_id": 5655597961,
+      "osm_type": "node",
+      "address": "Voie Georges Pompidou",
+      "road_geometry": null
+    },
+    {
+      "name": "La Samaritaine",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 48.8593356,
+      "lon": 2.3423976,
+      "osm_id": 8854893320,
+      "osm_type": "node",
+      "address": "Rue de la Monnaie",
+      "road_geometry": null
+    },
+    {
+      "name": "Cheval Blanc",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8588572,
+      "lon": 2.3421794,
+      "osm_id": 8859828184,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cova Paris",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 48.8591569,
+      "lon": 2.3430261,
+      "osm_id": 9575895699,
+      "osm_type": "node",
+      "address": "Rue du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "Limbar",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8588428,
+      "lon": 2.3418987,
+      "osm_id": 9684610384,
+      "osm_type": "node",
+      "address": "Quai du Louvre",
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf (Pont Neuf)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8584305,
+      "lon": 2.3421839,
+      "osm_id": 9701911585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gast",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8588663,
+      "lon": 2.345,
+      "osm_id": 9807521820,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Compagnie du Lit",
+      "category": [
+        "shop.bed"
+      ],
+      "lat": 48.8582195,
+      "lon": 2.3439915,
+      "osm_id": 9835815716,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Merci J\u00e9r\u00f4me !",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 48.8580577,
+      "lon": 2.3446087,
+      "osm_id": 10019638988,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arnaud Marie",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.8583671,
+      "lon": 2.3447475,
+      "osm_id": 10079521117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Babel Dwichs",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8588465,
+      "lon": 2.3447778,
+      "osm_id": 10790509404,
+      "osm_type": "node",
+      "address": "Rue Bertin Poir\u00e9e",
+      "road_geometry": null
+    },
+    {
+      "name": "Dr. Franz Capp\u00e9",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": 48.8588358,
+      "lon": 2.3449451,
+      "osm_id": 11112752613,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Studio Forever Young",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.858487,
+      "lon": 2.3446326,
+      "osm_id": 11112895800,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tendances",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8586745,
+      "lon": 2.3449562,
+      "osm_id": 11131303100,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Balboa Pictures",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 48.8584173,
+      "lon": 2.3451218,
+      "osm_id": 11131304959,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chapelle Saint-Eloi des Orf\u00e8vres",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8582947,
+      "lon": 2.3451938,
+      "osm_id": 12079591893,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenir de Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8580066,
+      "lon": 2.3447851,
+      "osm_id": 12303952591,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Langosteria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8588367,
+      "lon": 2.3420765,
+      "osm_id": 12479814474,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Tout Paris",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8587643,
+      "lon": 2.342319,
+      "osm_id": 12479880010,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Maxime Fr\u00e9d\u00e9ric at Lv",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8585088,
+      "lon": 2.3429042,
+      "osm_id": 12620835903,
+      "osm_type": "node",
+      "address": "Quai de la M\u00e9gisserie",
+      "road_geometry": null
+    },
+    {
+      "name": "Code Perso",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8590957,
+      "lon": 2.3441691,
+      "osm_id": 12714825265,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

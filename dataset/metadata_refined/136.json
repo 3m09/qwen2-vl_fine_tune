@@ -1,37 +1,63 @@
 {
   "image": "dataset/images/136.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.95089998490336,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.84047701206616,
   "bbox": [
-    -73.9523878641487,
-    40.81126126126127,
-    -73.949412105658,
-    40.81351351351353
+    72.83928647267645,
+    18.93351351351351,
+    72.84166755145586,
+    18.935765765765762
   ],
   "unique_categories": [
-    "highway.bus_stop"
+    "highway.bus_stop",
+    "amenity.restaurant"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 1
+    "highway.bus_stop": 2,
+    "amenity.restaurant": 1
   },
-  "poi_count": 1,
+  "poi_count": 3,
   "pois": [
     {
-      "name": "Frederick Douglass Boulevard & West 128th Street",
+      "name": "Britannia & Co. Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9344727,
+      "lon": 72.8403579,
+      "osm_id": 4294810192,
+      "osm_type": "node",
+      "address": "Sprott Road",
+      "road_geometry": null
+    },
+    {
+      "name": "New Customs House",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8119318,
-      "lon": -73.9500595,
-      "osm_id": 5470130937,
+      "lat": 18.9340978,
+      "lon": 72.8393555,
+      "osm_id": 9769880940,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "New Customs House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9339379,
+      "lon": 72.8396103,
+      "osm_id": 9788429269,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 8,
-    "removed_count": 7,
+    "original_poi_count": 4,
+    "removed_count": 1,
     "model": "gemini-2.5-flash"
   }
 }

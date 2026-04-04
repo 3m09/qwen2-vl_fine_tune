@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/1086.png",
+  "center_lat": 40.83265765765769,
+  "center_lon": -73.93600163703356,
+  "bbox": [
+    -73.93748997105602,
+    40.83153153153157,
+    -73.93451330301107,
+    40.83378378378382
+  ],
+  "unique_categories": [
+    "shop.convenience",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.convenience": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Shop Fair",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.8320798,
+      "lon": -73.9356434,
+      "osm_id": 2554917284,
+      "osm_type": "node",
+      "address": "Harlem River Drive",
+      "road_geometry": null
+    },
+    {
+      "name": "Food Center",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8321867,
+      "lon": -73.9356527,
+      "osm_id": 2554917288,
+      "osm_type": "node",
+      "address": "Harlem River Drive",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 4,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

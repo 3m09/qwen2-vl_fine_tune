@@ -1,0 +1,87 @@
+{
+  "image": "dataset/images/959.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.95684564197495,
+  "bbox": [
+    -73.95833372328616,
+    40.82027027027029,
+    -73.95535756066374,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.car"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 4,
+    "shop.car": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "West 135th Street & Riverside Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8209423,
+      "lon": -73.9581896,
+      "osm_id": 5759380561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 135th Street & Riverside Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8211131,
+      "lon": -73.9571938,
+      "osm_id": 5759381149,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 135th Street & Broadway",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.820438,
+      "lon": -73.9555663,
+      "osm_id": 5759381150,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 137th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.822438,
+      "lon": -73.9559269,
+      "osm_id": 5798761233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zero Down Lease Deals",
+      "category": [
+        "shop.car"
+      ],
+      "lat": 40.8207019,
+      "lon": -73.9572643,
+      "osm_id": 6824835767,
+      "osm_type": "node",
+      "address": "West 135th Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

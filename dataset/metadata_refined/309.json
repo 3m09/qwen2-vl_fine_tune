@@ -1,0 +1,433 @@
+{
+  "image": "dataset/images/309.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.65885738754263,
+  "bbox": [
+    -46.660085910034105,
+    -23.558738738738743,
+    -46.65762886505116,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "shop.cosmetics",
+    "shop.perfumery",
+    "shop.bakery",
+    "shop.jewelry",
+    "amenity.restaurant",
+    "shop.erotic",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "amenity.parking",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 5,
+    "shop.cosmetics": 4,
+    "shop.perfumery": 1,
+    "shop.bakery": 1,
+    "shop.jewelry": 1,
+    "amenity.restaurant": 7,
+    "shop.erotic": 1,
+    "amenity.bank": 3,
+    "shop.clothes": 2,
+    "amenity.bicycle_rental": 2,
+    "amenity.fast_food": 3,
+    "amenity.parking": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 32,
+  "pois": [
+    {
+      "name": "McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5585802,
+      "lon": -46.6593523,
+      "osm_id": 2195123498,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Tollocos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5567596,
+      "lon": -46.658877,
+      "osm_id": 2637739286,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Bovinus",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5567682,
+      "lon": -46.6586691,
+      "osm_id": 2862747298,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "York grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5568564,
+      "lon": -46.6587637,
+      "osm_id": 2862747299,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Santander",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5582439,
+      "lon": -46.6596411,
+      "osm_id": 3621336527,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Ita\u00fa",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5584654,
+      "lon": -46.6594387,
+      "osm_id": 4767466023,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Banco Safra",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": -23.5580816,
+      "lon": -46.6598019,
+      "osm_id": 4767466024,
+      "osm_type": "node",
+      "address": "Avenida Paulista",
+      "road_geometry": null
+    },
+    {
+      "name": "Celia Milani",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5565696,
+      "lon": -46.6595112,
+      "osm_id": 4913151137,
+      "osm_type": "node",
+      "address": "Rua Lu\u00eds Coelho",
+      "road_geometry": null
+    },
+    {
+      "name": "Padaria Brasileira",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": -23.5571923,
+      "lon": -46.6593389,
+      "osm_id": 4913151139,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "C&A",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5573043,
+      "lon": -46.6594943,
+      "osm_id": 4913151140,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Paulista Burger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.556697,
+      "lon": -46.6585928,
+      "osm_id": 4960843326,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Ragazzo",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5568304,
+      "lon": -46.6589529,
+      "osm_id": 4977917026,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Galeria da Augusta",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": -23.5565032,
+      "lon": -46.6593579,
+      "osm_id": 4977917053,
+      "osm_type": "node",
+      "address": "Rua Lu\u00eds Coelho",
+      "road_geometry": null
+    },
+    {
+      "name": "Massis",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": -23.5572127,
+      "lon": -46.6585577,
+      "osm_id": 4979826263,
+      "osm_type": "node",
+      "address": "Rua Lu\u00eds Coelho",
+      "road_geometry": null
+    },
+    {
+      "name": "Athenas Restaurante",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5567044,
+      "lon": -46.6578689,
+      "osm_id": 4979826272,
+      "osm_type": "node",
+      "address": "Rua Ant\u00f4nio Carlos",
+      "road_geometry": null
+    },
+    {
+      "name": "Manai Gastronomia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5574119,
+      "lon": -46.6592834,
+      "osm_id": 4992680228,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Laut",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.556526,
+      "lon": -46.6592826,
+      "osm_id": 6177261352,
+      "osm_type": "node",
+      "address": "Rua Augusta",
+      "road_geometry": null
+    },
+    {
+      "name": "Que Pasa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5570699,
+      "lon": -46.6589643,
+      "osm_id": 10055041333,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Shopping Center 3",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.55842,
+      "lon": -46.65961,
+      "osm_id": 11135381338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "R. Luis Coelho",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5580073,
+      "lon": -46.6579471,
+      "osm_id": 11135386490,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sex toy",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": -23.5571407,
+      "lon": -46.6590554,
+      "osm_id": 11596296477,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Soneda",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": -23.5576854,
+      "lon": -46.6599213,
+      "osm_id": 11850347162,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luna",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5581639,
+      "lon": -46.6592272,
+      "osm_id": 12913138508,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Miniso",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5575918,
+      "lon": -46.6592902,
+      "osm_id": 12913138509,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L'Occitane",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.5577428,
+      "lon": -46.6588471,
+      "osm_id": 12913138510,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Anacapri",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5580129,
+      "lon": -46.6590585,
+      "osm_id": 12913138511,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Martinez",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5575266,
+      "lon": -46.6586702,
+      "osm_id": 12913138512,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Atelie Ana Fattori",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5577241,
+      "lon": -46.6591459,
+      "osm_id": 12913138513,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Arezzo",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.558067,
+      "lon": -46.6593369,
+      "osm_id": 12913138514,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Vivara",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": -23.5576433,
+      "lon": -46.6588014,
+      "osm_id": 12913138516,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fragancia & Wine",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": -23.557603,
+      "lon": -46.6587475,
+      "osm_id": 12913138517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uno",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": -23.5578751,
+      "lon": -46.6588532,
+      "osm_id": 12913138518,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 51,
+    "removed_count": 19,
+    "model": "gemini-2.5-flash"
+  }
+}

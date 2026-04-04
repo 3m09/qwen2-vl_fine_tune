@@ -1,79 +1,227 @@
 {
   "image": "dataset/images/20.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.93900730153184,
+  "center_lat": 51.50612612612613,
+  "center_lon": -0.08371725480092326,
   "bbox": [
-    -73.94049492832374,
-    40.8,
-    -73.93751967473993,
-    40.80225225225225
+    -0.0855264487119318,
+    51.505,
+    -0.08190806088991474,
+    51.50725225225226
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
+    "amenity.ferry_terminal",
+    "amenity.pub",
+    "amenity.cafe",
+    "shop.bakery",
+    "shop.chemist",
+    "amenity.restaurant",
+    "amenity.bar",
+    "shop.travel_agency",
     "tourism.artwork",
-    "highway.bus_stop",
-    "amenity.courthouse"
+    "railway.train_station_entrance",
+    "amenity.fast_food",
+    "amenity.doctors"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 1,
+    "amenity.ferry_terminal": 1,
+    "amenity.pub": 1,
+    "amenity.cafe": 2,
+    "shop.bakery": 1,
+    "shop.chemist": 1,
+    "amenity.restaurant": 1,
+    "amenity.bar": 1,
+    "shop.travel_agency": 1,
     "tourism.artwork": 1,
-    "highway.bus_stop": 1,
-    "amenity.courthouse": 1
+    "railway.train_station_entrance": 1,
+    "amenity.fast_food": 3,
+    "amenity.doctors": 1
   },
-  "poi_count": 4,
+  "poi_count": 15,
   "pois": [
     {
-      "name": "Harlem Courthouse",
+      "name": "London Bridge City Pier",
       "category": [
-        "amenity.courthouse"
+        "amenity.ferry_terminal"
       ],
-      "lat": 40.801285,
-      "lon": -73.9384443,
-      "osm_id": 368046295,
+      "lat": 51.5069462,
+      "lon": -0.0846373,
+      "osm_id": 64694457,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Growth",
+      "name": "The Horniman",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5061115,
+      "lon": -0.0829214,
+      "osm_id": 247957492,
+      "osm_type": "node",
+      "address": "Counter Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Ole & Steen",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 51.5050408,
+      "lon": -0.0833755,
+      "osm_id": 264523233,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boots",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 51.5056101,
+      "lon": -0.0841907,
+      "osm_id": 339155315,
+      "osm_type": "node",
+      "address": "Counter Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5055027,
+      "lon": -0.0849532,
+      "osm_id": 339156591,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Navigators",
       "category": [
         "tourism.artwork"
       ],
-      "lat": 40.8011976,
-      "lon": -73.9389456,
-      "osm_id": 2339527552,
+      "lat": 51.5059193,
+      "lon": -0.0834434,
+      "osm_id": 729896088,
+      "osm_type": "node",
+      "address": "Hays Galleria",
+      "road_geometry": null
+    },
+    {
+      "name": "C\u00f4te Brasserie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5062517,
+      "lon": -0.0835132,
+      "osm_id": 3176893047,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Walk in GP Centre",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.50571,
+      "lon": -0.0853788,
+      "osm_id": 3726486459,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Flight Centre",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 51.5058115,
+      "lon": -0.0838977,
+      "osm_id": 5211002733,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Citi Bike - Lexington Ave & E 120 St",
+      "name": "Costa",
       "category": [
-        "amenity.bicycle_rental"
+        "amenity.cafe"
       ],
-      "lat": 40.8013344,
-      "lon": -73.9397478,
-      "osm_id": 5972695175,
+      "lat": 51.5057301,
+      "lon": -0.0833184,
+      "osm_id": 5211002735,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cafe Piazza",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5056511,
+      "lon": -0.0834278,
+      "osm_id": 5211002736,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cinq",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5054881,
+      "lon": -0.083639,
+      "osm_id": 5211002737,
+      "osm_type": "node",
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tooley Street",
+      "category": [
+        "railway.train_station_entrance"
+      ],
+      "lat": 51.5051359,
+      "lon": -0.084646,
+      "osm_id": 5971818069,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Lexington Avenue & East 122nd Street",
+      "name": "McDonald's",
       "category": [
-        "highway.bus_stop"
+        "amenity.fast_food"
       ],
-      "lat": 40.8021529,
-      "lon": -73.9391604,
-      "osm_id": 5972697935,
+      "lat": 51.5052434,
+      "lon": -0.0849181,
+      "osm_id": 6329192111,
       "osm_type": "node",
-      "address": null,
+      "address": "Tooley Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Wasabi",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5053228,
+      "lon": -0.0850809,
+      "osm_id": 9961024710,
+      "osm_type": "node",
+      "address": "Tooley Street",
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 6,
-    "removed_count": 2,
+    "original_poi_count": 26,
+    "removed_count": 11,
     "model": "gemini-2.5-flash"
   }
 }

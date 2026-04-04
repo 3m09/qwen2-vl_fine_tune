@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/937.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.95089498405709,
+  "bbox": [
+    -73.95238301484324,
+    40.81801801801804,
+    -73.94940695327094,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant",
+    "shop.estate_agent"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "amenity.restaurant": 1,
+    "shop.estate_agent": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Home Sweet Harlem",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8193775,
+      "lon": -73.9522582,
+      "osm_id": 4176537295,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Foxworth Realty",
+      "category": [
+        "shop.estate_agent"
+      ],
+      "lat": 40.8192569,
+      "lon": -73.9522014,
+      "osm_id": 6296848390,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Amsterdam Ave & W 136 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.819764,
+      "lon": -73.9517936,
+      "osm_id": 13226750208,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Convent Ave & W 135 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8182213,
+      "lon": -73.9509889,
+      "osm_id": 13226781006,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

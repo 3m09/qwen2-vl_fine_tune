@@ -1,0 +1,149 @@
+{
+  "image": "dataset/images/321.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.651486484205996,
+  "bbox": [
+    -46.652714985641815,
+    -23.55648648648649,
+    -46.65025798277018,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "shop.chocolate",
+    "amenity.pharmacy",
+    "amenity.cinema",
+    "amenity.cafe",
+    "shop.gift",
+    "shop.clothes",
+    "amenity.bicycle_rental",
+    "amenity.fast_food",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.chocolate": 1,
+    "amenity.pharmacy": 1,
+    "amenity.cinema": 1,
+    "amenity.cafe": 1,
+    "shop.gift": 1,
+    "shop.clothes": 1,
+    "amenity.bicycle_rental": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Tutti Conveni\u00eancias",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": -23.5561698,
+      "lon": -46.6524149,
+      "osm_id": 4967169821,
+      "osm_type": "node",
+      "address": "Rua Barata Ribeiro",
+      "road_geometry": null
+    },
+    {
+      "name": "Espaco Ita\u00fa Cinemas Frei Caneca",
+      "category": [
+        "amenity.cinema"
+      ],
+      "lat": -23.5546872,
+      "lon": -46.652615,
+      "osm_id": 7179057685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Imaginarium",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": -23.554237,
+      "lon": -46.6524113,
+      "osm_id": 9401059753,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Levi's",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": -23.5544389,
+      "lon": -46.6523596,
+      "osm_id": 9711875802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Burger King",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": -23.5543122,
+      "lon": -46.6524059,
+      "osm_id": 9711875808,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cacau Show",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": -23.5542892,
+      "lon": -46.6522293,
+      "osm_id": 9711875809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.5543752,
+      "lon": -46.6521924,
+      "osm_id": 9711932317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Herculano de Freitas",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": -23.5550645,
+      "lon": -46.6520335,
+      "osm_id": 11135386500,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drogaria Nova Bela Vista Pre\u00e7o Popular",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": -23.554424,
+      "lon": -46.6504552,
+      "osm_id": 11727909891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 19,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

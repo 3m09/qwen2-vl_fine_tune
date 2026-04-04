@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/405.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.17095281305747,
+  "bbox": [
+    114.16973583382887,
+    22.2795045045045,
+    114.17216979228608,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "amenity.post_office",
+    "shop.convenience",
+    "amenity.theatre"
+  ],
+  "poi_count_per_category": {
+    "amenity.post_office": 1,
+    "shop.convenience": 1,
+    "amenity.theatre": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "\u6b4c\u5287\u9662 Lyric Theatre",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 22.2804545,
+      "lon": 114.1698119,
+      "osm_id": 5020307659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f14\u594f\u5ef3 Recital Hall",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": 22.2801542,
+      "lon": 114.1698924,
+      "osm_id": 5020314323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u544a\u58eb\u6253\u9053\u90f5\u653f\u5c40 Gloucester Road Post Office",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 22.2797927,
+      "lon": 114.1719997,
+      "osm_id": 5386799343,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a02\u5354\u793e\u5718\u512a\u60e0\u574a Cheers Coop",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2795852,
+      "lon": 114.1719268,
+      "osm_id": 6901684833,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 2,
+    "model": "gemini-2.5-flash"
+  }
+}

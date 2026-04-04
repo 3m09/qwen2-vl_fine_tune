@@ -1,20 +1,129 @@
 {
   "image": "dataset/images/126.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98065756981042,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.8333336633612,
   "bbox": [
-    -73.98214544905576,
-    40.81126126126127,
-    -73.97916969056506,
-    40.81351351351353
+    72.83214314002389,
+    18.93126126126126,
+    72.83452418669852,
+    18.93351351351351
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "amenity.college",
+    "railway.proposed",
+    "amenity.restaurant",
+    "amenity.bank",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.college": 1,
+    "railway.proposed": 1,
+    "amenity.restaurant": 1,
+    "amenity.bank": 4,
+    "shop.supermarket": 1
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Akbarallys",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 18.9321443,
+      "lon": 72.8325032,
+      "osm_id": 669266128,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "ABN AMRO",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323293,
+      "lon": 72.8336634,
+      "osm_id": 2166856493,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HSBC",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323128,
+      "lon": 72.8334299,
+      "osm_id": 2166856495,
+      "osm_type": "node",
+      "address": "Veer Nariman Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Indian Overseas Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323112,
+      "lon": 72.8342104,
+      "osm_id": 2166856496,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab National Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9323575,
+      "lon": 72.8339437,
+      "osm_id": 2166856499,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sir JJ College of Commerce",
+      "category": [
+        "amenity.college"
+      ],
+      "lat": 18.9328461,
+      "lon": 72.8322155,
+      "osm_id": 2168654396,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Apoorva",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9331984,
+      "lon": 72.8344022,
+      "osm_id": 3790273562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Horniman Circle",
+      "category": [
+        "railway.proposed"
+      ],
+      "lat": 18.9321217,
+      "lon": 72.8342863,
+      "osm_id": 12902121991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 42,
+    "removed_count": 34,
     "model": "gemini-2.5-flash"
   }
 }

@@ -1,0 +1,84 @@
+{
+  "image": "dataset/images/1014.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.9360081577238,
+  "bbox": [
+    -73.93749634010233,
+    40.8247747747748,
+    -73.9345199753453,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.library",
+    "shop.convenience"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.library": 3,
+    "shop.convenience": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Macomb's Bridge Branch",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8265379,
+      "lon": -73.9358448,
+      "osm_id": 368050602,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "7th Avenue Deli Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8248282,
+      "lon": -73.9370949,
+      "osm_id": 11748764502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Macomb's Bridge Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8254056,
+      "lon": -73.9359625,
+      "osm_id": 12574419549,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Macomb's Bridge Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8254056,
+      "lon": -73.935961,
+      "osm_id": 12636363656,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Adam Clayton Powell Blvd & W 151 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.825296,
+      "lon": -73.93621,
+      "osm_id": 13244017915,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "image": "dataset/images/987.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.94493912184618,
+  "bbox": [
+    -73.94642725368817,
+    40.82252252252255,
+    -73.94345099000418,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.mobile_phone",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.social_facility",
+    "amenity.bank",
+    "railway.station",
+    "railway.stop",
+    "amenity.fast_food",
+    "amenity.dentist",
+    "amenity.restaurant",
+    "amenity.bureau_de_change",
+    "shop.hairdresser",
+    "amenity.atm",
+    "amenity.school",
+    "shop.tobacco"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.mobile_phone": 1,
+    "highway.bus_stop": 5,
+    "amenity.cafe": 1,
+    "amenity.social_facility": 1,
+    "amenity.bank": 1,
+    "railway.station": 1,
+    "railway.stop": 3,
+    "amenity.fast_food": 3,
+    "amenity.dentist": 1,
+    "amenity.restaurant": 1,
+    "amenity.bureau_de_change": 1,
+    "shop.hairdresser": 2,
+    "amenity.atm": 1,
+    "amenity.school": 1,
+    "shop.tobacco": 1
+  },
+  "poi_count": 25,
+  "pois": [
+    {
+      "name": "Capital One",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8241121,
+      "lon": -73.9444308,
+      "osm_id": 2562438631,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "CFSC",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 40.8237853,
+      "lon": -73.9445884,
+      "osm_id": 2562438636,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Capital One",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 40.8241317,
+      "lon": -73.9444319,
+      "osm_id": 2562438703,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Charles Pan-Fried Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8235771,
+      "lon": -73.9440803,
+      "osm_id": 2768128864,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Boost Mobile",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8237149,
+      "lon": -73.944421,
+      "osm_id": 2768128869,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hamilton Grange Neighborhood Senior Center",
+      "category": [
+        "amenity.social_facility"
+      ],
+      "lat": 40.8243939,
+      "lon": -73.9460172,
+      "osm_id": 2768171719,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8242066,
+      "lon": -73.9456088,
+      "osm_id": 5281909155,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823727,
+      "lon": -73.9450464,
+      "osm_id": 5281913405,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823752,
+      "lon": -73.9443661,
+      "osm_id": 5281913439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8240473,
+      "lon": -73.9445094,
+      "osm_id": 5281913440,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8243166,
+      "lon": -73.9444372,
+      "osm_id": 5281914624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.823244,
+      "lon": -73.945027,
+      "osm_id": 5281914722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8242108,
+      "lon": -73.9446318,
+      "osm_id": 5406632579,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "W Dental",
+      "category": [
+        "amenity.dentist"
+      ],
+      "lat": 40.8243075,
+      "lon": -73.9443398,
+      "osm_id": 6296848389,
+      "osm_type": "node",
+      "address": "Crown Pointe Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8242895,
+      "lon": -73.9447461,
+      "osm_id": 6342093633,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8242433,
+      "lon": -73.9446375,
+      "osm_id": 6342093664,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8242895,
+      "lon": -73.9447453,
+      "osm_id": 7624144929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Academy",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8227941,
+      "lon": -73.9456279,
+      "osm_id": 9851588445,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "A&F Tobacco & Grocery",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 40.8237384,
+      "lon": -73.9444768,
+      "osm_id": 10762002908,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Taqueria El Chiltepin 3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8236682,
+      "lon": -73.9442969,
+      "osm_id": 10762002909,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Halima Shop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.823628,
+      "lon": -73.9443151,
+      "osm_id": 10762002910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Hill Fish Place",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8236462,
+      "lon": -73.9442446,
+      "osm_id": 10762002911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kingston Bakery",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8236254,
+      "lon": -73.9441951,
+      "osm_id": 10762002912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FA Braiding or Weaving",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8234667,
+      "lon": -73.9441098,
+      "osm_id": 10762002913,
+      "osm_type": "node",
+      "address": "Edgecombe Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Edgecombe Ave & W 145 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8234957,
+      "lon": -73.943869,
+      "osm_id": 13226779302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

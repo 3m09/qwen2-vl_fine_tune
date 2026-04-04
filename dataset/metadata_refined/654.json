@@ -1,0 +1,183 @@
+{
+  "image": "dataset/images/654.png",
+  "center_lat": 19.42837837837838,
+  "center_lon": -99.13902943249091,
+  "bbox": [
+    -99.14022354599273,
+    19.427252252252252,
+    -99.13783531898909,
+    19.429504504504504
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "shop.art",
+    "amenity.cafe",
+    "shop.convenience",
+    "shop.musical_instrument",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.copyshop"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "shop.art": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "shop.musical_instrument": 2,
+    "amenity.bar": 2,
+    "amenity.restaurant": 2,
+    "shop.copyshop": 2
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "Restaurante Escuela Z\u00e9firo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4273279,
+      "lon": -99.1380783,
+      "osm_id": 2389871125,
+      "osm_type": "node",
+      "address": "San Jer\u00f3nimo",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Veerkamp Mesones",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 19.4287277,
+      "lon": -99.1386241,
+      "osm_id": 2597837370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cantina La Mascota",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4289238,
+      "lon": -99.1389325,
+      "osm_id": 4533079189,
+      "osm_type": "node",
+      "address": "Bolivar",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Serra",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 19.4285025,
+      "lon": -99.1392003,
+      "osm_id": 5423478445,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Offset Servicio De Corte Maquila",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4277951,
+      "lon": -99.1400513,
+      "osm_id": 5509017048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bar 18",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.42829,
+      "lon": -99.1383876,
+      "osm_id": 5509017058,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Electronica Jade",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 19.4281686,
+      "lon": -99.1398288,
+      "osm_id": 5509017101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Gallerie",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4280997,
+      "lon": -99.1378673,
+      "osm_id": 5509017240,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sellos E Impresiones",
+      "category": [
+        "shop.copyshop"
+      ],
+      "lat": 19.4284398,
+      "lon": -99.1389593,
+      "osm_id": 5509017268,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Bodeguita Musical",
+      "category": [
+        "shop.musical_instrument"
+      ],
+      "lat": 19.4283359,
+      "lon": -99.1392431,
+      "osm_id": 5509017294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jekemir Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 19.4279541,
+      "lon": -99.1384677,
+      "osm_id": 5509017305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tiendas 3B",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4287619,
+      "lon": -99.1398547,
+      "osm_id": 10847430841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 26,
+    "removed_count": 14,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "image": "dataset/images/1255.png",
+  "center_lat": 40.848423423423476,
+  "center_lon": -73.93300903733964,
+  "bbox": [
+    -73.93449772539876,
+    40.84729729729735,
+    -73.93152034928052,
+    40.84954954954961
+  ],
+  "unique_categories": [
+    "amenity.clinic",
+    "amenity.post_office",
+    "shop.yes",
+    "shop.bakery",
+    "amenity.money_transfer",
+    "shop.furniture",
+    "shop.optician",
+    "amenity.library",
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "railway.stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.baby_goods",
+    "shop.clothes",
+    "shop.money_lender",
+    "amenity.pharmacy",
+    "shop.convenience",
+    "shop.telecommunication",
+    "railway.subway_entrance",
+    "railway.station",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "amenity.clinic": 1,
+    "amenity.post_office": 2,
+    "shop.yes": 2,
+    "shop.bakery": 1,
+    "amenity.money_transfer": 1,
+    "shop.furniture": 1,
+    "shop.optician": 1,
+    "amenity.library": 1,
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 5,
+    "railway.stop": 1,
+    "amenity.fast_food": 2,
+    "amenity.restaurant": 6,
+    "shop.baby_goods": 1,
+    "shop.clothes": 2,
+    "shop.money_lender": 1,
+    "amenity.pharmacy": 2,
+    "shop.convenience": 3,
+    "shop.telecommunication": 1,
+    "railway.subway_entrance": 1,
+    "railway.station": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 38,
+  "pois": [
+    {
+      "name": "181st Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8489703,
+      "lon": -73.9340163,
+      "osm_id": 761861657,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "181st Street",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8491117,
+      "lon": -73.9337414,
+      "osm_id": 764734015,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chicken Ranch",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8483931,
+      "lon": -73.9324029,
+      "osm_id": 2797462932,
+      "osm_type": "node",
+      "address": "Audubon Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Grill and Height Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.848329,
+      "lon": -73.931713,
+      "osm_id": 2797462948,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Munchies",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8488894,
+      "lon": -73.9342703,
+      "osm_id": 2797466263,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Elite Eye Care",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8493535,
+      "lon": -73.9334808,
+      "osm_id": 2797469689,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Chick-fil-A",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8495217,
+      "lon": -73.9338827,
+      "osm_id": 2797484788,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "181st Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.849301,
+      "lon": -73.9337563,
+      "osm_id": 4248887012,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 179th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8482422,
+      "lon": -73.9343974,
+      "osm_id": 5384047455,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saint Nicholas Avenue & West 181st Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8491476,
+      "lon": -73.9340021,
+      "osm_id": 5403858699,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Washington Heights USPS Station",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.8484548,
+      "lon": -73.9335543,
+      "osm_id": 5797593001,
+      "osm_type": "node",
+      "address": "West 180th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Washington Bridge USPS Station",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.848494,
+      "lon": -73.932132,
+      "osm_id": 5797595343,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 181st Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8493352,
+      "lon": -73.9340186,
+      "osm_id": 5797636542,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 181st Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8490699,
+      "lon": -73.9333257,
+      "osm_id": 5797637166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 181st Street & Saint Nicholas Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8493041,
+      "lon": -73.9334926,
+      "osm_id": 5797637590,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "V.I.M.",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8491087,
+      "lon": -73.9328536,
+      "osm_id": 8151650887,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fort Washington Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8477877,
+      "lon": -73.9339131,
+      "osm_id": 8151650901,
+      "osm_type": "node",
+      "address": "West 179th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Bubbles Posh Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.848215,
+      "lon": -73.9329297,
+      "osm_id": 11197809342,
+      "osm_type": "node",
+      "address": "Audubon Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8487412,
+      "lon": -73.9339132,
+      "osm_id": 11483937499,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Target",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 40.8493153,
+      "lon": -73.9341175,
+      "osm_id": 11483973697,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Children's Place",
+      "category": [
+        "shop.baby_goods"
+      ],
+      "lat": 40.8492756,
+      "lon": -73.934049,
+      "osm_id": 11484278517,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "181st Street Urgent Care Center",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8487864,
+      "lon": -73.9320975,
+      "osm_id": 11484334629,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Medicine Plus Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8486782,
+      "lon": -73.9318569,
+      "osm_id": 11484345327,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Alexandro Gallery Furniture",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 40.8490684,
+      "lon": -73.9335085,
+      "osm_id": 11484357784,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Antojitos Mexicanos",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8485499,
+      "lon": -73.9315528,
+      "osm_id": 11484390440,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "La Casa de las Fajas",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8489082,
+      "lon": -73.9324068,
+      "osm_id": 11976751709,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esmeraldo Bakery",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 40.848692,
+      "lon": -73.9325705,
+      "osm_id": 11976751710,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Interboro Convenient Store",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8487134,
+      "lon": -73.9326183,
+      "osm_id": 11976751711,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Total Wireless",
+      "category": [
+        "shop.telecommunication"
+      ],
+      "lat": 40.8487284,
+      "lon": -73.9326661,
+      "osm_id": 11976751715,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Extra Jumbo by Antillana",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8487507,
+      "lon": -73.9327096,
+      "osm_id": 11976751717,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Exclusive",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 40.8487904,
+      "lon": -73.9327901,
+      "osm_id": 11976751720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Empanadas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8488,
+      "lon": -73.9328221,
+      "osm_id": 11976751722,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caridad Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8488427,
+      "lon": -73.9329282,
+      "osm_id": 11976751728,
+      "osm_type": "node",
+      "address": "West 181st Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Envlos de Dinero",
+      "category": [
+        "amenity.money_transfer"
+      ],
+      "lat": 40.8488275,
+      "lon": -73.9328857,
+      "osm_id": 11976751729,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Botanica Reyo",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 40.8494633,
+      "lon": -73.9319967,
+      "osm_id": 11976751744,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Heidi Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8485537,
+      "lon": -73.9322687,
+      "osm_id": 11976751749,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CFSC Checks Cashed",
+      "category": [
+        "shop.money_lender"
+      ],
+      "lat": 40.84849,
+      "lon": -73.9323339,
+      "osm_id": 11976751752,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Audubon Ave & W 179 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8473099,
+      "lon": -73.9332984,
+      "osm_id": 13244000317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "dataset/images/712.png",
+  "center_lat": 25.19112612612613,
+  "center_lon": 55.2811781608795,
+  "bbox": [
+    55.27993368696569,
+    25.19,
+    55.282422634793306,
+    25.192252252252253
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "amenity.bicycle_rental",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Manoushe Street,",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 25.1909395,
+      "lon": 55.2814424,
+      "osm_id": 4212609989,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour Express",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 25.1908431,
+      "lon": 55.281385,
+      "osm_id": 4212609990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0643\u0627\u0631\u064a\u0628\u0648 \u0643\u0648\u0641\u064a",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 25.1904452,
+      "lon": 55.2811491,
+      "osm_id": 4212609991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Supercare Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 25.1911874,
+      "lon": 55.2817354,
+      "osm_id": 9488960495,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Careem Bike",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 25.1904181,
+      "lon": 55.2807882,
+      "osm_id": 11355905451,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

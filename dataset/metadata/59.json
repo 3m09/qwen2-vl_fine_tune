@@ -1,777 +1,1118 @@
 {
   "image": "dataset/images/59.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.96578226160955,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3401345720100095,
   "bbox": [
-    -73.96726998936565,
-    40.80450450450451,
-    -73.96429453385343,
-    40.80675675675676
+    2.338423048006673,
+    48.855,
+    2.341846096013346,
+    48.85725225225225
   ],
   "unique_categories": [
-    "amenity.clinic",
-    "shop.chocolate",
-    "shop.clothes",
-    "shop.florist",
-    "amenity.bank",
-    "amenity.library",
-    "shop.mobile_phone",
-    "amenity.post_office",
-    "shop.alcohol",
-    "shop.deli",
-    "tourism.information",
-    "shop.dry_cleaning",
-    "railway.stop",
-    "shop.gift",
-    "shop.optician",
-    "amenity.cafe",
-    "amenity.veterinary",
-    "shop.shoes",
-    "shop.books",
-    "leisure.fitness_centre",
-    "amenity.pharmacy",
     "amenity.restaurant",
-    "shop.stationery",
-    "shop.hairdresser",
-    "highway.bus_stop",
-    "amenity.waste_basket",
+    "shop.gift",
     "shop.houseware",
-    "shop.photo",
-    "amenity.ice_cream",
+    "amenity.cafe",
+    "shop.lighting",
+    "shop.kitchen",
+    "tourism.information",
+    "shop.hairdresser",
     "shop.art",
+    "shop.tea",
+    "amenity.bicycle_rental",
+    "shop.convenience",
+    "highway.bus_stop",
+    "shop.interior_decoration",
+    "shop.flooring",
+    "shop.alcohol",
+    "tourism.gallery",
+    "shop.antiques",
+    "shop.pet_grooming",
     "amenity.fast_food",
-    "amenity.bicycle_rental"
+    "tourism.hotel",
+    "shop.clothes",
+    "amenity.pub",
+    "tourism.artwork",
+    "leisure.games",
+    "shop.fashion_accessories",
+    "amenity.theatre",
+    "shop.furniture",
+    "shop.pastry",
+    "shop.beauty",
+    "tourism.apartment",
+    "amenity.bar",
+    "amenity.drinking_water",
+    "shop.jewelry"
   ],
   "poi_count_per_category": {
-    "amenity.clinic": 2,
-    "shop.chocolate": 1,
-    "shop.clothes": 1,
-    "shop.florist": 1,
-    "amenity.bank": 1,
-    "amenity.library": 1,
-    "shop.mobile_phone": 1,
-    "amenity.post_office": 1,
-    "shop.alcohol": 1,
-    "shop.deli": 2,
-    "tourism.information": 2,
-    "shop.dry_cleaning": 1,
-    "railway.stop": 1,
-    "shop.gift": 1,
-    "shop.optician": 1,
-    "amenity.cafe": 4,
-    "amenity.veterinary": 1,
-    "shop.shoes": 1,
-    "shop.books": 2,
-    "leisure.fitness_centre": 1,
-    "amenity.pharmacy": 1,
-    "amenity.restaurant": 6,
-    "shop.stationery": 1,
-    "shop.hairdresser": 2,
-    "highway.bus_stop": 3,
-    "amenity.waste_basket": 1,
+    "amenity.restaurant": 10,
+    "shop.gift": 4,
     "shop.houseware": 1,
-    "shop.photo": 1,
-    "amenity.ice_cream": 3,
-    "shop.art": 1,
-    "amenity.fast_food": 10,
-    "amenity.bicycle_rental": 1
+    "amenity.cafe": 4,
+    "shop.lighting": 1,
+    "shop.kitchen": 1,
+    "tourism.information": 1,
+    "shop.hairdresser": 1,
+    "shop.art": 18,
+    "shop.tea": 1,
+    "amenity.bicycle_rental": 2,
+    "shop.convenience": 1,
+    "highway.bus_stop": 6,
+    "shop.interior_decoration": 1,
+    "shop.flooring": 1,
+    "shop.alcohol": 1,
+    "tourism.gallery": 1,
+    "shop.antiques": 2,
+    "shop.pet_grooming": 1,
+    "amenity.fast_food": 2,
+    "tourism.hotel": 2,
+    "shop.clothes": 1,
+    "amenity.pub": 1,
+    "tourism.artwork": 1,
+    "leisure.games": 1,
+    "shop.fashion_accessories": 2,
+    "amenity.theatre": 1,
+    "shop.furniture": 2,
+    "shop.pastry": 2,
+    "shop.beauty": 1,
+    "tourism.apartment": 1,
+    "amenity.bar": 9,
+    "amenity.drinking_water": 1,
+    "shop.jewelry": 2
   },
-  "poi_count": 58,
+  "poi_count": 86,
   "pois": [
     {
-      "name": "Le Monde",
+      "name": "Desi Road",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8057782,
-      "lon": -73.9658657,
-      "osm_id": 570912397,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Tom's Restaurant",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8054509,
-      "lon": -73.9654163,
-      "osm_id": 1119244578,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Chipotle",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8045254,
-      "lon": -73.9668001,
-      "osm_id": 1994680555,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Citibank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8050753,
-      "lon": -73.9663899,
-      "osm_id": 1994680556,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Famous Famiglia",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8048337,
-      "lon": -73.9665577,
-      "osm_id": 1994680558,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Duane Reade",
-      "category": [
-        "amenity.pharmacy"
-      ],
-      "lat": 40.8048227,
-      "lon": -73.9658563,
-      "osm_id": 2045635326,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Verizon",
-      "category": [
-        "shop.mobile_phone"
-      ],
-      "lat": 40.8054748,
-      "lon": -73.9661193,
-      "osm_id": 2279017951,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Warby Parker",
-      "category": [
-        "shop.optician"
-      ],
-      "lat": 40.8054161,
-      "lon": -73.966159,
-      "osm_id": 2279017954,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "2nd Street",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8053303,
-      "lon": -73.9662171,
-      "osm_id": 2279017959,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Five Guys",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8045972,
-      "lon": -73.9667436,
-      "osm_id": 2312065727,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Morningside Heights",
-      "category": [
-        "amenity.library"
-      ],
-      "lat": 40.806122,
-      "lon": -73.9649202,
-      "osm_id": 2631399309,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Upside Pizza",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8052453,
-      "lon": -73.9655826,
-      "osm_id": 2707985415,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Tea Magic",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8052024,
-      "lon": -73.9656144,
-      "osm_id": 2707987524,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Skipper's",
-      "category": [
-        "shop.gift"
-      ],
-      "lat": 40.8051665,
-      "lon": -73.9656391,
-      "osm_id": 2707987778,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Janoff's Stationery",
-      "category": [
-        "shop.stationery"
-      ],
-      "lat": 40.8050612,
-      "lon": -73.9657154,
-      "osm_id": 2707988185,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Paul's Shoe Repair",
-      "category": [
-        "shop.shoes"
-      ],
-      "lat": 40.8050158,
-      "lon": -73.9657481,
-      "osm_id": 2707989156,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Universal Barber Shop",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.804987,
-      "lon": -73.9657675,
-      "osm_id": 2707989225,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "USPS - Columbia University Station",
-      "category": [
-        "amenity.post_office"
-      ],
-      "lat": 40.8049769,
-      "lon": -73.9649093,
-      "osm_id": 2707989759,
+      "lat": 48.8556694,
+      "lon": 2.3399888,
+      "osm_id": 251652822,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Book Culture",
+      "name": "Fontaine Wallace",
       "category": [
-        "shop.books"
+        "amenity.drinking_water",
+        "tourism.artwork"
       ],
-      "lat": 40.8050208,
-      "lon": -73.9650084,
-      "osm_id": 2707989850,
+      "lat": 48.8560751,
+      "lon": 2.3406591,
+      "osm_id": 503665264,
       "osm_type": "node",
-      "address": "West 112th Street",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Panda Express",
+      "name": "La Place Dauphine",
       "category": [
-        "amenity.fast_food"
+        "tourism.apartment"
       ],
-      "lat": 40.8045839,
-      "lon": -73.9660698,
-      "osm_id": 2765266905,
+      "lat": 48.8567102,
+      "lon": 2.3418162,
+      "osm_id": 676748293,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Hiit The Deck",
-      "category": [
-        "leisure.fitness_centre"
-      ],
-      "lat": 40.8051251,
-      "lon": -73.965666,
-      "osm_id": 2765322377,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Sapps",
+      "name": "Ma Salle \u00e0 Manger",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8055983,
-      "lon": -73.9653069,
-      "osm_id": 2765363739,
+      "lat": 48.8569154,
+      "lon": 2.3418192,
+      "osm_id": 676748378,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Milano Market",
-      "category": [
-        "shop.deli"
-      ],
-      "lat": 40.8057016,
-      "lon": -73.9652302,
-      "osm_id": 2765363743,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Pinkberry",
-      "category": [
-        "amenity.ice_cream"
-      ],
-      "lat": 40.8046575,
-      "lon": -73.9666962,
-      "osm_id": 2796437587,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Jack's Art Gallery",
-      "category": [
-        "shop.art"
-      ],
-      "lat": 40.8047518,
-      "lon": -73.9666221,
-      "osm_id": 2796437588,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Bond Vet",
-      "category": [
-        "amenity.veterinary"
-      ],
-      "lat": 40.8052808,
-      "lon": -73.9662507,
-      "osm_id": 2796437592,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Just Salad",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8046991,
-      "lon": -73.9666635,
-      "osm_id": 2796437602,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Community Food & Juice",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8059481,
-      "lon": -73.9657438,
-      "osm_id": 2796448525,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Blue Bottle Coffee",
+      "name": "Le Nesle",
       "category": [
         "amenity.cafe"
       ],
-      "lat": 40.8062968,
-      "lon": -73.9654905,
-      "osm_id": 2796448528,
+      "lat": 48.8551444,
+      "lon": 2.3395098,
+      "osm_id": 777037844,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Dos Toros Restaurant",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8065919,
-      "lon": -73.9652699,
-      "osm_id": 2796448529,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Book Culture",
-      "category": [
-        "shop.books"
-      ],
-      "lat": 40.806712,
-      "lon": -73.9651801,
-      "osm_id": 2796448532,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Bon French Cleaners",
-      "category": [
-        "shop.dry_cleaning"
-      ],
-      "lat": 40.8056458,
-      "lon": -73.9659588,
-      "osm_id": 2796448537,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway & West 112th Street",
+      "name": "Pont Neuf - Quai des Orf\u00e8vres",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8053344,
-      "lon": -73.9660901,
-      "osm_id": 3271250928,
+      "lat": 48.8565991,
+      "lon": 2.3414912,
+      "osm_id": 2039737162,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Broadway & West 114th St",
+      "name": "Pont Neuf - Quai des Grands Augustins",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8065838,
-      "lon": -73.9651815,
-      "osm_id": 3271250929,
+      "lat": 48.8558899,
+      "lon": 2.3408768,
+      "osm_id": 2043615213,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Cathedral Parkway\u2013110th Street",
+      "name": "Th\u00e9\u00e2tre de Nesle",
       "category": [
-        "railway.stop"
+        "amenity.theatre"
       ],
-      "lat": 40.8048495,
-      "lon": -73.9661628,
-      "osm_id": 4460385048,
+      "lat": 48.8552492,
+      "lon": 2.3391068,
+      "osm_id": 2064779342,
       "osm_type": "node",
-      "address": null,
+      "address": "Rue de Nesle",
       "road_geometry": null
     },
     {
-      "name": "Oren's Daily Roast",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8055083,
-      "lon": -73.9653737,
-      "osm_id": 5852314821,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Flowers by Valli",
-      "category": [
-        "shop.florist"
-      ],
-      "lat": 40.8056854,
-      "lon": -73.9659335,
-      "osm_id": 5924114806,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "The Heights Bar & Grill",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.805184,
-      "lon": -73.9664024,
-      "osm_id": 5984378186,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Dig",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8055514,
-      "lon": -73.9653417,
-      "osm_id": 6904407682,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Trash Can Recycle",
-      "category": [
-        "amenity.waste_basket"
-      ],
-      "lat": 40.8059267,
-      "lon": -73.9652007,
-      "osm_id": 7004346064,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "LinkNYC",
-      "category": [
-        "tourism.information"
-      ],
-      "lat": 40.8054805,
-      "lon": -73.9655265,
-      "osm_id": 7004367801,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "LinkNYC",
-      "category": [
-        "tourism.information"
-      ],
-      "lat": 40.8059316,
-      "lon": -73.9650795,
-      "osm_id": 7004367803,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway & West 113th Street",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8062593,
-      "lon": -73.9649526,
-      "osm_id": 7004367806,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "University Hardwares & Housewares",
-      "category": [
-        "shop.houseware"
-      ],
-      "lat": 40.8062043,
-      "lon": -73.964859,
-      "osm_id": 7004374424,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Wu + Nussbaum",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8060976,
-      "lon": -73.9656359,
-      "osm_id": 7004392888,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "BanBan Shop",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8064913,
-      "lon": -73.9653451,
-      "osm_id": 7004416095,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "H\u00e4agen-Dazs",
-      "category": [
-        "amenity.ice_cream"
-      ],
-      "lat": 40.8064174,
-      "lon": -73.9654003,
-      "osm_id": 7004443655,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "International Wine & Spirits",
-      "category": [
-        "shop.alcohol"
-      ],
-      "lat": 40.8063797,
-      "lon": -73.9654286,
-      "osm_id": 7004443656,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Qahwah House",
-      "category": [
-        "amenity.cafe"
-      ],
-      "lat": 40.8052243,
-      "lon": -73.966289,
-      "osm_id": 9409060624,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Samad's Gourmet",
-      "category": [
-        "shop.deli"
-      ],
-      "lat": 40.8051641,
-      "lon": -73.9663298,
-      "osm_id": 9409060625,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Liz Green Photography",
-      "category": [
-        "shop.photo"
-      ],
-      "lat": 40.8058025,
-      "lon": -73.966976,
-      "osm_id": 10755918454,
-      "osm_type": "node",
-      "address": "Riverside Drive",
-      "road_geometry": null
-    },
-    {
-      "name": "Junzi Kitchen",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8057904,
-      "lon": -73.9651642,
-      "osm_id": 11399303946,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Salon 601",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8057347,
-      "lon": -73.9661711,
-      "osm_id": 11410862563,
-      "osm_type": "node",
-      "address": "West 112th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Mondel Chocolates",
-      "category": [
-        "shop.chocolate"
-      ],
-      "lat": 40.8066696,
-      "lon": -73.9652118,
-      "osm_id": 11416148913,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - W 113 St & Broadway",
+      "name": "Pont de Lodi - Dauphine",
       "category": [
         "amenity.bicycle_rental"
       ],
-      "lat": 40.8059356,
-      "lon": -73.9648388,
-      "osm_id": 11817909915,
+      "lat": 48.8552856,
+      "lon": 2.3399457,
+      "osm_id": 2279282604,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Mount Sinai Doctors",
+      "name": "Le Cavern",
       "category": [
-        "amenity.clinic"
+        "amenity.bar"
       ],
-      "lat": 40.8053475,
-      "lon": -73.9663219,
-      "osm_id": 12174237440,
+      "lat": 48.8551759,
+      "lon": 2.3398323,
+      "osm_id": 2305979353,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Softside Ice Cream",
+      "name": "Khao Thai",
       "category": [
-        "amenity.ice_cream"
+        "amenity.restaurant"
       ],
-      "lat": 40.8052307,
-      "lon": -73.9655203,
-      "osm_id": 12763331031,
+      "lat": 48.8556443,
+      "lon": 2.3402112,
+      "osm_id": 3145951757,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Oula",
+      "name": "H\u00f4tel de Nesle",
       "category": [
-        "amenity.clinic"
+        "tourism.hotel"
       ],
-      "lat": 40.8054681,
-      "lon": -73.9662253,
-      "osm_id": 13021710899,
+      "lat": 48.8551761,
+      "lon": 2.3389821,
+      "osm_id": 4194066289,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Restaurant Guy Savoy",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8565393,
+      "lon": 2.3395348,
+      "osm_id": 4449907191,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Excellence Rhum",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 48.8555096,
+      "lon": 2.3398806,
+      "osm_id": 4569466043,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai des Grands Augustins",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8558867,
+      "lon": 2.3403487,
+      "osm_id": 4853868192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai des Grands Augustins",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8562509,
+      "lon": 2.3395045,
+      "osm_id": 4920983804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Quiz Room",
+      "category": [
+        "leisure.games"
+      ],
+      "lat": 48.8561009,
+      "lon": 2.3394513,
+      "osm_id": 4986721614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sp\u00edti Sou",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.85524,
+      "lon": 2.3413595,
+      "osm_id": 4986721620,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "AT Bauer",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8559495,
+      "lon": 2.3391698,
+      "osm_id": 4986723721,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Galerie Da-end",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855781,
+      "lon": 2.3388621,
+      "osm_id": 4986750552,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Camille Pouyfaucon",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557015,
+      "lon": 2.3387115,
+      "osm_id": 4986750553,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Indian Heritage",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556163,
+      "lon": 2.338571,
+      "osm_id": 4986750554,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ze Kitchen Galerie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8550884,
+      "lon": 2.3412458,
+      "osm_id": 5041151709,
+      "osm_type": "node",
+      "address": "Rue des Grands Augustins",
+      "road_geometry": null
+    },
+    {
+      "name": "Chez Nous",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8558121,
+      "lon": 2.3401304,
+      "osm_id": 5149386622,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fluctuat",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8568003,
+      "lon": 2.3415189,
+      "osm_id": 5222745902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taverne Henry IV",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.856999,
+      "lon": 2.3416017,
+      "osm_id": 5222776521,
+      "osm_type": "node",
+      "address": "Place du Pont Neuf",
+      "road_geometry": null
+    },
+    {
+      "name": "MFF Galerie",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.855604,
+      "lon": 2.3399573,
+      "osm_id": 5300778023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Volver",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8553465,
+      "lon": 2.3397498,
+      "osm_id": 5455546921,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "L\u2019Assignat",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8561481,
+      "lon": 2.3395406,
+      "osm_id": 5610209421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Highlander",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 48.856041,
+      "lon": 2.3398038,
+      "osm_id": 5864951036,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Quai de l'Horloge - Pont Neuf",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8570865,
+      "lon": 2.3417635,
+      "osm_id": 5964620983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai des Orf\u00e8vres",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.856492,
+      "lon": 2.3416166,
+      "osm_id": 6282317293,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Frapp\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8563147,
+      "lon": 2.3394806,
+      "osm_id": 6953456128,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Boutique de la Monnaie de Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8561012,
+      "lon": 2.33914,
+      "osm_id": 6953456129,
+      "osm_type": "node",
+      "address": "Rue Gu\u00e9n\u00e9gaud",
+      "road_geometry": null
+    },
+    {
+      "name": "La Cr\u00eaperie du Pont-Neuf",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8550439,
+      "lon": 2.3397193,
+      "osm_id": 7041797696,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Le Dauphine",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8554106,
+      "lon": 2.3400172,
+      "osm_id": 7041797698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lap\u00e9rouse",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8551198,
+      "lon": 2.3415336,
+      "osm_id": 7124772485,
+      "osm_type": "node",
+      "address": "Quai des Grands Augustins",
+      "road_geometry": null
+    },
+    {
+      "name": "Laouz",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 48.8552363,
+      "lon": 2.3396501,
+      "osm_id": 7297081191,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Patrizia Pilotti",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 48.855204,
+      "lon": 2.3398535,
+      "osm_id": 7726922071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oona",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 48.8552651,
+      "lon": 2.3398995,
+      "osm_id": 7726922082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kamel Mennour",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8552821,
+      "lon": 2.3401513,
+      "osm_id": 7726940989,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Perahia",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8550098,
+      "lon": 2.3394008,
+      "osm_id": 7726940997,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citadines",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8555342,
+      "lon": 2.3409339,
+      "osm_id": 7948700804,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pont Neuf - Quai des Grands Augustins",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8558467,
+      "lon": 2.3409542,
+      "osm_id": 8050360406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bonjour de Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8556839,
+      "lon": 2.3407158,
+      "osm_id": 8261519816,
+      "osm_type": "node",
+      "address": "Quai des Grands Augustins",
+      "road_geometry": null
+    },
+    {
+      "name": "Sur le Pont-Neuf",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 48.8561104,
+      "lon": 2.3406955,
+      "osm_id": 8493135675,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Wistaria",
+      "category": [
+        "shop.tea"
+      ],
+      "lat": 48.8553391,
+      "lon": 2.3400688,
+      "osm_id": 9046116474,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Souvenirs de Paris",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8557039,
+      "lon": 2.3402547,
+      "osm_id": 9142421343,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mizen",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8557684,
+      "lon": 2.3403188,
+      "osm_id": 9142421344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ha Noi 1988",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8567492,
+      "lon": 2.3415609,
+      "osm_id": 9204327817,
+      "osm_type": "node",
+      "address": "Quai des Orf\u00e8vres",
+      "road_geometry": null
+    },
+    {
+      "name": "Alain Ellouz",
+      "category": [
+        "shop.lighting"
+      ],
+      "lat": 48.8556156,
+      "lon": 2.3408141,
+      "osm_id": 9798490192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fajitas",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.85549,
+      "lon": 2.3400797,
+      "osm_id": 9887690189,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "C' Trop B\u00fan",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 48.8550947,
+      "lon": 2.3397577,
+      "osm_id": 9887690192,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kar\u00e9",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8557453,
+      "lon": 2.3400768,
+      "osm_id": 9887754013,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ban Tha\u00ef Spa",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 48.8553068,
+      "lon": 2.3396971,
+      "osm_id": 10019638986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rapha\u00ebl Bedos",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8570586,
+      "lon": 2.3416479,
+      "osm_id": 10019638990,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Philippe Conticini",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 48.8567651,
+      "lon": 2.341762,
+      "osm_id": 10052528915,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pet So Chic",
+      "category": [
+        "shop.pet_grooming"
+      ],
+      "lat": 48.8555511,
+      "lon": 2.3399139,
+      "osm_id": 10746322386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Genki",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8551383,
+      "lon": 2.3397992,
+      "osm_id": 10746322397,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paris Souvenir",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 48.8553825,
+      "lon": 2.3397763,
+      "osm_id": 10746322398,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "French Express Market",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 48.8552584,
+      "lon": 2.3396719,
+      "osm_id": 10746357508,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ekinox",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8552032,
+      "lon": 2.3396263,
+      "osm_id": 10746357511,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dobkine",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554263,
+      "lon": 2.3411081,
+      "osm_id": 10869266092,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Deco Art Floor",
+      "category": [
+        "shop.flooring"
+      ],
+      "lat": 48.8553032,
+      "lon": 2.3412825,
+      "osm_id": 10869266093,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carl Hansen & S\u00f8n",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 48.8553657,
+      "lon": 2.3411929,
+      "osm_id": 10869266097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9tat de Si\u00e8ge",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8559535,
+      "lon": 2.3401882,
+      "osm_id": 11850786968,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luc Allemand",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8555939,
+      "lon": 2.3385211,
+      "osm_id": 11918835846,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Porte du Ciel",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556412,
+      "lon": 2.3386167,
+      "osm_id": 11918835856,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Avenir",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8557459,
+      "lon": 2.3387957,
+      "osm_id": 11918835857,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Catier",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8556667,
+      "lon": 2.338664,
+      "osm_id": 11918835860,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cormier",
+      "category": [
+        "shop.kitchen"
+      ],
+      "lat": 48.8562323,
+      "lon": 2.3399745,
+      "osm_id": 11937604606,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sentiments",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8561958,
+      "lon": 2.3396304,
+      "osm_id": 11937604613,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Seine Priv\u00e9e",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 48.8555815,
+      "lon": 2.3401637,
+      "osm_id": 11937604614,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "John Ferr\u00e8re",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8554698,
+      "lon": 2.3398441,
+      "osm_id": 11937604617,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agn\u00e8s Nord",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8560265,
+      "lon": 2.3393112,
+      "osm_id": 11937604618,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c9g\u00e9e",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8556027,
+      "lon": 2.3401845,
+      "osm_id": 11937604621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cabinet Marcilhac",
+      "category": [
+        "shop.antiques"
+      ],
+      "lat": 48.8551015,
+      "lon": 2.3391659,
+      "osm_id": 11937604634,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lehmann",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 48.8560035,
+      "lon": 2.3401204,
+      "osm_id": 11937604639,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mizen",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8558602,
+      "lon": 2.3404472,
+      "osm_id": 11937604640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Elsa Meunier",
+      "category": [
+        "tourism.gallery"
+      ],
+      "lat": 48.8558967,
+      "lon": 2.339068,
+      "osm_id": 11937604642,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maison Rapin",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8563114,
+      "lon": 2.3398531,
+      "osm_id": 11937604643,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maglone",
+      "category": [
+        "shop.fashion_accessories"
+      ],
+      "lat": 48.8555437,
+      "lon": 2.340132,
+      "osm_id": 11937604647,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Babel",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8559154,
+      "lon": 2.3391048,
+      "osm_id": 11937604649,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ni Une Ni Deux",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 48.8557041,
+      "lon": 2.3400205,
+      "osm_id": 13052165901,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kamel Mennour",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 48.8551479,
+      "lon": 2.3400575,
+      "osm_id": 13071252031,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jeanne Danjou & Rousselet",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 48.8568511,
+      "lon": 2.341456,
+      "osm_id": 13073390698,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ]

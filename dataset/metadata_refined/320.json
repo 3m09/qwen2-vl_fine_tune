@@ -1,0 +1,49 @@
+{
+  "image": "dataset/images/320.png",
+  "center_lat": -23.555360360360364,
+  "center_lon": -46.65394348707763,
+  "bbox": [
+    -46.65517198851345,
+    -23.55648648648649,
+    -46.652714985641815,
+    -23.55423423423424
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Kome",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5548677,
+      "lon": -46.6548254,
+      "osm_id": 11809937224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Madadayo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5547278,
+      "lon": -46.6549422,
+      "osm_id": 11931420589,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

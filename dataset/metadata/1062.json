@@ -1,0 +1,72 @@
+{
+  "image": "dataset/images/1062.png",
+  "center_lat": 40.830405405405436,
+  "center_lon": -73.93600381084363,
+  "bbox": [
+    -73.93749209431239,
+    40.82927927927931,
+    -73.93451552737488,
+    40.83153153153157
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "highway.bus_stop": 1,
+    "railway.station": 1
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "155th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8303452,
+      "lon": -73.9367102,
+      "osm_id": 2013618449,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & Harlem River Drive",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8306522,
+      "lon": -73.9363675,
+      "osm_id": 6899386344,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Frederick Douglass Blvd & Harlem River Dr",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8306992,
+      "lon": -73.9363682,
+      "osm_id": 13244021219,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 155 St & Frederick Douglass Blvd",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8292902,
+      "lon": -73.9370924,
+      "osm_id": 13244039605,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "image": "dataset/images/383.png",
+  "center_lat": 22.276126126126126,
+  "center_lon": 114.17095246030247,
+  "bbox": [
+    114.16973552026886,
+    22.275,
+    114.17216940033607,
+    22.27725225225225
+  ],
+  "unique_categories": [
+    "shop.shoes",
+    "tourism.guest_house",
+    "shop.hardware",
+    "highway.bus_stop",
+    "shop.furniture",
+    "shop.convenience",
+    "shop.jewelry",
+    "amenity.cafe",
+    "amenity.restaurant",
+    "shop.hairdresser",
+    "amenity.bar",
+    "shop.clothes",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "railway.tram_stop",
+    "shop.bed",
+    "shop.boutique",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "shop.shoes": 1,
+    "tourism.guest_house": 1,
+    "shop.hardware": 2,
+    "highway.bus_stop": 11,
+    "shop.furniture": 2,
+    "shop.convenience": 2,
+    "shop.jewelry": 1,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 21,
+    "shop.hairdresser": 2,
+    "amenity.bar": 1,
+    "shop.clothes": 1,
+    "amenity.fast_food": 2,
+    "shop.supermarket": 1,
+    "railway.tram_stop": 2,
+    "shop.bed": 1,
+    "shop.boutique": 1,
+    "shop.beauty": 1
+  },
+  "poi_count": 54,
+  "pois": [
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2771621,
+      "lon": 114.1704562,
+      "osm_id": 1298359467,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2760552,
+      "lon": 114.1703361,
+      "osm_id": 1298359471,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "La Cr\u00eaperie Wan Chai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2763007,
+      "lon": 114.1700489,
+      "osm_id": 2089466239,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "\u76e7\u62bc\u9053 Luard Road",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.2764398,
+      "lon": 114.1719788,
+      "osm_id": 2498627259,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c55\u982d\u8857 Swatow Street",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 22.276429,
+      "lon": 114.1720986,
+      "osm_id": 2498627289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u60e0\u5eb7 Wellcome",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2771084,
+      "lon": 114.1700411,
+      "osm_id": 2706145340,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u7576\u52de McDonald's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.276331,
+      "lon": 114.1720505,
+      "osm_id": 3665650017,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u68b3\u5316\u5009 Sofamark",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.2757638,
+      "lon": 114.1703596,
+      "osm_id": 4168594589,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "\u806f\u767c\u8857 Lun Fat Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2760014,
+      "lon": 114.1701332,
+      "osm_id": 4359039659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ec8\u9580\u8857 Amoy Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2753459,
+      "lon": 114.1713885,
+      "osm_id": 4361279409,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u806f\u767c\u8857 Lun Fat Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2761559,
+      "lon": 114.1701376,
+      "osm_id": 4361279416,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kam Tak Mansion",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 22.276571,
+      "lon": 114.1698085,
+      "osm_id": 4578698989,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Chilli Paste",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.276131,
+      "lon": 114.1721127,
+      "osm_id": 4695223798,
+      "osm_type": "node",
+      "address": "\u5ec8\u9580\u8857 Amoy Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9127\u8a18 Deng G",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2751373,
+      "lon": 114.1713675,
+      "osm_id": 4856256157,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Alice Pizza",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2764038,
+      "lon": 114.1698646,
+      "osm_id": 4856336725,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Zoom",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2763559,
+      "lon": 114.1699374,
+      "osm_id": 4856336726,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Ellis",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2760026,
+      "lon": 114.1704074,
+      "osm_id": 4856347173,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Sealy Gallery",
+      "category": [
+        "shop.bed"
+      ],
+      "lat": 22.2757139,
+      "lon": 114.1708219,
+      "osm_id": 4856347184,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Cegag's",
+      "category": [
+        "shop.boutique"
+      ],
+      "lat": 22.2756394,
+      "lon": 114.1709459,
+      "osm_id": 4856347190,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Charment",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2755006,
+      "lon": 114.1712255,
+      "osm_id": 4856362596,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Head",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2766928,
+      "lon": 114.1711934,
+      "osm_id": 4857802432,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u806f\u767c\u8857 Lun Fat Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2761355,
+      "lon": 114.1701636,
+      "osm_id": 5306340655,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u806f\u767c\u8857 Lun Fat Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2759962,
+      "lon": 114.1701399,
+      "osm_id": 5306340656,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ec8\u9580\u8857 Amoy Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2752602,
+      "lon": 114.1715402,
+      "osm_id": 5306340658,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ec8\u9580\u8857 Amoy Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2752943,
+      "lon": 114.1714799,
+      "osm_id": 5306340659,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sophia Loren Pizzeria",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2763073,
+      "lon": 114.1713915,
+      "osm_id": 5470880723,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "PINTXOS by b\u00e0rbar",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.27591,
+      "lon": 114.170837,
+      "osm_id": 5718651722,
+      "osm_type": "node",
+      "address": "\u8239\u8857 Ship Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u5927\u9053\u6771186\u865f 186 Queen's Road East",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2752471,
+      "lon": 114.1715635,
+      "osm_id": 6276290785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u540e\u5927\u9053\u6771186\u865f 186 Queen's Road East",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2753876,
+      "lon": 114.1713146,
+      "osm_id": 6276290885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2765291,
+      "lon": 114.1720814,
+      "osm_id": 6290943085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Decor8 Modern Furniture",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 22.2772022,
+      "lon": 114.1707987,
+      "osm_id": 6437814092,
+      "osm_type": "node",
+      "address": "\u8b5a\u81e3\u9053 Thomson Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Five Guys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2763404,
+      "lon": 114.1711958,
+      "osm_id": 6748884785,
+      "osm_type": "node",
+      "address": "\u838a\u58eb\u6566\u9053 Johnston Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u597d\u6771\u897f Goodies",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2753775,
+      "lon": 114.1709355,
+      "osm_id": 6788818056,
+      "osm_type": "node",
+      "address": "\u7687\u540e\u5927\u9053\u6771 Queen's Road East",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Napoli",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2757449,
+      "lon": 114.1713223,
+      "osm_id": 6788818057,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bakehouse",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.275874,
+      "lon": 114.1714046,
+      "osm_id": 6788818059,
+      "osm_type": "node",
+      "address": "\u5927\u738b\u6771\u8857 Tai Wong Street East",
+      "road_geometry": null
+    },
+    {
+      "name": "Asado",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2760595,
+      "lon": 114.1715165,
+      "osm_id": 6789718735,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Thaiwan",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2755876,
+      "lon": 114.1718502,
+      "osm_id": 6794764503,
+      "osm_type": "node",
+      "address": "\u5ec8\u9580\u8857 Amoy Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u995e\u53f0\u5f0f\u98df\u5802 Chan Taiwan Cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2760264,
+      "lon": 114.1720626,
+      "osm_id": 6794764510,
+      "osm_type": "node",
+      "address": "\u5ec8\u9580\u8857 Amoy Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Flat Iron Steak",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2771806,
+      "lon": 114.1699034,
+      "osm_id": 6820139266,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u6689\u5efa\u6750",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 22.2756689,
+      "lon": 114.1715442,
+      "osm_id": 6824578063,
+      "osm_type": "node",
+      "address": "\u6c55\u982d\u8857 Swatow Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Holy Gaw",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2757562,
+      "lon": 114.1716005,
+      "osm_id": 6824578067,
+      "osm_type": "node",
+      "address": "\u6c55\u982d\u8857 Swatow Street",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5eb7\u8aa0\u88dd\u4fee\u6c34\u96fb\u5de5\u7a0b",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 22.2755482,
+      "lon": 114.1716465,
+      "osm_id": 6824578069,
+      "osm_type": "node",
+      "address": "\u6c55\u982d\u8857 Swatow Street",
+      "road_geometry": null
+    },
+    {
+      "name": "La Cremerie",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2754999,
+      "lon": 114.1716224,
+      "osm_id": 6824578071,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7b11\u5bb4\u5c45\u9152\u5c4b Sho-en Izakaya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.275211,
+      "lon": 114.1719298,
+      "osm_id": 6857211719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Luxus",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 22.2755753,
+      "lon": 114.1706361,
+      "osm_id": 6857211720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7d05\u57ce Red City",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769471,
+      "lon": 114.1703086,
+      "osm_id": 6956526851,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u806f\u767c\u8857 Lun Fat Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2759843,
+      "lon": 114.1701551,
+      "osm_id": 6956526870,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Blue Hair",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2771205,
+      "lon": 114.1713467,
+      "osm_id": 7016155428,
+      "osm_type": "node",
+      "address": "\u8b5a\u81e3\u9053 Thomson Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7058\u4e94\u9109 Nadagogo",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2760532,
+      "lon": 114.1709287,
+      "osm_id": 7053732339,
+      "osm_type": "node",
+      "address": "\u8239\u8857 Ship Street",
+      "road_geometry": null
+    },
+    {
+      "name": "JOM",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.275754,
+      "lon": 114.1711716,
+      "osm_id": 12165336068,
+      "osm_type": "node",
+      "address": "\u5927\u738b\u6771\u8857 Tai Wong Street East",
+      "road_geometry": null
+    },
+    {
+      "name": "\u51a0\u4e00\u71d2\u5473",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2769701,
+      "lon": 114.1712054,
+      "osm_id": 12358888798,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papa Deli",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2765558,
+      "lon": 114.1700253,
+      "osm_id": 12358913862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ee3\u9eb5\u5b50 Guang Mein Zi Noodle",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2756168,
+      "lon": 114.1712416,
+      "osm_id": 12772070702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Joa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2762394,
+      "lon": 114.1710273,
+      "osm_id": 12772070703,
+      "osm_type": "node",
+      "address": "\u8239\u8857 Ship Street",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 154,
+    "removed_count": 100,
+    "model": "gemini-2.5-flash"
+  }
+}

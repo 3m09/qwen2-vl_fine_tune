@@ -1,0 +1,877 @@
+{
+  "image": "dataset/images/493.png",
+  "center_lat": 22.29864864864864,
+  "center_lon": 114.17095422498181,
+  "bbox": [
+    114.16973708887272,
+    22.297522522522513,
+    114.1721713610909,
+    22.299774774774765
+  ],
+  "unique_categories": [
+    "shop.books",
+    "shop.food",
+    "amenity.restaurant",
+    "shop.camera",
+    "amenity.cafe",
+    "tourism.hostel",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "highway.bus_stop",
+    "amenity.fast_food",
+    "shop.clothes",
+    "amenity.bus_station",
+    "tourism.artwork",
+    "shop.bookmaker",
+    "shop.craft",
+    "shop.nutrition_supplements",
+    "shop.chemist",
+    "shop.golf",
+    "shop.bag",
+    "shop.beauty",
+    "shop.watches",
+    "shop.pastry",
+    "amenity.pharmacy",
+    "shop.cosmetics",
+    "shop.bakery",
+    "shop.shoes",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.books": 1,
+    "shop.food": 1,
+    "amenity.restaurant": 14,
+    "shop.camera": 1,
+    "amenity.cafe": 2,
+    "tourism.hostel": 3,
+    "railway.subway_entrance": 1,
+    "shop.convenience": 2,
+    "highway.bus_stop": 11,
+    "amenity.fast_food": 1,
+    "shop.clothes": 2,
+    "amenity.bus_station": 1,
+    "tourism.artwork": 2,
+    "shop.bookmaker": 1,
+    "shop.craft": 1,
+    "shop.nutrition_supplements": 1,
+    "shop.chemist": 2,
+    "shop.golf": 1,
+    "shop.bag": 3,
+    "shop.beauty": 1,
+    "shop.watches": 2,
+    "shop.pastry": 2,
+    "amenity.pharmacy": 1,
+    "shop.cosmetics": 2,
+    "shop.bakery": 2,
+    "shop.shoes": 1,
+    "shop.jewelry": 6
+  },
+  "poi_count": 67,
+  "pois": [
+    {
+      "name": "\u4e5d\u9f8d\u516c\u5712 Kowloon Park",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2983158,
+      "lon": 114.1719412,
+      "osm_id": 1952510747,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u9632\u9053 Haiphong Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2976366,
+      "lon": 114.1720447,
+      "osm_id": 2512209257,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5496\u5561\u5f04 Coffee Alley",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.297609,
+      "lon": 114.1711674,
+      "osm_id": 2594875206,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u6e05\u771f\u5bfa Kowloon Mosque",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2987433,
+      "lon": 114.1719942,
+      "osm_id": 3912040161,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u5f69\u8679\u65c5\u9928 Rainbow Lodge Hong Kong",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2979853,
+      "lon": 114.1719064,
+      "osm_id": 4066472131,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u860b\u679c\u65c5\u9928 Apple Inn Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2979419,
+      "lon": 114.1719093,
+      "osm_id": 4221323099,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5fb7\u767c\u725b\u4e38\u7c89\u9eb5 Tak Fat Beef Ball",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2978753,
+      "lon": 114.1700775,
+      "osm_id": 4264449398,
+      "osm_type": "node",
+      "address": "Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c60\u8a18 Chee Kei",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2979245,
+      "lon": 114.1716105,
+      "osm_id": 4275696596,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6fb3\u9580\u8336\u9910\u5ef3 Macau Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2975748,
+      "lon": 114.1716343,
+      "osm_id": 4275838689,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f11\u9591\u5c0f\u7aa9 Urban Pack Hostel",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 22.2980286,
+      "lon": 114.1719034,
+      "osm_id": 4375047986,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7965\u8208\u8a18\u4e0a\u6d77\u751f\u714e\u5305 Cheung Hing Kee Shanghai Pan-fried Buns",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.297777,
+      "lon": 114.1716205,
+      "osm_id": 4416615094,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hungry Korean",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2975384,
+      "lon": 114.1705501,
+      "osm_id": 4780334822,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u516d\u798f\u73e0\u5bf6 Lukfook Jewellery",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2980754,
+      "lon": 114.1719602,
+      "osm_id": 4848052039,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Alchemy Beauty \u827e\u5361\u7f8e\u7f8e\u5bb9",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 22.2975408,
+      "lon": 114.1709268,
+      "osm_id": 4849843760,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u8cfd\u99ac\u6703 The Hong Kong Jockey Club",
+      "category": [
+        "shop.bookmaker"
+      ],
+      "lat": 22.2975436,
+      "lon": 114.1709748,
+      "osm_id": 4849843761,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5bf6\u4e2d\u5bf6\u77f3\u884c Quality Gems Co.",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2979719,
+      "lon": 114.170943,
+      "osm_id": 4849843766,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u540d\u4eba\u7ad9 VIP Station",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2980196,
+      "lon": 114.1709395,
+      "osm_id": 4849845297,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u548c\u5473 Wow Taste",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2975561,
+      "lon": 114.1711824,
+      "osm_id": 4849863712,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Satami",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2976601,
+      "lon": 114.1711595,
+      "osm_id": 4849863713,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Golf Island",
+      "category": [
+        "shop.golf"
+      ],
+      "lat": 22.2977072,
+      "lon": 114.1711595,
+      "osm_id": 4849863714,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Harry Lee & Company",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2977264,
+      "lon": 114.1711631,
+      "osm_id": 4849863715,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Johnson & Co",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2978621,
+      "lon": 114.1712025,
+      "osm_id": 4849863721,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tissot",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.2980544,
+      "lon": 114.1716016,
+      "osm_id": 4849887201,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9999\u6e2f\u5c0f\u718a Little Bear",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.2978392,
+      "lon": 114.1716163,
+      "osm_id": 4849887203,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u745e\u5b89\u5de5\u85dd Shui On Arts & Crafts",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 22.2976993,
+      "lon": 114.1716258,
+      "osm_id": 4849887205,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c07\u8ecd\u651d\u5f71\u5668\u6750\u516c\u53f8 Shogun Camera Company",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 22.2976215,
+      "lon": 114.1716311,
+      "osm_id": 4849887207,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Istanbul Kebab",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2975437,
+      "lon": 114.1716364,
+      "osm_id": 4849887209,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Staccato",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 22.2980339,
+      "lon": 114.1712533,
+      "osm_id": 4849898517,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5f71\u821e\u8005 Imagine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2977565,
+      "lon": 114.1714564,
+      "osm_id": 4849902123,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u661f\u6797\u5c45\u96f2\u5357\u7c73\u7dda\u9910\u5ef3 Sing Lum Khui Sour & Spicy Rice Noodle Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.297602,
+      "lon": 114.171467,
+      "osm_id": 4849902129,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u842c\u5be7 Mannings",
+      "category": [
+        "amenity.pharmacy",
+        "shop.chemist"
+      ],
+      "lat": 22.2979826,
+      "lon": 114.1703327,
+      "osm_id": 4850175330,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u838e Sasa",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2979453,
+      "lon": 114.1704717,
+      "osm_id": 4850175335,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u91d1\u6e56\u7c89\u9eb5\u8336\u9910\u5ef3 Gold Lake Noodle Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2979872,
+      "lon": 114.1704152,
+      "osm_id": 4850175336,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u73cd\u9999 Bee Cheng Hiang",
+      "category": [
+        "shop.food"
+      ],
+      "lat": 22.2979892,
+      "lon": 114.1704509,
+      "osm_id": 4850175337,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 22.2980649,
+      "lon": 114.1717809,
+      "osm_id": 4850175341,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u540d\u4eba\u7ad9 VIP Station",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2980719,
+      "lon": 114.1719004,
+      "osm_id": 4850175343,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ultimate Union",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2992949,
+      "lon": 114.171188,
+      "osm_id": 6345135244,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5e26 Ribbon",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 22.2985162,
+      "lon": 114.1716025,
+      "osm_id": 6345135245,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c16\u6c99\u5480\uff08\u6d77\u9632\u9053\uff09 Tsim Sha Tsui (Haiphong Road)",
+      "category": [
+        "amenity.bus_station"
+      ],
+      "lat": 22.298212,
+      "lon": 114.1718519,
+      "osm_id": 7992156625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u6e05\u771f\u5bfa Kowloon Mosque",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2987927,
+      "lon": 114.171991,
+      "osm_id": 9878952164,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f55\u5bcc\u8a18\u9eb5\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2977596,
+      "lon": 114.1711608,
+      "osm_id": 10880215910,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Bakehouse",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2978593,
+      "lon": 114.171154,
+      "osm_id": 10880215911,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Hello Milk Tee",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2979987,
+      "lon": 114.1706236,
+      "osm_id": 10880215912,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2979778,
+      "lon": 114.1702448,
+      "osm_id": 10880215913,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5229\u68e7",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2976861,
+      "lon": 114.1714612,
+      "osm_id": 10880215919,
+      "osm_type": "node",
+      "address": "\u6a02\u9053 Lock Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u9910\u5ba4 Kowloon Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2978135,
+      "lon": 114.1714525,
+      "osm_id": 10880215927,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HANNAH",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2979454,
+      "lon": 114.171969,
+      "osm_id": 10880215932,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7687\u73a5 Imperial Patisserie",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.2980684,
+      "lon": 114.1718407,
+      "osm_id": 10880215933,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7dad\u7279\u5065\u9748 Vita Green",
+      "category": [
+        "shop.nutrition_supplements"
+      ],
+      "lat": 22.2980614,
+      "lon": 114.1717212,
+      "osm_id": 10880215934,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7c73\u862d\u7ad9 Milan Station",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2980434,
+      "lon": 114.1714147,
+      "osm_id": 10880215988,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u592a\u5b50\u73e0\u5bf6\u9418\u9336 Prince Jewellery & Watch",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 22.298038,
+      "lon": 114.1713225,
+      "osm_id": 10880215989,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2980312,
+      "lon": 114.1712071,
+      "osm_id": 10880215990,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Oxyair Mask",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 22.2980285,
+      "lon": 114.171161,
+      "osm_id": 10880215991,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9ea5\u86cb\u7cd5 M.cake",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 22.2980258,
+      "lon": 114.1711149,
+      "osm_id": 10880215992,
+      "osm_type": "node",
+      "address": "\u6d77\u9632\u9053 Haiphong Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Asok Thai Garden",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2977237,
+      "lon": 114.1703628,
+      "osm_id": 10880216062,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Showroom Luxury",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 22.2978835,
+      "lon": 114.1709495,
+      "osm_id": 10880216063,
+      "osm_type": "node",
+      "address": "\u6f22\u53e3\u9053 Hankow Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u9632\u9053 Haiphong Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2976097,
+      "lon": 114.1720465,
+      "osm_id": 11036896466,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u516c\u5712 Kowloon Park",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2984026,
+      "lon": 114.1720163,
+      "osm_id": 11049570681,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u6e05\u771f\u5bfa Kowloon Mosque",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2985999,
+      "lon": 114.1720035,
+      "osm_id": 11049570682,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u6e05\u771f\u5bfa Kowloon Mosque",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2987523,
+      "lon": 114.1719936,
+      "osm_id": 11049570683,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u6e05\u771f\u5bfa Kowloon Mosque",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2988869,
+      "lon": 114.1719848,
+      "osm_id": 11049570684,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e5d\u9f8d\u516c\u5712 Kowloon Park",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2988914,
+      "lon": 114.1719845,
+      "osm_id": 11049570685,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Milu Thai \u0e21\u0e34\u0e25\u0e39\u0e48\u0e44\u0e17\u0e22",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2977246,
+      "lon": 114.1705486,
+      "osm_id": 11121537538,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u9632\u9053 Haiphong Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.297798,
+      "lon": 114.1720336,
+      "osm_id": 11139443096,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u9632\u9053 Haiphong Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2975828,
+      "lon": 114.1720484,
+      "osm_id": 11139443097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "N\u00f3n Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 22.2975804,
+      "lon": 114.1705426,
+      "osm_id": 12728089901,
+      "osm_type": "node",
+      "address": "\u4e9e\u58eb\u5398\u9053 Ashley Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5546\u52a1\u5370\u4e66\u9986 (\u5c16\u6c99\u5480\u5206\u9986)",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 22.2978368,
+      "lon": 114.1719117,
+      "osm_id": 13399060001,
+      "osm_type": "node",
+      "address": "\u5f4c\u6566\u9053 Nathan Road",
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "image": "dataset/images/315.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.64411511764495,
+  "bbox": [
+    -46.645343640136424,
+    -23.558738738738743,
+    -46.64288659515348,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bar",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.bar": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "luncheonette",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5574416,
+      "lon": -46.6442371,
+      "osm_id": 4425607793,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Al Janiah",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": -23.5574738,
+      "lon": -46.6452074,
+      "osm_id": 4919837924,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Rui Barbosa, 333",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5583799,
+      "lon": -46.6451739,
+      "osm_id": 8378420121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "image": "dataset/images/750.png",
+  "center_lat": 40.80112612612612,
+  "center_lon": -73.93603204794803,
+  "bbox": [
+    -73.93751967473993,
+    40.8,
+    -73.93454442115612,
+    40.80225225225225
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.charity",
+    "amenity.place_of_worship",
+    "amenity.pharmacy",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2,
+    "shop.convenience": 2,
+    "shop.charity": 1,
+    "amenity.place_of_worship": 2,
+    "amenity.pharmacy": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Chambers Memorial Baptist Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8022222,
+      "lon": -73.9358333,
+      "osm_id": 357621175,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Iglesia Adventista Del Septimo Dia",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8019972,
+      "lon": -73.9353152,
+      "osm_id": 357621178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Democracy Prep Public Schools",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8015727,
+      "lon": -73.9351046,
+      "osm_id": 2765549885,
+      "osm_type": "node",
+      "address": "East 123rd Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Futuro Deli & Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.800795,
+      "lon": -73.9352751,
+      "osm_id": 4980494071,
+      "osm_type": "node",
+      "address": "2nd Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "East Harlem Pharmacy",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8007155,
+      "lon": -73.9352849,
+      "osm_id": 4980494072,
+      "osm_type": "node",
+      "address": "2nd Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "2 Av/E 122 St",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8004878,
+      "lon": -73.9353856,
+      "osm_id": 5309514327,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Goodwill",
+      "category": [
+        "shop.charity"
+      ],
+      "lat": 40.8013649,
+      "lon": -73.9371706,
+      "osm_id": 5702880030,
+      "osm_type": "node",
+      "address": "3rd Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "3rd Avenue & East 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8019434,
+      "lon": -73.9369716,
+      "osm_id": 5981262325,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Latin Food & Grocwry",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8016139,
+      "lon": -73.93464,
+      "osm_id": 10969669855,
+      "osm_type": "node",
+      "address": "2nd Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - 2 Ave & E 122 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8006799,
+      "lon": -73.9348984,
+      "osm_id": 13244003781,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

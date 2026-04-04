@@ -1,0 +1,140 @@
+{
+  "image": "dataset/images/824.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.93007442240051,
+  "bbox": [
+    -73.9315622006473,
+    40.80675675675676,
+    -73.92858664415371,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.cafe",
+    "shop.florist",
+    "amenity.restaurant",
+    "shop.clothes",
+    "shop.cannabis",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "amenity.cafe": 1,
+    "shop.florist": 1,
+    "amenity.restaurant": 2,
+    "shop.clothes": 1,
+    "shop.cannabis": 1,
+    "amenity.school": 2
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "Apex School of Criminology",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8080448,
+      "lon": -73.9289536,
+      "osm_id": 357609160,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maisonetta",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8085922,
+      "lon": -73.9291196,
+      "osm_id": 10210440444,
+      "osm_type": "node",
+      "address": "Lincoln Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "787 Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.808656,
+      "lon": -73.9300156,
+      "osm_id": 11879930429,
+      "osm_type": "node",
+      "address": "3rd Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Con Bud",
+      "category": [
+        "shop.cannabis"
+      ],
+      "lat": 40.8082914,
+      "lon": -73.9304973,
+      "osm_id": 11881123112,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Verde Flowers",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 40.8079265,
+      "lon": -73.9296584,
+      "osm_id": 12233478846,
+      "osm_type": "node",
+      "address": "Bruckner Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Bronx Native",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8080915,
+      "lon": -73.9294894,
+      "osm_id": 12233478847,
+      "osm_type": "node",
+      "address": "Lincoln Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Charlie's Bar & Kitchen",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8077697,
+      "lon": -73.9292688,
+      "osm_id": 12233478849,
+      "osm_type": "node",
+      "address": "Lincoln Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Dream Charter School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8072087,
+      "lon": -73.9288377,
+      "osm_id": 12233478857,
+      "osm_type": "node",
+      "address": "Bruckner Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lincoln Ave & E 134 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.808493,
+      "lon": -73.9287923,
+      "osm_id": 13244004469,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "image": "dataset/images/966.png",
+  "center_lat": 40.821396396396416,
+  "center_lon": -73.93601250361803,
+  "bbox": [
+    -73.93750058492924,
+    40.82027027027029,
+    -73.93452442230682,
+    40.82252252252255
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "railway.subway_entrance",
+    "railway.stop",
+    "amenity.fast_food",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 3,
+    "shop.convenience": 1,
+    "railway.subway_entrance": 1,
+    "railway.stop": 1,
+    "amenity.fast_food": 2,
+    "railway.station": 1
+  },
+  "poi_count": 9,
+  "pois": [
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 40.8204635,
+      "lon": -73.9362163,
+      "osm_id": 1740716039,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "145 Food Plaza",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8207038,
+      "lon": -73.9363757,
+      "osm_id": 2767864672,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Lenox Avenue & 145th Street at Northeast Corner",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 40.8205742,
+      "lon": -73.9359583,
+      "osm_id": 3584384840,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8207203,
+      "lon": -73.9373244,
+      "osm_id": 4111168990,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "145th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8208495,
+      "lon": -73.9359151,
+      "osm_id": 4254507947,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Esplanade Gardens Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8207383,
+      "lon": -73.9366592,
+      "osm_id": 8454741963,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Esplanade Gardens Plaza & West 146th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8209991,
+      "lon": -73.9360464,
+      "osm_id": 8454752562,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 146th Street & Esplanade Gardens Plaza",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8211919,
+      "lon": -73.9360578,
+      "osm_id": 8454752563,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Papa John's",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.820797,
+      "lon": -73.9363126,
+      "osm_id": 11748988895,
+      "osm_type": "node",
+      "address": "Malcolm X Boulevard",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 16,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

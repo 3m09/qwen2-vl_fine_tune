@@ -1,0 +1,60 @@
+{
+  "image": "dataset/images/1210.png",
+  "center_lat": 40.84617117117122,
+  "center_lon": -73.99553408760427,
+  "bbox": [
+    -73.99702272506951,
+    40.8450450450451,
+    -73.99404545013903,
+    40.84729729729735
+  ],
+  "unique_categories": [
+    "amenity.library",
+    "amenity.place_of_worship",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.library": 1,
+    "amenity.place_of_worship": 1,
+    "amenity.school": 1
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "School Number 2",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8472699,
+      "lon": -73.9966989,
+      "osm_id": 357729640,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Grace Evangelical Lutheran Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8459334,
+      "lon": -73.9959723,
+      "osm_id": 357743032,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palisades Park Library",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.8469662,
+      "lon": -73.9969417,
+      "osm_id": 12583380305,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

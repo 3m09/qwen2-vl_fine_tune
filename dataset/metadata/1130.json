@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/1130.png",
+  "center_lat": 40.8371621621622,
+  "center_lon": -73.94790476985091,
+  "bbox": [
+    -73.94939320499803,
+    40.83603603603608,
+    -73.9464163347038,
+    40.83828828828833
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.books"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.books": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Citi Bike - W 160 St & Riverside Dr",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8371775,
+      "lon": -73.9465821,
+      "osm_id": 13146134502,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Recirculation",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8369917,
+      "lon": -73.9466484,
+      "osm_id": 13348997188,
+      "osm_type": "node",
+      "address": "Riverside Drive",
+      "road_geometry": null
+    }
+  ]
+}

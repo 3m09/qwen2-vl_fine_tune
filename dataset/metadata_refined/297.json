@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/297.png",
+  "center_lat": -23.56211711711712,
+  "center_lon": -46.64411440161902,
+  "bbox": [
+    -46.64534296622967,
+    -23.563243243243246,
+    -46.64288583700838,
+    -23.560990990990994
+  ],
+  "unique_categories": [
+    "shop.newsagent",
+    "highway.bus_stop",
+    "amenity.theatre",
+    "amenity.pub"
+  ],
+  "poi_count_per_category": {
+    "shop.newsagent": 1,
+    "highway.bus_stop": 2,
+    "amenity.theatre": 1,
+    "amenity.pub": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Banca Vieira",
+      "category": [
+        "shop.newsagent"
+      ],
+      "lat": -23.5617448,
+      "lon": -46.643841,
+      "osm_id": 4652676448,
+      "osm_type": "node",
+      "address": "Rua Pedroso",
+      "road_geometry": null
+    },
+    {
+      "name": "Pedroso",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.561907,
+      "lon": -46.644521,
+      "osm_id": 8001685454,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rua Sta. Madalena, 371",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": -23.5628584,
+      "lon": -46.6445878,
+      "osm_id": 8001685455,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sol y Sombra",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": -23.5629339,
+      "lon": -46.6433513,
+      "osm_id": 10707942905,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Agora Teatro",
+      "category": [
+        "amenity.theatre"
+      ],
+      "lat": -23.5614836,
+      "lon": -46.6452318,
+      "osm_id": 11061150483,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,15 +1,80 @@
 {
   "image": "dataset/images/170.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.99256009866589,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.83809681654326,
   "bbox": [
-    -73.9940480789327,
-    40.81576576576578,
-    -73.99107211839906,
-    40.81801801801804
+    72.83690619685751,
+    18.944774774774768,
+    72.83928743622901,
+    18.94702702702702
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "railway.stop"
+  ],
+  "poi_count_per_category": {
+    "railway.stop": 5
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9452282,
+      "lon": 72.8376755,
+      "osm_id": 1234815616,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9451809,
+      "lon": 72.837865,
+      "osm_id": 2175658439,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9451945,
+      "lon": 72.8378123,
+      "osm_id": 2175658440,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9452855,
+      "lon": 72.8374542,
+      "osm_id": 2175658444,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "CSMT",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 18.9453265,
+      "lon": 72.837319,
+      "osm_id": 2175658446,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

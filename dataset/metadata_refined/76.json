@@ -1,20 +1,351 @@
 {
   "image": "dataset/images/76.png",
-  "center_lat": 40.807882882882886,
-  "center_lon": -73.98660999577882,
+  "center_lat": 48.862882882882886,
+  "center_lon": 2.336711755048884,
   "bbox": [
-    -73.98809777402562,
-    40.80675675675676,
-    -73.98512221753202,
-    40.80900900900902
+    2.335,
+    48.86175675675676,
+    2.338423510097768,
+    48.86400900900902
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "shop.tobacco",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.furniture",
+    "tourism.museum",
+    "railway.subway_entrance",
+    "amenity.restaurant",
+    "amenity.bicycle_rental",
+    "shop.books",
+    "railway.stop",
+    "tourism.artwork",
+    "shop.travel_agency",
+    "tourism.hotel",
+    "railway.station"
+  ],
+  "poi_count_per_category": {
+    "shop.tobacco": 1,
+    "highway.bus_stop": 2,
+    "amenity.cafe": 3,
+    "shop.furniture": 1,
+    "tourism.museum": 1,
+    "railway.subway_entrance": 7,
+    "amenity.restaurant": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.books": 1,
+    "railway.stop": 3,
+    "tourism.artwork": 1,
+    "shop.travel_agency": 1,
+    "tourism.hotel": 1,
+    "railway.station": 1
+  },
+  "poi_count": 25,
+  "pois": [
+    {
+      "name": "H\u00f4tel Louvre Bon Enfants",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 48.8629098,
+      "lon": 2.3381793,
+      "osm_id": 247436637,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Ruc",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8631557,
+      "lon": 2.3352468,
+      "osm_id": 679467050,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mus\u00e9e du Louvre (Mus\u00e9e du Louvre)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8624127,
+      "lon": 2.3365898,
+      "osm_id": 679476624,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Place du Palais Royal",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8625963,
+      "lon": 2.3362568,
+      "osm_id": 679476628,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue Saint-Honor\u00e9",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.862721,
+      "lon": 2.3363266,
+      "osm_id": 679476632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue de Valois (Le Louvre des Antiquaires)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.86253,
+      "lon": 2.3373038,
+      "osm_id": 679476635,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "pl. du Palais Royal",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8625631,
+      "lon": 2.3362015,
+      "osm_id": 830365607,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue de Rivoli",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.862485,
+      "lon": 2.3356368,
+      "osm_id": 830365733,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rue de Rivoli",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 48.8624308,
+      "lon": 2.3358045,
+      "osm_id": 830365770,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8624935,
+      "lon": 2.3378752,
+      "osm_id": 2039176055,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8626609,
+      "lon": 2.3357043,
+      "osm_id": 2039186979,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Le Nemours",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8631173,
+      "lon": 2.3365427,
+      "osm_id": 2746580390,
+      "osm_type": "node",
+      "address": "Place Colette",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c0 la Civette",
+      "category": [
+        "shop.tobacco"
+      ],
+      "lat": 48.8629558,
+      "lon": 2.3358588,
+      "osm_id": 3195384058,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Brasserie du Louvre",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 48.8628461,
+      "lon": 2.3362666,
+      "osm_id": 3195384059,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Delamain",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 48.8629076,
+      "lon": 2.3360377,
+      "osm_id": 3195384060,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8625134,
+      "lon": 2.33593,
+      "osm_id": 3703619698,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Caf\u00e9 Saint-Honor\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8626252,
+      "lon": 2.3380726,
+      "osm_id": 3980826515,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zimmer Roche",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 48.8627612,
+      "lon": 2.3377199,
+      "osm_id": 3980826518,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8628937,
+      "lon": 2.3366388,
+      "osm_id": 4318463830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 48.8624906,
+      "lon": 2.3360431,
+      "osm_id": 5155172764,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palais Royal - Mus\u00e9e du Louvre",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8624011,
+      "lon": 2.3363844,
+      "osm_id": 5155172765,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Place Andr\u00e9 Malraux",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8639524,
+      "lon": 2.3356983,
+      "osm_id": 6433803365,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Couple de lutteurs corps \u00e0 corps (s\u00e9rie Nouba)",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8631353,
+      "lon": 2.3380994,
+      "osm_id": 9188677171,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maroc",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 48.8632898,
+      "lon": 2.3350685,
+      "osm_id": 10758458748,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fondation Cartier pour l'art contemporain",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 48.8621189,
+      "lon": 2.3382323,
+      "osm_id": 13260353506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 43,
+    "removed_count": 18,
     "model": "gemini-2.5-flash"
   }
 }

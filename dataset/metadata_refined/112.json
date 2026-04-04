@@ -1,369 +1,189 @@
 {
   "image": "dataset/images/112.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.95090165147413,
+  "center_lat": 18.927882882882884,
+  "center_lon": 72.8333334386755,
   "bbox": [
-    -73.95238948021733,
-    40.80900900900902,
-    -73.94941382273092,
-    40.81126126126127
+    72.83214294743614,
+    18.926756756756756,
+    72.83452392991485,
+    18.929009009009008
   ],
   "unique_categories": [
-    "shop.shoes",
-    "amenity.clinic",
-    "shop.stationery",
-    "amenity.place_of_worship",
-    "amenity.cinema",
-    "amenity.school",
+    "amenity.arts_centre",
+    "tourism.guest_house",
+    "amenity.cafe",
     "amenity.restaurant",
-    "leisure.sports_centre",
-    "amenity.fast_food",
-    "highway.bus_stop",
-    "shop.mobile_phone",
-    "shop.jewelry",
-    "shop.video_games",
-    "shop.clothes",
-    "amenity.theatre",
-    "shop.furniture",
     "amenity.bank"
   ],
   "poi_count_per_category": {
-    "shop.shoes": 1,
-    "amenity.clinic": 1,
-    "shop.stationery": 1,
-    "amenity.place_of_worship": 1,
-    "amenity.cinema": 1,
-    "amenity.school": 1,
-    "amenity.restaurant": 2,
-    "leisure.sports_centre": 1,
-    "amenity.fast_food": 2,
-    "highway.bus_stop": 7,
-    "shop.mobile_phone": 1,
-    "shop.jewelry": 1,
-    "shop.video_games": 1,
-    "shop.clothes": 1,
-    "amenity.theatre": 1,
-    "shop.furniture": 1,
-    "amenity.bank": 2
+    "amenity.arts_centre": 1,
+    "tourism.guest_house": 1,
+    "amenity.cafe": 1,
+    "amenity.restaurant": 7,
+    "amenity.bank": 3
   },
-  "poi_count": 26,
+  "poi_count": 13,
   "pois": [
     {
-      "name": "Pabst Concert Hall",
-      "category": [
-        "amenity.theatre"
-      ],
-      "lat": 40.8091529,
-      "lon": -73.951096,
-      "osm_id": 368052764,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "AMC Magic Johnson Harlem 9",
-      "category": [
-        "amenity.cinema"
-      ],
-      "lat": 40.8097211,
-      "lon": -73.9517949,
-      "osm_id": 2562438625,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "Platinum Jewelry of Harlem",
-      "category": [
-        "shop.jewelry"
-      ],
-      "lat": 40.809347,
-      "lon": -73.9496298,
-      "osm_id": 2767369937,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "The Cliffs at Harlem",
-      "category": [
-        "leisure.sports_centre"
-      ],
-      "lat": 40.8096064,
-      "lon": -73.9502428,
-      "osm_id": 2767369945,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Popeyes",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.810804,
-      "lon": -73.9522586,
-      "osm_id": 2767370017,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Soul Saving Station of Christ Crusader School",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8095902,
-      "lon": -73.952134,
-      "osm_id": 2767432851,
-      "osm_type": "node",
-      "address": "West 124th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Saint Nicholas Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8105111,
-      "lon": -73.9522319,
-      "osm_id": 4775546657,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Frederick Douglass Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8104206,
-      "lon": -73.9514888,
-      "osm_id": 5263686111,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Frederick Douglass Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8105459,
-      "lon": -73.9518871,
-      "osm_id": 5263703028,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Frederick Douglass Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8099052,
-      "lon": -73.9508694,
-      "osm_id": 5263703033,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "West 125th Street & Frederick Douglass Boulevard",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8102999,
-      "lon": -73.9517505,
-      "osm_id": 5263703825,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Capital One",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8105968,
-      "lon": -73.9511285,
-      "osm_id": 5314267214,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "TD Bank",
-      "category": [
-        "amenity.bank"
-      ],
-      "lat": 40.8101236,
-      "lon": -73.9515356,
-      "osm_id": 5314268565,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "DSW",
-      "category": [
-        "shop.shoes"
-      ],
-      "lat": 40.8105106,
-      "lon": -73.9514575,
-      "osm_id": 5314268566,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Kiss",
-      "category": [
-        "shop.furniture"
-      ],
-      "lat": 40.8092396,
-      "lon": -73.9494538,
-      "osm_id": 5406266154,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "T-Mobile",
-      "category": [
-        "shop.mobile_phone"
-      ],
-      "lat": 40.8103716,
-      "lon": -73.9521715,
-      "osm_id": 6680394962,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "The Children's Place",
-      "category": [
-        "shop.clothes"
-      ],
-      "lat": 40.8094281,
-      "lon": -73.9498531,
-      "osm_id": 6680394967,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Krispy Kreme",
-      "category": [
-        "amenity.fast_food"
-      ],
-      "lat": 40.8107485,
-      "lon": -73.952123,
-      "osm_id": 7785298654,
-      "osm_type": "node",
-      "address": "West 125th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Crab du Jour",
+      "name": "Copper Chimney",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.810819,
-      "lon": -73.9509742,
-      "osm_id": 8019763087,
+      "lat": 18.927571,
+      "lon": 72.8325747,
+      "osm_id": 245653876,
       "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Red Lobster",
+      "name": "Max Mueller Bahvan",
+      "category": [
+        "amenity.arts_centre"
+      ],
+      "lat": 18.9273194,
+      "lon": 72.832212,
+      "osm_id": 1056702132,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Lawrence",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 18.9278369,
+      "lon": 72.8326261,
+      "osm_id": 1056702163,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Canara Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.92813,
+      "lon": 72.8343471,
+      "osm_id": 2167547605,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kala Ghoda Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.928482,
+      "lon": 72.8323116,
+      "osm_id": 3366405791,
+      "osm_type": "node",
+      "address": "Rope Walk Street",
+      "road_geometry": null
+    },
+    {
+      "name": "La Folie",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8100567,
-      "lon": -73.9504391,
-      "osm_id": 9049400014,
+      "lat": 18.9285235,
+      "lon": 72.8324143,
+      "osm_id": 3366405792,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Blick Art Materials",
+      "name": "Ayub's",
       "category": [
-        "shop.stationery"
+        "amenity.restaurant"
       ],
-      "lat": 40.8099674,
-      "lon": -73.9502326,
-      "osm_id": 9049400016,
+      "lat": 18.9282162,
+      "lon": 72.8328878,
+      "osm_id": 3366422124,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "GameStop",
+      "name": "Carter's Blue",
       "category": [
-        "shop.video_games"
+        "amenity.restaurant"
       ],
-      "lat": 40.8098577,
-      "lon": -73.9499831,
-      "osm_id": 9049424117,
+      "lat": 18.9282794,
+      "lon": 72.8333622,
+      "osm_id": 3366422125,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Juno Primary Care",
+      "name": "Nutcracker",
       "category": [
-        "amenity.clinic"
+        "amenity.restaurant"
       ],
-      "lat": 40.8093213,
-      "lon": -73.951508,
-      "osm_id": 11980041892,
-      "osm_type": "node",
-      "address": "Frederick Douglass Boulevard",
-      "road_geometry": null
-    },
-    {
-      "name": "United House of Prayer",
-      "category": [
-        "amenity.place_of_worship"
-      ],
-      "lat": 40.8095639,
-      "lon": -73.9512464,
-      "osm_id": 11984326251,
+      "lat": 18.9283524,
+      "lon": 72.8336264,
+      "osm_id": 3366427603,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 125th Street",
+      "name": "Lakshmi Vilas Bank",
       "category": [
-        "highway.bus_stop"
+        "amenity.bank"
       ],
-      "lat": 40.8104212,
-      "lon": -73.9511385,
-      "osm_id": 12397045547,
+      "lat": 18.9285401,
+      "lon": 72.8337873,
+      "osm_id": 3366427604,
+      "osm_type": "node",
+      "address": "Mumbai Samachar Marg",
+      "road_geometry": null
+    },
+    {
+      "name": "Punjab Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 18.9279453,
+      "lon": 72.8321691,
+      "osm_id": 5874674527,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Frederick Douglass Boulevard & West 125th Street",
+      "name": "Folk",
       "category": [
-        "highway.bus_stop"
+        "amenity.restaurant"
       ],
-      "lat": 40.8104404,
-      "lon": -73.9508356,
-      "osm_id": 12397045550,
+      "lat": 18.9279659,
+      "lon": 72.832941,
+      "osm_id": 11348920897,
+      "osm_type": "node",
+      "address": "14, New Bakehouse, Lane, Kala Ghoda, Fort",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 18.9282444,
+      "lon": 72.8339658,
+      "osm_id": 12299747088,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 37,
-    "removed_count": 11,
+    "original_poi_count": 28,
+    "removed_count": 15,
     "model": "gemini-2.5-flash"
   }
 }

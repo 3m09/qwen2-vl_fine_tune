@@ -1,0 +1,51 @@
+{
+  "image": "dataset/images/306.png",
+  "center_lat": -23.559864864864867,
+  "center_lon": -46.644114759654244,
+  "bbox": [
+    -46.645343303203994,
+    -23.560990990990994,
+    -46.64288621610449,
+    -23.558738738738743
+  ],
+  "unique_categories": [
+    "amenity.nightclub",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.nightclub": 1,
+    "amenity.restaurant": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Nosso Ranchinho",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5601285,
+      "lon": -46.6429489,
+      "osm_id": 3698987686,
+      "osm_type": "node",
+      "address": "Avenida Brigadeiro Lu\u00eds Ant\u00f4nio",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa Barbosa",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": -23.5605075,
+      "lon": -46.6450631,
+      "osm_id": 6357370285,
+      "osm_type": "node",
+      "address": "Rua Rui Barbosa",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

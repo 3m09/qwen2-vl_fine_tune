@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/693.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.13186402284994,
+  "bbox": [
+    -99.13305820259086,
+    19.436261261261258,
+    -99.13066984310903,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.bicycle_rental",
+    "tourism.hostel"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.bicycle_rental": 1,
+    "tourism.hostel": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Hostel Amigo Suites Downtown",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4366015,
+      "lon": -99.1328413,
+      "osm_id": 1576952054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ecobici San Ildefonso / Rep\u00fablica de Argentina",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4364799,
+      "lon": -99.1313026,
+      "osm_id": 2812623127,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rep\u00fablica de Argentina",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4374058,
+      "lon": -99.1312958,
+      "osm_id": 4154582992,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hostel Amigo Suites",
+      "category": [
+        "tourism.hostel"
+      ],
+      "lat": 19.4367982,
+      "lon": -99.1328385,
+      "osm_id": 12077440969,
+      "osm_type": "node",
+      "address": "Calle Luis Gonz\u00e1lez Obreg\u00f3n",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 9,
+    "removed_count": 5,
+    "model": "gemini-2.5-flash"
+  }
+}

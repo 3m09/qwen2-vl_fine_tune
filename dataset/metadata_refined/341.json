@@ -1,0 +1,211 @@
+{
+  "image": "dataset/images/341.png",
+  "center_lat": 1.3013783783783786,
+  "center_lon": 103.84189624251498,
+  "bbox": [
+    103.84076982634731,
+    1.3002522522522524,
+    103.84302265868264,
+    1.3025045045045047
+  ],
+  "unique_categories": [
+    "shop.confectionery",
+    "amenity.kindergarten",
+    "shop.convenience",
+    "shop.hairdresser",
+    "shop.erotic",
+    "amenity.bar",
+    "shop.clothes",
+    "tourism.hotel",
+    "shop.beauty",
+    "amenity.nightclub"
+  ],
+  "poi_count_per_category": {
+    "shop.confectionery": 1,
+    "amenity.kindergarten": 1,
+    "shop.convenience": 2,
+    "shop.hairdresser": 1,
+    "shop.erotic": 1,
+    "amenity.bar": 1,
+    "shop.clothes": 1,
+    "tourism.hotel": 3,
+    "shop.beauty": 2,
+    "amenity.nightclub": 1
+  },
+  "poi_count": 14,
+  "pois": [
+    {
+      "name": "Hotel Supreme",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3013394,
+      "lon": 103.8424247,
+      "osm_id": 4302905830,
+      "osm_type": "node",
+      "address": "Kramat Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Holiday Inn (Orchard City Centre)",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3022791,
+      "lon": 103.8411016,
+      "osm_id": 4302905958,
+      "osm_type": "node",
+      "address": "Cavenagh Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chancellor@Orchard",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3012281,
+      "lon": 103.8423669,
+      "osm_id": 4317625889,
+      "osm_type": "node",
+      "address": "Cavenagh Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3008611,
+      "lon": 103.8408921,
+      "osm_id": 4747611641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "0521 Hair Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 1.300546,
+      "lon": 103.8419193,
+      "osm_id": 9855659037,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Three Jays Enterprises",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3004261,
+      "lon": 103.8423381,
+      "osm_id": 9855659038,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MindChamps",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 1.3004914,
+      "lon": 103.84208,
+      "osm_id": 9855659040,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "House of Condom",
+      "category": [
+        "shop.erotic"
+      ],
+      "lat": 1.3012191,
+      "lon": 103.8412677,
+      "osm_id": 10015221481,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Beautique",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3007882,
+      "lon": 103.841004,
+      "osm_id": 10015221482,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bangkit Kiosk",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 1.3009709,
+      "lon": 103.8408905,
+      "osm_id": 10015221485,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Drip",
+      "category": [
+        "amenity.nightclub"
+      ],
+      "lat": 1.3008579,
+      "lon": 103.8429361,
+      "osm_id": 10829435166,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Muslim Delights @Orchard",
+      "category": [
+        "shop.confectionery"
+      ],
+      "lat": 1.300375,
+      "lon": 103.8425146,
+      "osm_id": 12179539350,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Liz Aesthetics",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 1.3016754,
+      "lon": 103.8411266,
+      "osm_id": 12231175232,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "SIDES",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 1.3007874,
+      "lon": 103.8419834,
+      "osm_id": 12883888832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 24,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

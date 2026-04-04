@@ -1,0 +1,70 @@
+{
+  "image": "dataset/images/934.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.95982316877398,
+  "bbox": [
+    -73.96131119956013,
+    40.81801801801804,
+    -73.95833513798783,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "amenity.restaurant": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "Dinosaur Bar-B-Que",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8181449,
+      "lon": -73.9608188,
+      "osm_id": 2479519219,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Skinny's Cantina on the Hudson",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8202694,
+      "lon": -73.9588986,
+      "osm_id": 5781374253,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - 12 Ave & W 125 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8183244,
+      "lon": -73.9603627,
+      "osm_id": 8685969501,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 133 St & 12 Ave",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8200148,
+      "lon": -73.9590978,
+      "osm_id": 8685969507,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

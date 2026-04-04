@@ -1,0 +1,61 @@
+{
+  "image": "dataset/images/787.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.96875771712176,
+  "bbox": [
+    -73.97024544487786,
+    40.80450450450451,
+    -73.96726998936565,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "leisure.playground"
+  ],
+  "poi_count_per_category": {
+    "leisure.playground": 3
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Tot Lot 112",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8064948,
+      "lon": -73.9679338,
+      "osm_id": 6929263892,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tot Lot 112",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8062674,
+      "lon": -73.9680398,
+      "osm_id": 6929263893,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tot Lot 110",
+      "category": [
+        "leisure.playground"
+      ],
+      "lat": 40.8052035,
+      "lon": -73.9686339,
+      "osm_id": 6929263894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 3,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

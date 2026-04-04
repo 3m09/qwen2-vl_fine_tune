@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1169.png",
+  "center_lat": 40.84166666666671,
+  "center_lon": -73.97469488299008,
+  "bbox": [
+    -73.97618341928478,
+    40.84054054054059,
+    -73.97320634669538,
+    40.84279279279284
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Hiram's Roadstand",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8415884,
+      "lon": -73.9747221,
+      "osm_id": 9973577917,
+      "osm_type": "node",
+      "address": "Palisade Avenue",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

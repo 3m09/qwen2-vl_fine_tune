@@ -1,0 +1,764 @@
+{
+  "image": "dataset/images/788.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.96578226160955,
+  "bbox": [
+    -73.96726998936565,
+    40.80450450450451,
+    -73.96429453385343,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "shop.deli",
+    "amenity.veterinary",
+    "amenity.ice_cream",
+    "amenity.clinic",
+    "shop.alcohol",
+    "amenity.post_office",
+    "shop.chocolate",
+    "amenity.cafe",
+    "shop.stationery",
+    "amenity.bank",
+    "shop.hairdresser",
+    "shop.optician",
+    "amenity.library",
+    "tourism.information",
+    "amenity.bicycle_rental",
+    "shop.shoes",
+    "highway.bus_stop",
+    "railway.stop",
+    "amenity.fast_food",
+    "amenity.restaurant",
+    "shop.photo",
+    "shop.clothes",
+    "shop.dry_cleaning",
+    "leisure.fitness_centre",
+    "amenity.pharmacy",
+    "shop.books",
+    "shop.houseware",
+    "shop.mobile_phone",
+    "shop.florist",
+    "shop.art",
+    "amenity.waste_basket"
+  ],
+  "poi_count_per_category": {
+    "shop.deli": 2,
+    "amenity.veterinary": 1,
+    "amenity.ice_cream": 3,
+    "amenity.clinic": 2,
+    "shop.alcohol": 1,
+    "amenity.post_office": 1,
+    "shop.chocolate": 1,
+    "amenity.cafe": 4,
+    "shop.stationery": 1,
+    "amenity.bank": 1,
+    "shop.hairdresser": 2,
+    "shop.optician": 1,
+    "amenity.library": 1,
+    "tourism.information": 2,
+    "amenity.bicycle_rental": 1,
+    "shop.shoes": 1,
+    "highway.bus_stop": 3,
+    "railway.stop": 1,
+    "amenity.fast_food": 10,
+    "amenity.restaurant": 6,
+    "shop.photo": 1,
+    "shop.clothes": 1,
+    "shop.dry_cleaning": 1,
+    "leisure.fitness_centre": 1,
+    "amenity.pharmacy": 1,
+    "shop.books": 2,
+    "shop.houseware": 1,
+    "shop.mobile_phone": 1,
+    "shop.florist": 1,
+    "shop.art": 1,
+    "amenity.waste_basket": 1
+  },
+  "poi_count": 57,
+  "pois": [
+    {
+      "name": "Le Monde",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8057782,
+      "lon": -73.9658657,
+      "osm_id": 570912397,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Tom's Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8054509,
+      "lon": -73.9654163,
+      "osm_id": 1119244578,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8045254,
+      "lon": -73.9668001,
+      "osm_id": 1994680555,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citibank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 40.8050753,
+      "lon": -73.9663899,
+      "osm_id": 1994680556,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Famous Famiglia",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8048337,
+      "lon": -73.9665577,
+      "osm_id": 1994680558,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Duane Reade",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8048227,
+      "lon": -73.9658563,
+      "osm_id": 2045635326,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Verizon",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8054748,
+      "lon": -73.9661193,
+      "osm_id": 2279017951,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Warby Parker",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 40.8054161,
+      "lon": -73.966159,
+      "osm_id": 2279017954,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "2nd Street",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 40.8053303,
+      "lon": -73.9662171,
+      "osm_id": 2279017959,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Five Guys",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8045972,
+      "lon": -73.9667436,
+      "osm_id": 2312065727,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Morningside Heights",
+      "category": [
+        "amenity.library"
+      ],
+      "lat": 40.806122,
+      "lon": -73.9649202,
+      "osm_id": 2631399309,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Upside Pizza",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8052453,
+      "lon": -73.9655826,
+      "osm_id": 2707985415,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Tea Magic",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8052024,
+      "lon": -73.9656144,
+      "osm_id": 2707987524,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Janoff's Stationery",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 40.8050612,
+      "lon": -73.9657154,
+      "osm_id": 2707988185,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Paul's Shoe Repair",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 40.8050158,
+      "lon": -73.9657481,
+      "osm_id": 2707989156,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Universal Barber Shop",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.804987,
+      "lon": -73.9657675,
+      "osm_id": 2707989225,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "USPS - Columbia University Station",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 40.8049769,
+      "lon": -73.9649093,
+      "osm_id": 2707989759,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Book Culture",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.8050208,
+      "lon": -73.9650084,
+      "osm_id": 2707989850,
+      "osm_type": "node",
+      "address": "West 112th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Panda Express",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8045839,
+      "lon": -73.9660698,
+      "osm_id": 2765266905,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Hiit The Deck",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 40.8051251,
+      "lon": -73.965666,
+      "osm_id": 2765322377,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Sapps",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8055983,
+      "lon": -73.9653069,
+      "osm_id": 2765363739,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Milano Market",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8057016,
+      "lon": -73.9652302,
+      "osm_id": 2765363743,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Pinkberry",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 40.8046575,
+      "lon": -73.9666962,
+      "osm_id": 2796437587,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Jack's Art Gallery",
+      "category": [
+        "shop.art"
+      ],
+      "lat": 40.8047518,
+      "lon": -73.9666221,
+      "osm_id": 2796437588,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Bond Vet",
+      "category": [
+        "amenity.veterinary"
+      ],
+      "lat": 40.8052808,
+      "lon": -73.9662507,
+      "osm_id": 2796437592,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Just Salad",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8046991,
+      "lon": -73.9666635,
+      "osm_id": 2796437602,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Community Food & Juice",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8059481,
+      "lon": -73.9657438,
+      "osm_id": 2796448525,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Blue Bottle Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8062968,
+      "lon": -73.9654905,
+      "osm_id": 2796448528,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dos Toros Restaurant",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8065919,
+      "lon": -73.9652699,
+      "osm_id": 2796448529,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Book Culture",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 40.806712,
+      "lon": -73.9651801,
+      "osm_id": 2796448532,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Bon French Cleaners",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 40.8056458,
+      "lon": -73.9659588,
+      "osm_id": 2796448537,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 112th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8053344,
+      "lon": -73.9660901,
+      "osm_id": 3271250928,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 114th St",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8065838,
+      "lon": -73.9651815,
+      "osm_id": 3271250929,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cathedral Parkway\u2013110th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8048495,
+      "lon": -73.9661628,
+      "osm_id": 4460385048,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oren's Daily Roast",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8055083,
+      "lon": -73.9653737,
+      "osm_id": 5852314821,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Flowers by Valli",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 40.8056854,
+      "lon": -73.9659335,
+      "osm_id": 5924114806,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "The Heights Bar & Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.805184,
+      "lon": -73.9664024,
+      "osm_id": 5984378186,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Dig",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8055514,
+      "lon": -73.9653417,
+      "osm_id": 6904407682,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Trash Can Recycle",
+      "category": [
+        "amenity.waste_basket"
+      ],
+      "lat": 40.8059267,
+      "lon": -73.9652007,
+      "osm_id": 7004346064,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LinkNYC",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 40.8054805,
+      "lon": -73.9655265,
+      "osm_id": 7004367801,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "LinkNYC",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 40.8059316,
+      "lon": -73.9650795,
+      "osm_id": 7004367803,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Broadway & West 113th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8062593,
+      "lon": -73.9649526,
+      "osm_id": 7004367806,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "University Hardwares & Housewares",
+      "category": [
+        "shop.houseware"
+      ],
+      "lat": 40.8062043,
+      "lon": -73.964859,
+      "osm_id": 7004374424,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Wu + Nussbaum",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8060976,
+      "lon": -73.9656359,
+      "osm_id": 7004392888,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "BanBan Shop",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8064913,
+      "lon": -73.9653451,
+      "osm_id": 7004416095,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "H\u00e4agen-Dazs",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 40.8064174,
+      "lon": -73.9654003,
+      "osm_id": 7004443655,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "International Wine & Spirits",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8063797,
+      "lon": -73.9654286,
+      "osm_id": 7004443656,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Qahwah House",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 40.8052243,
+      "lon": -73.966289,
+      "osm_id": 9409060624,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Samad's Gourmet",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8051641,
+      "lon": -73.9663298,
+      "osm_id": 9409060625,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Liz Green Photography",
+      "category": [
+        "shop.photo"
+      ],
+      "lat": 40.8058025,
+      "lon": -73.966976,
+      "osm_id": 10755918454,
+      "osm_type": "node",
+      "address": "Riverside Drive",
+      "road_geometry": null
+    },
+    {
+      "name": "Junzi Kitchen",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8057904,
+      "lon": -73.9651642,
+      "osm_id": 11399303946,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Salon 601",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8057347,
+      "lon": -73.9661711,
+      "osm_id": 11410862563,
+      "osm_type": "node",
+      "address": "West 112th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Mondel Chocolates",
+      "category": [
+        "shop.chocolate"
+      ],
+      "lat": 40.8066696,
+      "lon": -73.9652118,
+      "osm_id": 11416148913,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - W 113 St & Broadway",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8059356,
+      "lon": -73.9648388,
+      "osm_id": 11817909915,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mount Sinai Doctors",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8053475,
+      "lon": -73.9663219,
+      "osm_id": 12174237440,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Softside Ice Cream",
+      "category": [
+        "amenity.ice_cream"
+      ],
+      "lat": 40.8052307,
+      "lon": -73.9655203,
+      "osm_id": 12763331031,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    },
+    {
+      "name": "Oula",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 40.8054681,
+      "lon": -73.9662253,
+      "osm_id": 13021710899,
+      "osm_type": "node",
+      "address": "Broadway",
+      "road_geometry": null
+    }
+  ]
+}

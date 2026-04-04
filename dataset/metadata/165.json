@@ -1,95 +1,83 @@
 {
   "image": "dataset/images/165.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.93601902061134,
+  "center_lat": 18.945900900900895,
+  "center_lon": 72.82619061968575,
   "bbox": [
-    -73.93750695036456,
-    40.81351351351353,
-    -73.93453109085812,
-    40.81576576576578
+    72.825,
+    18.944774774774768,
+    72.8273812393715,
+    18.94702702702702
   ],
   "unique_categories": [
-    "amenity.bicycle_rental",
-    "amenity.restaurant",
     "highway.bus_stop",
-    "amenity.post_office"
+    "railway.subway_entrance",
+    "railway.stop",
+    "railway.station"
   ],
   "poi_count_per_category": {
-    "amenity.bicycle_rental": 2,
-    "amenity.restaurant": 1,
-    "highway.bus_stop": 2,
-    "amenity.post_office": 1
+    "highway.bus_stop": 1,
+    "railway.subway_entrance": 1,
+    "railway.stop": 2,
+    "railway.station": 1
   },
-  "poi_count": 6,
+  "poi_count": 5,
   "pois": [
     {
-      "name": "Lincolnton Station New York Post Office",
+      "name": "Kalbadevi",
       "category": [
-        "amenity.post_office"
+        "railway.stop"
       ],
-      "lat": 40.815,
-      "lon": -73.9363889,
-      "osm_id": 357621260,
+      "lat": 18.9463455,
+      "lon": 72.8272045,
+      "osm_id": 5221297463,
       "osm_type": "node",
-      "address": "5th Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Kennedy Fried Chicken & Pizza",
+      "name": "Kalbadevi",
       "category": [
-        "amenity.restaurant"
+        "railway.stop"
       ],
-      "lat": 40.8142537,
-      "lon": -73.9367717,
-      "osm_id": 2767707740,
+      "lat": 18.9463212,
+      "lon": 72.8271777,
+      "osm_id": 8615193242,
       "osm_type": "node",
-      "address": "5th Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "137th Street & 5th Avenue",
+      "name": "Kalbadevi",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 18.946329,
+      "lon": 72.827193,
+      "osm_id": 13207029323,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "A1",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 18.9463324,
+      "lon": 72.8272498,
+      "osm_id": 13649538896,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Princess Street",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.813842,
-      "lon": -73.9369941,
-      "osm_id": 4953971783,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "138th Street & 5th Avenue",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.814453,
-      "lon": -73.9362538,
-      "osm_id": 4953971784,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - E 138 St & 5 Ave",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8144946,
-      "lon": -73.9361483,
-      "osm_id": 13244020809,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - 5 Ave & W 139 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8154936,
-      "lon": -73.9358586,
-      "osm_id": 13244047113,
+      "lat": 18.9463706,
+      "lon": 72.8272076,
+      "osm_id": 13649538897,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

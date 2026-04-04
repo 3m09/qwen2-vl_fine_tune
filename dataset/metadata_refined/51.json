@@ -1,117 +1,119 @@
 {
   "image": "dataset/images/51.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.98958590570726,
+  "center_lat": 51.5173873873874,
+  "center_lon": -0.09819035882554442,
   "bbox": [
-    -73.99107363346336,
-    40.80450450450451,
-    -73.98809817795114,
-    40.80675675675676
+    -0.1,
+    51.51626126126128,
+    -0.09638071765108883,
+    51.51851351351353
   ],
   "unique_categories": [
-    "shop.optician",
-    "shop.beauty",
-    "shop.mobile_phone",
-    "shop.clothes",
-    "shop.cosmetics"
+    "amenity.cafe",
+    "highway.bus_stop",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "amenity.clinic",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "shop.optician": 1,
-    "shop.beauty": 2,
-    "shop.mobile_phone": 1,
-    "shop.clothes": 2,
-    "shop.cosmetics": 1
+    "amenity.cafe": 2,
+    "highway.bus_stop": 1,
+    "amenity.restaurant": 1,
+    "amenity.fast_food": 1,
+    "amenity.clinic": 1,
+    "tourism.information": 1
   },
   "poi_count": 7,
   "pois": [
     {
-      "name": "Bath & Body Works",
+      "name": "King Edward Street / St Paul's Station",
       "category": [
-        "shop.cosmetics"
+        "highway.bus_stop"
       ],
-      "lat": 40.8063757,
-      "lon": -73.988646,
-      "osm_id": 5285140421,
+      "lat": 51.5165565,
+      "lon": -0.0986455,
+      "osm_id": 469773003,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Express",
+      "name": "Postman's Park",
       "category": [
-        "shop.clothes"
+        "tourism.information"
       ],
-      "lat": 40.8065844,
-      "lon": -73.9881756,
-      "osm_id": 5285140423,
+      "lat": 51.5168384,
+      "lon": -0.0970417,
+      "osm_id": 1813618226,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Loft",
+      "name": "Cafe Barts",
       "category": [
-        "shop.clothes"
+        "amenity.cafe"
       ],
-      "lat": 40.8066484,
-      "lon": -73.9883369,
-      "osm_id": 5285151121,
+      "lat": 51.5179036,
+      "lon": -0.0995562,
+      "osm_id": 1816705112,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Verizon",
+      "name": "Giddy Up Coffee",
       "category": [
-        "shop.mobile_phone"
+        "amenity.cafe"
       ],
-      "lat": 40.8067379,
-      "lon": -73.9885622,
-      "osm_id": 5285151122,
+      "lat": 51.5173587,
+      "lon": -0.0974004,
+      "osm_id": 6977910185,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": "Aldersgate Street",
       "road_geometry": null
     },
     {
-      "name": "LensCrafters",
+      "name": "Half Cup",
       "category": [
-        "shop.optician"
+        "amenity.restaurant"
       ],
-      "lat": 40.8062169,
-      "lon": -73.9882441,
-      "osm_id": 5286405423,
+      "lat": 51.5181206,
+      "lon": -0.0986307,
+      "osm_id": 10180595617,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": "Bartholomew Close",
       "road_geometry": null
     },
     {
-      "name": "JJ Eyelashes",
+      "name": "Sandwich Sandwich",
       "category": [
-        "shop.beauty"
+        "amenity.fast_food"
       ],
-      "lat": 40.8067375,
-      "lon": -73.9895616,
-      "osm_id": 5286416021,
+      "lat": 51.5164431,
+      "lon": -0.0967367,
+      "osm_id": 12783780143,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Victoria's Secret Beauty",
+      "name": "Moorfields @ Barts",
       "category": [
-        "shop.beauty"
+        "amenity.clinic"
       ],
-      "lat": 40.806492,
-      "lon": -73.9889402,
-      "osm_id": 9861373210,
+      "lat": 51.5172114,
+      "lon": -0.099456,
+      "osm_id": 12867023552,
       "osm_type": "node",
-      "address": "The Promenade",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 13,
-    "removed_count": 6,
+    "original_poi_count": 18,
+    "removed_count": 11,
     "model": "gemini-2.5-flash"
   }
 }

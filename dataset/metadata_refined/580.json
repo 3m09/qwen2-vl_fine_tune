@@ -1,0 +1,788 @@
+{
+  "image": "dataset/images/580.png",
+  "center_lat": 41.014639639639654,
+  "center_lon": 28.970447064454092,
+  "bbox": [
+    28.968954626674936,
+    41.01351351351353,
+    28.971939502233248,
+    41.015765765765785
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "shop.shoes",
+    "shop.interior_decoration",
+    "shop.perfumery",
+    "shop.furniture",
+    "shop.convenience",
+    "shop.gift",
+    "shop.jewelry",
+    "amenity.bank",
+    "shop.clothes",
+    "amenity.post_office",
+    "amenity.parking",
+    "shop.copyshop",
+    "amenity.fast_food",
+    "shop.department_store",
+    "shop.beauty"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 5,
+    "shop.shoes": 1,
+    "shop.interior_decoration": 1,
+    "shop.perfumery": 1,
+    "shop.furniture": 15,
+    "shop.convenience": 1,
+    "shop.gift": 2,
+    "shop.jewelry": 1,
+    "amenity.bank": 8,
+    "shop.clothes": 19,
+    "amenity.post_office": 1,
+    "amenity.parking": 1,
+    "shop.copyshop": 1,
+    "amenity.fast_food": 2,
+    "shop.department_store": 2,
+    "shop.beauty": 1
+  },
+  "poi_count": 61,
+  "pois": [
+    {
+      "name": "Western Union",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0153498,
+      "lon": 28.9708419,
+      "osm_id": 3188739869,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mercan Kapal\u0131 Otopark\u0131",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 41.013778,
+      "lon": 28.970432,
+      "osm_id": 3223603862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FedEx",
+      "category": [
+        "amenity.post_office",
+        "shop.copyshop"
+      ],
+      "lat": 41.0143532,
+      "lon": 28.9693498,
+      "osm_id": 3461609138,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0147583,
+      "lon": 28.9713084,
+      "osm_id": 3499155733,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "T\u00fcrkiye Finans",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0148499,
+      "lon": 28.9699316,
+      "osm_id": 3499155982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0153476,
+      "lon": 28.9710456,
+      "osm_id": 3880194244,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.01538,
+      "lon": 28.97113,
+      "osm_id": 4679475824,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0646\u0648\u0631 \u0627\u0648\u0628\u0643",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.0154173,
+      "lon": 28.9710763,
+      "osm_id": 4739580224,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Alt\u0131nay kuma\u015f",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0150694,
+      "lon": 28.9715585,
+      "osm_id": 5110345313,
+      "osm_type": "node",
+      "address": "Sultan Hamam Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Y\u00fcnes tekstil",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0148624,
+      "lon": 28.9714106,
+      "osm_id": 5110345345,
+      "osm_type": "node",
+      "address": "A\u015firefendi Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0145973,
+      "lon": 28.9713296,
+      "osm_id": 5110345346,
+      "osm_type": "node",
+      "address": "Hocahan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "C\u0131g\u0131t kids",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.014555,
+      "lon": 28.9715535,
+      "osm_id": 5110345348,
+      "osm_type": "node",
+      "address": "Hocahan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Ko\u00e7lar tekstil",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0144621,
+      "lon": 28.9718221,
+      "osm_id": 5110345354,
+      "osm_type": "node",
+      "address": "Hocahan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Saray giyim",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.014013,
+      "lon": 28.9709044,
+      "osm_id": 5111211795,
+      "osm_type": "node",
+      "address": "Hac\u0131 K\u00fc\u00e7\u00fck Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Ziraat bank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0145068,
+      "lon": 28.9709044,
+      "osm_id": 5111211799,
+      "osm_type": "node",
+      "address": "Hac\u0131 K\u00fc\u00e7\u00fck Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Ziraat bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0145554,
+      "lon": 28.9709044,
+      "osm_id": 5111211800,
+      "osm_type": "node",
+      "address": "Hac\u0131 K\u00fc\u00e7\u00fck Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Tac",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0146525,
+      "lon": 28.9706254,
+      "osm_id": 5111211801,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Kuveyt T\u00fcrk",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0145715,
+      "lon": 28.9705181,
+      "osm_id": 5111211802,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Kuveyt T\u00fcrk",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0146201,
+      "lon": 28.9703894,
+      "osm_id": 5111211803,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Lanze",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.014272,
+      "lon": 28.9699817,
+      "osm_id": 5111211806,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Tac",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0141911,
+      "lon": 28.9699817,
+      "osm_id": 5111211807,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Nur bufe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0140211,
+      "lon": 28.9699817,
+      "osm_id": 5111211810,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Armine",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0138996,
+      "lon": 28.9702177,
+      "osm_id": 5111211812,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Tarihi irfaniye carsisi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0135718,
+      "lon": 28.9704001,
+      "osm_id": 5111212225,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Himms",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0142882,
+      "lon": 28.9718485,
+      "osm_id": 5111212291,
+      "osm_type": "node",
+      "address": "Hocahan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Yap\u0131 Kredi",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0146363,
+      "lon": 28.971363,
+      "osm_id": 5111212294,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nur B\u00fcfe",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0140167,
+      "lon": 28.9699946,
+      "osm_id": 5112736027,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "KRC By Karaca",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0143648,
+      "lon": 28.9700001,
+      "osm_id": 5112736035,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Tarihi B\u00fcy\u00fck \u00c7orap\u00e7\u0131 Han\u0131",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0144982,
+      "lon": 28.9700426,
+      "osm_id": 5112736039,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "G\u00fcl Mefru\u015fat",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.014661,
+      "lon": 28.9700068,
+      "osm_id": 5112736044,
+      "osm_type": "node",
+      "address": "Vas\u0131f \u00c7\u0131nar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Nalbant",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0147093,
+      "lon": 28.9698092,
+      "osm_id": 5112736047,
+      "osm_type": "node",
+      "address": "Vas\u0131f \u00c7\u0131nar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "TA\u00c7",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0148169,
+      "lon": 28.9695275,
+      "osm_id": 5112736051,
+      "osm_type": "node",
+      "address": "Vas\u0131f \u00c7\u0131nar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Do\u011fruluk Mefru\u015fat",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0149159,
+      "lon": 28.9691808,
+      "osm_id": 5112736053,
+      "osm_type": "node",
+      "address": "Vas\u0131f \u00c7\u0131nar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c7i\u011fdem E\u015farp",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0137143,
+      "lon": 28.9695098,
+      "osm_id": 5112738054,
+      "osm_type": "node",
+      "address": "\u00c7akmak\u00e7\u0131lar Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "\u015earpa",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0137957,
+      "lon": 28.9696305,
+      "osm_id": 5112738057,
+      "osm_type": "node",
+      "address": "\u00c7akmak\u00e7\u0131lar Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Erda",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0141885,
+      "lon": 28.9695841,
+      "osm_id": 5112744240,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Gold Home Collection",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0139148,
+      "lon": 28.9697659,
+      "osm_id": 5112744245,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Popartc\u0131",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0140297,
+      "lon": 28.9695322,
+      "osm_id": 5112744250,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Karaca Home",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0147946,
+      "lon": 28.9693201,
+      "osm_id": 5112744251,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Esa Home Perde",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0145035,
+      "lon": 28.9693072,
+      "osm_id": 5112744258,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Manifatura Mefru\u015fat",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0146818,
+      "lon": 28.9692852,
+      "osm_id": 5112744260,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Karaca Home",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0140887,
+      "lon": 28.9694976,
+      "osm_id": 5112744262,
+      "osm_type": "node",
+      "address": "Fincanc\u0131lar Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0156804,
+      "lon": 28.9696545,
+      "osm_id": 5244795894,
+      "osm_type": "node",
+      "address": "Tahtakale Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Bonjela",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0151057,
+      "lon": 28.9690194,
+      "osm_id": 5244796135,
+      "osm_type": "node",
+      "address": "Vas\u0131f \u00c7\u0131nar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Hac\u0131baba",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0154329,
+      "lon": 28.9696807,
+      "osm_id": 5244796196,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "Aksoy \u0130plik Tuhafiye",
+      "category": [
+        "shop.interior_decoration"
+      ],
+      "lat": 41.0152262,
+      "lon": 28.969554,
+      "osm_id": 5244796199,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "G\u00fcven Pazarlama",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 41.0150635,
+      "lon": 28.9693091,
+      "osm_id": 5244796201,
+      "osm_type": "node",
+      "address": "Sabuncuhan\u0131 Soka\u011f\u0131",
+      "road_geometry": null
+    },
+    {
+      "name": "\u00c7ukurova Home Collection",
+      "category": [
+        "shop.furniture"
+      ],
+      "lat": 41.0137472,
+      "lon": 28.9698831,
+      "osm_id": 5244811451,
+      "osm_type": "node",
+      "address": "\u00c7akmak\u00e7\u0131lar Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Armine",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0138373,
+      "lon": 28.9700326,
+      "osm_id": 5244811452,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Timu\u00e7in Perfumery",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 41.0136757,
+      "lon": 28.9701996,
+      "osm_id": 5244811453,
+      "osm_type": "node",
+      "address": "Mahmutpa\u015fa Yoku\u015fu",
+      "road_geometry": null
+    },
+    {
+      "name": "Haseki Kapisi",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0157603,
+      "lon": 28.9718417,
+      "osm_id": 5599668270,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bursa Pazar\u0131",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0147263,
+      "lon": 28.9709908,
+      "osm_id": 5674743521,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fermuar",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0152685,
+      "lon": 28.9702738,
+      "osm_id": 5674756221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Marpu\u00e7\u00e7uler \u0130\u015f Merkezi",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0155336,
+      "lon": 28.9700326,
+      "osm_id": 5674779822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "nasip giyim",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0152729,
+      "lon": 28.9716379,
+      "osm_id": 5756050922,
+      "osm_type": "node",
+      "address": "Yeni Camii Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Armine",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0152238,
+      "lon": 28.9714762,
+      "osm_id": 5874257588,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FLO",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 41.0153469,
+      "lon": 28.9716704,
+      "osm_id": 6390414885,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0156493,
+      "lon": 28.9718837,
+      "osm_id": 6390414985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Saltan Tak\u0131",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.015402,
+      "lon": 28.9708341,
+      "osm_id": 6464086387,
+      "osm_type": "node",
+      "address": "Marpuccular Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Kiralik Kat",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 41.015575,
+      "lon": 28.9712787,
+      "osm_id": 9928413318,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "D&P Perfumum",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 41.0152745,
+      "lon": 28.9697416,
+      "osm_id": 9928413517,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 197,
+    "removed_count": 136,
+    "model": "gemini-2.5-flash"
+  }
+}

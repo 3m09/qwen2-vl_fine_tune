@@ -1,57 +1,93 @@
 {
   "image": "dataset/images/132.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.96280301886618,
+  "center_lat": 18.934639639639638,
+  "center_lon": 72.83095269694853,
   "bbox": [
-    -73.96429089811153,
-    40.81126126126127,
-    -73.96131513962082,
-    40.81351351351353
+    72.82976215755882,
+    18.93351351351351,
+    72.83214323633823,
+    18.935765765765762
   ],
   "unique_categories": [
     "highway.bus_stop",
-    "amenity.school",
-    "tourism.artwork"
+    "amenity.fast_food",
+    "shop.travel_agency"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 1,
-    "amenity.school": 1,
-    "tourism.artwork": 1
+    "highway.bus_stop": 4,
+    "amenity.fast_food": 1,
+    "shop.travel_agency": 1
   },
-  "poi_count": 3,
+  "poi_count": 6,
   "pois": [
     {
-      "name": "Riverside Church Week Day School",
-      "category": [
-        "amenity.school"
-      ],
-      "lat": 40.8113651,
-      "lon": -73.9635604,
-      "osm_id": 357621706,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Riverside Drive & West 122nd Street",
+      "name": "Hutatma Chowk",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8128986,
-      "lon": -73.962725,
-      "osm_id": 4284126289,
+      "lat": 18.933794,
+      "lon": 72.831275,
+      "osm_id": 2166749272,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "General Daniel Butterfield",
+      "name": "Hutatma Chowk",
       "category": [
-        "tourism.artwork"
+        "highway.bus_stop"
       ],
-      "lat": 40.8126196,
-      "lon": -73.9621121,
-      "osm_id": 6244980517,
+      "lat": 18.934017,
+      "lon": 72.831248,
+      "osm_id": 2166750103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9344811,
+      "lon": 72.8311697,
+      "osm_id": 2166751180,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "bhelwala",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 18.93526,
+      "lon": 72.83113,
+      "osm_id": 2166760742,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bombino Express",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 18.9342138,
+      "lon": 72.83208,
+      "osm_id": 4532364890,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai Gymkhana",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9349045,
+      "lon": 72.8310272,
+      "osm_id": 9788414503,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

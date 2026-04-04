@@ -1,43 +1,133 @@
 {
   "image": "dataset/images/124.png",
-  "center_lat": 40.812387387387396,
-  "center_lon": -73.98660908679183,
+  "center_lat": 18.932387387387386,
+  "center_lon": 72.82857157001195,
   "bbox": [
-    -73.98809696603718,
-    40.81126126126127,
-    -73.98512120754647,
-    40.81351351351353
+    72.82738104667463,
+    18.93126126126126,
+    72.82976209334926,
+    18.93351351351351
   ],
   "unique_categories": [
-    "shop.craft",
-    "shop.department_store"
+    "tourism.artwork",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "amenity.cinema",
+    "amenity.bus_station"
   ],
   "poi_count_per_category": {
-    "shop.craft": 1,
-    "shop.department_store": 1
+    "tourism.artwork": 3,
+    "highway.bus_stop": 3,
+    "amenity.cafe": 1,
+    "amenity.cinema": 1,
+    "amenity.bus_station": 1
   },
-  "poi_count": 2,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "Michaels",
+      "name": "Eros Cinema",
       "category": [
-        "shop.craft"
+        "amenity.cinema"
       ],
-      "lat": 40.8122862,
-      "lon": -73.9856004,
-      "osm_id": 8530362499,
+      "lat": 18.9322385,
+      "lon": 72.8279388,
+      "osm_id": 1332570741,
       "osm_type": "node",
-      "address": "River Road",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "TJ Maxx",
+      "name": "Churchgate",
       "category": [
-        "shop.department_store"
+        "amenity.bus_station"
       ],
-      "lat": 40.812077,
-      "lon": -73.9851345,
-      "osm_id": 8530362500,
+      "lat": 18.9331079,
+      "lon": 72.8285954,
+      "osm_id": 2629682524,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9329613,
+      "lon": 72.8287391,
+      "osm_id": 2629682539,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ahilyabai Holkar Chowk",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9326034,
+      "lon": 72.8297156,
+      "osm_id": 9788414506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Churchgate",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 18.9323852,
+      "lon": 72.827543,
+      "osm_id": 9788414507,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sir Hormusjee Cowasjee Dinshaw of Aden",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9328889,
+      "lon": 72.8296392,
+      "osm_id": 10695150958,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gopal Krishna Gokhale C.I.E.",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9329304,
+      "lon": 72.8293133,
+      "osm_id": 10695150959,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "26/11 Peace Memorial",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 18.9331431,
+      "lon": 72.8276372,
+      "osm_id": 10695150960,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Beer Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 18.9321506,
+      "lon": 72.8280275,
+      "osm_id": 11456248703,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

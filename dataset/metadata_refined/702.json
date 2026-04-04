@@ -1,0 +1,91 @@
+{
+  "image": "dataset/images/702.png",
+  "center_lat": 19.439639639639637,
+  "center_lon": -99.13186384062905,
+  "bbox": [
+    -99.1330580369355,
+    19.43851351351351,
+    -99.1306696443226,
+    19.44076576576576
+  ],
+  "unique_categories": [
+    "shop.mall",
+    "shop.clothes",
+    "shop.bicycle",
+    "amenity.pharmacy"
+  ],
+  "poi_count_per_category": {
+    "shop.mall": 2,
+    "shop.clothes": 1,
+    "shop.bicycle": 1,
+    "amenity.pharmacy": 1
+  },
+  "poi_count": 5,
+  "pois": [
+    {
+      "name": "Casa Biciteka",
+      "category": [
+        "shop.bicycle"
+      ],
+      "lat": 19.4406188,
+      "lon": -99.1322852,
+      "osm_id": 3416665448,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Nicaragua",
+      "road_geometry": null
+    },
+    {
+      "name": "Gorras",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 19.4389726,
+      "lon": -99.1314111,
+      "osm_id": 5622802873,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacity",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4391176,
+      "lon": -99.1313733,
+      "osm_id": 5622803089,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Plaza Charlie",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 19.4399647,
+      "lon": -99.1310351,
+      "osm_id": 11767207676,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Plaza C\u00e9sar",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 19.4401253,
+      "lon": -99.1317191,
+      "osm_id": 11767207677,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 6,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

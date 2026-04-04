@@ -1,0 +1,127 @@
+{
+  "image": "dataset/images/215.png",
+  "center_lat": 31.240135135135134,
+  "center_lon": 121.4992196234496,
+  "bbox": [
+    121.49790253438537,
+    31.239009009009006,
+    121.50053671251383,
+    31.241261261261258
+  ],
+  "unique_categories": [
+    "amenity.bank",
+    "shop.convenience",
+    "amenity.restaurant",
+    "railway.subway_entrance"
+  ],
+  "poi_count_per_category": {
+    "amenity.bank": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 3,
+    "railway.subway_entrance": 3
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "\u7f57\u68ee",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 31.240358,
+      "lon": 121.4992136,
+      "osm_id": 652668434,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "6",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 31.2392297,
+      "lon": 121.498392,
+      "osm_id": 1779952822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "3",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 31.2402422,
+      "lon": 121.4984289,
+      "osm_id": 2703743735,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9f0e\u6cf0\u4e30",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2391719,
+      "lon": 121.4979816,
+      "osm_id": 4893700621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "4",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 31.2398322,
+      "lon": 121.4984304,
+      "osm_id": 5308572447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hefu-Noodle",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2402769,
+      "lon": 121.4983543,
+      "osm_id": 7099715317,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e2d\u56fd\u94f6\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 31.2404521,
+      "lon": 121.4990601,
+      "osm_id": 8927111841,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u548c\u5e9c\u635e\u9762",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 31.2402183,
+      "lon": 121.4982645,
+      "osm_id": 11221740641,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 15,
+    "removed_count": 7,
+    "model": "gemini-2.5-flash"
+  }
+}

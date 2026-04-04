@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/1139.png",
+  "center_lat": 40.839414414414456,
+  "center_lon": -73.99255757140979,
+  "bbox": [
+    -73.99404605712783,
+    40.83828828828833,
+    -73.99106908569175,
+    40.84054054054059
+  ],
+  "unique_categories": [
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "Palisades Park Junior/Senior High School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8383804,
+      "lon": -73.9931989,
+      "osm_id": 5959905101,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

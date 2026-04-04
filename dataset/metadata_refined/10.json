@@ -1,353 +1,746 @@
 {
   "image": "dataset/images/10.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.96875983736997,
+  "center_lat": 35.65963063063064,
+  "center_lon": 139.7029299563205,
   "bbox": [
-    -73.97024746416187,
-    40.8,
-    -73.96727221057806,
-    40.80225225225225
+    139.7015439650564,
+    35.65850450450451,
+    139.7043159475846,
+    35.66075675675677
   ],
   "unique_categories": [
-    "tourism.artwork",
-    "amenity.place_of_worship",
-    "shop.alcohol",
-    "amenity.restaurant",
+    "shop.bag",
     "shop.convenience",
-    "amenity.bar",
-    "amenity.atm",
-    "highway.bus_stop",
-    "shop.mobile_phone",
-    "shop.hairdresser",
-    "shop.optician",
+    "amenity.restaurant",
+    "amenity.post_office",
+    "amenity.fast_food",
     "shop.massage",
+    "railway.subway_entrance",
+    "amenity.bank",
+    "highway.elevator",
+    "shop.electronics",
+    "shop.cosmetics",
+    "highway.bus_stop",
+    "amenity.cafe",
+    "shop.stationery",
+    "amenity.bar",
+    "shop.travel_agency",
     "shop.beauty",
-    "amenity.bicycle_rental",
-    "amenity.bank"
+    "amenity.hospital",
+    "shop.shoes",
+    "leisure.amusement_arcade",
+    "shop.mobile_phone",
+    "railway.stop",
+    "tourism.hotel",
+    "railway.station",
+    "tourism.information"
   ],
   "poi_count_per_category": {
-    "tourism.artwork": 1,
-    "amenity.place_of_worship": 1,
-    "shop.alcohol": 1,
-    "amenity.restaurant": 5,
-    "shop.convenience": 2,
-    "amenity.bar": 2,
-    "amenity.atm": 1,
-    "highway.bus_stop": 4,
-    "shop.mobile_phone": 1,
-    "shop.hairdresser": 2,
-    "shop.optician": 1,
+    "shop.bag": 1,
+    "shop.convenience": 3,
+    "amenity.restaurant": 3,
+    "amenity.post_office": 1,
+    "amenity.fast_food": 4,
     "shop.massage": 1,
+    "railway.subway_entrance": 4,
+    "amenity.bank": 3,
+    "highway.elevator": 1,
+    "shop.electronics": 1,
+    "shop.cosmetics": 1,
+    "highway.bus_stop": 7,
+    "amenity.cafe": 1,
+    "shop.stationery": 1,
+    "amenity.bar": 6,
+    "shop.travel_agency": 1,
     "shop.beauty": 1,
-    "amenity.bicycle_rental": 1,
-    "amenity.bank": 1
+    "amenity.hospital": 1,
+    "shop.shoes": 1,
+    "leisure.amusement_arcade": 1,
+    "shop.mobile_phone": 2,
+    "railway.stop": 8,
+    "tourism.hotel": 1,
+    "railway.station": 2,
+    "tourism.information": 1
   },
-  "poi_count": 25,
+  "poi_count": 56,
   "pois": [
     {
-      "name": "New York Buddhist Church",
+      "name": "\u6e0b\u8c37",
       "category": [
-        "amenity.place_of_worship"
+        "railway.stop"
       ],
-      "lat": 40.8016539,
-      "lon": -73.9701238,
-      "osm_id": 357620590,
+      "lat": 35.6595562,
+      "lon": 139.7020805,
+      "osm_id": 266083652,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "West 106th Street & Broadway",
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
       "category": [
         "highway.bus_stop"
       ],
-      "lat": 40.8013407,
-      "lon": -73.9675843,
-      "osm_id": 2226852778,
+      "lat": 35.658527,
+      "lon": 139.702601,
+      "osm_id": 696656289,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "LaserAway",
+      "name": "\u6e0b\u8c37\u99c5",
       "category": [
-        "shop.beauty"
+        "railway.subway_entrance"
       ],
-      "lat": 40.8022129,
-      "lon": -73.9674641,
-      "osm_id": 2279017950,
+      "lat": 35.6599502,
+      "lon": 139.702463,
+      "osm_id": 1316007443,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Bank of America",
+      "name": "\u30d3\u30c3\u30af\u30ab\u30e1\u30e9",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 35.6597979,
+      "lon": 139.7020831,
+      "osm_id": 1377643958,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 35.6593176,
+      "lon": 139.7026638,
+      "osm_id": 1377643961,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u90f5\u4fbf\u5c40",
+      "category": [
+        "amenity.post_office"
+      ],
+      "lat": 35.660183,
+      "lon": 139.703995,
+      "osm_id": 1420789227,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u307f\u305a\u307b\u9280\u884c",
       "category": [
         "amenity.bank"
       ],
-      "lat": 40.8019529,
-      "lon": -73.9675069,
-      "osm_id": 2279017952,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Bank of America",
-      "category": [
-        "amenity.atm"
-      ],
-      "lat": 40.8019491,
-      "lon": -73.9675075,
-      "osm_id": 2279017960,
+      "lat": 35.6596802,
+      "lon": 139.7017775,
+      "osm_id": 1558819042,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Six Corners Marketplace",
+      "name": "Tokyu Inn",
       "category": [
-        "shop.convenience"
+        "tourism.hotel"
       ],
-      "lat": 40.8012852,
-      "lon": -73.9681784,
-      "osm_id": 2312065740,
+      "lat": 35.660113,
+      "lon": 139.7021214,
+      "osm_id": 1681422026,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Smoke Jazz & Supper Club",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8011187,
-      "lon": -73.9682057,
-      "osm_id": 2312065757,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "The Ellington",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8008613,
-      "lon": -73.9682637,
-      "osm_id": 2384892236,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Tap a Keg",
+      "name": "Tsukasa",
       "category": [
         "amenity.bar"
       ],
-      "lat": 40.800303,
-      "lon": -73.9683394,
-      "osm_id": 2384892242,
+      "lat": 35.6605301,
+      "lon": 139.702077,
+      "osm_id": 1681422038,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Serafina",
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
       "category": [
-        "amenity.restaurant"
+        "shop.convenience"
       ],
-      "lat": 40.800492,
-      "lon": -73.9682823,
-      "osm_id": 2384892243,
+      "lat": 35.6607396,
+      "lon": 139.7021049,
+      "osm_id": 1681422063,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Caf\u00e9 du Soleil",
+      "name": "\u5317\u6d77\u9053",
       "category": [
-        "amenity.restaurant"
+        "amenity.bar"
       ],
-      "lat": 40.8000965,
-      "lon": -73.9683967,
-      "osm_id": 2761533833,
+      "lat": 35.6602621,
+      "lon": 139.7020831,
+      "osm_id": 1681422082,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "AT&T",
+      "name": "\u8863\u7b20\u773c\u79d1",
+      "category": [
+        "amenity.hospital"
+      ],
+      "lat": 35.6596897,
+      "lon": 139.7020472,
+      "osm_id": 1681422121,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u91ce\u6751\u8b49\u5238",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 35.6603315,
+      "lon": 139.7025324,
+      "osm_id": 1681422124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30a8\u30a4\u30c1\u30fb\u30a2\u30a4\u30fb\u30a8\u30b9",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 35.6599267,
+      "lon": 139.7025977,
+      "osm_id": 1681588632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Top 1",
       "category": [
         "shop.mobile_phone"
       ],
-      "lat": 40.8001802,
-      "lon": -73.9683663,
-      "osm_id": 2761533868,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Convenience Grocery",
-      "category": [
-        "shop.convenience"
-      ],
-      "lat": 40.8001826,
-      "lon": -73.9677493,
-      "osm_id": 2761533879,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Classic Scissors II",
-      "category": [
-        "shop.hairdresser"
-      ],
-      "lat": 40.8008675,
-      "lon": -73.9676376,
-      "osm_id": 2761564515,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Columns Wine Bar",
-      "category": [
-        "amenity.bar"
-      ],
-      "lat": 40.8009462,
-      "lon": -73.9676253,
-      "osm_id": 2761564519,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Broadway / 106th St",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.8010783,
-      "lon": -73.9681125,
-      "osm_id": 3271250922,
+      "lat": 35.6597705,
+      "lon": 139.7026643,
+      "osm_id": 1681588636,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Broadway / W 105th St",
+      "name": "\u304b\u3064\u3084",
       "category": [
-        "highway.bus_stop"
+        "amenity.fast_food"
       ],
-      "lat": 40.8015504,
-      "lon": -73.9676666,
-      "osm_id": 3271250923,
+      "lat": 35.6597699,
+      "lon": 139.7029327,
+      "osm_id": 1681588638,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Riverside Wine & Liquor",
+      "name": "\u3061\u304f\u3061\u304f",
       "category": [
-        "shop.alcohol"
+        "amenity.cafe"
       ],
-      "lat": 40.8000727,
-      "lon": -73.9677836,
-      "osm_id": 6053305485,
-      "osm_type": "node",
-      "address": "Broadway",
-      "road_geometry": null
-    },
-    {
-      "name": "Citi Bike - West End Ave & W 107 St",
-      "category": [
-        "amenity.bicycle_rental"
-      ],
-      "lat": 40.8022377,
-      "lon": -73.9681178,
-      "osm_id": 6086883839,
+      "lat": 35.6599468,
+      "lon": 139.7037449,
+      "osm_id": 1681588641,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Broadway & West 106th Street",
+      "name": "\u5bcc\u58eb\u305d\u3070",
       "category": [
-        "highway.bus_stop"
+        "amenity.fast_food"
       ],
-      "lat": 40.8017413,
-      "lon": -73.9676562,
-      "osm_id": 8703182173,
+      "lat": 35.6601806,
+      "lon": 139.7025677,
+      "osm_id": 1681588674,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "LensCrafters",
+      "name": "\u6e0b\u8c37\u99c5",
       "category": [
-        "shop.optician"
+        "railway.subway_entrance",
+        "highway.elevator"
       ],
-      "lat": 40.8017491,
-      "lon": -73.9675534,
-      "osm_id": 11411597871,
+      "lat": 35.6605689,
+      "lon": 139.7025332,
+      "osm_id": 1681588685,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Koko Wings",
+      "name": "\u711a\u706b\u5c4b",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8009562,
-      "lon": -73.9673468,
-      "osm_id": 11411614762,
-      "osm_type": "node",
-      "address": "West 106th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Long Teng Massage",
-      "category": [
-        "shop.massage"
-      ],
-      "lat": 40.80048,
-      "lon": -73.9676178,
-      "osm_id": 11414262371,
-      "osm_type": "node",
-      "address": "West 105th Street",
-      "road_geometry": null
-    },
-    {
-      "name": "Straus Monument",
-      "category": [
-        "tourism.artwork"
-      ],
-      "lat": 40.8017383,
-      "lon": -73.9682178,
-      "osm_id": 11810089111,
+      "lat": 35.6605598,
+      "lon": 139.7026064,
+      "osm_id": 1681588688,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Nafilino Beauty Salon",
+      "name": "4",
       "category": [
-        "shop.hairdresser"
+        "amenity.bar"
       ],
-      "lat": 40.8006453,
-      "lon": -73.9676005,
-      "osm_id": 12646048268,
+      "lat": 35.6606454,
+      "lon": 139.7026029,
+      "osm_id": 1681588719,
       "osm_type": "node",
-      "address": "Broadway",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.659386,
+      "lon": 139.702208,
+      "osm_id": 1681663646,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.658807,
+      "lon": 139.702378,
+      "osm_id": 1681663773,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6586094,
+      "lon": 139.7027222,
+      "osm_id": 1951952370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30ed\u30fc\u30bd\u30f3",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6599589,
+      "lon": 139.7041212,
+      "osm_id": 2171167534,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6771\u4eac\u30b9\u30bf\u30fc\u9280\u884c",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 35.658583,
+      "lon": 139.704178,
+      "osm_id": 2272403632,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30b5\u30d6\u30a6\u30a7\u30a4",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.659832,
+      "lon": 139.703385,
+      "osm_id": 2356791180,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.659358,
+      "lon": 139.702059,
+      "osm_id": 2674504693,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6586191,
+      "lon": 139.7025488,
+      "osm_id": 2710121301,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.659189,
+      "lon": 139.701832,
+      "osm_id": 2710121306,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5\u524d(\u6771\u53e3)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 35.6587172,
+      "lon": 139.7020418,
+      "osm_id": 3558103144,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "au\u30b7\u30e7\u30c3\u30d7",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 35.6595872,
+      "lon": 139.7035282,
+      "osm_id": 3589032220,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37\u99c5",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 35.6599276,
+      "lon": 139.7022355,
+      "osm_id": 3608610193,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6585645,
+      "lon": 139.7025824,
+      "osm_id": 3656055919,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30bf\u30a4\u30c8\u30fc\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "category": [
+        "leisure.amusement_arcade"
+      ],
+      "lat": 35.6599334,
+      "lon": 139.7020353,
+      "osm_id": 4841478823,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nonbei yokocho alley",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.659789,
+      "lon": 139.7024582,
+      "osm_id": 4846662021,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 35.6594549,
+      "lon": 139.7031139,
+      "osm_id": 5001322859,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u306e\u308a\u3070\u6848\u5185",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 35.6587836,
+      "lon": 139.7029658,
+      "osm_id": 5046937019,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bri29",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6586398,
+      "lon": 139.7036204,
+      "osm_id": 5072661364,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Acceso",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 35.6587634,
+      "lon": 139.7042166,
+      "osm_id": 5072661372,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "nAdesico nail salon",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 35.6601026,
+      "lon": 139.7038114,
+      "osm_id": 5133172809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Relaxation Salon REX",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 35.660012,
+      "lon": 139.7038545,
+      "osm_id": 5133172812,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6590617,
+      "lon": 139.7024251,
+      "osm_id": 6219196067,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6589379,
+      "lon": 139.7025241,
+      "osm_id": 6219196068,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 35.658999,
+      "lon": 139.7024447,
+      "osm_id": 6219204314,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6586573,
+      "lon": 139.7028715,
+      "osm_id": 6219636707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6586186,
+      "lon": 139.7027508,
+      "osm_id": 6219636708,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 35.659501,
+      "lon": 139.701972,
+      "osm_id": 6219656544,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6e0b\u8c37",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 35.6594567,
+      "lon": 139.7020856,
+      "osm_id": 6219656545,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u304b\u3064\u3084",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 35.6598058,
+      "lon": 139.702826,
+      "osm_id": 6346402785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u30a6\u30a8\u30de\u30c4",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 35.6592892,
+      "lon": 139.7027788,
+      "osm_id": 6939181506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bloody Angle",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6605256,
+      "lon": 139.702929,
+      "osm_id": 10290572856,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "DJ Bar Bridge",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 35.6597602,
+      "lon": 139.7017509,
+      "osm_id": 10290580051,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "FATUITE",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 35.6585772,
+      "lon": 139.7022846,
+      "osm_id": 12452551982,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Converse",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 35.6585664,
+      "lon": 139.7020762,
+      "osm_id": 12452551985,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "VASIC SHIBUYA",
+      "category": [
+        "shop.bag"
+      ],
+      "lat": 35.6586228,
+      "lon": 139.7018296,
+      "osm_id": 12452551986,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 41,
-    "removed_count": 16,
+    "original_poi_count": 141,
+    "removed_count": 85,
     "model": "gemini-2.5-flash"
   }
 }

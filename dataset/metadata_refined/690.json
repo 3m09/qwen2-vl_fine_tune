@@ -1,0 +1,187 @@
+{
+  "image": "dataset/images/690.png",
+  "center_lat": 19.437387387387385,
+  "center_lon": -99.13902910129542,
+  "bbox": [
+    -99.14022328103634,
+    19.436261261261258,
+    -99.13783492155451,
+    19.43851351351351
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.sports",
+    "amenity.bar",
+    "amenity.bicycle_rental",
+    "tourism.artwork",
+    "shop.books",
+    "shop.toys",
+    "shop.dry_cleaning"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "shop.sports": 1,
+    "amenity.bar": 3,
+    "amenity.bicycle_rental": 1,
+    "tourism.artwork": 1,
+    "shop.books": 1,
+    "shop.toys": 1,
+    "shop.dry_cleaning": 1
+  },
+  "poi_count": 12,
+  "pois": [
+    {
+      "name": "Ecobici Marconi / Tacuba",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 19.4363923,
+      "lon": -99.1398461,
+      "osm_id": 2812616627,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Oxxo",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 19.4367095,
+      "lon": -99.1383418,
+      "osm_id": 3807174977,
+      "osm_type": "node",
+      "address": "Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "Sports One",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 19.4376002,
+      "lon": -99.14011,
+      "osm_id": 4154582891,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmacias del Ahorro",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 19.4384712,
+      "lon": -99.1399919,
+      "osm_id": 4154583090,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Teatro Blanquita",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 19.4384109,
+      "lon": -99.1390777,
+      "osm_id": 4213178095,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Las Pecosas",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4373975,
+      "lon": -99.1385915,
+      "osm_id": 4375606016,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Aztec",
+      "category": [
+        "shop.dry_cleaning"
+      ],
+      "lat": 19.4375641,
+      "lon": -99.1381762,
+      "osm_id": 5625799708,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Nueva Excelencia",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4373612,
+      "lon": -99.1379675,
+      "osm_id": 6030460186,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Retromex",
+      "category": [
+        "shop.toys"
+      ],
+      "lat": 19.4367804,
+      "lon": -99.1400972,
+      "osm_id": 6616758401,
+      "osm_type": "node",
+      "address": "Donceles",
+      "road_geometry": null
+    },
+    {
+      "name": "ProCer",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 19.4365085,
+      "lon": -99.1397534,
+      "osm_id": 9706406117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sebasti\u00e1n Lerdo de Tejada",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 19.4366145,
+      "lon": -99.1388502,
+      "osm_id": 12010301335,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "American Bookstore",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 19.4373756,
+      "lon": -99.1381833,
+      "osm_id": 12103878901,
+      "osm_type": "node",
+      "address": "Calle Rep\u00fablica de Cuba",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 22,
+    "removed_count": 10,
+    "model": "gemini-2.5-flash"
+  }
+}

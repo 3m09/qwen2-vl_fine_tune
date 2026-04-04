@@ -1,0 +1,922 @@
+{
+  "image": "dataset/images/409.png",
+  "center_lat": 22.28063063063063,
+  "center_lon": 114.18068864688634,
+  "bbox": [
+    114.17947166765774,
+    22.2795045045045,
+    114.18190562611495,
+    22.281756756756753
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.camera",
+    "shop.kitchen",
+    "amenity.toilets",
+    "shop.building_materials",
+    "shop.paint",
+    "shop.optician",
+    "shop.hairdresser",
+    "shop.scuba_diving",
+    "shop.convenience",
+    "shop.pawnbroker",
+    "highway.bus_stop",
+    "shop.car_repair",
+    "amenity.clinic",
+    "shop.clothes",
+    "amenity.bureau_de_change",
+    "shop.massage",
+    "shop.electrical",
+    "amenity.parking",
+    "shop.craft",
+    "shop.pastry",
+    "shop.hardware",
+    "shop.greengrocer",
+    "amenity.bank",
+    "shop.jewelry"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 3,
+    "amenity.restaurant": 25,
+    "shop.camera": 1,
+    "shop.kitchen": 1,
+    "amenity.toilets": 1,
+    "shop.building_materials": 2,
+    "shop.paint": 1,
+    "shop.optician": 3,
+    "shop.hairdresser": 1,
+    "shop.scuba_diving": 1,
+    "shop.convenience": 2,
+    "shop.pawnbroker": 1,
+    "highway.bus_stop": 12,
+    "shop.car_repair": 3,
+    "amenity.clinic": 1,
+    "shop.clothes": 1,
+    "amenity.bureau_de_change": 1,
+    "shop.massage": 2,
+    "shop.electrical": 1,
+    "amenity.parking": 2,
+    "shop.craft": 1,
+    "shop.pastry": 1,
+    "shop.hardware": 1,
+    "shop.greengrocer": 1,
+    "amenity.bank": 1,
+    "shop.jewelry": 1
+  },
+  "poi_count": 71,
+  "pois": [
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2809918,
+      "lon": 114.1812752,
+      "osm_id": 288373339,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2809955,
+      "lon": 114.1812851,
+      "osm_id": 288373361,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Diving Adventure",
+      "category": [
+        "shop.scuba_diving"
+      ],
+      "lat": 22.2797046,
+      "lon": 114.1815971,
+      "osm_id": 629118339,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u559c\u8a18\u907f\u98a8\u5858\u7092\u8fa3\u87f9 Hee Kee Fried Crab Expert Ltd",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.28004,
+      "lon": 114.17968,
+      "osm_id": 629118678,
+      "osm_type": "node",
+      "address": "Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8b1d\u6c0f\u9336\u96c6 Tse\u2019s Collection",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 22.2801062,
+      "lon": 114.181143,
+      "osm_id": 957099412,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Elizabeth House",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2808242,
+      "lon": 114.181112,
+      "osm_id": 1013426111,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5805\u62ff\u9053\u516c\u5ec1 Canal Road Public Toilet",
+      "category": [
+        "amenity.toilets"
+      ],
+      "lat": 22.2797,
+      "lon": 114.18111,
+      "osm_id": 1013426289,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83ef\u50d1\u6c38\u4ea8\u9280\u884c OCBC Wing Hang Bank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 22.2797154,
+      "lon": 114.1816746,
+      "osm_id": 1298704602,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e00\u862d Ichiran",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2804819,
+      "lon": 114.1813594,
+      "osm_id": 1298704842,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u99ac\u5e2b\u9053 Marsh Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.28036,
+      "lon": 114.1796,
+      "osm_id": 2087111507,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u9d5d\u9838\u6a4b",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.28022,
+      "lon": 114.180671,
+      "osm_id": 2300359472,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u9285\u947c\u7063\u5ee3\u5834\u4e8c\u671f\u505c\u8eca\u5834 Causeway Bay Plaza 2 Car Park",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 22.2803568,
+      "lon": 114.1817864,
+      "osm_id": 2301218707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u6d88\u9632\u5c40 Wan Chai Fire Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.27968,
+      "lon": 114.18171,
+      "osm_id": 2977109022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u6d88\u9632\u5c40 Wan Chai Fire Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2797152,
+      "lon": 114.1818026,
+      "osm_id": 2977109027,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815226,
+      "lon": 114.1812685,
+      "osm_id": 3049050072,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815247,
+      "lon": 114.1812791,
+      "osm_id": 3049050073,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u65b0\u65b0\u6d77\u9bae\u9152\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2803429,
+      "lon": 114.1810004,
+      "osm_id": 4511573395,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5341\u4e8c\u5473 Twelve Flavors",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.280101,
+      "lon": 114.179859,
+      "osm_id": 4582243409,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u662d\u548c\u98df\u5802",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.28013,
+      "lon": 114.17992,
+      "osm_id": 4589235790,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u672c\u5ef6\u934b\u7269 Pan Yin Shabu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.280088,
+      "lon": 114.17982,
+      "osm_id": 4589235791,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u5f37\u8a18\u7f8e\u98df Keung Kee",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2795454,
+      "lon": 114.1803652,
+      "osm_id": 4599161089,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u8b5a\u4ed4\u4e09\u54e5 TamJai SamGor",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.279682,
+      "lon": 114.1815842,
+      "osm_id": 4718365712,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hercules Medical Diognostic & MRI Centre",
+      "category": [
+        "amenity.clinic"
+      ],
+      "lat": 22.2808052,
+      "lon": 114.1809887,
+      "osm_id": 4850169217,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Amis",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2805436,
+      "lon": 114.1802702,
+      "osm_id": 4850169218,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "NTI Express Auto Care",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 22.2805157,
+      "lon": 114.1801866,
+      "osm_id": 4850169219,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "KeePer",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 22.280465,
+      "lon": 114.180063,
+      "osm_id": 4850169220,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pirelli",
+      "category": [
+        "shop.car_repair"
+      ],
+      "lat": 22.2804356,
+      "lon": 114.179962,
+      "osm_id": 4850169721,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Osmo",
+      "category": [
+        "shop.kitchen"
+      ],
+      "lat": 22.2803876,
+      "lon": 114.1798059,
+      "osm_id": 4850169722,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Me Time Massage",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 22.2797883,
+      "lon": 114.1818705,
+      "osm_id": 4856146946,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6cf0\u83ef\u6728\u696d Tai Wah Timber",
+      "category": [
+        "shop.building_materials"
+      ],
+      "lat": 22.2795136,
+      "lon": 114.1802796,
+      "osm_id": 4858546104,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u624b\u5275\u62fe\u6d3e\u7f8e\u8853\u624b\u85dd\u5c08\u9580\u5e97 Craft Supplies Store",
+      "category": [
+        "shop.craft"
+      ],
+      "lat": 22.2795299,
+      "lon": 114.1803232,
+      "osm_id": 4858546105,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u99ac\u6cf0 Ma Thai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2795616,
+      "lon": 114.1804081,
+      "osm_id": 4858546106,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "SI Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2795945,
+      "lon": 114.1804973,
+      "osm_id": 4858546107,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "P & S",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 22.2800859,
+      "lon": 114.181807,
+      "osm_id": 4858546109,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5c0f\u8463\u6162\u6d3b\u990a\u751f\u9928 Turtle Life Museum",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2800991,
+      "lon": 114.1818423,
+      "osm_id": 4858546110,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e16\u7d00\u773c\u93e1\u96c6\u5718 Century Optical (Group) Co. Ltd.",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2801169,
+      "lon": 114.1818902,
+      "osm_id": 4858546111,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4eae\u76ee\u8996\u529b Glisten Vision",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2800553,
+      "lon": 114.1817249,
+      "osm_id": 4858546115,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Yee Pawn Shop",
+      "category": [
+        "shop.pawnbroker"
+      ],
+      "lat": 22.2795068,
+      "lon": 114.1796136,
+      "osm_id": 4858608467,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ower",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2795138,
+      "lon": 114.1796327,
+      "osm_id": 4858608468,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nikkon",
+      "category": [
+        "shop.camera"
+      ],
+      "lat": 22.2795392,
+      "lon": 114.1796974,
+      "osm_id": 4858608469,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Erste",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.279549,
+      "lon": 114.1797293,
+      "osm_id": 4858608470,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Daikin",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 22.2795779,
+      "lon": 114.1797537,
+      "osm_id": 4858608471,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Nippon Paint",
+      "category": [
+        "shop.paint"
+      ],
+      "lat": 22.2795892,
+      "lon": 114.1797826,
+      "osm_id": 4858608472,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sea Creat Sauna",
+      "category": [
+        "shop.massage"
+      ],
+      "lat": 22.2796188,
+      "lon": 114.1798747,
+      "osm_id": 4858608473,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Farm Direct",
+      "category": [
+        "shop.greengrocer"
+      ],
+      "lat": 22.2799687,
+      "lon": 114.1807793,
+      "osm_id": 4858617914,
+      "osm_type": "node",
+      "address": "\u5805\u62ff\u9053\u897f Canal Road West",
+      "road_geometry": null
+    },
+    {
+      "name": "\u53cb\u548c Tomokazu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2801583,
+      "lon": 114.1812911,
+      "osm_id": 4858617915,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u773c\u93e1\u5927\u5e2b Optic Master",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 22.2803161,
+      "lon": 114.1816522,
+      "osm_id": 4858617917,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u539a\u5fb7\u98ef\u5e97",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2800356,
+      "lon": 114.1816719,
+      "osm_id": 4859935924,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Involtini",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2803596,
+      "lon": 114.1816306,
+      "osm_id": 4972401228,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5927\u6392\u6a94\u5c0f\u7092",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.279812,
+      "lon": 114.180323,
+      "osm_id": 6378290615,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ddd\u706b\u5802 Chuan Town",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.27979,
+      "lon": 114.180268,
+      "osm_id": 6378290616,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Doraya",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2802364,
+      "lon": 114.181499,
+      "osm_id": 6715363686,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ee3\u5927\u4e94\u91d1",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 22.2802717,
+      "lon": 114.1815921,
+      "osm_id": 6715363689,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6cf0\u5b89\u96c6\u5718\u627e\u63db\u532f\u6b3e",
+      "category": [
+        "amenity.bureau_de_change"
+      ],
+      "lat": 22.2802141,
+      "lon": 114.1814415,
+      "osm_id": 6715363692,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a4b\u5e95\u8fa3\u87f9 Under Bridge Spicy Crab",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2796806,
+      "lon": 114.179982,
+      "osm_id": 6937276426,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6c38\u8c6a\u9eb5\u5bb6",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2797736,
+      "lon": 114.1802199,
+      "osm_id": 6937276428,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u548c\u5c45\u548c\u5c45",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2797116,
+      "lon": 114.1800669,
+      "osm_id": 6937276430,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6f6e\u8208\u9b5a\u86cb\u7c89",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2799448,
+      "lon": 114.1814284,
+      "osm_id": 6937276432,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u53f0\u98a8\u3002R Taifu. R",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.279661,
+      "lon": 114.1799302,
+      "osm_id": 6937276433,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u5ddd\u71d2",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2797479,
+      "lon": 114.1801646,
+      "osm_id": 6937276435,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u6a4b\u5e95\u8fa3\u87f9 Under Bridge Spicy Crab",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2796935,
+      "lon": 114.1800188,
+      "osm_id": 6937276437,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u68ee\u6cf0\u6728\u696d",
+      "category": [
+        "shop.building_materials"
+      ],
+      "lat": 22.2795773,
+      "lon": 114.1804512,
+      "osm_id": 7019206312,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u99ac\u5e2b\u9053 Marsh Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2795201,
+      "lon": 114.1797361,
+      "osm_id": 7975658802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\uff08\u9d5d\u9838\u6a4b\uff09 Wan Chai (Canal Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2798812,
+      "lon": 114.1806763,
+      "osm_id": 8223532022,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\uff08\u9d5d\u9838\u6a4b\uff09 Wan Chai (Canal Road)",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2797359,
+      "lon": 114.1807243,
+      "osm_id": 8223532023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2796755,
+      "lon": 114.1807198,
+      "osm_id": 10171169759,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2809973,
+      "lon": 114.1812902,
+      "osm_id": 11178151442,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u6d77\u5bcc\u96fb\u5668\u884c",
+      "category": [
+        "shop.electrical"
+      ],
+      "lat": 22.2796628,
+      "lon": 114.1806806,
+      "osm_id": 12772070701,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Casa 218",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.280307,
+      "lon": 114.1797039,
+      "osm_id": 12913496803,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4f0a\u5229\u838e\u4f2f\u5927\u5ec8 Elizabeth House",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2815262,
+      "lon": 114.1812878,
+      "osm_id": 13192587334,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7f8e\u5fc3\u897f\u9905",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 22.2796609,
+      "lon": 114.1806213,
+      "osm_id": 13408239901,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    }
+  ]
+}

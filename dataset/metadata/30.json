@@ -1,15 +1,101 @@
 {
   "image": "dataset/images/30.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.98066019547514,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.09819062721853325,
   "bbox": [
-    -73.98214787274628,
-    40.80225225225225,
-    -73.979172518204,
-    40.80450450450451
+    -0.1,
+    51.50950450450451,
+    -0.09638125443706651,
+    51.51175675675677
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "tourism.artwork",
+    "amenity.cafe",
+    "shop.bakery",
+    "amenity.place_of_worship",
+    "leisure.fitness_centre"
+  ],
+  "poi_count_per_category": {
+    "tourism.artwork": 1,
+    "amenity.cafe": 2,
+    "shop.bakery": 1,
+    "amenity.place_of_worship": 2,
+    "leisure.fitness_centre": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "The Salvation Army International HQ",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 51.5116579,
+      "lon": -0.0982012,
+      "osm_id": 441950767,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fitness First",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5117385,
+      "lon": -0.0970366,
+      "osm_id": 1268874626,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "St Mary Somerset Tower",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 51.5113843,
+      "lon": -0.0968496,
+      "osm_id": 6448488082,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Millennium Measure",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 51.5107753,
+      "lon": -0.0984518,
+      "osm_id": 7572833286,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Locke coffee club",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5105443,
+      "lon": -0.096902,
+      "osm_id": 12673771698,
+      "osm_type": "node",
+      "address": "Broken Wharf",
+      "road_geometry": null
+    },
+    {
+      "name": "GAIL's",
+      "category": [
+        "amenity.cafe",
+        "shop.bakery"
+      ],
+      "lat": 51.5112768,
+      "lon": -0.0982558,
+      "osm_id": 12792258103,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

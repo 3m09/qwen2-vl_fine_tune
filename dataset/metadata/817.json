@@ -1,0 +1,100 @@
+{
+  "image": "dataset/images/817.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.95090331785568,
+  "bbox": [
+    -73.95239109610247,
+    40.80675675675676,
+    -73.94941553960888,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "amenity.bar",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.hairdresser"
+  ],
+  "poi_count_per_category": {
+    "amenity.bar": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "shop.hairdresser": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Gourmet Deli",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8089007,
+      "lon": -73.951878,
+      "osm_id": 2767383760,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Chez Alain",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8073593,
+      "lon": -73.9498334,
+      "osm_id": 5266905501,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Adam Clayton Powell Jr. Boulevard & West 122nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8068989,
+      "lon": -73.9500816,
+      "osm_id": 5274265068,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Red Star",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8076883,
+      "lon": -73.9496777,
+      "osm_id": 8333828581,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sugar Monk",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 40.8089408,
+      "lon": -73.9518174,
+      "osm_id": 11580920969,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Slayed By Vicky African Hair Braiding",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 40.8077216,
+      "lon": -73.9496813,
+      "osm_id": 11840561722,
+      "osm_type": "node",
+      "address": "Adam Clayton Powell Jr. Boulevard",
+      "road_geometry": null
+    }
+  ]
+}

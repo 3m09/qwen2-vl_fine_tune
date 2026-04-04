@@ -1,0 +1,131 @@
+{
+  "image": "dataset/images/602.png",
+  "center_lat": 41.019144144144164,
+  "center_lon": 28.970447778848275,
+  "bbox": [
+    28.968955239012807,
+    41.01801801801804,
+    28.971940318683743,
+    41.020270270270295
+  ],
+  "unique_categories": [
+    "amenity.atm",
+    "amenity.ferry_terminal",
+    "amenity.restaurant",
+    "shop.travel_agency",
+    "amenity.fast_food",
+    "railway.tram_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.atm": 1,
+    "amenity.ferry_terminal": 1,
+    "amenity.restaurant": 1,
+    "shop.travel_agency": 1,
+    "amenity.fast_food": 2,
+    "railway.tram_stop": 2
+  },
+  "poi_count": 8,
+  "pois": [
+    {
+      "name": "Emin\u00f6n\u00fc (Turyol)",
+      "category": [
+        "amenity.ferry_terminal"
+      ],
+      "lat": 41.0188274,
+      "lon": 28.9704378,
+      "osm_id": 2478522774,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Osmanl\u0131 Bal\u0131k\u00e7\u0131s\u0131",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0185548,
+      "lon": 28.9718521,
+      "osm_id": 3304415108,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "HSBC",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 41.0182517,
+      "lon": 28.9706828,
+      "osm_id": 3461548561,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bal\u0131k Ekmek",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0184887,
+      "lon": 28.9709217,
+      "osm_id": 5111212296,
+      "osm_type": "node",
+      "address": "resadeyi caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0182597,
+      "lon": 28.9700047,
+      "osm_id": 11157685025,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emin\u00f6n\u00fc",
+      "category": [
+        "railway.tram_stop"
+      ],
+      "lat": 41.0181799,
+      "lon": 28.9699904,
+      "osm_id": 11157685026,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sea & Land travel Agency",
+      "category": [
+        "shop.travel_agency"
+      ],
+      "lat": 41.0185184,
+      "lon": 28.9691152,
+      "osm_id": 12728780605,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Derya",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0185277,
+      "lon": 28.9707452,
+      "osm_id": 12729221281,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 3,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/485.png",
+  "center_lat": 22.29639639639639,
+  "center_lon": 114.17825674735357,
+  "bbox": [
+    114.17703963086333,
+    22.29527027027026,
+    114.17947386384381,
+    22.297522522522513
+  ],
+  "unique_categories": [
+    "amenity.restaurant"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "La Villa",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2974504,
+      "lon": 114.1777878,
+      "osm_id": 4862594843,
+      "osm_type": "node",
+      "address": "\u68b3\u58eb\u5df4\u5229\u9053 Salisbury Road",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 5,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

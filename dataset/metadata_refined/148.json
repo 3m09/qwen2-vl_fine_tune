@@ -1,20 +1,37 @@
 {
   "image": "dataset/images/148.png",
-  "center_lat": 40.81463963963965,
-  "center_lon": -73.98660863222098,
+  "center_lat": 18.93914414414414,
+  "center_lon": 72.83571514351175,
   "bbox": [
-    -73.9880965619742,
-    40.81351351351353,
-    -73.98512070246775,
-    40.81576576576578
+    72.83452457201044,
+    18.938018018018013,
+    72.83690571501305,
+    18.940270270270265
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": [],
+  "unique_categories": [
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.hotel": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "City Palace",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 18.938201,
+      "lon": 72.8354677,
+      "osm_id": 1234802637,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
   "refinement": {
-    "original_poi_count": 0,
-    "removed_count": 0,
+    "original_poi_count": 5,
+    "removed_count": 4,
     "model": "gemini-2.5-flash"
   }
 }

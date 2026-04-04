@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/723.png",
+  "center_lat": 25.19337837837838,
+  "center_lon": 55.28615644771553,
+  "bbox": [
+    55.284911950791084,
+    25.192252252252253,
+    55.28740094463997,
+    25.194504504504504
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "amenity.atm"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "amenity.atm": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Dubai Fountain Street 2",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 25.1932614,
+      "lon": 55.2873603,
+      "osm_id": 10586177999,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "RAK Bank ATM",
+      "category": [
+        "amenity.atm"
+      ],
+      "lat": 25.1926619,
+      "lon": 55.2852546,
+      "osm_id": 11527503636,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

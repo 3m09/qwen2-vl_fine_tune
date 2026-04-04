@@ -1,0 +1,44 @@
+{
+  "image": "dataset/images/1008.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.953866346266,
+  "bbox": [
+    -73.95535452864452,
+    40.8247747747748,
+    -73.95237816388749,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 2
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "Riverside Drive & West 142nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8252275,
+      "lon": -73.9541245,
+      "osm_id": 5798743337,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 142nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8254421,
+      "lon": -73.9533949,
+      "osm_id": 5798760802,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

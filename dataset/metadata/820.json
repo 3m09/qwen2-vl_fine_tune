@@ -1,0 +1,116 @@
+{
+  "image": "dataset/images/820.png",
+  "center_lat": 40.807882882882886,
+  "center_lon": -73.94197664837489,
+  "bbox": [
+    -73.94346442662169,
+    40.80675675675676,
+    -73.94048887012809,
+    40.80900900900902
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.mobile_phone",
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.pastry",
+    "amenity.place_of_worship",
+    "shop.alcohol"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "shop.mobile_phone": 1,
+    "highway.bus_stop": 1,
+    "shop.convenience": 1,
+    "shop.pastry": 1,
+    "amenity.place_of_worship": 1,
+    "shop.alcohol": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Saint Andrew's Episcopal Church",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8078384,
+      "lon": -73.9409554,
+      "osm_id": 357621088,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Insomnia Cookies",
+      "category": [
+        "shop.pastry"
+      ],
+      "lat": 40.8069759,
+      "lon": -73.9431751,
+      "osm_id": 2767369849,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Harlem Wine and Spirits",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 40.8069514,
+      "lon": -73.9431164,
+      "osm_id": 2767369853,
+      "osm_type": "node",
+      "address": "West 125th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "CD West Harlem Deli Corp",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8070723,
+      "lon": -73.9420154,
+      "osm_id": 2767369865,
+      "osm_type": "node",
+      "address": "5th Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "5th Avenue & West 128th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8081123,
+      "lon": -73.9411488,
+      "osm_id": 5274257023,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Verizon",
+      "category": [
+        "shop.mobile_phone"
+      ],
+      "lat": 40.8067644,
+      "lon": -73.9413357,
+      "osm_id": 6112147957,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - 5 Ave & W 126 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8072282,
+      "lon": -73.941791,
+      "osm_id": 13243987828,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

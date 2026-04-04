@@ -1,0 +1,98 @@
+{
+  "image": "dataset/images/915.png",
+  "center_lat": 40.816891891891906,
+  "center_lon": -73.94494473012755,
+  "bbox": [
+    -73.94643271039436,
+    40.81576576576578,
+    -73.94345674986072,
+    40.81801801801804
+  ],
+  "unique_categories": [
+    "shop.deli",
+    "amenity.restaurant",
+    "amenity.place_of_worship",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "shop.deli": 1,
+    "amenity.restaurant": 2,
+    "amenity.place_of_worship": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "Temple Healing from Heaven",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 40.8170549,
+      "lon": -73.9463663,
+      "osm_id": 2767720025,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Super Style Deli Food",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8165807,
+      "lon": -73.9462687,
+      "osm_id": 2767720032,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "Frederick Douglass Boulevard & West 135th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8167133,
+      "lon": -73.9462575,
+      "osm_id": 3545220719,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baraka Buffet",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8168869,
+      "lon": -73.9460483,
+      "osm_id": 3545220721,
+      "osm_type": "node",
+      "address": "Frederick Douglass Boulevard",
+      "road_geometry": null
+    },
+    {
+      "name": "West 135th Street & Frederick Douglass Boulevard",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8162322,
+      "lon": -73.9462112,
+      "osm_id": 5235601702,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Abyssinia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8160376,
+      "lon": -73.9458914,
+      "osm_id": 6511867025,
+      "osm_type": "node",
+      "address": "West 135th Street",
+      "road_geometry": null
+    }
+  ]
+}

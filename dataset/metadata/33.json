@@ -1,57 +1,665 @@
 {
   "image": "dataset/images/33.png",
-  "center_lat": 40.803378378378376,
-  "center_lon": -73.97173413184828,
+  "center_lat": 51.51063063063064,
+  "center_lon": -0.08733439052973276,
   "bbox": [
-    -73.97322180911942,
-    40.80225225225225,
-    -73.97024645457714,
-    40.80450450450451
+    -0.08914376331119951,
+    51.50950450450451,
+    -0.08552501774826601,
+    51.51175675675677
   ],
   "unique_categories": [
+    "amenity.pub",
+    "railway.subway_entrance",
+    "shop.convenience",
+    "shop.beauty",
+    "shop.bookmaker",
+    "highway.bus_stop",
     "amenity.restaurant",
-    "leisure.dog_park"
+    "shop.sports",
+    "amenity.cafe",
+    "amenity.doctors",
+    "railway.stop",
+    "railway.station",
+    "amenity.fast_food",
+    "tourism.information",
+    "amenity.bar",
+    "shop.hairdresser",
+    "amenity.bank",
+    "leisure.fitness_centre"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 1,
-    "leisure.dog_park": 2
+    "amenity.pub": 3,
+    "railway.subway_entrance": 8,
+    "shop.convenience": 1,
+    "shop.beauty": 1,
+    "shop.bookmaker": 1,
+    "highway.bus_stop": 5,
+    "amenity.restaurant": 2,
+    "shop.sports": 2,
+    "amenity.cafe": 7,
+    "amenity.doctors": 1,
+    "railway.stop": 4,
+    "railway.station": 1,
+    "amenity.fast_food": 8,
+    "tourism.information": 1,
+    "amenity.bar": 3,
+    "shop.hairdresser": 1,
+    "amenity.bank": 1,
+    "leisure.fitness_centre": 1
   },
-  "poi_count": 3,
+  "poi_count": 51,
   "pois": [
     {
-      "name": "Dog Run 105",
+      "name": "Monument",
       "category": [
-        "leisure.dog_park"
+        "railway.stop"
       ],
-      "lat": 40.802422,
-      "lon": -73.9714596,
-      "osm_id": 6929263886,
+      "lat": 51.5106943,
+      "lon": -0.0860638,
+      "osm_id": 18395697,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "Ellington in the park",
+      "name": "The Hydrant",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5102919,
+      "lon": -0.0861975,
+      "osm_id": 292705417,
+      "osm_type": "node",
+      "address": "Monument Street",
+      "road_geometry": null
+    },
+    {
+      "name": "London Cocktail Club",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5107157,
+      "lon": -0.0860166,
+      "osm_id": 292705418,
+      "osm_type": "node",
+      "address": "Eastcheap",
+      "road_geometry": null
+    },
+    {
+      "name": "King William Street / Monument Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5114084,
+      "lon": -0.087137,
+      "osm_id": 469760418,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gracechurch Street / Monument Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5113694,
+      "lon": -0.0855789,
+      "osm_id": 469760421,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "London Bridge",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5096647,
+      "lon": -0.0875762,
+      "osm_id": 469765320,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.509521,
+      "lon": -0.0873094,
+      "osm_id": 469774018,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cannon Street Station",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 51.5113044,
+      "lon": -0.0890207,
+      "osm_id": 469781056,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Monument",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5100863,
+      "lon": -0.0862828,
+      "osm_id": 591974938,
+      "osm_type": "node",
+      "address": "Fish Street Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "The Britannia",
+      "category": [
+        "amenity.pub"
+      ],
+      "lat": 51.5099446,
+      "lon": -0.085924,
+      "osm_id": 592029659,
+      "osm_type": "node",
+      "address": "Monument Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Be At One Monument",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.510472,
+      "lon": -0.0870841,
+      "osm_id": 592642006,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Santander",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 51.511096,
+      "lon": -0.087252,
+      "osm_id": 702735037,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5098502,
+      "lon": -0.0867427,
+      "osm_id": 702806732,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Fish Street Hill",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5104525,
+      "lon": -0.0859883,
+      "osm_id": 1401459404,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5107151,
+      "lon": -0.0860248,
+      "osm_id": 1725359916,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pod",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5115238,
+      "lon": -0.0870248,
+      "osm_id": 1779839257,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5106911,
+      "lon": -0.0865591,
+      "osm_id": 2378843902,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5109164,
+      "lon": -0.0869669,
+      "osm_id": 2378843911,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5109461,
+      "lon": -0.0864492,
+      "osm_id": 2378843912,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Paddy Power",
+      "category": [
+        "shop.bookmaker"
+      ],
+      "lat": 51.5108433,
+      "lon": -0.0870349,
+      "osm_id": 2642857072,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Tossed",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5113198,
+      "lon": -0.0873492,
+      "osm_id": 2642857238,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "The Folly",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 51.5111185,
+      "lon": -0.0858916,
+      "osm_id": 2737653447,
+      "osm_type": "node",
+      "address": "Gracechurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Little Waitrose",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 51.5100098,
+      "lon": -0.0866773,
+      "osm_id": 2925607547,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Cyclebeat",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5116036,
+      "lon": -0.0862991,
+      "osm_id": 3061197975,
+      "osm_type": "node",
+      "address": "Lombard Court",
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 51.5106328,
+      "lon": -0.0861271,
+      "osm_id": 3076574237,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5117032,
+      "lon": -0.0875952,
+      "osm_id": 3153651162,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "American Golf",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5096788,
+      "lon": -0.0861988,
+      "osm_id": 3232149861,
+      "osm_type": "node",
+      "address": "Fish Street Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Hair Razor Unisex Salon",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 51.5099034,
+      "lon": -0.0863558,
+      "osm_id": 3322101486,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Costa",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5108925,
+      "lon": -0.0870048,
+      "osm_id": 3335138107,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Runners Need",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 51.5105386,
+      "lon": -0.0864853,
+      "osm_id": 3375577904,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Al dente",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8025839,
-      "lon": -73.9718802,
-      "osm_id": 10936880905,
+      "lat": 51.5099858,
+      "lon": -0.0859874,
+      "osm_id": 4577310106,
       "osm_type": "node",
-      "address": "Riverside Drive",
+      "address": "Monument Street",
       "road_geometry": null
     },
     {
-      "name": "105th St Dog Run",
+      "name": "Chilango",
       "category": [
-        "leisure.dog_park"
+        "amenity.fast_food"
       ],
-      "lat": 40.802467,
-      "lon": -73.9715159,
-      "osm_id": 13061212057,
+      "lat": 51.5111977,
+      "lon": -0.0875299,
+      "osm_id": 4585441161,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5111752,
+      "lon": -0.0873702,
+      "osm_id": 4585441787,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Rosslyn",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5109844,
+      "lon": -0.0874537,
+      "osm_id": 4621862206,
+      "osm_type": "node",
+      "address": "Cannon Street",
+      "road_geometry": null
+    },
+    {
+      "name": "itsu",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5104003,
+      "lon": -0.0857861,
+      "osm_id": 5051453725,
+      "osm_type": "node",
+      "address": "Fish Street Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "EggRun",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5104927,
+      "lon": -0.0857345,
+      "osm_id": 5051453726,
+      "osm_type": "node",
+      "address": "Fish Street Hill",
+      "road_geometry": null
+    },
+    {
+      "name": "Bank",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 51.5115862,
+      "lon": -0.0883523,
+      "osm_id": 5183300152,
       "osm_type": "node",
       "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "King William Street (South)",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5106583,
+      "lon": -0.086503,
+      "osm_id": 5473273333,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5107676,
+      "lon": -0.0864061,
+      "osm_id": 5473273382,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5109815,
+      "lon": -0.0866498,
+      "osm_id": 5473273447,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Farmer J",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5105557,
+      "lon": -0.0870012,
+      "osm_id": 6366050131,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Spianata Bakery",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.5106554,
+      "lon": -0.0869559,
+      "osm_id": 6366051094,
+      "osm_type": "node",
+      "address": "King William Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Shavata Singh",
+      "category": [
+        "shop.beauty"
+      ],
+      "lat": 51.5105124,
+      "lon": -0.0859716,
+      "osm_id": 6914949671,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Monument Arthur Street",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 51.5099291,
+      "lon": -0.0881404,
+      "osm_id": 10543014350,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Bank Station Exit",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 51.5112459,
+      "lon": -0.087869,
+      "osm_id": 10699155991,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chipotle",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 51.511239,
+      "lon": -0.0868999,
+      "osm_id": 10729730994,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Starbucks",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5106313,
+      "lon": -0.085629,
+      "osm_id": 11359989174,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Roasting Plant Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5108613,
+      "lon": -0.0855992,
+      "osm_id": 12045999609,
+      "osm_type": "node",
+      "address": "Fenchurch Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Papi's Munchies",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 51.5099581,
+      "lon": -0.0858751,
+      "osm_id": 12209053233,
+      "osm_type": "node",
+      "address": "Monument Street",
+      "road_geometry": null
+    },
+    {
+      "name": "D\u0101ku",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5099199,
+      "lon": -0.0857909,
+      "osm_id": 12783780144,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Fortius Clinic",
+      "category": [
+        "amenity.doctors"
+      ],
+      "lat": 51.5115058,
+      "lon": -0.0871576,
+      "osm_id": 12866683210,
+      "osm_type": "node",
+      "address": "King William Street",
       "road_geometry": null
     }
   ]

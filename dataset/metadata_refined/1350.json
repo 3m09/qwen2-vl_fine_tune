@@ -1,0 +1,77 @@
+{
+  "image": "dataset/images/1350.png",
+  "center_lat": 40.857432432432496,
+  "center_lon": -73.93597770884284,
+  "bbox": [
+    -73.93746659933487,
+    40.85630630630637,
+    -73.93448881835081,
+    40.85855855855863
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "railway.stop",
+    "tourism.information"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "railway.stop": 1,
+    "tourism.information": 2
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "190th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8581325,
+      "lon": -73.9348503,
+      "osm_id": 6686022950,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Fort Washington Ave & W 190 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.856966,
+      "lon": -73.9356256,
+      "osm_id": 8839750142,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "A Feast in the Forest",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 40.8584425,
+      "lon": -73.9360377,
+      "osm_id": 10272213034,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gray Catbird, Northern Flicker, Northern Cardinal",
+      "category": [
+        "tourism.information"
+      ],
+      "lat": 40.857891,
+      "lon": -73.9363397,
+      "osm_id": 10272213036,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 8,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

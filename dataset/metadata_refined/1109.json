@@ -1,0 +1,105 @@
+{
+  "image": "dataset/images/1109.png",
+  "center_lat": 40.834909909909946,
+  "center_lon": -73.93897623214104,
+  "bbox": [
+    -73.94046461672298,
+    40.83378378378382,
+    -73.93748784755913,
+    40.83603603603608
+  ],
+  "unique_categories": [
+    "amenity.pharmacy",
+    "tourism.viewpoint",
+    "shop.hardware",
+    "highway.bus_stop",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "amenity.pharmacy": 1,
+    "tourism.viewpoint": 1,
+    "shop.hardware": 1,
+    "highway.bus_stop": 2,
+    "shop.supermarket": 1
+  },
+  "poi_count": 6,
+  "pois": [
+    {
+      "name": "C-Town",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 40.835077,
+      "lon": -73.9395759,
+      "osm_id": 2603955334,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Rite Aid",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 40.8358939,
+      "lon": -73.940145,
+      "osm_id": 2603955359,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Advantage Wholesale Supply",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 40.8355319,
+      "lon": -73.9396431,
+      "osm_id": 2796762250,
+      "osm_type": "node",
+      "address": "Saint Nicholas Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Sylvan Terrace",
+      "category": [
+        "tourism.viewpoint"
+      ],
+      "lat": 40.8348393,
+      "lon": -73.9397021,
+      "osm_id": 5347662822,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecombe Avenue & West 162nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8352111,
+      "lon": -73.9375102,
+      "osm_id": 8725182222,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Edgecombe Avenue & West 162nd Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.835066,
+      "lon": -73.9377804,
+      "osm_id": 8725182223,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 10,
+    "removed_count": 4,
+    "model": "gemini-2.5-flash"
+  }
+}

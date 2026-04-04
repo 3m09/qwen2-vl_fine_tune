@@ -1,0 +1,117 @@
+{
+  "image": "dataset/images/307.png",
+  "center_lat": -23.557612612612616,
+  "center_lon": -46.663771477508526,
+  "bbox": [
+    -46.665,
+    -23.558738738738743,
+    -46.66254295501705,
+    -23.55648648648649
+  ],
+  "unique_categories": [
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "shop.optician",
+    "amenity.university"
+  ],
+  "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "shop.convenience": 1,
+    "amenity.restaurant": 3,
+    "shop.optician": 1,
+    "amenity.university": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Juanita",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5579392,
+      "lon": -46.663391,
+      "osm_id": 745720898,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Del\u00edcias do Caf\u00e9",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": -23.557854,
+      "lon": -46.6633002,
+      "osm_id": 3759015391,
+      "osm_type": "node",
+      "address": "Rua Bela Cintra",
+      "road_geometry": null
+    },
+    {
+      "name": "Mellotica",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": -23.5567359,
+      "lon": -46.6639938,
+      "osm_id": 4228423320,
+      "osm_type": "node",
+      "address": "Rua da Consola\u00e7\u00e3o",
+      "road_geometry": null
+    },
+    {
+      "name": "Damasio",
+      "category": [
+        "amenity.university"
+      ],
+      "lat": -23.5574522,
+      "lon": -46.662725,
+      "osm_id": 4881860694,
+      "osm_type": "node",
+      "address": "Alameda Santos",
+      "road_geometry": null
+    },
+    {
+      "name": "BR Mania",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": -23.5583149,
+      "lon": -46.6636176,
+      "osm_id": 5023221124,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tux Panan",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.557646,
+      "lon": -46.66446,
+      "osm_id": 6831158925,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    },
+    {
+      "name": "Tendai",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": -23.5580148,
+      "lon": -46.6640397,
+      "osm_id": 6831158926,
+      "osm_type": "node",
+      "address": "Alameda Ja\u00fa",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 19,
+    "removed_count": 12,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "image": "dataset/images/983.png",
+  "center_lat": 40.82364864864867,
+  "center_lon": -73.95684417658214,
+  "bbox": [
+    -73.95833230842413,
+    40.82252252252255,
+    -73.95535604474014,
+    40.8247747747748
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 1,
+    "highway.bus_stop": 2
+  },
+  "poi_count": 3,
+  "pois": [
+    {
+      "name": "Riverside Drive & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8233821,
+      "lon": -73.955369,
+      "osm_id": 5798741176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Riverside Drive & West 139th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8232903,
+      "lon": -73.9556858,
+      "osm_id": 8736432144,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Riverside Dr & W 138 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8231887,
+      "lon": -73.9558243,
+      "osm_id": 13226772415,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

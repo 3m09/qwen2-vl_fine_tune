@@ -1,0 +1,677 @@
+{
+  "image": "dataset/images/347.png",
+  "center_lat": 1.303630630630631,
+  "center_lon": 103.83513775456197,
+  "bbox": [
+    103.83401133738842,
+    1.3025045045045047,
+    103.83626417173552,
+    1.304756756756757
+  ],
+  "unique_categories": [
+    "shop.chemist",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "shop.optician",
+    "amenity.bank",
+    "shop.books",
+    "shop.electronics",
+    "shop.cosmetics",
+    "amenity.cafe",
+    "shop.jewelry",
+    "shop.stationery",
+    "shop.clothes",
+    "shop.alcohol",
+    "shop.watches",
+    "shop.shoes",
+    "amenity.pharmacy",
+    "shop.perfumery",
+    "amenity.kindergarten",
+    "shop.sports",
+    "tourism.hotel",
+    "shop.department_store"
+  ],
+  "poi_count_per_category": {
+    "shop.chemist": 1,
+    "amenity.restaurant": 3,
+    "amenity.fast_food": 2,
+    "shop.optician": 1,
+    "amenity.bank": 1,
+    "shop.books": 1,
+    "shop.electronics": 1,
+    "shop.cosmetics": 4,
+    "amenity.cafe": 2,
+    "shop.jewelry": 4,
+    "shop.stationery": 1,
+    "shop.clothes": 11,
+    "shop.alcohol": 1,
+    "shop.watches": 6,
+    "shop.shoes": 4,
+    "amenity.pharmacy": 2,
+    "shop.perfumery": 1,
+    "amenity.kindergarten": 1,
+    "shop.sports": 2,
+    "tourism.hotel": 1,
+    "shop.department_store": 1
+  },
+  "poi_count": 51,
+  "pois": [
+    {
+      "name": "Metro",
+      "category": [
+        "shop.department_store"
+      ],
+      "lat": 1.3040319,
+      "lon": 103.8359709,
+      "osm_id": 1839603997,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Kinokuniya",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 1.3031381,
+      "lon": 103.8340384,
+      "osm_id": 3561043147,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Aptimos",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3042469,
+      "lon": 103.8341487,
+      "osm_id": 3656117609,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "All watches",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3042898,
+      "lon": 103.8340361,
+      "osm_id": 3656117610,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Sushi Tei",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3038245,
+      "lon": 103.8350439,
+      "osm_id": 4213354894,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pullman Singapore Orchard",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 1.3031053,
+      "lon": 103.836202,
+      "osm_id": 4302906024,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3034264,
+      "lon": 103.8340907,
+      "osm_id": 4748985343,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Chanel",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3032717,
+      "lon": 103.8343926,
+      "osm_id": 4748985344,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Cartier",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3026815,
+      "lon": 103.8347892,
+      "osm_id": 4748985345,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Fendi",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3028316,
+      "lon": 103.8345276,
+      "osm_id": 4748985346,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Tod's",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3035453,
+      "lon": 103.8351286,
+      "osm_id": 4749080350,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Prada",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3034455,
+      "lon": 103.8352792,
+      "osm_id": 4749080351,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Salvatore Ferragamo",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3034013,
+      "lon": 103.835366,
+      "osm_id": 4749093821,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Gucci",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3031622,
+      "lon": 103.8357477,
+      "osm_id": 4749093822,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Adidas",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 1.3029903,
+      "lon": 103.8361175,
+      "osm_id": 4749093824,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "UOB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 1.3044252,
+      "lon": 103.8354254,
+      "osm_id": 4869130683,
+      "osm_type": "node",
+      "address": "Mount Elizabeth",
+      "road_geometry": null
+    },
+    {
+      "name": "SAPPORO Petit Doughnut",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.3027488,
+      "lon": 103.8350219,
+      "osm_id": 6197774741,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mos Cafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.3032893,
+      "lon": 103.8341543,
+      "osm_id": 6197774742,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guardian",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.3030615,
+      "lon": 103.8340823,
+      "osm_id": 6197774745,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "KFC",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 1.302656,
+      "lon": 103.8344017,
+      "osm_id": 6197774756,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3036225,
+      "lon": 103.8353289,
+      "osm_id": 6704875263,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Pandora",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3025818,
+      "lon": 103.8350411,
+      "osm_id": 6712100868,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3034107,
+      "lon": 103.8356579,
+      "osm_id": 6790345264,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3029978,
+      "lon": 103.8362319,
+      "osm_id": 6790359271,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Hour Glass",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3036171,
+      "lon": 103.8357956,
+      "osm_id": 6790361322,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swarovski",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3029317,
+      "lon": 103.8344507,
+      "osm_id": 6810980673,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swarovski",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 1.3037994,
+      "lon": 103.8353074,
+      "osm_id": 6811020347,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Toast Box",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 1.30398,
+      "lon": 103.8354516,
+      "osm_id": 6816751717,
+      "osm_type": "node",
+      "address": "290 Orchard Rd, Paragon",
+      "road_geometry": null
+    },
+    {
+      "name": "Rolex",
+      "category": [
+        "shop.watches"
+      ],
+      "lat": 1.3037941,
+      "lon": 103.8346887,
+      "osm_id": 6942488854,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Guardian",
+      "category": [
+        "amenity.pharmacy"
+      ],
+      "lat": 1.3035419,
+      "lon": 103.8359113,
+      "osm_id": 8213732270,
+      "osm_type": "node",
+      "address": "Orchard Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Welcia BHG",
+      "category": [
+        "shop.chemist"
+      ],
+      "lat": 1.302587,
+      "lon": 103.834551,
+      "osm_id": 8260836840,
+      "osm_type": "node",
+      "address": "Takashimaya S.C.",
+      "road_geometry": null
+    },
+    {
+      "name": "Crystal Jade Palace",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.302793,
+      "lon": 103.8341779,
+      "osm_id": 9227128338,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Whisky Experience",
+      "category": [
+        "shop.alcohol"
+      ],
+      "lat": 1.3037357,
+      "lon": 103.8359632,
+      "osm_id": 9331611980,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Balenciaga",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3036265,
+      "lon": 103.8350366,
+      "osm_id": 9331611981,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hototogisu",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 1.3037164,
+      "lon": 103.8352447,
+      "osm_id": 9331611983,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Emporio Armani",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3043515,
+      "lon": 103.8360393,
+      "osm_id": 9331611987,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Motionsports",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 1.3038431,
+      "lon": 103.8357835,
+      "osm_id": 9331824662,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Nike",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3035299,
+      "lon": 103.8356524,
+      "osm_id": 9331824666,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "MindChamps Preschool",
+      "category": [
+        "amenity.kindergarten"
+      ],
+      "lat": 1.3039685,
+      "lon": 103.8360691,
+      "osm_id": 9331824667,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Northern Opticians",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 1.3039675,
+      "lon": 103.835843,
+      "osm_id": 9331824674,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Body Shop",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3034216,
+      "lon": 103.8358599,
+      "osm_id": 9331824675,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Moleskine",
+      "category": [
+        "shop.stationery"
+      ],
+      "lat": 1.3040708,
+      "lon": 103.8357725,
+      "osm_id": 9392680749,
+      "osm_type": "node",
+      "address": "Paragon",
+      "road_geometry": null
+    },
+    {
+      "name": "Bath & Body Works",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.3030442,
+      "lon": 103.8342474,
+      "osm_id": 9392680750,
+      "osm_type": "node",
+      "address": "Takashimaya S.C.",
+      "road_geometry": null
+    },
+    {
+      "name": "Polo Ralph Lauren",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3026889,
+      "lon": 103.835314,
+      "osm_id": 9891652073,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Havaianas",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.30313,
+      "lon": 103.8342188,
+      "osm_id": 9891652074,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Jo Malone",
+      "category": [
+        "shop.perfumery"
+      ],
+      "lat": 1.3030094,
+      "lon": 103.8344997,
+      "osm_id": 9891652075,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Yves Rocher",
+      "category": [
+        "shop.cosmetics"
+      ],
+      "lat": 1.303038,
+      "lon": 103.8346934,
+      "osm_id": 9891652076,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Superga",
+      "category": [
+        "shop.shoes"
+      ],
+      "lat": 1.3033403,
+      "lon": 103.8340593,
+      "osm_id": 9891652077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "iROO",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3026683,
+      "lon": 103.8345846,
+      "osm_id": 9891652087,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Zegna",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 1.3038771,
+      "lon": 103.8356467,
+      "osm_id": 10002127870,
+      "osm_type": "node",
+      "address": "Orchard Road Paragon",
+      "road_geometry": null
+    },
+    {
+      "name": "iStudio",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 1.3033118,
+      "lon": 103.8357536,
+      "osm_id": 12531878544,
+      "osm_type": "node",
+      "address": "Paragon",
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 115,
+    "removed_count": 64,
+    "model": "gemini-2.5-flash"
+  }
+}

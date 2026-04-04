@@ -1,0 +1,152 @@
+{
+  "image": "dataset/images/798.png",
+  "center_lat": 40.80563063063063,
+  "center_lon": -73.93602770648741,
+  "bbox": [
+    -73.93751543424351,
+    40.80450450450451,
+    -73.9345399787313,
+    40.80675675675676
+  ],
+  "unique_categories": [
+    "amenity.bicycle_rental",
+    "shop.deli",
+    "highway.bus_stop",
+    "railway.stop",
+    "amenity.fast_food",
+    "shop.yes",
+    "amenity.school"
+  ],
+  "poi_count_per_category": {
+    "amenity.bicycle_rental": 2,
+    "shop.deli": 1,
+    "highway.bus_stop": 1,
+    "railway.stop": 2,
+    "amenity.fast_food": 1,
+    "shop.yes": 1,
+    "amenity.school": 2
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "Public School M030 Hernandez / Hughes",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8055116,
+      "lon": -73.9355127,
+      "osm_id": 357621575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Public School M138",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8058249,
+      "lon": -73.9354993,
+      "osm_id": 357648593,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Golden Krust",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8048109,
+      "lon": -73.9369268,
+      "osm_id": 2765578703,
+      "osm_type": "node",
+      "address": "Lexington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Duane Reade",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 40.8046006,
+      "lon": -73.9374995,
+      "osm_id": 2883793063,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mia Deli & Grocery",
+      "category": [
+        "shop.deli"
+      ],
+      "lat": 40.8047366,
+      "lon": -73.9369699,
+      "osm_id": 5171178887,
+      "osm_type": "node",
+      "address": "Lexington Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Lexington Avenue & East 125th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8045399,
+      "lon": -73.937389,
+      "osm_id": 5171183839,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "125th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.8050259,
+      "lon": -73.9370001,
+      "osm_id": 7142064625,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "125th Street",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 40.804996,
+      "lon": -73.9369181,
+      "osm_id": 7630334249,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lexington Ave & E 127 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8057436,
+      "lon": -73.9362888,
+      "osm_id": 8972127292,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Citi Bike - Lexington Ave & E 128 St",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 40.8064535,
+      "lon": -73.9360371,
+      "osm_id": 11879930428,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "image": "dataset/images/178.png",
-  "center_lat": 40.816891891891906,
-  "center_lon": -73.96875241439672,
+  "center_lat": 31.231126126126128,
+  "center_lon": 121.50712052522088,
   "bbox": [
-    -73.97024039466353,
-    40.81576576576578,
-    -73.96726443412989,
-    40.81801801801804
+    121.50580356174235,
+    31.23,
+    121.50843748869941,
+    31.232252252252252
   ],
-  "unique_categories": [],
-  "poi_count_per_category": {},
-  "poi_count": 0,
-  "pois": []
+  "unique_categories": [
+    "highway.bus_stop"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u6d66\u57ce\u8def\u5546\u57ce\u8def",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 31.2304587,
+      "lon": 121.5078557,
+      "osm_id": 11149950239,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
 }

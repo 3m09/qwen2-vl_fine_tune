@@ -1,107 +1,31 @@
 {
   "image": "dataset/images/99.png",
-  "center_lat": 40.81013513513514,
-  "center_lon": -73.98958519879754,
+  "center_lat": 18.92337837837838,
+  "center_lon": 72.83571413235431,
   "bbox": [
-    -73.99107302754075,
-    40.80900900900902,
-    -73.98809737005433,
-    40.81126126126127
+    72.83452367320383,
+    18.922252252252253,
+    72.83690459150479,
+    18.924504504504505
   ],
   "unique_categories": [
-    "amenity.restaurant",
-    "highway.bus_stop",
-    "shop.dry_cleaning"
+    "tourism.artwork"
   ],
   "poi_count_per_category": {
-    "amenity.restaurant": 4,
-    "highway.bus_stop": 2,
-    "shop.dry_cleaning": 1
+    "tourism.artwork": 1
   },
-  "poi_count": 7,
+  "poi_count": 1,
   "pois": [
     {
-      "name": "Frank's Pizza at Shadyside",
+      "name": "Swami Vivekananda Statue",
       "category": [
-        "amenity.restaurant"
+        "tourism.artwork"
       ],
-      "lat": 40.8098285,
-      "lon": -73.9901976,
-      "osm_id": 8260453144,
-      "osm_type": "node",
-      "address": "Old River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Pa De Thai Restaurant",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8094852,
-      "lon": -73.9904903,
-      "osm_id": 8260474180,
-      "osm_type": "node",
-      "address": "Old River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Old River Cleaners",
-      "category": [
-        "shop.dry_cleaning"
-      ],
-      "lat": 40.8091887,
-      "lon": -73.9907274,
-      "osm_id": 8260474227,
-      "osm_type": "node",
-      "address": "Old River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "Cafe Archetypus",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8095461,
-      "lon": -73.9904412,
-      "osm_id": 8260474228,
-      "osm_type": "node",
-      "address": "Old River Road",
-      "road_geometry": null
-    },
-    {
-      "name": "River Rd at Thompson Lane",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.80975,
-      "lon": -73.9894012,
-      "osm_id": 8260673218,
+      "lat": 18.922749,
+      "lon": 72.8346884,
+      "osm_id": 11950780368,
       "osm_type": "node",
       "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "River Rd + Thompson Lane",
-      "category": [
-        "highway.bus_stop"
-      ],
-      "lat": 40.809806,
-      "lon": -73.9890875,
-      "osm_id": 8260673219,
-      "osm_type": "node",
-      "address": null,
-      "road_geometry": null
-    },
-    {
-      "name": "Food for Life",
-      "category": [
-        "amenity.restaurant"
-      ],
-      "lat": 40.8096706,
-      "lon": -73.9903383,
-      "osm_id": 8260705161,
-      "osm_type": "node",
-      "address": "Old River Road",
       "road_geometry": null
     }
   ]

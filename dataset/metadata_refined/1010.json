@@ -1,0 +1,153 @@
+{
+  "image": "dataset/images/1010.png",
+  "center_lat": 40.825900900900926,
+  "center_lon": -73.94791361675193,
+  "bbox": [
+    -73.94940179913046,
+    40.8247747747748,
+    -73.94642543437342,
+    40.82702702702706
+  ],
+  "unique_categories": [
+    "amenity.school",
+    "highway.bus_stop",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food"
+  ],
+  "poi_count_per_category": {
+    "amenity.school": 1,
+    "highway.bus_stop": 4,
+    "shop.convenience": 1,
+    "amenity.restaurant": 3,
+    "amenity.fast_food": 1
+  },
+  "poi_count": 10,
+  "pois": [
+    {
+      "name": "East & West Deli & Grocery",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 40.8254651,
+      "lon": -73.9477205,
+      "osm_id": 2603955342,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Village Fried Chicken",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 40.8259129,
+      "lon": -73.9468393,
+      "osm_id": 2603955363,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Chopped Parsley",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8259256,
+      "lon": -73.9473575,
+      "osm_id": 4928962209,
+      "osm_type": "node",
+      "address": "West 146th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "Hamilton Heights School",
+      "category": [
+        "amenity.school"
+      ],
+      "lat": 40.8265979,
+      "lon": -73.9470509,
+      "osm_id": 4928962210,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Mumbai Masala Indian Grill",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8268145,
+      "lon": -73.9466673,
+      "osm_id": 4928962211,
+      "osm_type": "node",
+      "address": "Amsterdam Avenue",
+      "road_geometry": null
+    },
+    {
+      "name": "Jimbo's Hamburgers",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8257932,
+      "lon": -73.9493394,
+      "osm_id": 5281908451,
+      "osm_type": "node",
+      "address": "West 145th Street",
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Amsterdam Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8252347,
+      "lon": -73.9478344,
+      "osm_id": 5281909145,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "West 145th Street & Amsterdam Avenue",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8252401,
+      "lon": -73.9473424,
+      "osm_id": 5281910371,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.8254491,
+      "lon": -73.9473118,
+      "osm_id": 5972713665,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Amsterdam Avenue & West 145th Street",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 40.825031,
+      "lon": -73.9479175,
+      "osm_id": 5972714809,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 11,
+    "removed_count": 1,
+    "model": "gemini-2.5-flash"
+  }
+}

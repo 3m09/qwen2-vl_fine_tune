@@ -1,0 +1,193 @@
+{
+  "image": "dataset/images/258.png",
+  "center_lat": 37.503135135135146,
+  "center_lon": 127.0234194891095,
+  "bbox": [
+    127.022,
+    37.50200900900902,
+    127.024838978219,
+    37.50426126126128
+  ],
+  "unique_categories": [
+    "shop.electronics",
+    "amenity.cafe",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.bank",
+    "amenity.bicycle_rental",
+    "shop.books"
+  ],
+  "poi_count_per_category": {
+    "shop.electronics": 1,
+    "amenity.cafe": 1,
+    "shop.convenience": 2,
+    "amenity.restaurant": 5,
+    "amenity.bank": 2,
+    "amenity.bicycle_rental": 1,
+    "shop.books": 1
+  },
+  "poi_count": 13,
+  "pois": [
+    {
+      "name": "\uad50\ubcf4\ubb38\uace0",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 37.5038251,
+      "lon": 127.0242646,
+      "osm_id": 1925407867,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ud558\ub098\uc740\ud589",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 37.5030601,
+      "lon": 127.0245278,
+      "osm_id": 2103891667,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc6b0\ub9ac\uc740\ud589",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 37.5039843,
+      "lon": 127.0241817,
+      "osm_id": 2103891676,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Come Here",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5033542,
+      "lon": 127.0246917,
+      "osm_id": 6695560585,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc138\ube10\uc77c\ub808\ube10",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 37.5036278,
+      "lon": 127.0226593,
+      "osm_id": 7599146792,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc138\ube10\uc77c\ub808\ube10",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 37.5020676,
+      "lon": 127.0246353,
+      "osm_id": 7599694221,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ub3c4\uc2a4\ud0c0\ucf54\uc2a4",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5027581,
+      "lon": 127.0243109,
+      "osm_id": 11889283085,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\uc2f8\ub2e4\uae40\ubc25",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5029501,
+      "lon": 127.0231709,
+      "osm_id": 12061668077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sony",
+      "category": [
+        "shop.electronics"
+      ],
+      "lat": 37.5024533,
+      "lon": 127.0236884,
+      "osm_id": 12061668078,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "artisan",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 37.5027399,
+      "lon": 127.0236805,
+      "osm_id": 12061684181,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ucc38\uc774\ub9db\uac10\uc790\ud0d5",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5030859,
+      "lon": 127.0231086,
+      "osm_id": 12061684194,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\ud558\ub8e8",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 37.5029896,
+      "lon": 127.0247717,
+      "osm_id": 12074469795,
+      "osm_type": "node",
+      "address": "\uac15\ub0a8\ub300\ub85c",
+      "road_geometry": null
+    },
+    {
+      "name": "\uc11c\ucd084\ub3d9\uc8fc\ubbfc\uc13c\ud130",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 37.5023193,
+      "lon": 127.0222702,
+      "osm_id": 12372983423,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 38,
+    "removed_count": 25,
+    "model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "image": "dataset/images/626.png",
+  "center_lat": 41.023648648648674,
+  "center_lon": 28.976419061064632,
+  "bbox": [
+    28.974926419149664,
+    41.02252252252255,
+    28.977911702979597,
+    41.024774774774805
+  ],
+  "unique_categories": [
+    "tourism.guest_house",
+    "shop.bakery",
+    "tourism.museum",
+    "shop.outdoor",
+    "shop.convenience",
+    "amenity.restaurant",
+    "amenity.fast_food",
+    "amenity.townhall",
+    "shop.hardware",
+    "shop.optician",
+    "amenity.bank",
+    "shop.art",
+    "amenity.cafe",
+    "shop.jewelry",
+    "shop.clothes",
+    "amenity.place_of_worship",
+    "shop.gift",
+    "shop.sports",
+    "amenity.parking",
+    "tourism.hotel"
+  ],
+  "poi_count_per_category": {
+    "tourism.guest_house": 1,
+    "shop.bakery": 1,
+    "tourism.museum": 1,
+    "shop.outdoor": 2,
+    "shop.convenience": 1,
+    "amenity.restaurant": 2,
+    "amenity.fast_food": 3,
+    "amenity.townhall": 1,
+    "shop.hardware": 1,
+    "shop.optician": 1,
+    "amenity.bank": 5,
+    "shop.art": 1,
+    "amenity.cafe": 2,
+    "shop.jewelry": 2,
+    "shop.clothes": 2,
+    "amenity.place_of_worship": 1,
+    "shop.gift": 1,
+    "shop.sports": 1,
+    "amenity.parking": 1,
+    "tourism.hotel": 2
+  },
+  "poi_count": 31,
+  "pois": [
+    {
+      "name": "QNB",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0230159,
+      "lon": 28.9754739,
+      "osm_id": 3132602397,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Halkbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0232911,
+      "lon": 28.9754444,
+      "osm_id": 3132605039,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "AlBaraka",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0234773,
+      "lon": 28.9754015,
+      "osm_id": 3132605296,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karak\u00f6y Palas",
+      "category": [
+        "amenity.townhall"
+      ],
+      "lat": 41.0231946,
+      "lon": 28.9755472,
+      "osm_id": 3132606948,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u0130spark",
+      "category": [
+        "amenity.parking"
+      ],
+      "lat": 41.0231681,
+      "lon": 28.9752387,
+      "osm_id": 3132623506,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sar\u0131han",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0244276,
+      "lon": 28.9766419,
+      "osm_id": 3702768863,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Karakoy Aparts",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0240157,
+      "lon": 28.9751425,
+      "osm_id": 3982597451,
+      "osm_type": "node",
+      "address": "Y\u00fcksekkald\u0131r\u0131m Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Denizbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0240479,
+      "lon": 28.9761258,
+      "osm_id": 4460577097,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Surp P\u0131rgi\u00e7 Kilisesi",
+      "category": [
+        "amenity.place_of_worship"
+      ],
+      "lat": 41.0245024,
+      "lon": 28.9760077,
+      "osm_id": 5599930452,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Hotel Ada",
+      "category": [
+        "tourism.hotel"
+      ],
+      "lat": 41.0229254,
+      "lon": 28.9764785,
+      "osm_id": 5834657986,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "5.11",
+      "category": [
+        "shop.sports"
+      ],
+      "lat": 41.0240274,
+      "lon": 28.9755612,
+      "osm_id": 5981297489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "galata ayikiari",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0246672,
+      "lon": 28.975016,
+      "osm_id": 6185578564,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sabanci Universitesi Kasa Galerisi",
+      "category": [
+        "shop.art",
+        "tourism.museum"
+      ],
+      "lat": 41.0238431,
+      "lon": 28.9750813,
+      "osm_id": 6185937305,
+      "osm_type": "node",
+      "address": "Bankalar Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Vip Uydu & Cover Shop",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 41.0241176,
+      "lon": 28.9750072,
+      "osm_id": 6185937315,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Outdoorplus",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 41.0238505,
+      "lon": 28.9773872,
+      "osm_id": 6388597758,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Megaron Kitap Kafe",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0236458,
+      "lon": 28.9778076,
+      "osm_id": 6850778489,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "YDS shop",
+      "category": [
+        "shop.outdoor"
+      ],
+      "lat": 41.0235329,
+      "lon": 28.9776661,
+      "osm_id": 7064480185,
+      "osm_type": "node",
+      "address": "Kemanke\u015f Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "Akbank",
+      "category": [
+        "amenity.bank"
+      ],
+      "lat": 41.0228114,
+      "lon": 28.9756807,
+      "osm_id": 9981973448,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Gala Kokore\u00e7",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0237263,
+      "lon": 28.9776641,
+      "osm_id": 9999751862,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "U\u011frak B\u00f6rek",
+      "category": [
+        "shop.bakery"
+      ],
+      "lat": 41.0243354,
+      "lon": 28.977485,
+      "osm_id": 10178410587,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Carrefour",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 41.024178,
+      "lon": 28.9775545,
+      "osm_id": 10178410588,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Al Nalburiye - Hardware Store",
+      "category": [
+        "shop.hardware"
+      ],
+      "lat": 41.0243312,
+      "lon": 28.9776884,
+      "osm_id": 11521798288,
+      "osm_type": "node",
+      "address": "Necatibey Caddesi",
+      "road_geometry": null
+    },
+    {
+      "name": "34 \u0130stanbul D\u00f6ner",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.0225843,
+      "lon": 28.9754472,
+      "osm_id": 12512830899,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "K\u0131lavuz D\u00f6ner",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 41.023051,
+      "lon": 28.9764095,
+      "osm_id": 12512834707,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Palazzo Suit",
+      "category": [
+        "tourism.guest_house"
+      ],
+      "lat": 41.0232156,
+      "lon": 28.9770094,
+      "osm_id": 12512834720,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mim Optik",
+      "category": [
+        "shop.optician"
+      ],
+      "lat": 41.0237252,
+      "lon": 28.9774567,
+      "osm_id": 12512834730,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Sokak Karak\u00f6y Restaurant",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 41.0239498,
+      "lon": 28.9775346,
+      "osm_id": 12512834737,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Lida",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0229167,
+      "lon": 28.9778823,
+      "osm_id": 12512834763,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Kafkas",
+      "category": [
+        "shop.jewelry"
+      ],
+      "lat": 41.0227864,
+      "lon": 28.9776609,
+      "osm_id": 12512834764,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Punto Uomo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 41.0226911,
+      "lon": 28.9775283,
+      "osm_id": 12512834765,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mikel Coffee",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 41.0236313,
+      "lon": 28.9770369,
+      "osm_id": 12512834785,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 76,
+    "removed_count": 45,
+    "model": "gemini-2.5-flash"
+  }
+}

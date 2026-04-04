@@ -1,41 +1,139 @@
 {
   "image": "dataset/images/23.png",
-  "center_lat": 40.80112612612612,
-  "center_lon": -73.9300815407804,
+  "center_lat": 51.50837837837838,
+  "center_lon": -0.09819071665958114,
   "bbox": [
-    -73.9315691675723,
-    40.8,
-    -73.9285939139885,
-    40.80225225225225
+    -0.1,
+    51.50725225225226,
+    -0.09638143331916225,
+    51.50950450450451
   ],
   "unique_categories": [
-    "highway.bus_stop"
+    "shop.books",
+    "amenity.bicycle_rental",
+    "shop.gift",
+    "amenity.cafe",
+    "shop.clothes",
+    "amenity.ferry_terminal",
+    "tourism.attraction",
+    "leisure.fitness_centre"
   ],
   "poi_count_per_category": {
-    "highway.bus_stop": 2
+    "shop.books": 1,
+    "amenity.bicycle_rental": 1,
+    "shop.gift": 1,
+    "amenity.cafe": 2,
+    "shop.clothes": 1,
+    "amenity.ferry_terminal": 1,
+    "tourism.attraction": 1,
+    "leisure.fitness_centre": 1
   },
-  "poi_count": 2,
+  "poi_count": 9,
   "pois": [
     {
-      "name": "1st Avenue & East 125th Street",
+      "name": "Bankside Pier",
       "category": [
-        "highway.bus_stop"
+        "amenity.ferry_terminal"
       ],
-      "lat": 40.8012781,
-      "lon": -73.9314077,
-      "osm_id": 5309511834,
+      "lat": 51.5087709,
+      "lon": -0.0967972,
+      "osm_id": 734575014,
       "osm_type": "node",
       "address": null,
       "road_geometry": null
     },
     {
-      "name": "East 125th Street & 1st Avenue",
+      "name": "New Globe Walk",
       "category": [
-        "highway.bus_stop"
+        "amenity.bicycle_rental"
       ],
-      "lat": 40.8017863,
-      "lon": -73.9315054,
-      "osm_id": 5309511835,
+      "lat": 51.5074778,
+      "lon": -0.0964056,
+      "osm_id": 835264541,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tate Edit",
+      "category": [
+        "shop.gift"
+      ],
+      "lat": 51.507839,
+      "lon": -0.0995974,
+      "osm_id": 4880465177,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Take Modern",
+      "category": [
+        "shop.books"
+      ],
+      "lat": 51.5072527,
+      "lon": -0.0999278,
+      "osm_id": 4880465178,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Globe Theatre Tour",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 51.508247,
+      "lon": -0.0975305,
+      "osm_id": 5713648051,
+      "osm_type": "node",
+      "address": "Bankside",
+      "road_geometry": null
+    },
+    {
+      "name": "Members Bar",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.5077062,
+      "lon": -0.0994332,
+      "osm_id": 9190363817,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "92\u00b0",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 51.507269,
+      "lon": -0.0971358,
+      "osm_id": 10699937105,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "The Font Climbing Centre",
+      "category": [
+        "leisure.fitness_centre"
+      ],
+      "lat": 51.5072859,
+      "lon": -0.0968234,
+      "osm_id": 12219079547,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Uniqlo",
+      "category": [
+        "shop.clothes"
+      ],
+      "lat": 51.5079098,
+      "lon": -0.0996875,
+      "osm_id": 12946061846,
       "osm_type": "node",
       "address": null,
       "road_geometry": null

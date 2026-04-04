@@ -1,51 +1,266 @@
 {
   "image": "dataset/images/61.png",
-  "center_lat": 40.80563063063063,
-  "center_lon": -73.95983135058512,
+  "center_lat": 48.85612612612612,
+  "center_lon": 2.3469806680233556,
   "bbox": [
-    -73.96131907834122,
-    40.80450450450451,
-    -73.958343622829,
-    40.80675675675676
+    2.345269144020019,
+    48.855,
+    2.348692192026692,
+    48.85725225225225
   ],
   "unique_categories": [
+    "amenity.cafe",
+    "highway.bus_stop",
+    "tourism.museum",
+    "railway.emergency_subway_entrance",
+    "shop.tailor",
     "amenity.restaurant",
-    "amenity.bar"
+    "amenity.bicycle_rental",
+    "railway.stop",
+    "shop.florist",
+    "amenity.clock",
+    "tourism.artwork",
+    "railway.station",
+    "tourism.attraction"
   ],
   "poi_count_per_category": {
+    "amenity.cafe": 1,
+    "highway.bus_stop": 5,
+    "tourism.museum": 1,
+    "railway.emergency_subway_entrance": 1,
+    "shop.tailor": 1,
     "amenity.restaurant": 1,
-    "amenity.bar": 1
+    "amenity.bicycle_rental": 1,
+    "railway.stop": 3,
+    "shop.florist": 1,
+    "amenity.clock": 1,
+    "tourism.artwork": 1,
+    "railway.station": 1,
+    "tourism.attraction": 1
   },
-  "poi_count": 2,
+  "poi_count": 18,
   "pois": [
     {
-      "name": "Arts & Crafts Beer Parlor",
+      "name": "Cit\u00e9",
       "category": [
-        "amenity.bar"
+        "railway.station"
       ],
-      "lat": 40.8065783,
-      "lon": -73.9609934,
-      "osm_id": 7004346066,
+      "lat": 48.8553245,
+      "lon": 2.347542,
+      "osm_id": 264514896,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
       "road_geometry": null
     },
     {
-      "name": "Haji's Famous Deli",
+      "name": "Le Mistral",
+      "category": [
+        "amenity.cafe"
+      ],
+      "lat": 48.8572104,
+      "lon": 2.3477493,
+      "osm_id": 727742461,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cit\u00e9 - Palais de Justice",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8556795,
+      "lon": 2.3461064,
+      "osm_id": 827320004,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cit\u00e9 - Palais de Justice",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8557337,
+      "lon": 2.3463397,
+      "osm_id": 831428176,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Conciergerie",
+      "category": [
+        "tourism.museum"
+      ],
+      "lat": 48.8559492,
+      "lon": 2.3460263,
+      "osm_id": 910390736,
+      "osm_type": "node",
+      "address": "Boulevard du Palais",
+      "road_geometry": null
+    },
+    {
+      "name": "March\u00e9 aux fleurs",
+      "category": [
+        "amenity.bicycle_rental"
+      ],
+      "lat": 48.8552293,
+      "lon": 2.3473369,
+      "osm_id": 1490016248,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ch\u00e2telet",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8568905,
+      "lon": 2.3480675,
+      "osm_id": 2079093343,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ch\u00e2telet - Quai de Gesvres",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8569096,
+      "lon": 2.347993,
+      "osm_id": 2079093349,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Tour de l'Horloge",
+      "category": [
+        "amenity.clock",
+        "tourism.attraction"
+      ],
+      "lat": 48.856193,
+      "lon": 2.3462327,
+      "osm_id": 2183872370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ch\u00e2telet - Quai de Gesvres",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 48.8567957,
+      "lon": 2.3483752,
+      "osm_id": 2211556509,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Buvette du Palais",
       "category": [
         "amenity.restaurant"
       ],
-      "lat": 40.8064186,
-      "lon": -73.961107,
-      "osm_id": 7004354698,
+      "lat": 48.8557667,
+      "lon": 2.3453212,
+      "osm_id": 2368927716,
       "osm_type": "node",
-      "address": "Amsterdam Avenue",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Ch\u00e2telet",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8568523,
+      "lon": 2.3483419,
+      "osm_id": 3164606077,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cit\u00e9",
+      "category": [
+        "railway.emergency_subway_entrance"
+      ],
+      "lat": 48.8556461,
+      "lon": 2.3474401,
+      "osm_id": 4126621094,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Maison de l'orchid\u00e9e",
+      "category": [
+        "shop.florist"
+      ],
+      "lat": 48.8556272,
+      "lon": 2.3480683,
+      "osm_id": 4678975531,
+      "osm_type": "node",
+      "address": "Place Louis L\u00e9pine",
+      "road_geometry": null
+    },
+    {
+      "name": "Michel de l'Hospital",
+      "category": [
+        "tourism.artwork"
+      ],
+      "lat": 48.8555252,
+      "lon": 2.3468372,
+      "osm_id": 7922895849,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Maison Bosc",
+      "category": [
+        "shop.tailor"
+      ],
+      "lat": 48.8550924,
+      "lon": 2.3459556,
+      "osm_id": 8395249575,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cit\u00e9",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8553219,
+      "lon": 2.3475596,
+      "osm_id": 9202890826,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Cit\u00e9",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 48.8553272,
+      "lon": 2.3475245,
+      "osm_id": 9202890827,
+      "osm_type": "node",
+      "address": null,
       "road_geometry": null
     }
   ],
   "refinement": {
-    "original_poi_count": 2,
-    "removed_count": 0,
+    "original_poi_count": 30,
+    "removed_count": 12,
     "model": "gemini-2.5-flash"
   }
 }

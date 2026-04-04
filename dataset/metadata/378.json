@@ -1,0 +1,70 @@
+{
+  "image": "dataset/images/378.png",
+  "center_lat": 1.310387387387388,
+  "center_lon": 103.84414914342842,
+  "bbox": [
+    103.84302272322675,
+    1.3092612612612617,
+    103.8452755636301,
+    1.311513513513514
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.yes"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 1,
+    "shop.yes": 3
+  },
+  "poi_count": 4,
+  "pois": [
+    {
+      "name": "After Makepeace Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 1.3112297,
+      "lon": 103.8430284,
+      "osm_id": 410462610,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Swee Lee",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 1.3110925,
+      "lon": 103.8434958,
+      "osm_id": 4736301667,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Leap Frogs",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 1.311095,
+      "lon": 103.8434178,
+      "osm_id": 4736456475,
+      "osm_type": "node",
+      "address": "Bukit Timah Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Ambiente",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 1.3110794,
+      "lon": 103.8435397,
+      "osm_id": 4736456476,
+      "osm_type": "node",
+      "address": "Bukit Timah Road",
+      "road_geometry": null
+    }
+  ]
+}

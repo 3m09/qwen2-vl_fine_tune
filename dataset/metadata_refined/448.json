@@ -1,0 +1,37 @@
+{
+  "image": "dataset/images/448.png",
+  "center_lat": 22.289639639639635,
+  "center_lon": 114.16851940354125,
+  "bbox": [
+    114.16730234589251,
+    22.288513513513507,
+    114.16973646119001,
+    22.29076576576576
+  ],
+  "unique_categories": [
+    "tourism.attraction"
+  ],
+  "poi_count_per_category": {
+    "tourism.attraction": 1
+  },
+  "poi_count": 1,
+  "pois": [
+    {
+      "name": "\u5e7b\u5f69\u8a60\u9999\u6c5f Symphony of Lights",
+      "category": [
+        "tourism.attraction"
+      ],
+      "lat": 22.290617,
+      "lon": 114.1676469,
+      "osm_id": 4443950090,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 1,
+    "removed_count": 0,
+    "model": "gemini-2.5-flash"
+  }
+}

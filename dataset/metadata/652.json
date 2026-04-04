@@ -1,0 +1,112 @@
+{
+  "image": "dataset/images/652.png",
+  "center_lat": 19.42837837837838,
+  "center_lon": -99.14380588649819,
+  "bbox": [
+    -99.145,
+    19.427252252252252,
+    -99.14261177299636,
+    19.429504504504504
+  ],
+  "unique_categories": [
+    "shop.yes",
+    "amenity.restaurant",
+    "shop.ticket",
+    "amenity.fast_food",
+    "shop.supermarket"
+  ],
+  "poi_count_per_category": {
+    "shop.yes": 1,
+    "amenity.restaurant": 3,
+    "shop.ticket": 1,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1
+  },
+  "poi_count": 7,
+  "pois": [
+    {
+      "name": "Chedraui",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 19.4283892,
+      "lon": -99.1432941,
+      "osm_id": 4325962889,
+      "osm_type": "node",
+      "address": "Buen Tono",
+      "road_geometry": null
+    },
+    {
+      "name": "Govinda Ram Restaurante Vegetariano",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4279967,
+      "lon": -99.1437995,
+      "osm_id": 4856648621,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Mi Fonda",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4294845,
+      "lon": -99.142735,
+      "osm_id": 7080805987,
+      "osm_type": "node",
+      "address": "Calle L\u00f3pez",
+      "road_geometry": null
+    },
+    {
+      "name": "Tampique\u00f1a",
+      "category": [
+        "shop.ticket"
+      ],
+      "lat": 19.4282526,
+      "lon": -99.1449097,
+      "osm_id": 8774020117,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "La Tapatia",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 19.4274357,
+      "lon": -99.142967,
+      "osm_id": 10173868946,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Taco de Oro",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 19.4290125,
+      "lon": -99.142733,
+      "osm_id": 11015130479,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Afiladur\u00eda Leura",
+      "category": [
+        "shop.yes"
+      ],
+      "lat": 19.4289292,
+      "lon": -99.1427501,
+      "osm_id": 11015180011,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

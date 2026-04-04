@@ -1,0 +1,46 @@
+{
+  "image": "dataset/images/933.png",
+  "center_lat": 40.81914414414416,
+  "center_lon": -73.96279923034628,
+  "bbox": [
+    -73.96428726113243,
+    40.81801801801804,
+    -73.96131119956013,
+    40.82027027027029
+  ],
+  "unique_categories": [
+    "amenity.restaurant",
+    "amenity.bicycle_parking"
+  ],
+  "poi_count_per_category": {
+    "amenity.restaurant": 1,
+    "amenity.bicycle_parking": 1
+  },
+  "poi_count": 2,
+  "pois": [
+    {
+      "name": "West Harlem Piers Park",
+      "category": [
+        "amenity.bicycle_parking"
+      ],
+      "lat": 40.8181055,
+      "lon": -73.9618999,
+      "osm_id": 764744757,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Baylander Steel Beach",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 40.8191878,
+      "lon": -73.9621644,
+      "osm_id": 9459121054,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ]
+}

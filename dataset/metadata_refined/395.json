@@ -1,0 +1,779 @@
+{
+  "image": "dataset/images/395.png",
+  "center_lat": 22.278378378378378,
+  "center_lon": 114.17338655592836,
+  "bbox": [
+    114.1721695962985,
+    22.27725225225225,
+    114.1746035155582,
+    22.2795045045045
+  ],
+  "unique_categories": [
+    "highway.bus_stop",
+    "shop.convenience",
+    "shop.doityourself",
+    "railway.subway_entrance",
+    "amenity.bar",
+    "amenity.restaurant",
+    "shop.hairdresser",
+    "railway.stop",
+    "amenity.fast_food",
+    "shop.supermarket",
+    "railway.station",
+    "shop.mall"
+  ],
+  "poi_count_per_category": {
+    "highway.bus_stop": 31,
+    "shop.convenience": 4,
+    "shop.doityourself": 3,
+    "railway.subway_entrance": 6,
+    "amenity.bar": 2,
+    "amenity.restaurant": 8,
+    "shop.hairdresser": 1,
+    "railway.stop": 2,
+    "amenity.fast_food": 1,
+    "shop.supermarket": 1,
+    "railway.station": 1,
+    "shop.mall": 1
+  },
+  "poi_count": 61,
+  "pois": [
+    {
+      "name": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.277386,
+      "lon": 114.1732833,
+      "osm_id": 253288941,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2774123,
+      "lon": 114.1726664,
+      "osm_id": 288361302,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u99f1\u514b\u9053 Lockhart Road",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.278067,
+      "lon": 114.1728885,
+      "osm_id": 288361303,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4\u96fb\u8166\u57ce Wanchai Computer Center",
+      "category": [
+        "shop.mall"
+      ],
+      "lat": 22.2772889,
+      "lon": 114.1730116,
+      "osm_id": 297188947,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.27777,
+      "lon": 114.17314,
+      "osm_id": 1298359470,
+      "osm_type": "node",
+      "address": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Pret A Manger",
+      "category": [
+        "amenity.fast_food"
+      ],
+      "lat": 22.2790039,
+      "lon": 114.1727779,
+      "osm_id": 1619220059,
+      "osm_type": "node",
+      "address": "\u544a\u58eb\u6253\u9053 Gloucester Road",
+      "road_geometry": null
+    },
+    {
+      "name": "7-Eleven",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2783524,
+      "lon": 114.1733356,
+      "osm_id": 1945327001,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2772605,
+      "lon": 114.1726851,
+      "osm_id": 2556736106,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u99f1\u514b\u9053 Lockhart Road",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2780881,
+      "lon": 114.1732159,
+      "osm_id": 2556760113,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8ed2\u5c3c\u8a69\u9053 Hennessy Road",
+      "category": [
+        "railway.subway_entrance"
+      ],
+      "lat": 22.2777689,
+      "lon": 114.1732529,
+      "osm_id": 2556760114,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4 Wan Chai",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 22.2775557,
+      "lon": 114.1729643,
+      "osm_id": 2564544993,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4 Wan Chai",
+      "category": [
+        "railway.stop"
+      ],
+      "lat": 22.2775557,
+      "lon": 114.1729643,
+      "osm_id": 2564545153,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775637,
+      "lon": 114.1737847,
+      "osm_id": 2579834364,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775698,
+      "lon": 114.173844,
+      "osm_id": 2579834365,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775744,
+      "lon": 114.1738896,
+      "osm_id": 2579834366,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277585,
+      "lon": 114.1739933,
+      "osm_id": 2579834367,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277593,
+      "lon": 114.1740713,
+      "osm_id": 2579834368,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775977,
+      "lon": 114.1741174,
+      "osm_id": 2579834369,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2776045,
+      "lon": 114.174184,
+      "osm_id": 2579834370,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777735,
+      "lon": 114.1736397,
+      "osm_id": 2579834371,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777787,
+      "lon": 114.1736897,
+      "osm_id": 2579834372,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777871,
+      "lon": 114.1737697,
+      "osm_id": 2579834373,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777996,
+      "lon": 114.1738888,
+      "osm_id": 2579834374,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2778143,
+      "lon": 114.1740293,
+      "osm_id": 2579834375,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2778259,
+      "lon": 114.17414,
+      "osm_id": 2579834376,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277673,
+      "lon": 114.17268,
+      "osm_id": 2579834380,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2776856,
+      "lon": 114.1728001,
+      "osm_id": 2579834381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2776981,
+      "lon": 114.1729201,
+      "osm_id": 2579834382,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777055,
+      "lon": 114.1729901,
+      "osm_id": 2579834383,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277718,
+      "lon": 114.1731102,
+      "osm_id": 2579834384,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777243,
+      "lon": 114.1731702,
+      "osm_id": 2579834385,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2791174,
+      "lon": 114.173365,
+      "osm_id": 2579834386,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2791187,
+      "lon": 114.173377,
+      "osm_id": 2579834387,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774034,
+      "lon": 114.1722194,
+      "osm_id": 2579834391,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u67ef\u5e03\u9023\u9053 O'Brien Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.27912,
+      "lon": 114.17339,
+      "osm_id": 2766165910,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u516d\u570b\u4e2d\u5fc3 Luk Kwok Centre",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.278998,
+      "lon": 114.17224,
+      "osm_id": 3226540356,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Coyote",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.278,
+      "lon": 114.172438,
+      "osm_id": 4239105199,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u838e\u5df4\u99ac\u4f86\u897f\u4e9e\u9910\u5ef3 Sabah Malaysian Cuisine",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.278494,
+      "lon": 114.172212,
+      "osm_id": 4265608089,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Churchill's",
+      "category": [
+        "amenity.bar"
+      ],
+      "lat": 22.2780004,
+      "lon": 114.1721999,
+      "osm_id": 4402952290,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775623,
+      "lon": 114.173771,
+      "osm_id": 4457448598,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775987,
+      "lon": 114.1741271,
+      "osm_id": 4457491381,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.278057,
+      "lon": 114.173062,
+      "osm_id": 4858417131,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Glamour",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 22.2783688,
+      "lon": 114.1736937,
+      "osm_id": 4858455489,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "Get",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 22.2783931,
+      "lon": 114.1738989,
+      "osm_id": 4858455491,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "H2O Pro",
+      "category": [
+        "shop.doityourself"
+      ],
+      "lat": 22.2784526,
+      "lon": 114.1745304,
+      "osm_id": 4858594363,
+      "osm_type": "node",
+      "address": "\u99f1\u514b\u9053 Lockhart Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u7063\u4ed4 Wan Chai",
+      "category": [
+        "railway.station"
+      ],
+      "lat": 22.2775843,
+      "lon": 114.1728604,
+      "osm_id": 5444483688,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "Noon",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.278309,
+      "lon": 114.172989,
+      "osm_id": 6060308309,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u559c\u559c",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2779145,
+      "lon": 114.1744241,
+      "osm_id": 6438697136,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u982d\u982d\u662f\u9053 Hair\u2019s Way",
+      "category": [
+        "shop.hairdresser"
+      ],
+      "lat": 22.2775721,
+      "lon": 114.1743362,
+      "osm_id": 6438697140,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u98df\u7269\u7ad9 Food Station",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2785712,
+      "lon": 114.1728251,
+      "osm_id": 6713630033,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u4e94\u661f\u9910\u5ef3",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2785258,
+      "lon": 114.1724492,
+      "osm_id": 6713630039,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u7121\u6975",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2785554,
+      "lon": 114.1726634,
+      "osm_id": 6713630043,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83ef\u6f64\u842c\u5bb6 Vanguard",
+      "category": [
+        "shop.supermarket"
+      ],
+      "lat": 22.2787285,
+      "lon": 114.1727786,
+      "osm_id": 6713630045,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "OK\u4fbf\u5229\u5e97 Circle K",
+      "category": [
+        "shop.convenience"
+      ],
+      "lat": 22.2773641,
+      "lon": 114.173454,
+      "osm_id": 6725669284,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u96d9\u559c\u71d2\u81d8\u98ef\u5e97",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2786367,
+      "lon": 114.1734857,
+      "osm_id": 7291554278,
+      "osm_type": "node",
+      "address": "\u8b1d\u6590\u9053 Jaffe Road",
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2775586,
+      "lon": 114.1737345,
+      "osm_id": 7686317276,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda TamJai Yunnan Mixian",
+      "category": [
+        "amenity.restaurant"
+      ],
+      "lat": 22.2774112,
+      "lon": 114.1731809,
+      "osm_id": 9938957406,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774172,
+      "lon": 114.1723499,
+      "osm_id": 12696474830,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u4fee\u9813\u7403\u5834 Southorn Playground",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2774325,
+      "lon": 114.1724939,
+      "osm_id": 12696474832,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.2777718,
+      "lon": 114.1736231,
+      "osm_id": 12740842354,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    },
+    {
+      "name": "\u83f2\u6797\u660e\u9053 Fleming Road",
+      "category": [
+        "highway.bus_stop"
+      ],
+      "lat": 22.277553,
+      "lon": 114.1736802,
+      "osm_id": 12740842355,
+      "osm_type": "node",
+      "address": null,
+      "road_geometry": null
+    }
+  ],
+  "refinement": {
+    "original_poi_count": 162,
+    "removed_count": 101,
+    "model": "gemini-2.5-flash"
+  }
+}
