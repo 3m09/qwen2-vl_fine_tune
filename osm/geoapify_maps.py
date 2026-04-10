@@ -1,6 +1,9 @@
 import requests
+from dotenv import load_dotenv
 
-API_KEY = "REMOVED_API_KEY"
+load_dotenv()
+
+API_KEY = os.getenv("GEOAPIFY_API_KEY")
 STATIC_MAP_URL = "https://maps.geoapify.com/v1/staticmap"
 
 

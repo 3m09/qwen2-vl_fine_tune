@@ -5,6 +5,11 @@ import json
 import os
 import time
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # ── Config ────────────────────────────────────────────────────────────────────
 IMAGES_DIR   = "dataset/images"
@@ -14,7 +19,7 @@ MAX_RETRIES  = 3
 SLEEP_BETWEEN = 1.0   # seconds between API calls (rate limit safety)
 # ─────────────────────────────────────────────────────────────────────────────
 
-client = genai.Client(api_key="REMOVED_FOR_PRIVACY")
+client = genai.Client(api_key=GEMINI_API_KEY)
 MODEL = "gemini-2.5-flash"
 
 

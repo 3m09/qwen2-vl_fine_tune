@@ -1,7 +1,10 @@
 import requests
 import time
-""
-API_KEY = "REMOVED_API_KEY"
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv("GEOAPIFY_API_KEY")
 PLACES_URL = "https://api.geoapify.com/v2/places"
 DETAILS_URL = "https://api.geoapify.com/v2/place-details"
 
