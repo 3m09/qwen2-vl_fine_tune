@@ -14,7 +14,7 @@ MAX_RETRIES  = 3
 SLEEP_BETWEEN = 1.0   # seconds between API calls (rate limit safety)
 # ─────────────────────────────────────────────────────────────────────────────
 
-client = genai.Client(api_key="REMOVED_API_KEY")
+client = genai.Client(api_key="REMOVED_FOR_PRIVACY")
 MODEL = "gemini-2.5-flash"
 
 
