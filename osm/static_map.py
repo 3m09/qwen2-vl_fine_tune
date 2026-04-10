@@ -1,30 +1,3 @@
-# import requests, time, os
-# from utils.utils import latlon_to_tile
-
-# TILE_URL = "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=vJEdOzBe3hYvvFnvdRgv"
-# HEADERS = {
-#     "User-Agent": "AcademicResearch-Qwen2VL/1.0 (2005012@ugrad.cse.buet.ac.bd)"
-# }
-
-# def download_tile(lat, lon, zoom=17):
-#     x, y = latlon_to_tile(lat, lon, zoom)
-#     url = TILE_URL.format(z=zoom, x=x, y=y)
-
-#     os.makedirs(f"tiles/z{zoom}", exist_ok=True)
-#     path = f"tiles/z{zoom}/{x}_{y}.png"
-
-#     if os.path.exists(path):
-#         return path
-
-#     r = requests.get(url, headers=HEADERS, timeout=30)
-#     r.raise_for_status()
-
-#     with open(path, "wb") as f:
-#         f.write(r.content)
-
-#     time.sleep(0.2)  # REQUIRED: rate limiting
-#     return path
-
 import requests
 import time
 import os

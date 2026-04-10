@@ -7,7 +7,7 @@ STATIC_MAP_URL = "https://maps.geoapify.com/v1/staticmap"
 def download_static_map(lon_min, lat_min, lon_max, lat_max, output_file):
     # Geoapify 'rect' format: min_lon,min_lat,max_lon,max_lat
     params = {
-        "style": "osm-bright", # You can use 'osm-bright', 'klokantech-basic', etc.
+        "style": "osm-carto", # You can use 'osm-bright', 'klokantech-basic', etc.
         "area": f"rect:{lon_min},{lat_min},{lon_max},{lat_max}",
         "zoom" : 19,
         "scaleFactor": 2,    

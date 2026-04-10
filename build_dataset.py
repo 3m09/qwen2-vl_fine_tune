@@ -6,8 +6,6 @@ from osm.overpass_query import fetch_pois_overpass
 from osm.static_map import download_and_stitch_bbox
 from osm.geoapify import fetch_pois_in_bbox
 from osm.geoapify_maps import download_static_map
-from osm.google_poi_fetcher import fetch_pois
-from osm.gmap_downloader import download_map
 from pathlib import Path
 
 def build_dataset(limit=1000):
